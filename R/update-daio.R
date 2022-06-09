@@ -301,3 +301,4 @@ daio %>%
   group_walk(~ write_parquet(.x, stringr::str_c("daio_", .y$year, ".parquet")))
 
 
+git_commit_all(paste0("Data updated till ", til, " (excluded)."))
