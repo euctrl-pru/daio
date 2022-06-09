@@ -302,3 +302,4 @@ daio %>%
 
 
 git_commit_all(paste0("Data updated till ", til, " (excluded)."))
+git_push()
