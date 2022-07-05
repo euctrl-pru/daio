@@ -60,4 +60,7 @@ dd <- overflight_pct_variation_last_week %>%
           variation = 0) %>%
   # ...and fill it with variation value for Spain
   mutate(across(c(variation), ~ if_else(id == "GC", .[id == "LE"], .))) %>%
-  write_csv("overflight_fir.csv")
+  write_csv(
+    str_glue("overflight_fir_{wef}-{til}.csv",
+             wef = format(wef_latest, "%Y%m%d"),
+             til = format(til_latest - days(1), "%Y%m%d")))
