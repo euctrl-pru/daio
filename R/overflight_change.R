@@ -38,7 +38,7 @@ overflight_pct_variation_last_week <- daio %>%
   filter((wef_latest <= entry_date & entry_date < til_latest) |
            (wef_reference  <= entry_date & entry_date < til_reference)) %>%
   mutate(year = year(entry_date)) %>% 
-  group_by(country_name, year) %>%
+  group_by(country_icao_code, country_name, year) %>%
   summarize(average7d = sum(flt_o) / 7) %>% 
   arrange(country_name, desc(year)) %>% 
   ungroup() %>% 
@@ -52,9 +52,12 @@ dd <- overflight_pct_variation_last_week %>%
   mutate(
     state = country_name,
     country_name = if_else(country_name == "Serbia & Montenegro", "Serbia", country_name),
-    country_name = if_else(country_name == "Belgium and Luxembourg", "Belgium", country_name),
-    country_name = if_else(country_name == "Türkiye", "Turkey", country_name),
-    iso2a = countrycode(country_name, origin = "country.name", destination = "icao")) %>%
-  left_join(member_states) %>%
-  select(id = icao, state, variation = pct_rounded) %>%
+    country_name = if_else(country_name == "Belgium and Luxembourg", "Belgium", country_name)) %>%
+  select(id = country_icao_code, state, variation = pct_rounded) %>%
+  # add a row for Canary Islands...
+  add_row(id = "GC",
+          state = "Spain",
+          variation = 0) %>%
+  # ...and fill it with variation value for Spain
+  mutate(across(c(variation), ~ if_else(id == "GC", .[id == "LE"], .))) %>%
   write_csv("overflight_fir.csv")
