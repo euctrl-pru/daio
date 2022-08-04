@@ -18,7 +18,9 @@ con <- fr24gu::db_connection(schema = "PRU_DEV")
 daio <- extract_daio(con, wef, til)
 
 daio_plus <- daio %>% 
-  mutate(year = year(entry_date))
+  mutate(year = year(entry_date)) %>%
+  # fix Türkiye
+  mutate(country_name = if_else(country_icao_code == "LT", "Türkiye", country_name))
   
 
 daio_plus %>% 
