@@ -16,3 +16,7 @@ The columns are as follows:
 * `flt_a`: the number of arrivals
 * `flt_da`: the sume of arrivals and departures
 * `flt_i_excl_c`: the sum of internal flights exluding the circular ones
+
+
+**NOTE**: Canary Islands are included in the count for Spain. For a map using
+this data see https://observablehq.com/@espinielli/overflight-variation
