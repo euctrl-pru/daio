@@ -48,11 +48,12 @@ extract_daio <- function(con, wef, til) {
     WHERE
       TO_DATE(?WEF, 'YYYY-MM-DD') <= ENTRY_DATE AND ENTRY_DATE < TO_DATE(?TIL, 'YYYY-MM-DD')
   "
+
   
-  # withr::local_envvar(.new = c("TZ" = "UDT", "ORA_SDTZ" = "UTC"))
-  withr::local_envvar(.new = c("TZ" = "UTC",
-                               "ORA_SDTZ" = "UTC",
-                               "NLS_LANG"="AMERICAN_AMERICA.UTF8"))
+  withr::local_envvar(c("TZ" = "UTC",
+                        "ORA_SDTZ" = "UTC",
+                        "NLS_LANG"=".AL32UTF8"))
+  
   query <- DBI::sqlInterpolate(
     con, query,
     WEF = format(wef, "%Y-%m-%d"),

@@ -2,6 +2,7 @@
 # to extract the latest DAIO and commit the relevant files to
 # the origin GitHub repository
 library(dplyr)
+library(lubridate)
 library(purrr)
 library(arrow)
 library(readr)
@@ -9,18 +10,24 @@ library(gert)
 
 source(here::here("R", "extract_daio.R"))
 
-
 wef <- "2022-01-01" %>% as_date()
 til <- today()
+
+Sys.setenv(
+  TZ       = "UTC",
+  ORA_SDTZ = "UTC",
+  NLS_LANG =".AL32UTF8"
+)
+Sys.setlocale(locale = "en_US.utf8")
 
 con <- fr24gu::db_connection(schema = "PRU_DEV")
 
 daio <- extract_daio(con, wef, til)
 
 daio_plus <- daio %>% 
-  mutate(year = year(entry_date)) %>%
-  # fix Türkiye
-  mutate(country_name = if_else(country_icao_code == "LT", "Türkiye", country_name))
+  # # fix Türkiye
+  # mutate(country_name = if_else(country_icao_code == "LT", "Türkiye", country_name)) %>%
+  mutate(year = year(entry_date))
   
 
 daio_plus %>% 
