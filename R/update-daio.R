@@ -6,7 +6,7 @@ library(lubridate)
 library(purrr)
 library(arrow)
 library(readr)
-library(gert)
+# library(gert)
 
 source(here::here("R", "extract_daio.R"))
 
@@ -41,5 +41,5 @@ daio_plus %>%
   group_walk(~ write_parquet(.x, stringr::str_c("daio_", .y$year, ".parquet")))
 
 
-git_commit_all(paste0("Data updated till ", til, " (excluded)."))
-git_push()
+# git_commit_all(paste0("Data updated till ", til, " (excluded)."))
+# git_push()
