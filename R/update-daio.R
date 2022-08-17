@@ -10,7 +10,7 @@ library(readr)
 
 source(here::here("R", "extract_daio.R"))
 
-wef <- "2022-01-01" %>% as_date()
+wef <- "2019-01-01" %>% as_date()
 til <- today()
 
 Sys.setenv(
@@ -33,12 +33,13 @@ daio_plus <- daio %>%
 daio_plus %>% 
   group_by(year) %>% 
   group_walk(~ write_csv(.x,
-                         stringr::str_c("daio_", .y$year, ".csv"),
+                         here::here(stringr::str_c("daio_", .y$year, ".csv")),
                          na = ""))
 
 daio_plus %>% 
   group_by(year) %>% 
-  group_walk(~ write_parquet(.x, stringr::str_c("daio_", .y$year, ".parquet")))
+  group_walk(~ write_parquet(.x,
+                             here::here(stringr::str_c("daio_", .y$year, ".parquet"))))
 
 
 # git_commit_all(paste0("Data updated till ", til, " (excluded)."))
