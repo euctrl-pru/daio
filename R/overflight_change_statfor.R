@@ -22,7 +22,14 @@ ms_codes <- eurocontrol::member_state %>%
   sort() %>%
   unique()
 
-daio_tz <- read_xlsx("data/overflight_tz_20230621-20230627_vs_20190626-20190702.xlsx", sheet = "Sheet1")
+
+daio_tz <- read_xlsx("data/Actuals_Jul_Aug19-23.xlsx", sheet = "data") |> 
+  filter(DAIO == "TO") |> 
+  mutate(Day = if_else(Yr == 2019, ymd("2019-07-01"), ymd("2023-08-31"))) |> 
+  rename(Mvts = mvts)
+
+
+# daio_tz <- read_xlsx("data/overflight_tz_20230621-20230627_vs_20190626-20190702.xlsx", sheet = "Sheet1")
 daio <- daio_tz |> 
   rename(entry_date = Day,
          country_name = TZ,
@@ -40,10 +47,12 @@ daio <- daio_tz |>
   select(entry_date, country_icao_code = icao, country_name, flt_o)
 
 til_latest <- daio %>% pull(entry_date) %>% unique() %>% max() %>% add(ddays(1))
-wef_latest <- til_latest - days(7)
+# wef_latest <- til_latest - days(7)
+wef_latest <- til_latest - months(2)
 
 wef_reference <- daio %>% pull(entry_date) %>% unique() %>% min()
-til_reference <- wef_reference + days(7)
+# til_reference <- wef_reference + days(7)
+til_reference <- wef_reference + months(2)
 
 overflight_pct_variation_last_week <- daio %>% 
   filter((wef_latest <= entry_date & entry_date < til_latest) |
