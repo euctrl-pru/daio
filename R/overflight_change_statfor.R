@@ -54,12 +54,14 @@ wef_reference <- daio %>% pull(entry_date) %>% unique() %>% min()
 # til_reference <- wef_reference + days(7)
 til_reference <- wef_reference + months(2)
 
+days_interval <- (til_reference - wef_reference) |> as.numeric()
+
 overflight_pct_variation_last_week <- daio %>% 
   filter((wef_latest <= entry_date & entry_date < til_latest) |
            (wef_reference  <= entry_date & entry_date < til_reference)) %>%
   mutate(year = year(entry_date)) %>% 
   group_by(country_icao_code, country_name, year) %>%
-  summarize(average7d = sum(flt_o) / 7) %>% 
+  summarize(average7d = sum(flt_o) / days_interval) %>% 
   arrange(country_name, desc(year)) %>% 
   ungroup() %>% 
   pivot_wider(names_from = year, values_from = average7d) %>% 
