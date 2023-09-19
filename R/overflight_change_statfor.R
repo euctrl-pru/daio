@@ -22,47 +22,39 @@ ms_codes <- eurocontrol::member_state %>%
   sort() %>%
   unique()
 
-
-daio_tz <- read_xlsx("data/Actuals_Jul_Aug19-23.xlsx", sheet = "data") |> 
-  filter(DAIO == "TO") |> 
-  mutate(Day = if_else(Yr == 2019, ymd("2019-07-01"), ymd("2023-08-31"))) |> 
-  rename(Mvts = mvts)
-
-
-# daio_tz <- read_xlsx("data/overflight_tz_20230621-20230627_vs_20190626-20190702.xlsx", sheet = "Sheet1")
-daio <- daio_tz |> 
-  rename(entry_date = Day,
-         country_name = TZ,
-         flt_o = Mvts) |> 
-  mutate(
-    entry_date = as_date(entry_date),
-    country_name = if_else(country_name == "UK", "United Kingdom", country_name),
-    country_name = if_else(country_name == "Lisbon FIR", "Portugal", country_name),
-    country_name = if_else(country_name == "Belgium/Luxembourg", "Belgium", country_name),
-    country_name = if_else(country_name == "Serbia/Montenegro", "Serbia", country_name),
-    NULL) |> 
-  left_join(eurocontrol::member_state, by = c("country_name" = "name")) |> 
-  mutate(icao = if_else(country_name == "Spain-Canaries", "GC", icao)) |> 
-  filter(icao %in% ms_codes) |> 
-  select(entry_date, country_icao_code = icao, country_name, flt_o)
-
-til_latest <- daio %>% pull(entry_date) %>% unique() %>% max() %>% add(ddays(1))
-# wef_latest <- til_latest - days(7)
+til_latest <- ymd("2023-09-01") # excluded
 wef_latest <- til_latest - months(2)
 
-wef_reference <- daio %>% pull(entry_date) %>% unique() %>% min()
-# til_reference <- wef_reference + days(7)
-til_reference <- wef_reference + months(2)
+wef_reference <- wef_latest |> `year<-`(2019)
+til_reference <- til_latest |> `year<-`(2019)
 
 days_interval <- (til_reference - wef_reference) |> as.numeric()
 
+
+daio_tz <- extract_daio_statfor()
+daio <- daio_tz |> 
+  filter((wef_reference <= entry_date & entry_date < til_reference) | 
+           (wef_latest <= entry_date & entry_date < til_latest)) |> 
+  filter(daio == "O") |> 
+  mutate(
+    tz_name = if_else(tz_name == "Belgium/Luxembourg", "Belgium",        tz_name),
+    tz_name = if_else(str_detect(tz_name, "Norway"),   "Norway",         tz_name),
+    tz_name = if_else(str_detect(tz_name, "Portugal"), "Portugal",       tz_name),
+    tz_name = if_else(tz_name == "Serbia/Montenegro",  "Serbia",         tz_name),
+    tz_name = if_else(str_detect(tz_name, "UK"),       "United Kingdom", tz_name),
+    NULL) |> 
+  left_join(eurocontrol::member_state, by = c("tz_name" = "name")) |> 
+  mutate(icao = if_else(tz_name == "Spain-Canaries", "GC", icao)) |> 
+  filter(icao %in% ms_codes) |> 
+  select(year, entry_date, country_icao_code = icao, tz_name, flt_o = flt)
+
+
+
+# specific for Observable map
 overflight_pct_variation_last_week <- daio %>% 
-  filter((wef_latest <= entry_date & entry_date < til_latest) |
-           (wef_reference  <= entry_date & entry_date < til_reference)) %>%
-  mutate(year = year(entry_date)) %>% 
-  group_by(country_icao_code, country_name, year) %>%
-  summarize(average7d = sum(flt_o) / days_interval) %>% 
-  arrange(country_name, desc(year)) %>% 
+  group_by(country_icao_code, tz_name, year) %>%
+  summarize(average = sum(flt_o) / days_interval) %>% 
+  arrange(tz_name, desc(year)) %>% 
   ungroup() %>% 
   pivot_wider(names_from = year, values_from = average7d) %>% 
   mutate(pct = 100* (`2023` / `2019` - 1),
@@ -72,9 +64,9 @@ overflight_pct_variation_last_week <- daio %>%
 
 dd <- overflight_pct_variation_last_week %>%
   mutate(
-    state = country_name,
-    country_name = if_else(country_name == "Serbia & Montenegro", "Serbia", country_name),
-    country_name = if_else(country_name == "Belgium and Luxembourg", "Belgium", country_name)) %>%
+    state = tz_name,
+    tz_name = if_else(tz_name == "Serbia & Montenegro", "Serbia", tz_name),
+    tz_name = if_else(tz_name == "Belgium and Luxembourg", "Belgium", tz_name)) %>%
   select(id = country_icao_code, state, variation = pct_rounded) %>%
   # # add a row for Canary Islands...
   # add_row(id = "GC",

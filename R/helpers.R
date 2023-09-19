@@ -67,3 +67,82 @@ extract_daio <- function(con, wef, til) {
     arrange(country_name, entry_date)
   d
 }
+
+
+extract_daio_statfor <- function() {
+  query <- "
+  WITH STATFOR_DD AS (
+    SELECT
+      EXTRACT (YEAR FROM F.ENTRY_TIME)  AS YEAR, 
+      EXTRACT (MONTH FROM F.ENTRY_TIME) AS MONTH,
+      F.ENTRY_TIME                      AS ENTRY_DATE, 
+      TO_CHAR(F.ENTRY_TIME, 'MMDD')     AS MMDD,
+      MAX(ENTRY_TIME) OVER ()           AS MAX_DATE,
+      
+      --  EXTRACT (MONTH FROM F.ENTRY_TIME) MONTH_NUM,
+      --  TO_CHAR (F.ENTRY_TIME, 'MON')     AS MONTH_MON,
+      --  TO_CHAR (F.ENTRY_TIME, 'YYYYMM')  AS YEAR_MONTH,
+      --  ENTRY_TIME,
+    
+      C.TZ_NAME,
+      CASE
+        WHEN TR_NAME LIKE 'ECAC%' THEN 'ECAC' 
+        WHEN TR_NAME = 'TR-SPAIN' THEN 'ECAC'
+        WHEN TR_NAME = 'TR-ECAC'  THEN 'ECAC'
+      ELSE TR_NAME END                    AS TZ_REGION,
+      CASE
+        WHEN TZ_CLASS_CODE = 'SPAIN' THEN 'TZ'
+        ELSE TZ_CLASS_CODE END            AS TZ_CLASS_TYPE,    
+      DAIO,
+      TF_TZ 
+    FROM
+      SWH_DM.DM_TZ_FIR_D2 F
+    INNER JOIN
+      SWH_FCT.DIMCL_TZ C ON (C.SK_T2TR_ID = F.SK_DIMCL_TZ_ID)
+    WHERE 
+    (TO_DATE('01-01-2019','DD-MM-YYYY') <= F.ENTRY_TIME )
+    AND (C.TZ_CLASS_CODE IN ('TZ') OR TZ_NAME IN ('SPAIN','ECAC'))
+  )       
+  SELECT 
+    YEAR,
+    MONTH,
+    ENTRY_DATE,
+    TZ_NAME,
+    TZ_REGION,
+    DAIO,
+    SUM(TF_TZ) AS FLT,MMDD,
+    CASE
+      WHEN TO_NUMBER(TO_CHAR(ENTRY_DATE, 'MMDD')) <= TO_NUMBER(TO_CHAR(MAX_DATE - 1, 'MMDD'))
+      THEN 'Y'
+      ELSE '-' END AS FILTER_YTD 
+  FROM
+    STATFOR_DD
+  WHERE
+    ENTRY_DATE < MAX_DATE 
+  GROUP BY
+    YEAR,
+    MONTH,
+    TZ_NAME,
+    DAIO,
+    ENTRY_DATE,
+    TZ_REGION,
+    MMDD,
+    CASE 
+      WHEN TO_NUMBER(TO_CHAR(ENTRY_DATE, 'MMDD')) <= TO_NUMBER(TO_CHAR(MAX_DATE - 1, 'MMDD'))
+      THEN 'Y'
+      ELSE '-'
+      END --,
+      -- MAX_DATE
+  ORDER BY
+    ENTRY_DATE,
+    TZ_NAME,
+    DAIO"
+ 
+  con <- eurocontrol::db_connection(schema = "PRU_DEV")
+  
+  daio_statfor <- tbl(con, sql(query)) |>
+    collect() |> 
+    janitor::clean_names()  |> 
+    mutate(entry_date = lubridate::as_date(entry_date))
+  daio_statfor
+}
