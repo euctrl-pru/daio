@@ -1094,736 +1094,736 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2021-12-29,LO,Austria,2288,1698,22,3,590,288,280,568,19
 2021-12-30,LO,Austria,2267,1695,19,2,572,278,275,553,17
 2021-12-31,LO,Austria,2035,1589,16,3,446,209,221,430,13
-2021-01-01,EB,Belgium and Luxembourg,695,398,1,0,297,144,152,296,1
-2021-01-02,EB,Belgium and Luxembourg,1143,726,5,1,417,207,205,412,4
-2021-01-03,EB,Belgium and Luxembourg,1331,779,6,0,552,271,275,546,6
-2021-01-04,EB,Belgium and Luxembourg,1150,637,7,4,513,241,265,506,3
-2021-01-05,EB,Belgium and Luxembourg,1018,566,6,2,452,229,217,446,4
-2021-01-06,EB,Belgium and Luxembourg,1051,588,5,2,463,235,223,458,3
-2021-01-07,EB,Belgium and Luxembourg,1064,567,1,0,497,242,254,496,1
-2021-01-08,EB,Belgium and Luxembourg,1155,640,5,1,515,264,246,510,4
-2021-01-09,EB,Belgium and Luxembourg,1007,617,6,3,390,201,183,384,3
-2021-01-10,EB,Belgium and Luxembourg,1116,657,1,0,459,230,228,458,1
-2021-01-11,EB,Belgium and Luxembourg,932,531,3,1,401,178,220,398,2
-2021-01-12,EB,Belgium and Luxembourg,814,428,5,2,386,198,183,381,3
-2021-01-13,EB,Belgium and Luxembourg,911,496,3,2,415,206,206,412,1
-2021-01-14,EB,Belgium and Luxembourg,963,518,9,4,445,213,223,436,5
-2021-01-15,EB,Belgium and Luxembourg,1004,515,12,7,489,249,228,477,5
-2021-01-16,EB,Belgium and Luxembourg,832,480,2,1,352,184,166,350,1
-2021-01-17,EB,Belgium and Luxembourg,905,537,7,3,368,178,183,361,4
-2021-01-18,EB,Belgium and Luxembourg,936,537,8,3,399,183,208,391,5
-2021-01-19,EB,Belgium and Luxembourg,765,376,7,2,389,200,182,382,5
-2021-01-20,EB,Belgium and Luxembourg,807,476,5,2,331,163,163,326,3
-2021-01-21,EB,Belgium and Luxembourg,898,502,9,5,396,185,202,387,4
-2021-01-22,EB,Belgium and Luxembourg,992,518,26,13,474,225,223,448,13
-2021-01-23,EB,Belgium and Luxembourg,799,446,11,3,353,186,156,342,8
-2021-01-24,EB,Belgium and Luxembourg,790,422,6,1,368,170,192,362,5
-2021-01-25,EB,Belgium and Luxembourg,877,447,18,12,430,192,220,412,6
-2021-01-26,EB,Belgium and Luxembourg,790,343,18,10,447,219,210,429,8
-2021-01-27,EB,Belgium and Luxembourg,851,453,16,7,398,194,188,382,9
-2021-01-28,EB,Belgium and Luxembourg,959,507,8,7,452,220,224,444,1
-2021-01-29,EB,Belgium and Luxembourg,934,484,13,11,450,220,217,437,2
-2021-01-30,EB,Belgium and Luxembourg,769,431,7,5,338,178,153,331,2
-2021-01-31,EB,Belgium and Luxembourg,781,418,10,4,363,171,182,353,6
-2021-02-01,EB,Belgium and Luxembourg,848,465,12,9,383,172,199,371,3
-2021-02-02,EB,Belgium and Luxembourg,767,376,9,6,391,195,187,382,3
-2021-02-03,EB,Belgium and Luxembourg,824,433,11,4,391,193,187,380,7
-2021-02-04,EB,Belgium and Luxembourg,936,465,27,20,471,219,225,444,7
-2021-02-05,EB,Belgium and Luxembourg,996,507,36,18,489,238,215,453,18
-2021-02-06,EB,Belgium and Luxembourg,784,450,10,10,334,168,156,324,0
-2021-02-07,EB,Belgium and Luxembourg,704,369,1,1,335,163,171,334,0
-2021-02-08,EB,Belgium and Luxembourg,782,408,8,5,374,165,201,366,3
-2021-02-09,EB,Belgium and Luxembourg,729,390,21,14,339,164,154,318,7
-2021-02-10,EB,Belgium and Luxembourg,867,438,22,15,429,202,205,407,7
-2021-02-11,EB,Belgium and Luxembourg,965,487,18,14,478,235,225,460,4
-2021-02-12,EB,Belgium and Luxembourg,1012,508,31,17,504,239,234,473,14
-2021-02-13,EB,Belgium and Luxembourg,866,510,20,11,356,180,156,336,9
-2021-02-14,EB,Belgium and Luxembourg,795,423,13,9,372,174,185,359,4
-2021-02-15,EB,Belgium and Luxembourg,802,444,17,12,358,155,186,341,5
-2021-02-16,EB,Belgium and Luxembourg,721,383,24,18,338,156,158,314,6
-2021-02-17,EB,Belgium and Luxembourg,855,456,27,20,399,190,182,372,7
-2021-02-18,EB,Belgium and Luxembourg,932,512,28,19,420,195,197,392,9
-2021-02-19,EB,Belgium and Luxembourg,1002,506,42,26,496,235,219,454,16
-2021-02-20,EB,Belgium and Luxembourg,823,481,20,11,342,171,151,322,9
-2021-02-21,EB,Belgium and Luxembourg,895,463,24,17,432,192,216,408,7
-2021-02-22,EB,Belgium and Luxembourg,874,450,25,17,424,185,214,399,8
-2021-02-23,EB,Belgium and Luxembourg,805,387,25,9,418,206,187,393,16
-2021-02-24,EB,Belgium and Luxembourg,824,424,30,26,400,181,189,370,4
-2021-02-25,EB,Belgium and Luxembourg,973,513,34,20,460,214,212,426,14
-2021-02-26,EB,Belgium and Luxembourg,988,510,25,16,478,233,220,453,9
-2021-02-27,EB,Belgium and Luxembourg,848,497,22,14,351,180,149,329,8
-2021-02-28,EB,Belgium and Luxembourg,891,489,19,11,402,185,198,383,8
-2021-03-01,EB,Belgium and Luxembourg,878,456,22,10,422,182,218,400,12
-2021-03-02,EB,Belgium and Luxembourg,770,388,22,16,382,180,180,360,6
-2021-03-03,EB,Belgium and Luxembourg,844,511,26,12,333,158,149,307,14
-2021-03-04,EB,Belgium and Luxembourg,911,496,8,3,415,204,203,407,5
-2021-03-05,EB,Belgium and Luxembourg,1018,546,20,7,472,229,223,452,13
-2021-03-06,EB,Belgium and Luxembourg,822,501,20,15,321,156,145,301,5
-2021-03-07,EB,Belgium and Luxembourg,813,468,3,2,345,171,171,342,1
-2021-03-08,EB,Belgium and Luxembourg,811,444,23,11,367,153,191,344,12
-2021-03-09,EB,Belgium and Luxembourg,774,385,25,18,389,180,184,364,7
-2021-03-10,EB,Belgium and Luxembourg,873,463,22,6,410,196,192,388,16
-2021-03-11,EB,Belgium and Luxembourg,892,487,2,2,405,208,195,403,0
-2021-03-12,EB,Belgium and Luxembourg,957,529,14,7,428,207,207,414,7
-2021-03-13,EB,Belgium and Luxembourg,715,438,8,3,277,151,118,269,5
-2021-03-14,EB,Belgium and Luxembourg,815,462,14,7,353,158,181,339,7
-2021-03-15,EB,Belgium and Luxembourg,822,436,32,18,386,159,195,354,14
-2021-03-16,EB,Belgium and Luxembourg,805,385,30,17,420,202,188,390,13
-2021-03-17,EB,Belgium and Luxembourg,934,513,27,15,421,201,193,394,12
-2021-03-18,EB,Belgium and Luxembourg,937,476,20,15,461,221,220,441,5
-2021-03-19,EB,Belgium and Luxembourg,1040,531,32,17,509,241,236,477,15
-2021-03-20,EB,Belgium and Luxembourg,835,496,25,12,339,172,142,314,13
-2021-03-21,EB,Belgium and Luxembourg,855,488,12,7,367,171,184,355,5
-2021-03-22,EB,Belgium and Luxembourg,899,470,17,11,429,185,227,412,6
-2021-03-23,EB,Belgium and Luxembourg,842,385,41,21,457,213,203,416,20
-2021-03-24,EB,Belgium and Luxembourg,963,494,31,20,469,221,217,438,11
-2021-03-25,EB,Belgium and Luxembourg,1025,561,28,18,464,221,215,436,10
-2021-03-26,EB,Belgium and Luxembourg,1183,632,24,11,551,270,257,527,13
-2021-03-27,EB,Belgium and Luxembourg,958,614,13,8,344,174,157,331,5
-2021-03-28,EB,Belgium and Luxembourg,1002,614,14,6,388,186,188,374,8
-2021-03-29,EB,Belgium and Luxembourg,988,598,35,16,390,183,172,355,19
-2021-03-30,EB,Belgium and Luxembourg,929,512,27,15,417,174,216,390,12
-2021-03-31,EB,Belgium and Luxembourg,1163,651,29,20,512,246,237,483,9
-2021-04-01,EB,Belgium and Luxembourg,1187,670,26,14,517,250,241,491,12
-2021-04-02,EB,Belgium and Luxembourg,1160,615,14,8,545,266,265,531,6
-2021-04-03,EB,Belgium and Luxembourg,996,583,10,6,413,211,192,403,4
-2021-04-04,EB,Belgium and Luxembourg,940,562,8,6,378,182,188,370,2
-2021-04-05,EB,Belgium and Luxembourg,978,569,1,0,409,192,216,408,1
-2021-04-06,EB,Belgium and Luxembourg,855,493,10,6,362,172,180,352,4
-2021-04-07,EB,Belgium and Luxembourg,1060,611,12,9,449,219,218,437,3
-2021-04-08,EB,Belgium and Luxembourg,1098,623,23,10,475,235,217,452,13
-2021-04-09,EB,Belgium and Luxembourg,1274,689,23,14,585,281,281,562,9
-2021-04-10,EB,Belgium and Luxembourg,1070,681,4,1,389,204,181,385,3
-2021-04-11,EB,Belgium and Luxembourg,1090,654,3,0,436,215,218,433,3
-2021-04-12,EB,Belgium and Luxembourg,1055,582,8,7,473,219,246,465,1
-2021-04-13,EB,Belgium and Luxembourg,897,470,19,11,427,203,205,408,8
-2021-04-14,EB,Belgium and Luxembourg,1041,575,23,15,466,219,224,443,8
-2021-04-15,EB,Belgium and Luxembourg,1066,608,13,10,458,225,220,445,3
-2021-04-16,EB,Belgium and Luxembourg,1174,631,19,10,543,264,260,524,9
-2021-04-17,EB,Belgium and Luxembourg,950,567,8,4,383,196,179,375,4
-2021-04-18,EB,Belgium and Luxembourg,1024,584,10,4,440,207,223,430,6
-2021-04-19,EB,Belgium and Luxembourg,1034,541,26,16,493,222,245,467,10
-2021-04-20,EB,Belgium and Luxembourg,918,468,24,16,450,223,203,426,8
-2021-04-21,EB,Belgium and Luxembourg,1017,555,33,14,462,213,216,429,19
-2021-04-22,EB,Belgium and Luxembourg,1066,583,26,15,483,224,233,457,11
-2021-04-23,EB,Belgium and Luxembourg,1218,641,38,13,577,271,268,539,25
-2021-04-24,EB,Belgium and Luxembourg,1018,601,19,10,417,209,189,398,9
-2021-04-25,EB,Belgium and Luxembourg,1036,607,9,5,429,212,208,420,4
-2021-04-26,EB,Belgium and Luxembourg,1037,556,20,13,481,219,242,461,7
-2021-04-27,EB,Belgium and Luxembourg,963,479,30,22,484,228,226,454,8
-2021-04-28,EB,Belgium and Luxembourg,1087,589,21,16,498,238,239,477,5
-2021-04-29,EB,Belgium and Luxembourg,1111,603,22,11,508,245,241,486,11
-2021-04-30,EB,Belgium and Luxembourg,1258,650,24,7,608,296,288,584,17
-2021-05-01,EB,Belgium and Luxembourg,1056,637,9,3,419,218,192,410,6
-2021-05-02,EB,Belgium and Luxembourg,1054,607,7,3,447,214,226,440,4
-2021-05-03,EB,Belgium and Luxembourg,1060,573,27,13,487,220,240,460,14
-2021-05-04,EB,Belgium and Luxembourg,934,494,3,2,440,214,223,437,1
-2021-05-05,EB,Belgium and Luxembourg,1076,567,20,9,509,243,246,489,11
-2021-05-06,EB,Belgium and Luxembourg,1158,614,27,18,544,263,254,517,9
-2021-05-07,EB,Belgium and Luxembourg,1289,690,31,16,599,290,278,568,15
-2021-05-08,EB,Belgium and Luxembourg,1070,644,7,5,426,217,202,419,2
-2021-05-09,EB,Belgium and Luxembourg,1113,625,5,0,488,225,258,483,5
-2021-05-10,EB,Belgium and Luxembourg,1108,613,24,13,495,236,235,471,11
-2021-05-11,EB,Belgium and Luxembourg,1064,545,33,21,519,240,246,486,12
-2021-05-12,EB,Belgium and Luxembourg,1265,673,29,20,592,291,272,563,9
-2021-05-13,EB,Belgium and Luxembourg,1155,609,33,12,546,270,243,513,21
-2021-05-14,EB,Belgium and Luxembourg,1115,603,14,8,512,249,249,498,6
-2021-05-15,EB,Belgium and Luxembourg,1076,658,10,6,418,216,192,408,4
-2021-05-16,EB,Belgium and Luxembourg,1322,746,6,1,576,257,313,570,5
-2021-05-17,EB,Belgium and Luxembourg,1183,608,27,16,575,270,278,548,11
-2021-05-18,EB,Belgium and Luxembourg,1077,530,27,14,547,256,264,520,13
-2021-05-19,EB,Belgium and Luxembourg,1204,652,22,13,552,268,262,530,9
-2021-05-20,EB,Belgium and Luxembourg,1360,710,28,10,650,314,308,622,18
-2021-05-21,EB,Belgium and Luxembourg,1401,748,18,8,653,328,307,635,10
-2021-05-22,EB,Belgium and Luxembourg,1181,704,5,4,477,247,225,472,1
-2021-05-23,EB,Belgium and Luxembourg,1221,698,3,1,523,257,263,520,2
-2021-05-24,EB,Belgium and Luxembourg,1306,717,12,8,589,254,323,577,4
-2021-05-25,EB,Belgium and Luxembourg,1188,623,23,12,565,286,256,542,11
-2021-05-26,EB,Belgium and Luxembourg,1215,672,20,10,543,263,260,523,10
-2021-05-27,EB,Belgium and Luxembourg,1333,721,35,16,612,295,282,577,19
-2021-05-28,EB,Belgium and Luxembourg,1446,784,16,11,662,322,324,646,5
-2021-05-29,EB,Belgium and Luxembourg,1271,764,17,12,507,255,235,490,5
-2021-05-30,EB,Belgium and Luxembourg,1365,778,14,8,587,276,297,573,6
-2021-05-31,EB,Belgium and Luxembourg,1237,655,25,14,582,268,289,557,11
-2021-06-01,EB,Belgium and Luxembourg,1323,692,36,18,631,295,300,595,18
-2021-06-02,EB,Belgium and Luxembourg,1444,829,40,19,615,294,281,575,21
-2021-06-03,EB,Belgium and Luxembourg,1460,808,28,17,652,314,310,624,11
-2021-06-04,EB,Belgium and Luxembourg,1574,828,27,17,746,362,357,719,10
-2021-06-05,EB,Belgium and Luxembourg,1415,888,13,7,527,268,246,514,6
-2021-06-06,EB,Belgium and Luxembourg,1602,978,15,2,624,301,308,609,13
-2021-06-07,EB,Belgium and Luxembourg,1477,837,36,16,640,290,314,604,20
-2021-06-08,EB,Belgium and Luxembourg,1368,744,32,18,624,288,304,592,14
-2021-06-09,EB,Belgium and Luxembourg,1514,881,23,12,633,306,304,610,11
-2021-06-10,EB,Belgium and Luxembourg,1619,926,28,8,693,339,326,665,20
-2021-06-11,EB,Belgium and Luxembourg,1668,909,35,18,759,367,357,724,17
-2021-06-12,EB,Belgium and Luxembourg,1425,894,8,6,531,268,255,523,2
-2021-06-13,EB,Belgium and Luxembourg,1650,959,14,5,691,325,352,677,9
-2021-06-14,EB,Belgium and Luxembourg,1649,888,33,18,761,360,368,728,15
-2021-06-15,EB,Belgium and Luxembourg,1525,795,29,13,730,368,333,701,16
-2021-06-16,EB,Belgium and Luxembourg,1721,918,45,23,803,370,388,758,22
-2021-06-17,EB,Belgium and Luxembourg,1762,1014,22,11,748,364,362,726,11
-2021-06-18,EB,Belgium and Luxembourg,1934,1088,19,8,846,424,403,827,11
-2021-06-19,EB,Belgium and Luxembourg,1637,984,11,4,653,324,318,642,7
-2021-06-20,EB,Belgium and Luxembourg,1859,1119,11,4,740,367,362,729,7
-2021-06-21,EB,Belgium and Luxembourg,1734,985,25,14,749,345,379,724,11
-2021-06-22,EB,Belgium and Luxembourg,1589,863,29,11,726,353,344,697,18
-2021-06-23,EB,Belgium and Luxembourg,1741,957,29,18,784,373,382,755,11
-2021-06-24,EB,Belgium and Luxembourg,1887,1076,22,10,811,388,401,789,12
-2021-06-25,EB,Belgium and Luxembourg,1997,1069,23,15,928,466,439,905,8
-2021-06-26,EB,Belgium and Luxembourg,1779,1084,9,5,695,356,330,686,4
-2021-06-27,EB,Belgium and Luxembourg,1900,1130,9,2,770,376,385,761,7
-2021-06-28,EB,Belgium and Luxembourg,1882,1065,22,11,817,380,415,795,11
-2021-06-29,EB,Belgium and Luxembourg,1765,992,31,20,773,370,372,742,11
-2021-06-30,EB,Belgium and Luxembourg,1905,1055,28,14,850,413,409,822,14
-2021-07-01,EB,Belgium and Luxembourg,2220,1242,37,15,978,473,468,941,22
-2021-07-02,EB,Belgium and Luxembourg,2326,1299,15,6,1027,515,497,1012,9
-2021-07-03,EB,Belgium and Luxembourg,2161,1329,5,3,832,420,407,827,2
-2021-07-04,EB,Belgium and Luxembourg,2179,1339,6,1,840,415,419,834,5
-2021-07-05,EB,Belgium and Luxembourg,2133,1234,20,10,899,421,458,879,10
-2021-07-06,EB,Belgium and Luxembourg,1941,1109,19,8,832,413,400,813,11
-2021-07-07,EB,Belgium and Luxembourg,2151,1231,37,19,920,440,443,883,18
-2021-07-08,EB,Belgium and Luxembourg,2260,1343,37,20,917,446,434,880,17
-2021-07-09,EB,Belgium and Luxembourg,2400,1379,18,6,1021,502,501,1003,12
-2021-07-10,EB,Belgium and Luxembourg,2221,1387,11,6,834,418,405,823,5
-2021-07-11,EB,Belgium and Luxembourg,2239,1349,9,5,890,438,443,881,4
-2021-07-12,EB,Belgium and Luxembourg,2235,1283,29,11,952,447,476,923,18
-2021-07-13,EB,Belgium and Luxembourg,2017,1173,14,7,844,417,413,830,7
-2021-07-14,EB,Belgium and Luxembourg,2116,1197,22,6,919,453,444,897,16
-2021-07-15,EB,Belgium and Luxembourg,2241,1309,14,3,932,460,458,918,11
-2021-07-16,EB,Belgium and Luxembourg,2430,1377,33,22,1053,512,508,1020,11
-2021-07-17,EB,Belgium and Luxembourg,2285,1401,15,6,884,447,422,869,9
-2021-07-18,EB,Belgium and Luxembourg,2210,1319,4,3,891,448,439,887,1
-2021-07-19,EB,Belgium and Luxembourg,2329,1389,27,13,940,435,478,913,14
-2021-07-20,EB,Belgium and Luxembourg,2143,1289,29,15,854,416,409,825,14
-2021-07-21,EB,Belgium and Luxembourg,2202,1342,24,6,860,418,418,836,18
-2021-07-22,EB,Belgium and Luxembourg,2336,1409,25,11,927,451,451,902,14
-2021-07-23,EB,Belgium and Luxembourg,2479,1460,15,9,1019,505,499,1004,6
-2021-07-24,EB,Belgium and Luxembourg,2350,1508,4,1,842,427,411,838,3
-2021-07-25,EB,Belgium and Luxembourg,2336,1424,8,2,912,456,448,904,6
-2021-07-26,EB,Belgium and Luxembourg,2241,1329,22,15,912,431,459,890,7
-2021-07-27,EB,Belgium and Luxembourg,2082,1237,23,13,845,409,413,822,10
-2021-07-28,EB,Belgium and Luxembourg,2304,1372,13,6,932,459,460,919,7
-2021-07-29,EB,Belgium and Luxembourg,2340,1410,28,10,930,442,460,902,18
-2021-07-30,EB,Belgium and Luxembourg,2517,1464,18,9,1053,520,515,1035,9
-2021-07-31,EB,Belgium and Luxembourg,2381,1503,13,4,878,447,418,865,9
-2021-08-01,EB,Belgium and Luxembourg,2495,1546,3,0,949,474,472,946,3
-2021-08-02,EB,Belgium and Luxembourg,2339,1408,16,9,931,448,467,915,7
-2021-08-03,EB,Belgium and Luxembourg,2167,1332,19,15,835,411,405,816,4
-2021-08-04,EB,Belgium and Luxembourg,2276,1376,12,4,900,442,446,888,8
-2021-08-05,EB,Belgium and Luxembourg,2263,1351,23,7,912,439,450,889,16
-2021-08-06,EB,Belgium and Luxembourg,2454,1443,19,8,1011,498,494,992,11
-2021-08-07,EB,Belgium and Luxembourg,2341,1526,6,3,815,414,395,809,3
-2021-08-08,EB,Belgium and Luxembourg,2455,1545,7,0,910,462,441,903,7
-2021-08-09,EB,Belgium and Luxembourg,2336,1415,27,7,921,423,471,894,20
-2021-08-10,EB,Belgium and Luxembourg,2199,1334,32,14,865,423,410,833,18
-2021-08-11,EB,Belgium and Luxembourg,2309,1368,28,12,941,454,459,913,16
-2021-08-12,EB,Belgium and Luxembourg,2326,1392,18,8,934,463,453,916,10
-2021-08-13,EB,Belgium and Luxembourg,2507,1465,38,8,1042,504,500,1004,30
-2021-08-14,EB,Belgium and Luxembourg,2402,1570,8,4,832,417,407,824,4
-2021-08-15,EB,Belgium and Luxembourg,2484,1538,13,2,946,477,456,933,11
-2021-08-16,EB,Belgium and Luxembourg,2411,1459,24,14,952,444,484,928,10
-2021-08-17,EB,Belgium and Luxembourg,2168,1328,18,10,840,419,403,822,8
-2021-08-18,EB,Belgium and Luxembourg,2313,1370,13,7,943,462,468,930,6
-2021-08-19,EB,Belgium and Luxembourg,2347,1405,20,9,942,458,464,922,11
-2021-08-20,EB,Belgium and Luxembourg,2525,1478,26,10,1047,521,500,1021,16
-2021-08-21,EB,Belgium and Luxembourg,2355,1513,10,1,842,416,416,832,9
-2021-08-22,EB,Belgium and Luxembourg,2537,1589,4,1,948,477,467,944,3
-2021-08-23,EB,Belgium and Luxembourg,2395,1417,18,10,978,469,491,960,8
-2021-08-24,EB,Belgium and Luxembourg,2233,1323,18,8,910,442,450,892,10
-2021-08-25,EB,Belgium and Luxembourg,2505,1505,13,7,1000,487,500,987,6
-2021-08-26,EB,Belgium and Luxembourg,2411,1440,19,12,971,478,474,952,7
-2021-08-27,EB,Belgium and Luxembourg,2664,1569,28,12,1095,533,534,1067,16
-2021-08-28,EB,Belgium and Luxembourg,2444,1576,15,6,868,433,420,853,9
-2021-08-29,EB,Belgium and Luxembourg,2651,1606,19,4,1045,515,511,1026,15
-2021-08-30,EB,Belgium and Luxembourg,2580,1516,30,16,1064,512,522,1034,14
-2021-08-31,EB,Belgium and Luxembourg,2320,1369,24,15,951,459,468,927,9
-2021-09-01,EB,Belgium and Luxembourg,2454,1478,17,13,976,477,482,959,4
-2021-09-02,EB,Belgium and Luxembourg,2528,1542,21,13,986,487,478,965,8
-2021-09-03,EB,Belgium and Luxembourg,2706,1615,29,17,1091,538,524,1062,12
-2021-09-04,EB,Belgium and Luxembourg,2417,1575,8,4,842,425,409,834,4
-2021-09-05,EB,Belgium and Luxembourg,2598,1649,6,2,949,471,472,943,4
-2021-09-06,EB,Belgium and Luxembourg,2482,1493,22,11,989,462,505,967,11
-2021-09-07,EB,Belgium and Luxembourg,2273,1376,32,10,897,440,425,865,22
-2021-09-08,EB,Belgium and Luxembourg,2499,1470,11,3,1029,511,507,1018,8
-2021-09-09,EB,Belgium and Luxembourg,2536,1546,26,6,990,480,484,964,20
-2021-09-10,EB,Belgium and Luxembourg,2714,1636,15,12,1078,525,538,1063,3
-2021-09-11,EB,Belgium and Luxembourg,2408,1586,13,4,822,414,395,809,9
-2021-09-12,EB,Belgium and Luxembourg,2665,1667,10,2,998,492,496,988,8
-2021-09-13,EB,Belgium and Luxembourg,2530,1475,26,11,1055,507,522,1029,15
-2021-09-14,EB,Belgium and Luxembourg,2240,1306,20,8,934,453,461,914,12
-2021-09-15,EB,Belgium and Luxembourg,2489,1471,41,12,1018,486,491,977,29
-2021-09-16,EB,Belgium and Luxembourg,2562,1571,27,14,991,496,468,964,13
-2021-09-17,EB,Belgium and Luxembourg,2674,1579,21,7,1095,540,534,1074,14
-2021-09-18,EB,Belgium and Luxembourg,2383,1542,20,12,841,416,405,821,8
-2021-09-19,EB,Belgium and Luxembourg,2608,1662,5,1,946,477,464,941,4
-2021-09-20,EB,Belgium and Luxembourg,2496,1486,19,5,1010,473,518,991,14
-2021-09-21,EB,Belgium and Luxembourg,2291,1364,26,8,927,458,443,901,18
-2021-09-22,EB,Belgium and Luxembourg,2448,1469,26,8,979,474,479,953,18
-2021-09-23,EB,Belgium and Luxembourg,2633,1633,24,10,1000,494,482,976,14
-2021-09-24,EB,Belgium and Luxembourg,2689,1596,18,7,1093,541,534,1075,11
-2021-09-25,EB,Belgium and Luxembourg,2420,1576,17,7,844,413,414,827,10
-2021-09-26,EB,Belgium and Luxembourg,2639,1673,18,6,966,478,470,948,12
-2021-09-27,EB,Belgium and Luxembourg,2590,1533,23,8,1057,507,527,1034,15
-2021-09-28,EB,Belgium and Luxembourg,2289,1382,21,9,907,443,443,886,12
-2021-09-29,EB,Belgium and Luxembourg,2429,1475,17,3,954,464,473,937,14
-2021-09-30,EB,Belgium and Luxembourg,2594,1615,19,12,979,480,480,960,7
-2021-10-01,EB,Belgium and Luxembourg,2816,1719,22,7,1097,548,527,1075,15
-2021-10-02,EB,Belgium and Luxembourg,2394,1593,9,2,801,404,388,792,7
-2021-10-03,EB,Belgium and Luxembourg,2618,1672,7,2,946,469,470,939,5
-2021-10-04,EB,Belgium and Luxembourg,2550,1577,16,6,973,469,488,957,10
-2021-10-05,EB,Belgium and Luxembourg,2300,1440,12,6,860,422,426,848,6
-2021-10-06,EB,Belgium and Luxembourg,2435,1521,20,10,914,445,449,894,10
-2021-10-07,EB,Belgium and Luxembourg,2561,1613,17,11,948,472,459,931,6
-2021-10-08,EB,Belgium and Luxembourg,2690,1620,23,8,1070,533,514,1047,15
-2021-10-09,EB,Belgium and Luxembourg,2430,1663,11,4,767,381,375,756,7
-2021-10-10,EB,Belgium and Luxembourg,2672,1744,8,5,928,468,452,920,3
-2021-10-11,EB,Belgium and Luxembourg,2534,1607,18,9,927,437,472,909,9
-2021-10-12,EB,Belgium and Luxembourg,2269,1386,21,10,883,430,432,862,11
-2021-10-13,EB,Belgium and Luxembourg,2470,1533,8,7,937,460,469,929,1
-2021-10-14,EB,Belgium and Luxembourg,2592,1635,24,9,957,468,465,933,15
-2021-10-15,EB,Belgium and Luxembourg,2780,1741,16,6,1039,529,494,1023,10
-2021-10-16,EB,Belgium and Luxembourg,2509,1745,15,4,764,371,378,749,11
-2021-10-17,EB,Belgium and Luxembourg,2682,1773,6,0,909,450,453,903,6
-2021-10-18,EB,Belgium and Luxembourg,2539,1545,23,9,994,479,492,971,14
-2021-10-19,EB,Belgium and Luxembourg,2263,1400,21,14,863,419,423,842,7
-2021-10-20,EB,Belgium and Luxembourg,2459,1514,11,5,945,457,477,934,6
-2021-10-21,EB,Belgium and Luxembourg,2575,1596,14,7,979,486,479,965,7
-2021-10-22,EB,Belgium and Luxembourg,2806,1712,13,5,1094,553,528,1081,8
-2021-10-23,EB,Belgium and Luxembourg,2505,1743,13,5,762,384,365,749,8
-2021-10-24,EB,Belgium and Luxembourg,2720,1809,22,6,911,442,447,889,16
-2021-10-25,EB,Belgium and Luxembourg,2562,1572,19,13,990,468,503,971,6
-2021-10-26,EB,Belgium and Luxembourg,2356,1417,23,13,939,454,462,916,10
-2021-10-27,EB,Belgium and Luxembourg,2523,1516,19,9,1007,496,492,988,10
-2021-10-28,EB,Belgium and Luxembourg,2599,1591,21,11,1008,498,489,987,10
-2021-10-29,EB,Belgium and Luxembourg,2743,1634,19,11,1109,545,545,1090,8
-2021-10-30,EB,Belgium and Luxembourg,2524,1677,10,4,847,433,404,837,6
-2021-10-31,EB,Belgium and Luxembourg,2591,1663,5,1,928,466,457,923,4
-2021-11-01,EB,Belgium and Luxembourg,2382,1481,9,3,901,430,462,892,6
-2021-11-02,EB,Belgium and Luxembourg,2154,1312,17,8,842,413,412,825,9
-2021-11-03,EB,Belgium and Luxembourg,2375,1435,19,13,940,466,455,921,6
-2021-11-04,EB,Belgium and Luxembourg,2416,1439,28,10,977,470,479,949,18
-2021-11-05,EB,Belgium and Luxembourg,2593,1545,20,12,1048,525,503,1028,8
-2021-11-06,EB,Belgium and Luxembourg,2378,1539,10,5,839,412,417,829,5
-2021-11-07,EB,Belgium and Luxembourg,2599,1612,9,2,987,492,486,978,7
-2021-11-08,EB,Belgium and Luxembourg,2393,1403,24,10,990,467,499,966,14
-2021-11-09,EB,Belgium and Luxembourg,2149,1266,19,8,883,433,431,864,11
-2021-11-10,EB,Belgium and Luxembourg,2387,1419,19,9,968,477,472,949,10
-2021-11-11,EB,Belgium and Luxembourg,2401,1446,21,4,955,477,457,934,17
-2021-11-12,EB,Belgium and Luxembourg,2564,1583,14,10,981,481,486,967,4
-2021-11-13,EB,Belgium and Luxembourg,2123,1411,8,4,712,347,357,704,4
-2021-11-14,EB,Belgium and Luxembourg,2488,1563,13,1,925,458,454,912,12
-2021-11-15,EB,Belgium and Luxembourg,2422,1449,12,7,973,472,489,961,5
-2021-11-16,EB,Belgium and Luxembourg,2239,1343,14,13,896,448,434,882,1
-2021-11-17,EB,Belgium and Luxembourg,2312,1386,12,9,926,458,456,914,3
-2021-11-18,EB,Belgium and Luxembourg,2342,1418,20,7,924,458,446,904,13
-2021-11-19,EB,Belgium and Luxembourg,2566,1569,20,13,997,493,484,977,7
-2021-11-20,EB,Belgium and Luxembourg,2093,1403,3,3,690,345,342,687,0
-2021-11-21,EB,Belgium and Luxembourg,2403,1525,4,1,878,441,433,874,3
-2021-11-22,EB,Belgium and Luxembourg,2274,1372,16,12,902,426,460,886,4
-2021-11-23,EB,Belgium and Luxembourg,2106,1263,15,9,843,419,409,828,6
-2021-11-24,EB,Belgium and Luxembourg,2340,1410,12,6,930,461,457,918,6
-2021-11-25,EB,Belgium and Luxembourg,2308,1398,21,10,910,442,447,889,11
-2021-11-26,EB,Belgium and Luxembourg,2498,1509,7,2,989,494,488,982,5
-2021-11-27,EB,Belgium and Luxembourg,1999,1290,11,3,709,349,349,698,8
-2021-11-28,EB,Belgium and Luxembourg,2259,1416,3,0,843,427,413,840,3
-2021-11-29,EB,Belgium and Luxembourg,2254,1345,20,15,909,429,460,889,5
-2021-11-30,EB,Belgium and Luxembourg,2035,1241,8,3,794,394,392,786,5
-2021-12-01,EB,Belgium and Luxembourg,2182,1259,10,3,923,463,450,913,7
-2021-12-02,EB,Belgium and Luxembourg,2163,1266,6,4,897,441,450,891,2
-2021-12-03,EB,Belgium and Luxembourg,2415,1466,8,3,949,471,470,941,5
-2021-12-04,EB,Belgium and Luxembourg,2005,1311,6,3,694,349,339,688,3
-2021-12-05,EB,Belgium and Luxembourg,2217,1374,5,0,843,422,416,838,5
-2021-12-06,EB,Belgium and Luxembourg,2195,1362,11,5,833,392,430,822,6
-2021-12-07,EB,Belgium and Luxembourg,2056,1220,27,16,836,403,406,809,11
-2021-12-08,EB,Belgium and Luxembourg,2254,1348,17,7,906,442,447,889,10
-2021-12-09,EB,Belgium and Luxembourg,2258,1348,17,5,910,451,442,893,12
-2021-12-10,EB,Belgium and Luxembourg,2421,1471,14,2,950,473,463,936,12
-2021-12-11,EB,Belgium and Luxembourg,2075,1393,12,7,682,339,331,670,5
-2021-12-12,EB,Belgium and Luxembourg,2340,1514,6,1,826,412,408,820,5
-2021-12-13,EB,Belgium and Luxembourg,2287,1384,25,13,903,422,456,878,12
-2021-12-14,EB,Belgium and Luxembourg,2084,1264,22,12,820,393,405,798,10
-2021-12-15,EB,Belgium and Luxembourg,2310,1395,23,17,915,446,446,892,6
-2021-12-16,EB,Belgium and Luxembourg,2497,1499,39,18,998,474,485,959,21
-2021-12-17,EB,Belgium and Luxembourg,2723,1670,29,14,1053,530,494,1024,15
-2021-12-18,EB,Belgium and Luxembourg,2443,1654,13,4,789,387,389,776,9
-2021-12-19,EB,Belgium and Luxembourg,2561,1691,4,0,870,441,425,866,4
-2021-12-20,EB,Belgium and Luxembourg,2401,1502,21,15,899,416,462,878,6
-2021-12-21,EB,Belgium and Luxembourg,2261,1380,30,18,881,436,415,851,12
-2021-12-22,EB,Belgium and Luxembourg,2533,1515,26,9,1018,491,501,992,17
-2021-12-23,EB,Belgium and Luxembourg,2564,1538,24,14,1026,504,498,1002,10
-2021-12-24,EB,Belgium and Luxembourg,2084,1278,6,2,806,404,396,800,4
-2021-12-25,EB,Belgium and Luxembourg,1510,979,5,0,531,264,262,526,5
-2021-12-26,EB,Belgium and Luxembourg,2408,1550,7,1,858,437,414,851,6
-2021-12-27,EB,Belgium and Luxembourg,2467,1570,11,7,897,428,458,886,4
-2021-12-28,EB,Belgium and Luxembourg,2147,1384,7,3,763,381,375,756,4
-2021-12-29,EB,Belgium and Luxembourg,2389,1495,22,10,894,435,437,872,12
-2021-12-30,EB,Belgium and Luxembourg,2322,1448,23,18,874,430,421,851,5
-2021-12-31,EB,Belgium and Luxembourg,2081,1307,9,4,774,384,381,765,5
-2021-01-01,LQ,Bosnia-Herzegovina,243,232,0,0,11,6,5,11,0
-2021-01-02,LQ,Bosnia-Herzegovina,444,428,0,0,16,8,8,16,0
-2021-01-03,LQ,Bosnia-Herzegovina,506,488,0,0,18,9,9,18,0
-2021-01-04,LQ,Bosnia-Herzegovina,416,394,0,0,22,11,11,22,0
-2021-01-05,LQ,Bosnia-Herzegovina,322,304,0,0,18,9,9,18,0
-2021-01-06,LQ,Bosnia-Herzegovina,325,305,0,0,20,10,10,20,0
-2021-01-07,LQ,Bosnia-Herzegovina,307,286,0,0,21,10,11,21,0
-2021-01-08,LQ,Bosnia-Herzegovina,389,370,0,0,19,10,9,19,0
-2021-01-09,LQ,Bosnia-Herzegovina,414,391,1,0,23,10,12,22,1
-2021-01-10,LQ,Bosnia-Herzegovina,434,415,0,0,19,10,9,19,0
-2021-01-11,LQ,Bosnia-Herzegovina,290,270,0,0,20,10,10,20,0
-2021-01-12,LQ,Bosnia-Herzegovina,239,228,0,0,11,6,5,11,0
-2021-01-13,LQ,Bosnia-Herzegovina,279,262,0,0,17,9,8,17,0
-2021-01-14,LQ,Bosnia-Herzegovina,277,260,0,0,17,7,10,17,0
-2021-01-15,LQ,Bosnia-Herzegovina,323,295,0,0,28,15,13,28,0
-2021-01-16,LQ,Bosnia-Herzegovina,309,292,0,0,17,8,9,17,0
-2021-01-17,LQ,Bosnia-Herzegovina,304,286,0,0,18,9,9,18,0
-2021-01-18,LQ,Bosnia-Herzegovina,238,217,0,0,21,11,10,21,0
-2021-01-19,LQ,Bosnia-Herzegovina,226,213,0,0,13,6,7,13,0
-2021-01-20,LQ,Bosnia-Herzegovina,241,217,0,0,24,11,13,24,0
-2021-01-21,LQ,Bosnia-Herzegovina,248,224,0,0,24,12,12,24,0
-2021-01-22,LQ,Bosnia-Herzegovina,262,238,0,0,24,13,11,24,0
-2021-01-23,LQ,Bosnia-Herzegovina,284,272,0,0,12,6,6,12,0
-2021-01-24,LQ,Bosnia-Herzegovina,283,265,0,0,18,9,9,18,0
-2021-01-25,LQ,Bosnia-Herzegovina,265,244,0,0,21,11,10,21,0
-2021-01-26,LQ,Bosnia-Herzegovina,207,194,0,0,13,7,6,13,0
-2021-01-27,LQ,Bosnia-Herzegovina,245,220,0,0,25,12,13,25,0
-2021-01-28,LQ,Bosnia-Herzegovina,231,220,0,0,11,5,6,11,0
-2021-01-29,LQ,Bosnia-Herzegovina,272,252,0,0,20,11,9,20,0
-2021-01-30,LQ,Bosnia-Herzegovina,276,269,0,0,7,3,4,7,0
-2021-01-31,LQ,Bosnia-Herzegovina,294,277,1,0,17,8,8,16,1
-2021-02-01,LQ,Bosnia-Herzegovina,233,217,0,0,16,8,8,16,0
-2021-02-02,LQ,Bosnia-Herzegovina,205,195,0,0,10,5,5,10,0
-2021-02-03,LQ,Bosnia-Herzegovina,231,215,0,0,16,8,8,16,0
-2021-02-04,LQ,Bosnia-Herzegovina,232,217,0,0,15,7,8,15,0
-2021-02-05,LQ,Bosnia-Herzegovina,281,260,0,0,21,11,10,21,0
-2021-02-06,LQ,Bosnia-Herzegovina,298,278,0,0,20,10,10,20,0
-2021-02-07,LQ,Bosnia-Herzegovina,262,250,0,0,12,6,6,12,0
-2021-02-08,LQ,Bosnia-Herzegovina,230,209,0,0,21,10,11,21,0
-2021-02-09,LQ,Bosnia-Herzegovina,201,191,0,0,10,5,5,10,0
-2021-02-10,LQ,Bosnia-Herzegovina,258,240,0,0,18,9,9,18,0
-2021-02-11,LQ,Bosnia-Herzegovina,265,254,0,0,11,5,6,11,0
-2021-02-12,LQ,Bosnia-Herzegovina,290,273,0,0,17,10,7,17,0
-2021-02-13,LQ,Bosnia-Herzegovina,304,293,0,0,11,5,6,11,0
-2021-02-14,LQ,Bosnia-Herzegovina,289,273,0,0,16,8,8,16,0
-2021-02-15,LQ,Bosnia-Herzegovina,232,214,0,0,18,9,9,18,0
-2021-02-16,LQ,Bosnia-Herzegovina,203,186,0,0,17,8,9,17,0
-2021-02-17,LQ,Bosnia-Herzegovina,251,227,0,0,24,12,12,24,0
-2021-02-18,LQ,Bosnia-Herzegovina,238,228,0,0,10,5,5,10,0
-2021-02-19,LQ,Bosnia-Herzegovina,308,290,0,0,18,10,8,18,0
-2021-02-20,LQ,Bosnia-Herzegovina,314,303,0,0,11,5,6,11,0
-2021-02-21,LQ,Bosnia-Herzegovina,312,295,0,0,17,8,9,17,0
-2021-02-22,LQ,Bosnia-Herzegovina,265,241,0,0,24,12,12,24,0
-2021-02-23,LQ,Bosnia-Herzegovina,205,195,0,0,10,5,5,10,0
-2021-02-24,LQ,Bosnia-Herzegovina,236,218,0,0,18,9,9,18,0
-2021-02-25,LQ,Bosnia-Herzegovina,262,243,2,0,19,8,9,17,2
-2021-02-26,LQ,Bosnia-Herzegovina,328,305,0,0,23,13,10,23,0
-2021-02-27,LQ,Bosnia-Herzegovina,317,301,0,0,16,8,8,16,0
-2021-02-28,LQ,Bosnia-Herzegovina,304,287,0,0,17,8,9,17,0
-2021-03-01,LQ,Bosnia-Herzegovina,261,241,0,0,20,9,11,20,0
-2021-03-02,LQ,Bosnia-Herzegovina,193,179,1,0,14,7,6,13,1
-2021-03-03,LQ,Bosnia-Herzegovina,266,246,0,0,20,10,10,20,0
-2021-03-04,LQ,Bosnia-Herzegovina,275,255,0,0,20,10,10,20,0
-2021-03-05,LQ,Bosnia-Herzegovina,332,308,0,0,24,13,11,24,0
-2021-03-06,LQ,Bosnia-Herzegovina,316,301,0,0,15,7,8,15,0
-2021-03-07,LQ,Bosnia-Herzegovina,299,281,0,0,18,9,9,18,0
-2021-03-08,LQ,Bosnia-Herzegovina,250,232,0,0,18,9,9,18,0
-2021-03-09,LQ,Bosnia-Herzegovina,199,185,0,0,14,7,7,14,0
-2021-03-10,LQ,Bosnia-Herzegovina,273,254,0,0,19,9,10,19,0
-2021-03-11,LQ,Bosnia-Herzegovina,265,248,0,0,17,8,9,17,0
-2021-03-12,LQ,Bosnia-Herzegovina,322,297,0,0,25,13,12,25,0
-2021-03-13,LQ,Bosnia-Herzegovina,310,293,0,0,17,8,9,17,0
-2021-03-14,LQ,Bosnia-Herzegovina,302,283,0,0,19,10,9,19,0
-2021-03-15,LQ,Bosnia-Herzegovina,250,228,0,0,22,11,11,22,0
-2021-03-16,LQ,Bosnia-Herzegovina,224,206,0,0,18,8,10,18,0
-2021-03-17,LQ,Bosnia-Herzegovina,272,252,2,0,20,9,9,18,2
-2021-03-18,LQ,Bosnia-Herzegovina,265,241,3,0,24,11,10,21,3
-2021-03-19,LQ,Bosnia-Herzegovina,348,329,0,0,19,10,9,19,0
-2021-03-20,LQ,Bosnia-Herzegovina,341,329,0,0,12,6,6,12,0
-2021-03-21,LQ,Bosnia-Herzegovina,321,303,0,0,18,9,9,18,0
-2021-03-22,LQ,Bosnia-Herzegovina,261,240,0,0,21,10,11,21,0
-2021-03-23,LQ,Bosnia-Herzegovina,231,209,0,0,22,10,12,22,0
-2021-03-24,LQ,Bosnia-Herzegovina,285,256,0,0,29,14,15,29,0
-2021-03-25,LQ,Bosnia-Herzegovina,297,271,0,0,26,14,12,26,0
-2021-03-26,LQ,Bosnia-Herzegovina,373,346,0,0,27,15,12,27,0
-2021-03-27,LQ,Bosnia-Herzegovina,372,346,0,0,26,12,14,26,0
-2021-03-28,LQ,Bosnia-Herzegovina,374,354,0,0,20,11,9,20,0
-2021-03-29,LQ,Bosnia-Herzegovina,327,296,0,0,31,14,17,31,0
-2021-03-30,LQ,Bosnia-Herzegovina,284,260,0,0,24,12,12,24,0
-2021-03-31,LQ,Bosnia-Herzegovina,361,324,2,0,37,18,17,35,2
-2021-04-01,LQ,Bosnia-Herzegovina,353,323,0,0,30,15,15,30,0
-2021-04-02,LQ,Bosnia-Herzegovina,415,380,0,0,35,18,17,35,0
-2021-04-03,LQ,Bosnia-Herzegovina,368,349,0,0,19,9,10,19,0
-2021-04-04,LQ,Bosnia-Herzegovina,335,312,0,0,23,12,11,23,0
-2021-04-05,LQ,Bosnia-Herzegovina,355,324,1,1,31,15,15,30,0
-2021-04-06,LQ,Bosnia-Herzegovina,254,241,0,0,13,6,7,13,0
-2021-04-07,LQ,Bosnia-Herzegovina,326,295,1,1,31,15,15,30,0
-2021-04-08,LQ,Bosnia-Herzegovina,313,283,1,1,30,14,15,29,0
-2021-04-09,LQ,Bosnia-Herzegovina,406,367,1,1,39,19,19,38,0
-2021-04-10,LQ,Bosnia-Herzegovina,401,380,1,1,21,10,10,20,0
-2021-04-11,LQ,Bosnia-Herzegovina,406,383,0,0,23,12,11,23,0
-2021-04-12,LQ,Bosnia-Herzegovina,316,282,0,0,34,17,17,34,0
-2021-04-13,LQ,Bosnia-Herzegovina,251,230,2,0,21,8,11,19,2
-2021-04-14,LQ,Bosnia-Herzegovina,299,270,1,0,29,16,12,28,1
-2021-04-15,LQ,Bosnia-Herzegovina,306,284,0,0,22,10,12,22,0
-2021-04-16,LQ,Bosnia-Herzegovina,359,331,0,0,28,15,13,28,0
-2021-04-17,LQ,Bosnia-Herzegovina,356,339,0,0,17,8,9,17,0
-2021-04-18,LQ,Bosnia-Herzegovina,349,326,0,0,23,12,11,23,0
-2021-04-19,LQ,Bosnia-Herzegovina,276,252,0,0,24,12,12,24,0
-2021-04-20,LQ,Bosnia-Herzegovina,250,235,0,0,15,7,8,15,0
-2021-04-21,LQ,Bosnia-Herzegovina,310,281,0,0,29,15,14,29,0
-2021-04-22,LQ,Bosnia-Herzegovina,319,295,0,0,24,11,13,24,0
-2021-04-23,LQ,Bosnia-Herzegovina,370,341,0,0,29,15,14,29,0
-2021-04-24,LQ,Bosnia-Herzegovina,368,352,0,0,16,8,8,16,0
-2021-04-25,LQ,Bosnia-Herzegovina,312,293,0,0,19,10,9,19,0
-2021-04-26,LQ,Bosnia-Herzegovina,295,273,0,0,22,11,11,22,0
-2021-04-27,LQ,Bosnia-Herzegovina,230,215,0,0,15,7,8,15,0
-2021-04-28,LQ,Bosnia-Herzegovina,354,329,0,0,25,13,12,25,0
-2021-04-29,LQ,Bosnia-Herzegovina,343,314,0,0,29,14,15,29,0
-2021-04-30,LQ,Bosnia-Herzegovina,423,385,0,0,38,19,19,38,0
-2021-05-01,LQ,Bosnia-Herzegovina,390,377,0,0,13,6,7,13,0
-2021-05-02,LQ,Bosnia-Herzegovina,314,298,0,0,16,9,7,16,0
-2021-05-03,LQ,Bosnia-Herzegovina,366,337,0,0,29,14,15,29,0
-2021-05-04,LQ,Bosnia-Herzegovina,281,256,2,0,25,10,13,23,2
-2021-05-05,LQ,Bosnia-Herzegovina,342,313,1,1,29,14,14,28,0
-2021-05-06,LQ,Bosnia-Herzegovina,353,333,0,0,20,11,9,20,0
-2021-05-07,LQ,Bosnia-Herzegovina,444,404,0,0,40,21,19,40,0
-2021-05-08,LQ,Bosnia-Herzegovina,424,408,0,0,16,7,9,16,0
-2021-05-09,LQ,Bosnia-Herzegovina,432,405,0,0,27,14,13,27,0
-2021-05-10,LQ,Bosnia-Herzegovina,393,361,0,0,32,16,16,32,0
-2021-05-11,LQ,Bosnia-Herzegovina,297,270,0,0,27,13,14,27,0
-2021-05-12,LQ,Bosnia-Herzegovina,364,336,0,0,28,14,14,28,0
-2021-05-13,LQ,Bosnia-Herzegovina,360,332,0,0,28,14,14,28,0
-2021-05-14,LQ,Bosnia-Herzegovina,471,431,0,0,40,20,20,40,0
-2021-05-15,LQ,Bosnia-Herzegovina,500,475,0,0,25,12,13,25,0
-2021-05-16,LQ,Bosnia-Herzegovina,459,432,0,0,27,14,13,27,0
-2021-05-17,LQ,Bosnia-Herzegovina,420,371,0,0,49,25,24,49,0
-2021-05-18,LQ,Bosnia-Herzegovina,354,324,0,0,30,14,16,30,0
-2021-05-19,LQ,Bosnia-Herzegovina,422,394,2,0,28,13,13,26,2
-2021-05-20,LQ,Bosnia-Herzegovina,435,398,1,0,37,18,18,36,1
-2021-05-21,LQ,Bosnia-Herzegovina,566,519,3,0,47,22,22,44,3
-2021-05-22,LQ,Bosnia-Herzegovina,555,531,3,0,24,10,11,21,3
-2021-05-23,LQ,Bosnia-Herzegovina,493,463,0,0,30,15,15,30,0
-2021-05-24,LQ,Bosnia-Herzegovina,497,456,2,0,41,20,19,39,2
-2021-05-25,LQ,Bosnia-Herzegovina,380,347,1,0,33,16,16,32,1
-2021-05-26,LQ,Bosnia-Herzegovina,429,393,0,0,36,18,18,36,0
-2021-05-27,LQ,Bosnia-Herzegovina,452,426,0,0,26,13,13,26,0
-2021-05-28,LQ,Bosnia-Herzegovina,586,535,0,0,51,26,25,51,0
-2021-05-29,LQ,Bosnia-Herzegovina,639,622,0,0,17,8,9,17,0
-2021-05-30,LQ,Bosnia-Herzegovina,566,535,0,0,31,15,16,31,0
-2021-05-31,LQ,Bosnia-Herzegovina,493,458,0,0,35,18,17,35,0
-2021-06-01,LQ,Bosnia-Herzegovina,503,462,1,0,41,19,21,40,1
-2021-06-02,LQ,Bosnia-Herzegovina,556,506,0,0,50,25,25,50,0
-2021-06-03,LQ,Bosnia-Herzegovina,587,544,4,2,43,20,19,39,2
-2021-06-04,LQ,Bosnia-Herzegovina,734,683,0,0,51,25,26,51,0
-2021-06-05,LQ,Bosnia-Herzegovina,775,742,0,0,33,16,17,33,0
-2021-06-06,LQ,Bosnia-Herzegovina,814,773,0,0,41,21,20,41,0
-2021-06-07,LQ,Bosnia-Herzegovina,585,536,0,0,49,24,25,49,0
-2021-06-08,LQ,Bosnia-Herzegovina,512,464,0,0,48,24,24,48,0
-2021-06-09,LQ,Bosnia-Herzegovina,554,495,4,2,59,27,28,55,2
-2021-06-10,LQ,Bosnia-Herzegovina,637,584,2,0,53,27,24,51,2
-2021-06-11,LQ,Bosnia-Herzegovina,751,695,0,0,56,28,28,56,0
-2021-06-12,LQ,Bosnia-Herzegovina,857,824,0,0,33,16,17,33,0
-2021-06-13,LQ,Bosnia-Herzegovina,802,757,0,0,45,23,22,45,0
-2021-06-14,LQ,Bosnia-Herzegovina,650,596,1,1,54,27,26,53,0
-2021-06-15,LQ,Bosnia-Herzegovina,562,521,0,0,41,20,21,41,0
-2021-06-16,LQ,Bosnia-Herzegovina,651,599,0,0,52,25,27,52,0
-2021-06-17,LQ,Bosnia-Herzegovina,706,653,1,1,53,26,26,52,0
-2021-06-18,LQ,Bosnia-Herzegovina,835,755,0,0,80,40,40,80,0
-2021-06-19,LQ,Bosnia-Herzegovina,971,927,0,0,44,22,22,44,0
-2021-06-20,LQ,Bosnia-Herzegovina,842,794,0,0,48,24,24,48,0
-2021-06-21,LQ,Bosnia-Herzegovina,717,658,0,0,59,30,29,59,0
-2021-06-22,LQ,Bosnia-Herzegovina,608,559,1,0,49,23,25,48,1
-2021-06-23,LQ,Bosnia-Herzegovina,687,638,0,0,49,25,24,49,0
-2021-06-24,LQ,Bosnia-Herzegovina,718,670,2,0,48,23,23,46,2
-2021-06-25,LQ,Bosnia-Herzegovina,962,893,0,0,69,35,34,69,0
-2021-06-26,LQ,Bosnia-Herzegovina,1037,987,0,0,50,25,25,50,0
-2021-06-27,LQ,Bosnia-Herzegovina,936,876,0,0,60,31,29,60,0
-2021-06-28,LQ,Bosnia-Herzegovina,839,778,1,0,61,29,31,60,1
-2021-06-29,LQ,Bosnia-Herzegovina,736,675,3,0,61,28,30,58,3
-2021-06-30,LQ,Bosnia-Herzegovina,840,794,2,1,46,22,22,44,1
-2021-07-01,LQ,Bosnia-Herzegovina,1012,959,1,0,53,27,25,52,1
-2021-07-02,LQ,Bosnia-Herzegovina,1203,1124,0,0,79,39,40,79,0
-2021-07-03,LQ,Bosnia-Herzegovina,1264,1209,0,0,55,28,27,55,0
-2021-07-04,LQ,Bosnia-Herzegovina,1187,1125,2,0,62,31,29,60,2
-2021-07-05,LQ,Bosnia-Herzegovina,1018,931,4,0,87,40,43,83,4
-2021-07-06,LQ,Bosnia-Herzegovina,990,928,0,0,62,31,31,62,0
-2021-07-07,LQ,Bosnia-Herzegovina,1009,951,0,0,58,29,29,58,0
-2021-07-08,LQ,Bosnia-Herzegovina,1049,986,0,0,63,32,31,63,0
-2021-07-09,LQ,Bosnia-Herzegovina,1239,1154,0,0,85,42,43,85,0
-2021-07-10,LQ,Bosnia-Herzegovina,1331,1272,0,0,59,29,30,59,0
-2021-07-11,LQ,Bosnia-Herzegovina,1194,1135,0,0,59,30,29,59,0
-2021-07-12,LQ,Bosnia-Herzegovina,1091,1010,1,1,81,38,42,80,0
-2021-07-13,LQ,Bosnia-Herzegovina,1028,961,0,0,67,34,33,67,0
-2021-07-14,LQ,Bosnia-Herzegovina,1148,1075,2,0,73,37,34,71,2
-2021-07-15,LQ,Bosnia-Herzegovina,1137,1061,0,0,76,38,38,76,0
-2021-07-16,LQ,Bosnia-Herzegovina,1271,1171,2,0,100,50,48,98,2
-2021-07-17,LQ,Bosnia-Herzegovina,1412,1348,0,0,64,32,32,64,0
-2021-07-18,LQ,Bosnia-Herzegovina,1308,1234,1,1,74,37,36,73,0
-2021-07-19,LQ,Bosnia-Herzegovina,1125,1046,0,0,79,39,40,79,0
-2021-07-20,LQ,Bosnia-Herzegovina,1099,1034,0,0,65,32,33,65,0
-2021-07-21,LQ,Bosnia-Herzegovina,1111,1047,0,0,64,31,33,64,0
-2021-07-22,LQ,Bosnia-Herzegovina,1153,1081,0,0,72,36,36,72,0
-2021-07-23,LQ,Bosnia-Herzegovina,1325,1233,0,0,92,47,45,92,0
-2021-07-24,LQ,Bosnia-Herzegovina,1440,1373,0,0,67,33,34,67,0
-2021-07-25,LQ,Bosnia-Herzegovina,1339,1279,0,0,60,30,30,60,0
-2021-07-26,LQ,Bosnia-Herzegovina,1129,1046,0,0,83,42,41,83,0
-2021-07-27,LQ,Bosnia-Herzegovina,1147,1085,1,1,62,30,31,61,0
-2021-07-28,LQ,Bosnia-Herzegovina,1211,1152,0,0,59,29,30,59,0
-2021-07-29,LQ,Bosnia-Herzegovina,1212,1147,0,0,65,33,32,65,0
-2021-07-30,LQ,Bosnia-Herzegovina,1409,1327,0,0,82,41,41,82,0
-2021-07-31,LQ,Bosnia-Herzegovina,1555,1493,0,0,62,30,32,62,0
-2021-08-01,LQ,Bosnia-Herzegovina,1448,1385,0,0,63,33,30,63,0
-2021-08-02,LQ,Bosnia-Herzegovina,1325,1247,0,0,78,38,40,78,0
-2021-08-03,LQ,Bosnia-Herzegovina,1238,1161,1,1,77,39,37,76,0
-2021-08-04,LQ,Bosnia-Herzegovina,1273,1213,0,0,60,29,31,60,0
-2021-08-05,LQ,Bosnia-Herzegovina,1253,1192,1,0,61,30,30,60,1
-2021-08-06,LQ,Bosnia-Herzegovina,1373,1290,0,0,83,42,41,83,0
-2021-08-07,LQ,Bosnia-Herzegovina,1470,1410,0,0,60,29,31,60,0
-2021-08-08,LQ,Bosnia-Herzegovina,1423,1366,0,0,57,29,28,57,0
-2021-08-09,LQ,Bosnia-Herzegovina,1268,1188,0,0,80,40,40,80,0
-2021-08-10,LQ,Bosnia-Herzegovina,1238,1164,1,1,74,37,36,73,0
-2021-08-11,LQ,Bosnia-Herzegovina,1301,1234,0,0,67,33,34,67,0
-2021-08-12,LQ,Bosnia-Herzegovina,1252,1187,0,0,65,33,32,65,0
-2021-08-13,LQ,Bosnia-Herzegovina,1451,1362,0,0,89,44,45,89,0
-2021-08-14,LQ,Bosnia-Herzegovina,1551,1489,0,0,62,31,31,62,0
-2021-08-15,LQ,Bosnia-Herzegovina,1449,1379,0,0,70,36,34,70,0
-2021-08-16,LQ,Bosnia-Herzegovina,1257,1180,1,1,77,37,39,76,0
-2021-08-17,LQ,Bosnia-Herzegovina,1248,1191,0,0,57,30,27,57,0
-2021-08-18,LQ,Bosnia-Herzegovina,1306,1236,0,0,70,34,36,70,0
-2021-08-19,LQ,Bosnia-Herzegovina,1265,1203,0,0,62,32,30,62,0
-2021-08-20,LQ,Bosnia-Herzegovina,1433,1349,0,0,84,41,43,84,0
-2021-08-21,LQ,Bosnia-Herzegovina,1525,1460,0,0,65,32,33,65,0
-2021-08-22,LQ,Bosnia-Herzegovina,1463,1400,0,0,63,32,31,63,0
-2021-08-23,LQ,Bosnia-Herzegovina,1246,1169,0,0,77,38,39,77,0
-2021-08-24,LQ,Bosnia-Herzegovina,1260,1187,0,0,73,37,36,73,0
-2021-08-25,LQ,Bosnia-Herzegovina,1274,1222,0,0,52,25,27,52,0
-2021-08-26,LQ,Bosnia-Herzegovina,1277,1205,1,0,72,36,35,71,1
-2021-08-27,LQ,Bosnia-Herzegovina,1451,1361,3,0,90,43,44,87,3
-2021-08-28,LQ,Bosnia-Herzegovina,1502,1442,0,0,60,31,29,60,0
-2021-08-29,LQ,Bosnia-Herzegovina,1419,1356,0,0,63,33,30,63,0
-2021-08-30,LQ,Bosnia-Herzegovina,1231,1156,0,0,75,36,39,75,0
-2021-08-31,LQ,Bosnia-Herzegovina,1187,1126,0,0,61,31,30,61,0
-2021-09-01,LQ,Bosnia-Herzegovina,1223,1169,0,0,54,27,27,54,0
-2021-09-02,LQ,Bosnia-Herzegovina,1198,1140,0,0,58,29,29,58,0
-2021-09-03,LQ,Bosnia-Herzegovina,1369,1290,0,0,79,39,40,79,0
-2021-09-04,LQ,Bosnia-Herzegovina,1475,1416,0,0,59,30,29,59,0
-2021-09-05,LQ,Bosnia-Herzegovina,1303,1250,0,0,53,26,27,53,0
-2021-09-06,LQ,Bosnia-Herzegovina,1155,1090,0,0,65,32,33,65,0
-2021-09-07,LQ,Bosnia-Herzegovina,1122,1056,1,1,66,32,33,65,0
-2021-09-08,LQ,Bosnia-Herzegovina,1150,1092,0,0,58,30,28,58,0
-2021-09-09,LQ,Bosnia-Herzegovina,1159,1110,0,0,49,24,25,49,0
-2021-09-10,LQ,Bosnia-Herzegovina,1297,1217,0,0,80,41,39,80,0
-2021-09-11,LQ,Bosnia-Herzegovina,1422,1368,0,0,54,27,27,54,0
-2021-09-12,LQ,Bosnia-Herzegovina,1292,1245,0,0,47,23,24,47,0
-2021-09-13,LQ,Bosnia-Herzegovina,1163,1094,2,2,69,33,34,67,0
-2021-09-14,LQ,Bosnia-Herzegovina,1069,1010,0,0,59,30,29,59,0
-2021-09-15,LQ,Bosnia-Herzegovina,1125,1071,0,0,54,27,27,54,0
-2021-09-16,LQ,Bosnia-Herzegovina,1040,985,0,0,55,28,27,55,0
-2021-09-17,LQ,Bosnia-Herzegovina,1310,1237,0,0,73,36,37,73,0
-2021-09-18,LQ,Bosnia-Herzegovina,1349,1297,2,0,52,25,25,50,2
-2021-09-19,LQ,Bosnia-Herzegovina,1263,1214,0,0,49,24,25,49,0
-2021-09-20,LQ,Bosnia-Herzegovina,1072,1004,0,0,68,35,33,68,0
-2021-09-21,LQ,Bosnia-Herzegovina,1028,980,1,0,48,23,24,47,1
-2021-09-22,LQ,Bosnia-Herzegovina,1089,1038,0,0,51,25,26,51,0
-2021-09-23,LQ,Bosnia-Herzegovina,1063,1010,0,0,53,28,25,53,0
-2021-09-24,LQ,Bosnia-Herzegovina,1228,1161,0,0,67,33,34,67,0
-2021-09-25,LQ,Bosnia-Herzegovina,1368,1318,0,0,50,25,25,50,0
-2021-09-26,LQ,Bosnia-Herzegovina,1235,1187,0,0,48,24,24,48,0
-2021-09-27,LQ,Bosnia-Herzegovina,1096,1029,2,1,67,31,34,65,1
-2021-09-28,LQ,Bosnia-Herzegovina,1039,984,3,1,55,27,25,52,2
-2021-09-29,LQ,Bosnia-Herzegovina,1040,989,2,1,51,24,25,49,1
-2021-09-30,LQ,Bosnia-Herzegovina,1046,982,6,2,64,29,29,58,4
-2021-10-01,LQ,Bosnia-Herzegovina,1254,1177,1,0,77,39,37,76,1
-2021-10-02,LQ,Bosnia-Herzegovina,1389,1344,0,0,45,23,22,45,0
-2021-10-03,LQ,Bosnia-Herzegovina,1244,1186,0,0,58,29,29,58,0
-2021-10-04,LQ,Bosnia-Herzegovina,1051,995,0,0,56,28,28,56,0
-2021-10-05,LQ,Bosnia-Herzegovina,987,942,1,0,45,21,23,44,1
-2021-10-06,LQ,Bosnia-Herzegovina,986,937,1,1,49,24,24,48,0
-2021-10-07,LQ,Bosnia-Herzegovina,980,930,1,0,50,24,25,49,1
-2021-10-08,LQ,Bosnia-Herzegovina,1212,1147,0,0,65,32,33,65,0
-2021-10-09,LQ,Bosnia-Herzegovina,1322,1275,0,0,47,23,24,47,0
-2021-10-10,LQ,Bosnia-Herzegovina,1250,1201,0,0,49,26,23,49,0
-2021-10-11,LQ,Bosnia-Herzegovina,1020,967,0,0,53,26,27,53,0
-2021-10-12,LQ,Bosnia-Herzegovina,937,894,0,0,43,22,21,43,0
-2021-10-13,LQ,Bosnia-Herzegovina,998,957,1,0,41,20,20,40,1
-2021-10-14,LQ,Bosnia-Herzegovina,1003,951,2,0,52,25,25,50,2
-2021-10-15,LQ,Bosnia-Herzegovina,1226,1168,0,0,58,30,28,58,0
-2021-10-16,LQ,Bosnia-Herzegovina,1351,1309,0,0,42,20,22,42,0
-2021-10-17,LQ,Bosnia-Herzegovina,1177,1129,0,0,48,24,24,48,0
-2021-10-18,LQ,Bosnia-Herzegovina,1000,950,0,0,50,26,24,50,0
-2021-10-19,LQ,Bosnia-Herzegovina,968,917,0,0,51,26,25,51,0
-2021-10-20,LQ,Bosnia-Herzegovina,996,951,1,1,45,23,21,44,0
-2021-10-21,LQ,Bosnia-Herzegovina,1012,964,0,0,48,24,24,48,0
-2021-10-22,LQ,Bosnia-Herzegovina,1223,1161,0,0,62,31,31,62,0
-2021-10-23,LQ,Bosnia-Herzegovina,1349,1303,0,0,46,23,23,46,0
-2021-10-24,LQ,Bosnia-Herzegovina,1227,1181,0,0,46,23,23,46,0
-2021-10-25,LQ,Bosnia-Herzegovina,989,936,0,0,53,26,27,53,0
-2021-10-26,LQ,Bosnia-Herzegovina,898,852,0,0,46,24,22,46,0
-2021-10-27,LQ,Bosnia-Herzegovina,937,897,0,0,40,19,21,40,0
-2021-10-28,LQ,Bosnia-Herzegovina,937,891,2,0,46,23,21,44,2
-2021-10-29,LQ,Bosnia-Herzegovina,1123,1075,0,0,48,24,24,48,0
-2021-10-30,LQ,Bosnia-Herzegovina,1306,1259,0,0,47,24,23,47,0
-2021-10-31,LQ,Bosnia-Herzegovina,1079,1031,1,0,48,24,23,47,1
-2021-11-01,LQ,Bosnia-Herzegovina,789,741,0,0,48,24,24,48,0
-2021-11-02,LQ,Bosnia-Herzegovina,714,664,0,0,50,25,25,50,0
-2021-11-03,LQ,Bosnia-Herzegovina,696,654,0,0,42,20,22,42,0
-2021-11-04,LQ,Bosnia-Herzegovina,689,649,0,0,40,20,20,40,0
-2021-11-05,LQ,Bosnia-Herzegovina,798,752,0,0,46,22,24,46,0
-2021-11-06,LQ,Bosnia-Herzegovina,937,886,2,0,51,26,23,49,2
-2021-11-07,LQ,Bosnia-Herzegovina,864,818,0,0,46,25,21,46,0
-2021-11-08,LQ,Bosnia-Herzegovina,734,676,1,0,58,26,31,57,1
-2021-11-09,LQ,Bosnia-Herzegovina,629,579,0,0,50,25,25,50,0
-2021-11-10,LQ,Bosnia-Herzegovina,618,584,0,0,34,16,18,34,0
-2021-11-11,LQ,Bosnia-Herzegovina,624,589,0,0,35,20,15,35,0
-2021-11-12,LQ,Bosnia-Herzegovina,747,689,0,0,58,27,31,58,0
-2021-11-13,LQ,Bosnia-Herzegovina,801,755,0,0,46,23,23,46,0
-2021-11-14,LQ,Bosnia-Herzegovina,793,750,0,0,43,22,21,43,0
-2021-11-15,LQ,Bosnia-Herzegovina,675,631,1,0,44,21,22,43,1
-2021-11-16,LQ,Bosnia-Herzegovina,609,557,2,0,52,25,25,50,2
-2021-11-17,LQ,Bosnia-Herzegovina,644,614,0,0,30,15,15,30,0
-2021-11-18,LQ,Bosnia-Herzegovina,618,578,0,0,40,21,19,40,0
-2021-11-19,LQ,Bosnia-Herzegovina,766,710,1,0,56,27,28,55,1
-2021-11-20,LQ,Bosnia-Herzegovina,761,722,0,0,39,20,19,39,0
-2021-11-21,LQ,Bosnia-Herzegovina,709,675,0,0,34,16,18,34,0
-2021-11-22,LQ,Bosnia-Herzegovina,652,612,0,0,40,20,20,40,0
-2021-11-23,LQ,Bosnia-Herzegovina,581,535,1,0,46,22,23,45,1
-2021-11-24,LQ,Bosnia-Herzegovina,635,593,4,0,42,18,20,38,4
-2021-11-25,LQ,Bosnia-Herzegovina,605,565,1,0,40,22,17,39,1
-2021-11-26,LQ,Bosnia-Herzegovina,744,696,0,0,48,23,25,48,0
-2021-11-27,LQ,Bosnia-Herzegovina,744,699,0,0,45,24,21,45,0
-2021-11-28,LQ,Bosnia-Herzegovina,728,684,0,0,44,22,22,44,0
-2021-11-29,LQ,Bosnia-Herzegovina,610,570,3,0,40,18,19,37,3
-2021-11-30,LQ,Bosnia-Herzegovina,598,553,0,0,45,23,22,45,0
-2021-12-01,LQ,Bosnia-Herzegovina,590,563,0,0,27,13,14,27,0
-2021-12-02,LQ,Bosnia-Herzegovina,539,501,0,0,38,19,19,38,0
-2021-12-03,LQ,Bosnia-Herzegovina,687,629,0,0,58,28,30,58,0
-2021-12-04,LQ,Bosnia-Herzegovina,698,652,0,0,46,24,22,46,0
-2021-12-05,LQ,Bosnia-Herzegovina,681,645,0,0,36,18,18,36,0
-2021-12-06,LQ,Bosnia-Herzegovina,590,552,0,0,38,19,19,38,0
-2021-12-07,LQ,Bosnia-Herzegovina,539,494,2,0,45,21,22,43,2
-2021-12-08,LQ,Bosnia-Herzegovina,580,545,0,0,35,17,18,35,0
-2021-12-09,LQ,Bosnia-Herzegovina,547,514,0,0,33,17,16,33,0
-2021-12-10,LQ,Bosnia-Herzegovina,689,633,0,0,56,28,28,56,0
-2021-12-11,LQ,Bosnia-Herzegovina,692,652,0,0,40,21,19,40,0
-2021-12-12,LQ,Bosnia-Herzegovina,663,630,0,0,33,16,17,33,0
-2021-12-13,LQ,Bosnia-Herzegovina,620,570,0,0,50,24,26,50,0
-2021-12-14,LQ,Bosnia-Herzegovina,593,547,2,0,46,22,22,44,2
-2021-12-15,LQ,Bosnia-Herzegovina,677,628,2,0,49,23,24,47,2
-2021-12-16,LQ,Bosnia-Herzegovina,713,658,2,0,55,28,25,53,2
-2021-12-17,LQ,Bosnia-Herzegovina,827,754,0,0,73,36,37,73,0
-2021-12-18,LQ,Bosnia-Herzegovina,913,852,2,0,61,30,29,59,2
-2021-12-19,LQ,Bosnia-Herzegovina,894,846,1,0,48,23,24,47,1
-2021-12-20,LQ,Bosnia-Herzegovina,775,714,1,0,61,29,31,60,1
-2021-12-21,LQ,Bosnia-Herzegovina,731,670,0,0,61,32,29,61,0
-2021-12-22,LQ,Bosnia-Herzegovina,821,768,1,0,53,25,27,52,1
-2021-12-23,LQ,Bosnia-Herzegovina,879,814,0,0,65,33,32,65,0
-2021-12-24,LQ,Bosnia-Herzegovina,771,700,0,0,71,36,35,71,0
-2021-12-25,LQ,Bosnia-Herzegovina,621,574,0,0,47,23,24,47,0
-2021-12-26,LQ,Bosnia-Herzegovina,789,738,0,0,51,24,27,51,0
-2021-12-27,LQ,Bosnia-Herzegovina,756,690,5,0,66,30,31,61,5
-2021-12-28,LQ,Bosnia-Herzegovina,714,660,0,0,54,30,24,54,0
-2021-12-29,LQ,Bosnia-Herzegovina,736,687,0,0,49,22,27,49,0
-2021-12-30,LQ,Bosnia-Herzegovina,779,713,0,0,66,33,33,66,0
-2021-12-31,LQ,Bosnia-Herzegovina,658,606,0,0,52,28,24,52,0
+2021-01-01,EB,Belgium and Luxembourg,0,-297,1,0,297,144,152,296,1
+2021-01-02,EB,Belgium and Luxembourg,0,-417,5,1,417,207,205,412,4
+2021-01-03,EB,Belgium and Luxembourg,0,-552,6,0,552,271,275,546,6
+2021-01-04,EB,Belgium and Luxembourg,0,-513,7,4,513,241,265,506,3
+2021-01-05,EB,Belgium and Luxembourg,0,-452,6,2,452,229,217,446,4
+2021-01-06,EB,Belgium and Luxembourg,0,-463,5,2,463,235,223,458,3
+2021-01-07,EB,Belgium and Luxembourg,0,-497,1,0,497,242,254,496,1
+2021-01-08,EB,Belgium and Luxembourg,0,-515,5,1,515,264,246,510,4
+2021-01-09,EB,Belgium and Luxembourg,0,-390,6,3,390,201,183,384,3
+2021-01-10,EB,Belgium and Luxembourg,0,-459,1,0,459,230,228,458,1
+2021-01-11,EB,Belgium and Luxembourg,0,-401,3,1,401,178,220,398,2
+2021-01-12,EB,Belgium and Luxembourg,0,-386,5,2,386,198,183,381,3
+2021-01-13,EB,Belgium and Luxembourg,0,-415,3,2,415,206,206,412,1
+2021-01-14,EB,Belgium and Luxembourg,0,-445,9,4,445,213,223,436,5
+2021-01-15,EB,Belgium and Luxembourg,0,-489,12,7,489,249,228,477,5
+2021-01-16,EB,Belgium and Luxembourg,0,-352,2,1,352,184,166,350,1
+2021-01-17,EB,Belgium and Luxembourg,0,-368,7,3,368,178,183,361,4
+2021-01-18,EB,Belgium and Luxembourg,0,-399,8,3,399,183,208,391,5
+2021-01-19,EB,Belgium and Luxembourg,0,-389,7,2,389,200,182,382,5
+2021-01-20,EB,Belgium and Luxembourg,0,-331,5,2,331,163,163,326,3
+2021-01-21,EB,Belgium and Luxembourg,0,-396,9,5,396,185,202,387,4
+2021-01-22,EB,Belgium and Luxembourg,0,-474,26,13,474,225,223,448,13
+2021-01-23,EB,Belgium and Luxembourg,0,-353,11,3,353,186,156,342,8
+2021-01-24,EB,Belgium and Luxembourg,0,-368,6,1,368,170,192,362,5
+2021-01-25,EB,Belgium and Luxembourg,0,-430,18,12,430,192,220,412,6
+2021-01-26,EB,Belgium and Luxembourg,0,-447,18,10,447,219,210,429,8
+2021-01-27,EB,Belgium and Luxembourg,0,-398,16,7,398,194,188,382,9
+2021-01-28,EB,Belgium and Luxembourg,0,-452,8,7,452,220,224,444,1
+2021-01-29,EB,Belgium and Luxembourg,0,-450,13,11,450,220,217,437,2
+2021-01-30,EB,Belgium and Luxembourg,0,-338,7,5,338,178,153,331,2
+2021-01-31,EB,Belgium and Luxembourg,0,-363,10,4,363,171,182,353,6
+2021-02-01,EB,Belgium and Luxembourg,0,-383,12,9,383,172,199,371,3
+2021-02-02,EB,Belgium and Luxembourg,0,-391,9,6,391,195,187,382,3
+2021-02-03,EB,Belgium and Luxembourg,0,-391,11,4,391,193,187,380,7
+2021-02-04,EB,Belgium and Luxembourg,0,-471,27,20,471,219,225,444,7
+2021-02-05,EB,Belgium and Luxembourg,0,-489,36,18,489,238,215,453,18
+2021-02-06,EB,Belgium and Luxembourg,0,-334,10,10,334,168,156,324,0
+2021-02-07,EB,Belgium and Luxembourg,0,-335,1,1,335,163,171,334,0
+2021-02-08,EB,Belgium and Luxembourg,0,-374,8,5,374,165,201,366,3
+2021-02-09,EB,Belgium and Luxembourg,0,-339,21,14,339,164,154,318,7
+2021-02-10,EB,Belgium and Luxembourg,0,-429,22,15,429,202,205,407,7
+2021-02-11,EB,Belgium and Luxembourg,0,-478,18,14,478,235,225,460,4
+2021-02-12,EB,Belgium and Luxembourg,0,-504,31,17,504,239,234,473,14
+2021-02-13,EB,Belgium and Luxembourg,0,-356,20,11,356,180,156,336,9
+2021-02-14,EB,Belgium and Luxembourg,0,-372,13,9,372,174,185,359,4
+2021-02-15,EB,Belgium and Luxembourg,0,-358,17,12,358,155,186,341,5
+2021-02-16,EB,Belgium and Luxembourg,0,-338,24,18,338,156,158,314,6
+2021-02-17,EB,Belgium and Luxembourg,0,-399,27,20,399,190,182,372,7
+2021-02-18,EB,Belgium and Luxembourg,0,-420,28,19,420,195,197,392,9
+2021-02-19,EB,Belgium and Luxembourg,0,-496,42,26,496,235,219,454,16
+2021-02-20,EB,Belgium and Luxembourg,0,-342,20,11,342,171,151,322,9
+2021-02-21,EB,Belgium and Luxembourg,0,-432,24,17,432,192,216,408,7
+2021-02-22,EB,Belgium and Luxembourg,0,-424,25,17,424,185,214,399,8
+2021-02-23,EB,Belgium and Luxembourg,0,-418,25,9,418,206,187,393,16
+2021-02-24,EB,Belgium and Luxembourg,0,-400,30,26,400,181,189,370,4
+2021-02-25,EB,Belgium and Luxembourg,0,-460,34,20,460,214,212,426,14
+2021-02-26,EB,Belgium and Luxembourg,0,-478,25,16,478,233,220,453,9
+2021-02-27,EB,Belgium and Luxembourg,0,-351,22,14,351,180,149,329,8
+2021-02-28,EB,Belgium and Luxembourg,0,-402,19,11,402,185,198,383,8
+2021-03-01,EB,Belgium and Luxembourg,0,-422,22,10,422,182,218,400,12
+2021-03-02,EB,Belgium and Luxembourg,0,-382,22,16,382,180,180,360,6
+2021-03-03,EB,Belgium and Luxembourg,0,-333,26,12,333,158,149,307,14
+2021-03-04,EB,Belgium and Luxembourg,0,-415,8,3,415,204,203,407,5
+2021-03-05,EB,Belgium and Luxembourg,0,-472,20,7,472,229,223,452,13
+2021-03-06,EB,Belgium and Luxembourg,0,-321,20,15,321,156,145,301,5
+2021-03-07,EB,Belgium and Luxembourg,0,-345,3,2,345,171,171,342,1
+2021-03-08,EB,Belgium and Luxembourg,0,-367,23,11,367,153,191,344,12
+2021-03-09,EB,Belgium and Luxembourg,0,-389,25,18,389,180,184,364,7
+2021-03-10,EB,Belgium and Luxembourg,0,-410,22,6,410,196,192,388,16
+2021-03-11,EB,Belgium and Luxembourg,0,-405,2,2,405,208,195,403,0
+2021-03-12,EB,Belgium and Luxembourg,0,-428,14,7,428,207,207,414,7
+2021-03-13,EB,Belgium and Luxembourg,0,-277,8,3,277,151,118,269,5
+2021-03-14,EB,Belgium and Luxembourg,0,-353,14,7,353,158,181,339,7
+2021-03-15,EB,Belgium and Luxembourg,0,-386,32,18,386,159,195,354,14
+2021-03-16,EB,Belgium and Luxembourg,0,-420,30,17,420,202,188,390,13
+2021-03-17,EB,Belgium and Luxembourg,0,-421,27,15,421,201,193,394,12
+2021-03-18,EB,Belgium and Luxembourg,0,-461,20,15,461,221,220,441,5
+2021-03-19,EB,Belgium and Luxembourg,0,-509,32,17,509,241,236,477,15
+2021-03-20,EB,Belgium and Luxembourg,0,-339,25,12,339,172,142,314,13
+2021-03-21,EB,Belgium and Luxembourg,0,-367,12,7,367,171,184,355,5
+2021-03-22,EB,Belgium and Luxembourg,0,-429,17,11,429,185,227,412,6
+2021-03-23,EB,Belgium and Luxembourg,0,-457,41,21,457,213,203,416,20
+2021-03-24,EB,Belgium and Luxembourg,0,-469,31,20,469,221,217,438,11
+2021-03-25,EB,Belgium and Luxembourg,0,-464,28,18,464,221,215,436,10
+2021-03-26,EB,Belgium and Luxembourg,0,-551,24,11,551,270,257,527,13
+2021-03-27,EB,Belgium and Luxembourg,0,-344,13,8,344,174,157,331,5
+2021-03-28,EB,Belgium and Luxembourg,0,-388,14,6,388,186,188,374,8
+2021-03-29,EB,Belgium and Luxembourg,0,-390,35,16,390,183,172,355,19
+2021-03-30,EB,Belgium and Luxembourg,0,-417,27,15,417,174,216,390,12
+2021-03-31,EB,Belgium and Luxembourg,0,-512,29,20,512,246,237,483,9
+2021-04-01,EB,Belgium and Luxembourg,0,-517,26,14,517,250,241,491,12
+2021-04-02,EB,Belgium and Luxembourg,0,-545,14,8,545,266,265,531,6
+2021-04-03,EB,Belgium and Luxembourg,0,-413,10,6,413,211,192,403,4
+2021-04-04,EB,Belgium and Luxembourg,0,-378,8,6,378,182,188,370,2
+2021-04-05,EB,Belgium and Luxembourg,0,-409,1,0,409,192,216,408,1
+2021-04-06,EB,Belgium and Luxembourg,0,-362,10,6,362,172,180,352,4
+2021-04-07,EB,Belgium and Luxembourg,0,-449,12,9,449,219,218,437,3
+2021-04-08,EB,Belgium and Luxembourg,0,-475,23,10,475,235,217,452,13
+2021-04-09,EB,Belgium and Luxembourg,0,-585,23,14,585,281,281,562,9
+2021-04-10,EB,Belgium and Luxembourg,0,-389,4,1,389,204,181,385,3
+2021-04-11,EB,Belgium and Luxembourg,0,-436,3,0,436,215,218,433,3
+2021-04-12,EB,Belgium and Luxembourg,0,-473,8,7,473,219,246,465,1
+2021-04-13,EB,Belgium and Luxembourg,0,-427,19,11,427,203,205,408,8
+2021-04-14,EB,Belgium and Luxembourg,0,-466,23,15,466,219,224,443,8
+2021-04-15,EB,Belgium and Luxembourg,0,-458,13,10,458,225,220,445,3
+2021-04-16,EB,Belgium and Luxembourg,0,-543,19,10,543,264,260,524,9
+2021-04-17,EB,Belgium and Luxembourg,0,-383,8,4,383,196,179,375,4
+2021-04-18,EB,Belgium and Luxembourg,0,-440,10,4,440,207,223,430,6
+2021-04-19,EB,Belgium and Luxembourg,0,-493,26,16,493,222,245,467,10
+2021-04-20,EB,Belgium and Luxembourg,0,-450,24,16,450,223,203,426,8
+2021-04-21,EB,Belgium and Luxembourg,0,-462,33,14,462,213,216,429,19
+2021-04-22,EB,Belgium and Luxembourg,0,-483,26,15,483,224,233,457,11
+2021-04-23,EB,Belgium and Luxembourg,0,-577,38,13,577,271,268,539,25
+2021-04-24,EB,Belgium and Luxembourg,0,-417,19,10,417,209,189,398,9
+2021-04-25,EB,Belgium and Luxembourg,0,-429,9,5,429,212,208,420,4
+2021-04-26,EB,Belgium and Luxembourg,0,-481,20,13,481,219,242,461,7
+2021-04-27,EB,Belgium and Luxembourg,0,-484,30,22,484,228,226,454,8
+2021-04-28,EB,Belgium and Luxembourg,0,-498,21,16,498,238,239,477,5
+2021-04-29,EB,Belgium and Luxembourg,0,-508,22,11,508,245,241,486,11
+2021-04-30,EB,Belgium and Luxembourg,0,-608,24,7,608,296,288,584,17
+2021-05-01,EB,Belgium and Luxembourg,0,-419,9,3,419,218,192,410,6
+2021-05-02,EB,Belgium and Luxembourg,0,-447,7,3,447,214,226,440,4
+2021-05-03,EB,Belgium and Luxembourg,0,-487,27,13,487,220,240,460,14
+2021-05-04,EB,Belgium and Luxembourg,0,-440,3,2,440,214,223,437,1
+2021-05-05,EB,Belgium and Luxembourg,0,-509,20,9,509,243,246,489,11
+2021-05-06,EB,Belgium and Luxembourg,0,-544,27,18,544,263,254,517,9
+2021-05-07,EB,Belgium and Luxembourg,0,-599,31,16,599,290,278,568,15
+2021-05-08,EB,Belgium and Luxembourg,0,-426,7,5,426,217,202,419,2
+2021-05-09,EB,Belgium and Luxembourg,0,-488,5,0,488,225,258,483,5
+2021-05-10,EB,Belgium and Luxembourg,0,-495,24,13,495,236,235,471,11
+2021-05-11,EB,Belgium and Luxembourg,0,-519,33,21,519,240,246,486,12
+2021-05-12,EB,Belgium and Luxembourg,0,-592,29,20,592,291,272,563,9
+2021-05-13,EB,Belgium and Luxembourg,0,-546,33,12,546,270,243,513,21
+2021-05-14,EB,Belgium and Luxembourg,0,-512,14,8,512,249,249,498,6
+2021-05-15,EB,Belgium and Luxembourg,0,-418,10,6,418,216,192,408,4
+2021-05-16,EB,Belgium and Luxembourg,0,-576,6,1,576,257,313,570,5
+2021-05-17,EB,Belgium and Luxembourg,0,-575,27,16,575,270,278,548,11
+2021-05-18,EB,Belgium and Luxembourg,0,-547,27,14,547,256,264,520,13
+2021-05-19,EB,Belgium and Luxembourg,0,-552,22,13,552,268,262,530,9
+2021-05-20,EB,Belgium and Luxembourg,0,-650,28,10,650,314,308,622,18
+2021-05-21,EB,Belgium and Luxembourg,0,-653,18,8,653,328,307,635,10
+2021-05-22,EB,Belgium and Luxembourg,0,-477,5,4,477,247,225,472,1
+2021-05-23,EB,Belgium and Luxembourg,0,-523,3,1,523,257,263,520,2
+2021-05-24,EB,Belgium and Luxembourg,0,-589,12,8,589,254,323,577,4
+2021-05-25,EB,Belgium and Luxembourg,0,-565,23,12,565,286,256,542,11
+2021-05-26,EB,Belgium and Luxembourg,0,-543,20,10,543,263,260,523,10
+2021-05-27,EB,Belgium and Luxembourg,0,-612,35,16,612,295,282,577,19
+2021-05-28,EB,Belgium and Luxembourg,0,-662,16,11,662,322,324,646,5
+2021-05-29,EB,Belgium and Luxembourg,0,-507,17,12,507,255,235,490,5
+2021-05-30,EB,Belgium and Luxembourg,0,-587,14,8,587,276,297,573,6
+2021-05-31,EB,Belgium and Luxembourg,0,-582,25,14,582,268,289,557,11
+2021-06-01,EB,Belgium and Luxembourg,0,-631,36,18,631,295,300,595,18
+2021-06-02,EB,Belgium and Luxembourg,0,-615,40,19,615,294,281,575,21
+2021-06-03,EB,Belgium and Luxembourg,0,-652,28,17,652,314,310,624,11
+2021-06-04,EB,Belgium and Luxembourg,0,-746,27,17,746,362,357,719,10
+2021-06-05,EB,Belgium and Luxembourg,0,-527,13,7,527,268,246,514,6
+2021-06-06,EB,Belgium and Luxembourg,0,-624,15,2,624,301,308,609,13
+2021-06-07,EB,Belgium and Luxembourg,0,-640,36,16,640,290,314,604,20
+2021-06-08,EB,Belgium and Luxembourg,0,-624,32,18,624,288,304,592,14
+2021-06-09,EB,Belgium and Luxembourg,0,-633,23,12,633,306,304,610,11
+2021-06-10,EB,Belgium and Luxembourg,0,-693,28,8,693,339,326,665,20
+2021-06-11,EB,Belgium and Luxembourg,0,-759,35,18,759,367,357,724,17
+2021-06-12,EB,Belgium and Luxembourg,0,-531,8,6,531,268,255,523,2
+2021-06-13,EB,Belgium and Luxembourg,0,-691,14,5,691,325,352,677,9
+2021-06-14,EB,Belgium and Luxembourg,0,-761,33,18,761,360,368,728,15
+2021-06-15,EB,Belgium and Luxembourg,0,-730,29,13,730,368,333,701,16
+2021-06-16,EB,Belgium and Luxembourg,0,-803,45,23,803,370,388,758,22
+2021-06-17,EB,Belgium and Luxembourg,0,-748,22,11,748,364,362,726,11
+2021-06-18,EB,Belgium and Luxembourg,0,-846,19,8,846,424,403,827,11
+2021-06-19,EB,Belgium and Luxembourg,0,-653,11,4,653,324,318,642,7
+2021-06-20,EB,Belgium and Luxembourg,0,-740,11,4,740,367,362,729,7
+2021-06-21,EB,Belgium and Luxembourg,0,-749,25,14,749,345,379,724,11
+2021-06-22,EB,Belgium and Luxembourg,0,-726,29,11,726,353,344,697,18
+2021-06-23,EB,Belgium and Luxembourg,0,-784,29,18,784,373,382,755,11
+2021-06-24,EB,Belgium and Luxembourg,0,-811,22,10,811,388,401,789,12
+2021-06-25,EB,Belgium and Luxembourg,0,-928,23,15,928,466,439,905,8
+2021-06-26,EB,Belgium and Luxembourg,0,-695,9,5,695,356,330,686,4
+2021-06-27,EB,Belgium and Luxembourg,0,-770,9,2,770,376,385,761,7
+2021-06-28,EB,Belgium and Luxembourg,0,-817,22,11,817,380,415,795,11
+2021-06-29,EB,Belgium and Luxembourg,0,-773,31,20,773,370,372,742,11
+2021-06-30,EB,Belgium and Luxembourg,0,-850,28,14,850,413,409,822,14
+2021-07-01,EB,Belgium and Luxembourg,0,-978,37,15,978,473,468,941,22
+2021-07-02,EB,Belgium and Luxembourg,0,-1027,15,6,1027,515,497,1012,9
+2021-07-03,EB,Belgium and Luxembourg,0,-832,5,3,832,420,407,827,2
+2021-07-04,EB,Belgium and Luxembourg,0,-840,6,1,840,415,419,834,5
+2021-07-05,EB,Belgium and Luxembourg,0,-899,20,10,899,421,458,879,10
+2021-07-06,EB,Belgium and Luxembourg,0,-832,19,8,832,413,400,813,11
+2021-07-07,EB,Belgium and Luxembourg,0,-920,37,19,920,440,443,883,18
+2021-07-08,EB,Belgium and Luxembourg,0,-917,37,20,917,446,434,880,17
+2021-07-09,EB,Belgium and Luxembourg,0,-1021,18,6,1021,502,501,1003,12
+2021-07-10,EB,Belgium and Luxembourg,0,-834,11,6,834,418,405,823,5
+2021-07-11,EB,Belgium and Luxembourg,0,-890,9,5,890,438,443,881,4
+2021-07-12,EB,Belgium and Luxembourg,0,-952,29,11,952,447,476,923,18
+2021-07-13,EB,Belgium and Luxembourg,0,-844,14,7,844,417,413,830,7
+2021-07-14,EB,Belgium and Luxembourg,0,-919,22,6,919,453,444,897,16
+2021-07-15,EB,Belgium and Luxembourg,0,-932,14,3,932,460,458,918,11
+2021-07-16,EB,Belgium and Luxembourg,0,-1053,33,22,1053,512,508,1020,11
+2021-07-17,EB,Belgium and Luxembourg,0,-884,15,6,884,447,422,869,9
+2021-07-18,EB,Belgium and Luxembourg,0,-891,4,3,891,448,439,887,1
+2021-07-19,EB,Belgium and Luxembourg,0,-940,27,13,940,435,478,913,14
+2021-07-20,EB,Belgium and Luxembourg,0,-854,29,15,854,416,409,825,14
+2021-07-21,EB,Belgium and Luxembourg,0,-860,24,6,860,418,418,836,18
+2021-07-22,EB,Belgium and Luxembourg,0,-927,25,11,927,451,451,902,14
+2021-07-23,EB,Belgium and Luxembourg,0,-1019,15,9,1019,505,499,1004,6
+2021-07-24,EB,Belgium and Luxembourg,0,-842,4,1,842,427,411,838,3
+2021-07-25,EB,Belgium and Luxembourg,0,-912,8,2,912,456,448,904,6
+2021-07-26,EB,Belgium and Luxembourg,0,-912,22,15,912,431,459,890,7
+2021-07-27,EB,Belgium and Luxembourg,0,-845,23,13,845,409,413,822,10
+2021-07-28,EB,Belgium and Luxembourg,0,-932,13,6,932,459,460,919,7
+2021-07-29,EB,Belgium and Luxembourg,0,-930,28,10,930,442,460,902,18
+2021-07-30,EB,Belgium and Luxembourg,0,-1053,18,9,1053,520,515,1035,9
+2021-07-31,EB,Belgium and Luxembourg,0,-878,13,4,878,447,418,865,9
+2021-08-01,EB,Belgium and Luxembourg,0,-949,3,0,949,474,472,946,3
+2021-08-02,EB,Belgium and Luxembourg,0,-931,16,9,931,448,467,915,7
+2021-08-03,EB,Belgium and Luxembourg,0,-835,19,15,835,411,405,816,4
+2021-08-04,EB,Belgium and Luxembourg,0,-900,12,4,900,442,446,888,8
+2021-08-05,EB,Belgium and Luxembourg,0,-912,23,7,912,439,450,889,16
+2021-08-06,EB,Belgium and Luxembourg,0,-1011,19,8,1011,498,494,992,11
+2021-08-07,EB,Belgium and Luxembourg,0,-815,6,3,815,414,395,809,3
+2021-08-08,EB,Belgium and Luxembourg,0,-910,7,0,910,462,441,903,7
+2021-08-09,EB,Belgium and Luxembourg,0,-921,27,7,921,423,471,894,20
+2021-08-10,EB,Belgium and Luxembourg,0,-865,32,14,865,423,410,833,18
+2021-08-11,EB,Belgium and Luxembourg,0,-941,28,12,941,454,459,913,16
+2021-08-12,EB,Belgium and Luxembourg,0,-934,18,8,934,463,453,916,10
+2021-08-13,EB,Belgium and Luxembourg,0,-1042,38,8,1042,504,500,1004,30
+2021-08-14,EB,Belgium and Luxembourg,0,-832,8,4,832,417,407,824,4
+2021-08-15,EB,Belgium and Luxembourg,0,-946,13,2,946,477,456,933,11
+2021-08-16,EB,Belgium and Luxembourg,0,-952,24,14,952,444,484,928,10
+2021-08-17,EB,Belgium and Luxembourg,0,-840,18,10,840,419,403,822,8
+2021-08-18,EB,Belgium and Luxembourg,0,-943,13,7,943,462,468,930,6
+2021-08-19,EB,Belgium and Luxembourg,0,-942,20,9,942,458,464,922,11
+2021-08-20,EB,Belgium and Luxembourg,0,-1047,26,10,1047,521,500,1021,16
+2021-08-21,EB,Belgium and Luxembourg,0,-842,10,1,842,416,416,832,9
+2021-08-22,EB,Belgium and Luxembourg,0,-948,4,1,948,477,467,944,3
+2021-08-23,EB,Belgium and Luxembourg,0,-978,18,10,978,469,491,960,8
+2021-08-24,EB,Belgium and Luxembourg,0,-910,18,8,910,442,450,892,10
+2021-08-25,EB,Belgium and Luxembourg,0,-1000,13,7,1000,487,500,987,6
+2021-08-26,EB,Belgium and Luxembourg,0,-971,19,12,971,478,474,952,7
+2021-08-27,EB,Belgium and Luxembourg,0,-1095,28,12,1095,533,534,1067,16
+2021-08-28,EB,Belgium and Luxembourg,0,-868,15,6,868,433,420,853,9
+2021-08-29,EB,Belgium and Luxembourg,0,-1045,19,4,1045,515,511,1026,15
+2021-08-30,EB,Belgium and Luxembourg,0,-1064,30,16,1064,512,522,1034,14
+2021-08-31,EB,Belgium and Luxembourg,0,-951,24,15,951,459,468,927,9
+2021-09-01,EB,Belgium and Luxembourg,0,-976,17,13,976,477,482,959,4
+2021-09-02,EB,Belgium and Luxembourg,0,-986,21,13,986,487,478,965,8
+2021-09-03,EB,Belgium and Luxembourg,0,-1091,29,17,1091,538,524,1062,12
+2021-09-04,EB,Belgium and Luxembourg,0,-842,8,4,842,425,409,834,4
+2021-09-05,EB,Belgium and Luxembourg,0,-949,6,2,949,471,472,943,4
+2021-09-06,EB,Belgium and Luxembourg,0,-989,22,11,989,462,505,967,11
+2021-09-07,EB,Belgium and Luxembourg,0,-897,32,10,897,440,425,865,22
+2021-09-08,EB,Belgium and Luxembourg,0,-1029,11,3,1029,511,507,1018,8
+2021-09-09,EB,Belgium and Luxembourg,0,-990,26,6,990,480,484,964,20
+2021-09-10,EB,Belgium and Luxembourg,0,-1078,15,12,1078,525,538,1063,3
+2021-09-11,EB,Belgium and Luxembourg,0,-822,13,4,822,414,395,809,9
+2021-09-12,EB,Belgium and Luxembourg,0,-998,10,2,998,492,496,988,8
+2021-09-13,EB,Belgium and Luxembourg,0,-1055,26,11,1055,507,522,1029,15
+2021-09-14,EB,Belgium and Luxembourg,0,-934,20,8,934,453,461,914,12
+2021-09-15,EB,Belgium and Luxembourg,0,-1018,41,12,1018,486,491,977,29
+2021-09-16,EB,Belgium and Luxembourg,0,-991,27,14,991,496,468,964,13
+2021-09-17,EB,Belgium and Luxembourg,0,-1095,21,7,1095,540,534,1074,14
+2021-09-18,EB,Belgium and Luxembourg,0,-841,20,12,841,416,405,821,8
+2021-09-19,EB,Belgium and Luxembourg,0,-946,5,1,946,477,464,941,4
+2021-09-20,EB,Belgium and Luxembourg,0,-1010,19,5,1010,473,518,991,14
+2021-09-21,EB,Belgium and Luxembourg,0,-927,26,8,927,458,443,901,18
+2021-09-22,EB,Belgium and Luxembourg,0,-979,26,8,979,474,479,953,18
+2021-09-23,EB,Belgium and Luxembourg,0,-1000,24,10,1000,494,482,976,14
+2021-09-24,EB,Belgium and Luxembourg,0,-1093,18,7,1093,541,534,1075,11
+2021-09-25,EB,Belgium and Luxembourg,0,-844,17,7,844,413,414,827,10
+2021-09-26,EB,Belgium and Luxembourg,0,-966,18,6,966,478,470,948,12
+2021-09-27,EB,Belgium and Luxembourg,0,-1057,23,8,1057,507,527,1034,15
+2021-09-28,EB,Belgium and Luxembourg,0,-907,21,9,907,443,443,886,12
+2021-09-29,EB,Belgium and Luxembourg,0,-954,17,3,954,464,473,937,14
+2021-09-30,EB,Belgium and Luxembourg,0,-979,19,12,979,480,480,960,7
+2021-10-01,EB,Belgium and Luxembourg,0,-1097,22,7,1097,548,527,1075,15
+2021-10-02,EB,Belgium and Luxembourg,0,-801,9,2,801,404,388,792,7
+2021-10-03,EB,Belgium and Luxembourg,0,-946,7,2,946,469,470,939,5
+2021-10-04,EB,Belgium and Luxembourg,0,-973,16,6,973,469,488,957,10
+2021-10-05,EB,Belgium and Luxembourg,0,-860,12,6,860,422,426,848,6
+2021-10-06,EB,Belgium and Luxembourg,0,-914,20,10,914,445,449,894,10
+2021-10-07,EB,Belgium and Luxembourg,0,-948,17,11,948,472,459,931,6
+2021-10-08,EB,Belgium and Luxembourg,0,-1070,23,8,1070,533,514,1047,15
+2021-10-09,EB,Belgium and Luxembourg,0,-767,11,4,767,381,375,756,7
+2021-10-10,EB,Belgium and Luxembourg,0,-928,8,5,928,468,452,920,3
+2021-10-11,EB,Belgium and Luxembourg,0,-927,18,9,927,437,472,909,9
+2021-10-12,EB,Belgium and Luxembourg,0,-883,21,10,883,430,432,862,11
+2021-10-13,EB,Belgium and Luxembourg,0,-937,8,7,937,460,469,929,1
+2021-10-14,EB,Belgium and Luxembourg,0,-957,24,9,957,468,465,933,15
+2021-10-15,EB,Belgium and Luxembourg,0,-1039,16,6,1039,529,494,1023,10
+2021-10-16,EB,Belgium and Luxembourg,0,-764,15,4,764,371,378,749,11
+2021-10-17,EB,Belgium and Luxembourg,0,-909,6,0,909,450,453,903,6
+2021-10-18,EB,Belgium and Luxembourg,0,-994,23,9,994,479,492,971,14
+2021-10-19,EB,Belgium and Luxembourg,0,-863,21,14,863,419,423,842,7
+2021-10-20,EB,Belgium and Luxembourg,0,-945,11,5,945,457,477,934,6
+2021-10-21,EB,Belgium and Luxembourg,0,-979,14,7,979,486,479,965,7
+2021-10-22,EB,Belgium and Luxembourg,0,-1094,13,5,1094,553,528,1081,8
+2021-10-23,EB,Belgium and Luxembourg,0,-762,13,5,762,384,365,749,8
+2021-10-24,EB,Belgium and Luxembourg,0,-911,22,6,911,442,447,889,16
+2021-10-25,EB,Belgium and Luxembourg,0,-990,19,13,990,468,503,971,6
+2021-10-26,EB,Belgium and Luxembourg,0,-939,23,13,939,454,462,916,10
+2021-10-27,EB,Belgium and Luxembourg,0,-1007,19,9,1007,496,492,988,10
+2021-10-28,EB,Belgium and Luxembourg,0,-1008,21,11,1008,498,489,987,10
+2021-10-29,EB,Belgium and Luxembourg,0,-1109,19,11,1109,545,545,1090,8
+2021-10-30,EB,Belgium and Luxembourg,0,-847,10,4,847,433,404,837,6
+2021-10-31,EB,Belgium and Luxembourg,0,-928,5,1,928,466,457,923,4
+2021-11-01,EB,Belgium and Luxembourg,0,-901,9,3,901,430,462,892,6
+2021-11-02,EB,Belgium and Luxembourg,0,-842,17,8,842,413,412,825,9
+2021-11-03,EB,Belgium and Luxembourg,0,-940,19,13,940,466,455,921,6
+2021-11-04,EB,Belgium and Luxembourg,0,-977,28,10,977,470,479,949,18
+2021-11-05,EB,Belgium and Luxembourg,0,-1048,20,12,1048,525,503,1028,8
+2021-11-06,EB,Belgium and Luxembourg,0,-839,10,5,839,412,417,829,5
+2021-11-07,EB,Belgium and Luxembourg,0,-987,9,2,987,492,486,978,7
+2021-11-08,EB,Belgium and Luxembourg,0,-990,24,10,990,467,499,966,14
+2021-11-09,EB,Belgium and Luxembourg,0,-883,19,8,883,433,431,864,11
+2021-11-10,EB,Belgium and Luxembourg,0,-968,19,9,968,477,472,949,10
+2021-11-11,EB,Belgium and Luxembourg,0,-955,21,4,955,477,457,934,17
+2021-11-12,EB,Belgium and Luxembourg,0,-981,14,10,981,481,486,967,4
+2021-11-13,EB,Belgium and Luxembourg,0,-712,8,4,712,347,357,704,4
+2021-11-14,EB,Belgium and Luxembourg,0,-925,13,1,925,458,454,912,12
+2021-11-15,EB,Belgium and Luxembourg,0,-973,12,7,973,472,489,961,5
+2021-11-16,EB,Belgium and Luxembourg,0,-896,14,13,896,448,434,882,1
+2021-11-17,EB,Belgium and Luxembourg,0,-926,12,9,926,458,456,914,3
+2021-11-18,EB,Belgium and Luxembourg,0,-924,20,7,924,458,446,904,13
+2021-11-19,EB,Belgium and Luxembourg,0,-997,20,13,997,493,484,977,7
+2021-11-20,EB,Belgium and Luxembourg,0,-690,3,3,690,345,342,687,0
+2021-11-21,EB,Belgium and Luxembourg,0,-878,4,1,878,441,433,874,3
+2021-11-22,EB,Belgium and Luxembourg,0,-902,16,12,902,426,460,886,4
+2021-11-23,EB,Belgium and Luxembourg,0,-843,15,9,843,419,409,828,6
+2021-11-24,EB,Belgium and Luxembourg,0,-930,12,6,930,461,457,918,6
+2021-11-25,EB,Belgium and Luxembourg,0,-910,21,10,910,442,447,889,11
+2021-11-26,EB,Belgium and Luxembourg,0,-989,7,2,989,494,488,982,5
+2021-11-27,EB,Belgium and Luxembourg,0,-709,11,3,709,349,349,698,8
+2021-11-28,EB,Belgium and Luxembourg,0,-843,3,0,843,427,413,840,3
+2021-11-29,EB,Belgium and Luxembourg,0,-909,20,15,909,429,460,889,5
+2021-11-30,EB,Belgium and Luxembourg,0,-794,8,3,794,394,392,786,5
+2021-12-01,EB,Belgium and Luxembourg,0,-923,10,3,923,463,450,913,7
+2021-12-02,EB,Belgium and Luxembourg,0,-897,6,4,897,441,450,891,2
+2021-12-03,EB,Belgium and Luxembourg,0,-949,8,3,949,471,470,941,5
+2021-12-04,EB,Belgium and Luxembourg,0,-694,6,3,694,349,339,688,3
+2021-12-05,EB,Belgium and Luxembourg,0,-843,5,0,843,422,416,838,5
+2021-12-06,EB,Belgium and Luxembourg,0,-833,11,5,833,392,430,822,6
+2021-12-07,EB,Belgium and Luxembourg,0,-836,27,16,836,403,406,809,11
+2021-12-08,EB,Belgium and Luxembourg,0,-906,17,7,906,442,447,889,10
+2021-12-09,EB,Belgium and Luxembourg,0,-910,17,5,910,451,442,893,12
+2021-12-10,EB,Belgium and Luxembourg,0,-950,14,2,950,473,463,936,12
+2021-12-11,EB,Belgium and Luxembourg,0,-682,12,7,682,339,331,670,5
+2021-12-12,EB,Belgium and Luxembourg,0,-826,6,1,826,412,408,820,5
+2021-12-13,EB,Belgium and Luxembourg,0,-903,25,13,903,422,456,878,12
+2021-12-14,EB,Belgium and Luxembourg,0,-820,22,12,820,393,405,798,10
+2021-12-15,EB,Belgium and Luxembourg,0,-915,23,17,915,446,446,892,6
+2021-12-16,EB,Belgium and Luxembourg,0,-998,39,18,998,474,485,959,21
+2021-12-17,EB,Belgium and Luxembourg,0,-1053,29,14,1053,530,494,1024,15
+2021-12-18,EB,Belgium and Luxembourg,0,-789,13,4,789,387,389,776,9
+2021-12-19,EB,Belgium and Luxembourg,0,-870,4,0,870,441,425,866,4
+2021-12-20,EB,Belgium and Luxembourg,0,-899,21,15,899,416,462,878,6
+2021-12-21,EB,Belgium and Luxembourg,0,-881,30,18,881,436,415,851,12
+2021-12-22,EB,Belgium and Luxembourg,0,-1018,26,9,1018,491,501,992,17
+2021-12-23,EB,Belgium and Luxembourg,0,-1026,24,14,1026,504,498,1002,10
+2021-12-24,EB,Belgium and Luxembourg,0,-806,6,2,806,404,396,800,4
+2021-12-25,EB,Belgium and Luxembourg,0,-531,5,0,531,264,262,526,5
+2021-12-26,EB,Belgium and Luxembourg,0,-858,7,1,858,437,414,851,6
+2021-12-27,EB,Belgium and Luxembourg,0,-897,11,7,897,428,458,886,4
+2021-12-28,EB,Belgium and Luxembourg,0,-763,7,3,763,381,375,756,4
+2021-12-29,EB,Belgium and Luxembourg,0,-894,22,10,894,435,437,872,12
+2021-12-30,EB,Belgium and Luxembourg,0,-874,23,18,874,430,421,851,5
+2021-12-31,EB,Belgium and Luxembourg,0,-774,9,4,774,384,381,765,5
+2021-01-01,LQ,Bosnia-Herzegovina,0,-11,0,0,11,6,5,11,0
+2021-01-02,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
+2021-01-03,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
+2021-01-04,LQ,Bosnia-Herzegovina,0,-22,0,0,22,11,11,22,0
+2021-01-05,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
+2021-01-06,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
+2021-01-07,LQ,Bosnia-Herzegovina,0,-21,0,0,21,10,11,21,0
+2021-01-08,LQ,Bosnia-Herzegovina,0,-19,0,0,19,10,9,19,0
+2021-01-09,LQ,Bosnia-Herzegovina,0,-23,1,0,23,10,12,22,1
+2021-01-10,LQ,Bosnia-Herzegovina,0,-19,0,0,19,10,9,19,0
+2021-01-11,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
+2021-01-12,LQ,Bosnia-Herzegovina,0,-11,0,0,11,6,5,11,0
+2021-01-13,LQ,Bosnia-Herzegovina,0,-17,0,0,17,9,8,17,0
+2021-01-14,LQ,Bosnia-Herzegovina,0,-17,0,0,17,7,10,17,0
+2021-01-15,LQ,Bosnia-Herzegovina,0,-28,0,0,28,15,13,28,0
+2021-01-16,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
+2021-01-17,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
+2021-01-18,LQ,Bosnia-Herzegovina,0,-21,0,0,21,11,10,21,0
+2021-01-19,LQ,Bosnia-Herzegovina,0,-13,0,0,13,6,7,13,0
+2021-01-20,LQ,Bosnia-Herzegovina,0,-24,0,0,24,11,13,24,0
+2021-01-21,LQ,Bosnia-Herzegovina,0,-24,0,0,24,12,12,24,0
+2021-01-22,LQ,Bosnia-Herzegovina,0,-24,0,0,24,13,11,24,0
+2021-01-23,LQ,Bosnia-Herzegovina,0,-12,0,0,12,6,6,12,0
+2021-01-24,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
+2021-01-25,LQ,Bosnia-Herzegovina,0,-21,0,0,21,11,10,21,0
+2021-01-26,LQ,Bosnia-Herzegovina,0,-13,0,0,13,7,6,13,0
+2021-01-27,LQ,Bosnia-Herzegovina,0,-25,0,0,25,12,13,25,0
+2021-01-28,LQ,Bosnia-Herzegovina,0,-11,0,0,11,5,6,11,0
+2021-01-29,LQ,Bosnia-Herzegovina,0,-20,0,0,20,11,9,20,0
+2021-01-30,LQ,Bosnia-Herzegovina,0,-7,0,0,7,3,4,7,0
+2021-01-31,LQ,Bosnia-Herzegovina,0,-17,1,0,17,8,8,16,1
+2021-02-01,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
+2021-02-02,LQ,Bosnia-Herzegovina,0,-10,0,0,10,5,5,10,0
+2021-02-03,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
+2021-02-04,LQ,Bosnia-Herzegovina,0,-15,0,0,15,7,8,15,0
+2021-02-05,LQ,Bosnia-Herzegovina,0,-21,0,0,21,11,10,21,0
+2021-02-06,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
+2021-02-07,LQ,Bosnia-Herzegovina,0,-12,0,0,12,6,6,12,0
+2021-02-08,LQ,Bosnia-Herzegovina,0,-21,0,0,21,10,11,21,0
+2021-02-09,LQ,Bosnia-Herzegovina,0,-10,0,0,10,5,5,10,0
+2021-02-10,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
+2021-02-11,LQ,Bosnia-Herzegovina,0,-11,0,0,11,5,6,11,0
+2021-02-12,LQ,Bosnia-Herzegovina,0,-17,0,0,17,10,7,17,0
+2021-02-13,LQ,Bosnia-Herzegovina,0,-11,0,0,11,5,6,11,0
+2021-02-14,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
+2021-02-15,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
+2021-02-16,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
+2021-02-17,LQ,Bosnia-Herzegovina,0,-24,0,0,24,12,12,24,0
+2021-02-18,LQ,Bosnia-Herzegovina,0,-10,0,0,10,5,5,10,0
+2021-02-19,LQ,Bosnia-Herzegovina,0,-18,0,0,18,10,8,18,0
+2021-02-20,LQ,Bosnia-Herzegovina,0,-11,0,0,11,5,6,11,0
+2021-02-21,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
+2021-02-22,LQ,Bosnia-Herzegovina,0,-24,0,0,24,12,12,24,0
+2021-02-23,LQ,Bosnia-Herzegovina,0,-10,0,0,10,5,5,10,0
+2021-02-24,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
+2021-02-25,LQ,Bosnia-Herzegovina,0,-19,2,0,19,8,9,17,2
+2021-02-26,LQ,Bosnia-Herzegovina,0,-23,0,0,23,13,10,23,0
+2021-02-27,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
+2021-02-28,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
+2021-03-01,LQ,Bosnia-Herzegovina,0,-20,0,0,20,9,11,20,0
+2021-03-02,LQ,Bosnia-Herzegovina,0,-14,1,0,14,7,6,13,1
+2021-03-03,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
+2021-03-04,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
+2021-03-05,LQ,Bosnia-Herzegovina,0,-24,0,0,24,13,11,24,0
+2021-03-06,LQ,Bosnia-Herzegovina,0,-15,0,0,15,7,8,15,0
+2021-03-07,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
+2021-03-08,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
+2021-03-09,LQ,Bosnia-Herzegovina,0,-14,0,0,14,7,7,14,0
+2021-03-10,LQ,Bosnia-Herzegovina,0,-19,0,0,19,9,10,19,0
+2021-03-11,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
+2021-03-12,LQ,Bosnia-Herzegovina,0,-25,0,0,25,13,12,25,0
+2021-03-13,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
+2021-03-14,LQ,Bosnia-Herzegovina,0,-19,0,0,19,10,9,19,0
+2021-03-15,LQ,Bosnia-Herzegovina,0,-22,0,0,22,11,11,22,0
+2021-03-16,LQ,Bosnia-Herzegovina,0,-18,0,0,18,8,10,18,0
+2021-03-17,LQ,Bosnia-Herzegovina,0,-20,2,0,20,9,9,18,2
+2021-03-18,LQ,Bosnia-Herzegovina,0,-24,3,0,24,11,10,21,3
+2021-03-19,LQ,Bosnia-Herzegovina,0,-19,0,0,19,10,9,19,0
+2021-03-20,LQ,Bosnia-Herzegovina,0,-12,0,0,12,6,6,12,0
+2021-03-21,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
+2021-03-22,LQ,Bosnia-Herzegovina,0,-21,0,0,21,10,11,21,0
+2021-03-23,LQ,Bosnia-Herzegovina,0,-22,0,0,22,10,12,22,0
+2021-03-24,LQ,Bosnia-Herzegovina,0,-29,0,0,29,14,15,29,0
+2021-03-25,LQ,Bosnia-Herzegovina,0,-26,0,0,26,14,12,26,0
+2021-03-26,LQ,Bosnia-Herzegovina,0,-27,0,0,27,15,12,27,0
+2021-03-27,LQ,Bosnia-Herzegovina,0,-26,0,0,26,12,14,26,0
+2021-03-28,LQ,Bosnia-Herzegovina,0,-20,0,0,20,11,9,20,0
+2021-03-29,LQ,Bosnia-Herzegovina,0,-31,0,0,31,14,17,31,0
+2021-03-30,LQ,Bosnia-Herzegovina,0,-24,0,0,24,12,12,24,0
+2021-03-31,LQ,Bosnia-Herzegovina,0,-37,2,0,37,18,17,35,2
+2021-04-01,LQ,Bosnia-Herzegovina,0,-30,0,0,30,15,15,30,0
+2021-04-02,LQ,Bosnia-Herzegovina,0,-35,0,0,35,18,17,35,0
+2021-04-03,LQ,Bosnia-Herzegovina,0,-19,0,0,19,9,10,19,0
+2021-04-04,LQ,Bosnia-Herzegovina,0,-23,0,0,23,12,11,23,0
+2021-04-05,LQ,Bosnia-Herzegovina,0,-31,1,1,31,15,15,30,0
+2021-04-06,LQ,Bosnia-Herzegovina,0,-13,0,0,13,6,7,13,0
+2021-04-07,LQ,Bosnia-Herzegovina,0,-31,1,1,31,15,15,30,0
+2021-04-08,LQ,Bosnia-Herzegovina,0,-30,1,1,30,14,15,29,0
+2021-04-09,LQ,Bosnia-Herzegovina,0,-39,1,1,39,19,19,38,0
+2021-04-10,LQ,Bosnia-Herzegovina,0,-21,1,1,21,10,10,20,0
+2021-04-11,LQ,Bosnia-Herzegovina,0,-23,0,0,23,12,11,23,0
+2021-04-12,LQ,Bosnia-Herzegovina,0,-34,0,0,34,17,17,34,0
+2021-04-13,LQ,Bosnia-Herzegovina,0,-21,2,0,21,8,11,19,2
+2021-04-14,LQ,Bosnia-Herzegovina,0,-29,1,0,29,16,12,28,1
+2021-04-15,LQ,Bosnia-Herzegovina,0,-22,0,0,22,10,12,22,0
+2021-04-16,LQ,Bosnia-Herzegovina,0,-28,0,0,28,15,13,28,0
+2021-04-17,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
+2021-04-18,LQ,Bosnia-Herzegovina,0,-23,0,0,23,12,11,23,0
+2021-04-19,LQ,Bosnia-Herzegovina,0,-24,0,0,24,12,12,24,0
+2021-04-20,LQ,Bosnia-Herzegovina,0,-15,0,0,15,7,8,15,0
+2021-04-21,LQ,Bosnia-Herzegovina,0,-29,0,0,29,15,14,29,0
+2021-04-22,LQ,Bosnia-Herzegovina,0,-24,0,0,24,11,13,24,0
+2021-04-23,LQ,Bosnia-Herzegovina,0,-29,0,0,29,15,14,29,0
+2021-04-24,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
+2021-04-25,LQ,Bosnia-Herzegovina,0,-19,0,0,19,10,9,19,0
+2021-04-26,LQ,Bosnia-Herzegovina,0,-22,0,0,22,11,11,22,0
+2021-04-27,LQ,Bosnia-Herzegovina,0,-15,0,0,15,7,8,15,0
+2021-04-28,LQ,Bosnia-Herzegovina,0,-25,0,0,25,13,12,25,0
+2021-04-29,LQ,Bosnia-Herzegovina,0,-29,0,0,29,14,15,29,0
+2021-04-30,LQ,Bosnia-Herzegovina,0,-38,0,0,38,19,19,38,0
+2021-05-01,LQ,Bosnia-Herzegovina,0,-13,0,0,13,6,7,13,0
+2021-05-02,LQ,Bosnia-Herzegovina,0,-16,0,0,16,9,7,16,0
+2021-05-03,LQ,Bosnia-Herzegovina,0,-29,0,0,29,14,15,29,0
+2021-05-04,LQ,Bosnia-Herzegovina,0,-25,2,0,25,10,13,23,2
+2021-05-05,LQ,Bosnia-Herzegovina,0,-29,1,1,29,14,14,28,0
+2021-05-06,LQ,Bosnia-Herzegovina,0,-20,0,0,20,11,9,20,0
+2021-05-07,LQ,Bosnia-Herzegovina,0,-40,0,0,40,21,19,40,0
+2021-05-08,LQ,Bosnia-Herzegovina,0,-16,0,0,16,7,9,16,0
+2021-05-09,LQ,Bosnia-Herzegovina,0,-27,0,0,27,14,13,27,0
+2021-05-10,LQ,Bosnia-Herzegovina,0,-32,0,0,32,16,16,32,0
+2021-05-11,LQ,Bosnia-Herzegovina,0,-27,0,0,27,13,14,27,0
+2021-05-12,LQ,Bosnia-Herzegovina,0,-28,0,0,28,14,14,28,0
+2021-05-13,LQ,Bosnia-Herzegovina,0,-28,0,0,28,14,14,28,0
+2021-05-14,LQ,Bosnia-Herzegovina,0,-40,0,0,40,20,20,40,0
+2021-05-15,LQ,Bosnia-Herzegovina,0,-25,0,0,25,12,13,25,0
+2021-05-16,LQ,Bosnia-Herzegovina,0,-27,0,0,27,14,13,27,0
+2021-05-17,LQ,Bosnia-Herzegovina,0,-49,0,0,49,25,24,49,0
+2021-05-18,LQ,Bosnia-Herzegovina,0,-30,0,0,30,14,16,30,0
+2021-05-19,LQ,Bosnia-Herzegovina,0,-28,2,0,28,13,13,26,2
+2021-05-20,LQ,Bosnia-Herzegovina,0,-37,1,0,37,18,18,36,1
+2021-05-21,LQ,Bosnia-Herzegovina,0,-47,3,0,47,22,22,44,3
+2021-05-22,LQ,Bosnia-Herzegovina,0,-24,3,0,24,10,11,21,3
+2021-05-23,LQ,Bosnia-Herzegovina,0,-30,0,0,30,15,15,30,0
+2021-05-24,LQ,Bosnia-Herzegovina,0,-41,2,0,41,20,19,39,2
+2021-05-25,LQ,Bosnia-Herzegovina,0,-33,1,0,33,16,16,32,1
+2021-05-26,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
+2021-05-27,LQ,Bosnia-Herzegovina,0,-26,0,0,26,13,13,26,0
+2021-05-28,LQ,Bosnia-Herzegovina,0,-51,0,0,51,26,25,51,0
+2021-05-29,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
+2021-05-30,LQ,Bosnia-Herzegovina,0,-31,0,0,31,15,16,31,0
+2021-05-31,LQ,Bosnia-Herzegovina,0,-35,0,0,35,18,17,35,0
+2021-06-01,LQ,Bosnia-Herzegovina,0,-41,1,0,41,19,21,40,1
+2021-06-02,LQ,Bosnia-Herzegovina,0,-50,0,0,50,25,25,50,0
+2021-06-03,LQ,Bosnia-Herzegovina,0,-43,4,2,43,20,19,39,2
+2021-06-04,LQ,Bosnia-Herzegovina,0,-51,0,0,51,25,26,51,0
+2021-06-05,LQ,Bosnia-Herzegovina,0,-33,0,0,33,16,17,33,0
+2021-06-06,LQ,Bosnia-Herzegovina,0,-41,0,0,41,21,20,41,0
+2021-06-07,LQ,Bosnia-Herzegovina,0,-49,0,0,49,24,25,49,0
+2021-06-08,LQ,Bosnia-Herzegovina,0,-48,0,0,48,24,24,48,0
+2021-06-09,LQ,Bosnia-Herzegovina,0,-59,4,2,59,27,28,55,2
+2021-06-10,LQ,Bosnia-Herzegovina,0,-53,2,0,53,27,24,51,2
+2021-06-11,LQ,Bosnia-Herzegovina,0,-56,0,0,56,28,28,56,0
+2021-06-12,LQ,Bosnia-Herzegovina,0,-33,0,0,33,16,17,33,0
+2021-06-13,LQ,Bosnia-Herzegovina,0,-45,0,0,45,23,22,45,0
+2021-06-14,LQ,Bosnia-Herzegovina,0,-54,1,1,54,27,26,53,0
+2021-06-15,LQ,Bosnia-Herzegovina,0,-41,0,0,41,20,21,41,0
+2021-06-16,LQ,Bosnia-Herzegovina,0,-52,0,0,52,25,27,52,0
+2021-06-17,LQ,Bosnia-Herzegovina,0,-53,1,1,53,26,26,52,0
+2021-06-18,LQ,Bosnia-Herzegovina,0,-80,0,0,80,40,40,80,0
+2021-06-19,LQ,Bosnia-Herzegovina,0,-44,0,0,44,22,22,44,0
+2021-06-20,LQ,Bosnia-Herzegovina,0,-48,0,0,48,24,24,48,0
+2021-06-21,LQ,Bosnia-Herzegovina,0,-59,0,0,59,30,29,59,0
+2021-06-22,LQ,Bosnia-Herzegovina,0,-49,1,0,49,23,25,48,1
+2021-06-23,LQ,Bosnia-Herzegovina,0,-49,0,0,49,25,24,49,0
+2021-06-24,LQ,Bosnia-Herzegovina,0,-48,2,0,48,23,23,46,2
+2021-06-25,LQ,Bosnia-Herzegovina,0,-69,0,0,69,35,34,69,0
+2021-06-26,LQ,Bosnia-Herzegovina,0,-50,0,0,50,25,25,50,0
+2021-06-27,LQ,Bosnia-Herzegovina,0,-60,0,0,60,31,29,60,0
+2021-06-28,LQ,Bosnia-Herzegovina,0,-61,1,0,61,29,31,60,1
+2021-06-29,LQ,Bosnia-Herzegovina,0,-61,3,0,61,28,30,58,3
+2021-06-30,LQ,Bosnia-Herzegovina,0,-46,2,1,46,22,22,44,1
+2021-07-01,LQ,Bosnia-Herzegovina,0,-53,1,0,53,27,25,52,1
+2021-07-02,LQ,Bosnia-Herzegovina,0,-79,0,0,79,39,40,79,0
+2021-07-03,LQ,Bosnia-Herzegovina,0,-55,0,0,55,28,27,55,0
+2021-07-04,LQ,Bosnia-Herzegovina,0,-62,2,0,62,31,29,60,2
+2021-07-05,LQ,Bosnia-Herzegovina,0,-87,4,0,87,40,43,83,4
+2021-07-06,LQ,Bosnia-Herzegovina,0,-62,0,0,62,31,31,62,0
+2021-07-07,LQ,Bosnia-Herzegovina,0,-58,0,0,58,29,29,58,0
+2021-07-08,LQ,Bosnia-Herzegovina,0,-63,0,0,63,32,31,63,0
+2021-07-09,LQ,Bosnia-Herzegovina,0,-85,0,0,85,42,43,85,0
+2021-07-10,LQ,Bosnia-Herzegovina,0,-59,0,0,59,29,30,59,0
+2021-07-11,LQ,Bosnia-Herzegovina,0,-59,0,0,59,30,29,59,0
+2021-07-12,LQ,Bosnia-Herzegovina,0,-81,1,1,81,38,42,80,0
+2021-07-13,LQ,Bosnia-Herzegovina,0,-67,0,0,67,34,33,67,0
+2021-07-14,LQ,Bosnia-Herzegovina,0,-73,2,0,73,37,34,71,2
+2021-07-15,LQ,Bosnia-Herzegovina,0,-76,0,0,76,38,38,76,0
+2021-07-16,LQ,Bosnia-Herzegovina,0,-100,2,0,100,50,48,98,2
+2021-07-17,LQ,Bosnia-Herzegovina,0,-64,0,0,64,32,32,64,0
+2021-07-18,LQ,Bosnia-Herzegovina,0,-74,1,1,74,37,36,73,0
+2021-07-19,LQ,Bosnia-Herzegovina,0,-79,0,0,79,39,40,79,0
+2021-07-20,LQ,Bosnia-Herzegovina,0,-65,0,0,65,32,33,65,0
+2021-07-21,LQ,Bosnia-Herzegovina,0,-64,0,0,64,31,33,64,0
+2021-07-22,LQ,Bosnia-Herzegovina,0,-72,0,0,72,36,36,72,0
+2021-07-23,LQ,Bosnia-Herzegovina,0,-92,0,0,92,47,45,92,0
+2021-07-24,LQ,Bosnia-Herzegovina,0,-67,0,0,67,33,34,67,0
+2021-07-25,LQ,Bosnia-Herzegovina,0,-60,0,0,60,30,30,60,0
+2021-07-26,LQ,Bosnia-Herzegovina,0,-83,0,0,83,42,41,83,0
+2021-07-27,LQ,Bosnia-Herzegovina,0,-62,1,1,62,30,31,61,0
+2021-07-28,LQ,Bosnia-Herzegovina,0,-59,0,0,59,29,30,59,0
+2021-07-29,LQ,Bosnia-Herzegovina,0,-65,0,0,65,33,32,65,0
+2021-07-30,LQ,Bosnia-Herzegovina,0,-82,0,0,82,41,41,82,0
+2021-07-31,LQ,Bosnia-Herzegovina,0,-62,0,0,62,30,32,62,0
+2021-08-01,LQ,Bosnia-Herzegovina,0,-63,0,0,63,33,30,63,0
+2021-08-02,LQ,Bosnia-Herzegovina,0,-78,0,0,78,38,40,78,0
+2021-08-03,LQ,Bosnia-Herzegovina,0,-77,1,1,77,39,37,76,0
+2021-08-04,LQ,Bosnia-Herzegovina,0,-60,0,0,60,29,31,60,0
+2021-08-05,LQ,Bosnia-Herzegovina,0,-61,1,0,61,30,30,60,1
+2021-08-06,LQ,Bosnia-Herzegovina,0,-83,0,0,83,42,41,83,0
+2021-08-07,LQ,Bosnia-Herzegovina,0,-60,0,0,60,29,31,60,0
+2021-08-08,LQ,Bosnia-Herzegovina,0,-57,0,0,57,29,28,57,0
+2021-08-09,LQ,Bosnia-Herzegovina,0,-80,0,0,80,40,40,80,0
+2021-08-10,LQ,Bosnia-Herzegovina,0,-74,1,1,74,37,36,73,0
+2021-08-11,LQ,Bosnia-Herzegovina,0,-67,0,0,67,33,34,67,0
+2021-08-12,LQ,Bosnia-Herzegovina,0,-65,0,0,65,33,32,65,0
+2021-08-13,LQ,Bosnia-Herzegovina,0,-89,0,0,89,44,45,89,0
+2021-08-14,LQ,Bosnia-Herzegovina,0,-62,0,0,62,31,31,62,0
+2021-08-15,LQ,Bosnia-Herzegovina,0,-70,0,0,70,36,34,70,0
+2021-08-16,LQ,Bosnia-Herzegovina,0,-77,1,1,77,37,39,76,0
+2021-08-17,LQ,Bosnia-Herzegovina,0,-57,0,0,57,30,27,57,0
+2021-08-18,LQ,Bosnia-Herzegovina,0,-70,0,0,70,34,36,70,0
+2021-08-19,LQ,Bosnia-Herzegovina,0,-62,0,0,62,32,30,62,0
+2021-08-20,LQ,Bosnia-Herzegovina,0,-84,0,0,84,41,43,84,0
+2021-08-21,LQ,Bosnia-Herzegovina,0,-65,0,0,65,32,33,65,0
+2021-08-22,LQ,Bosnia-Herzegovina,0,-63,0,0,63,32,31,63,0
+2021-08-23,LQ,Bosnia-Herzegovina,0,-77,0,0,77,38,39,77,0
+2021-08-24,LQ,Bosnia-Herzegovina,0,-73,0,0,73,37,36,73,0
+2021-08-25,LQ,Bosnia-Herzegovina,0,-52,0,0,52,25,27,52,0
+2021-08-26,LQ,Bosnia-Herzegovina,0,-72,1,0,72,36,35,71,1
+2021-08-27,LQ,Bosnia-Herzegovina,0,-90,3,0,90,43,44,87,3
+2021-08-28,LQ,Bosnia-Herzegovina,0,-60,0,0,60,31,29,60,0
+2021-08-29,LQ,Bosnia-Herzegovina,0,-63,0,0,63,33,30,63,0
+2021-08-30,LQ,Bosnia-Herzegovina,0,-75,0,0,75,36,39,75,0
+2021-08-31,LQ,Bosnia-Herzegovina,0,-61,0,0,61,31,30,61,0
+2021-09-01,LQ,Bosnia-Herzegovina,0,-54,0,0,54,27,27,54,0
+2021-09-02,LQ,Bosnia-Herzegovina,0,-58,0,0,58,29,29,58,0
+2021-09-03,LQ,Bosnia-Herzegovina,0,-79,0,0,79,39,40,79,0
+2021-09-04,LQ,Bosnia-Herzegovina,0,-59,0,0,59,30,29,59,0
+2021-09-05,LQ,Bosnia-Herzegovina,0,-53,0,0,53,26,27,53,0
+2021-09-06,LQ,Bosnia-Herzegovina,0,-65,0,0,65,32,33,65,0
+2021-09-07,LQ,Bosnia-Herzegovina,0,-66,1,1,66,32,33,65,0
+2021-09-08,LQ,Bosnia-Herzegovina,0,-58,0,0,58,30,28,58,0
+2021-09-09,LQ,Bosnia-Herzegovina,0,-49,0,0,49,24,25,49,0
+2021-09-10,LQ,Bosnia-Herzegovina,0,-80,0,0,80,41,39,80,0
+2021-09-11,LQ,Bosnia-Herzegovina,0,-54,0,0,54,27,27,54,0
+2021-09-12,LQ,Bosnia-Herzegovina,0,-47,0,0,47,23,24,47,0
+2021-09-13,LQ,Bosnia-Herzegovina,0,-69,2,2,69,33,34,67,0
+2021-09-14,LQ,Bosnia-Herzegovina,0,-59,0,0,59,30,29,59,0
+2021-09-15,LQ,Bosnia-Herzegovina,0,-54,0,0,54,27,27,54,0
+2021-09-16,LQ,Bosnia-Herzegovina,0,-55,0,0,55,28,27,55,0
+2021-09-17,LQ,Bosnia-Herzegovina,0,-73,0,0,73,36,37,73,0
+2021-09-18,LQ,Bosnia-Herzegovina,0,-52,2,0,52,25,25,50,2
+2021-09-19,LQ,Bosnia-Herzegovina,0,-49,0,0,49,24,25,49,0
+2021-09-20,LQ,Bosnia-Herzegovina,0,-68,0,0,68,35,33,68,0
+2021-09-21,LQ,Bosnia-Herzegovina,0,-48,1,0,48,23,24,47,1
+2021-09-22,LQ,Bosnia-Herzegovina,0,-51,0,0,51,25,26,51,0
+2021-09-23,LQ,Bosnia-Herzegovina,0,-53,0,0,53,28,25,53,0
+2021-09-24,LQ,Bosnia-Herzegovina,0,-67,0,0,67,33,34,67,0
+2021-09-25,LQ,Bosnia-Herzegovina,0,-50,0,0,50,25,25,50,0
+2021-09-26,LQ,Bosnia-Herzegovina,0,-48,0,0,48,24,24,48,0
+2021-09-27,LQ,Bosnia-Herzegovina,0,-67,2,1,67,31,34,65,1
+2021-09-28,LQ,Bosnia-Herzegovina,0,-55,3,1,55,27,25,52,2
+2021-09-29,LQ,Bosnia-Herzegovina,0,-51,2,1,51,24,25,49,1
+2021-09-30,LQ,Bosnia-Herzegovina,0,-64,6,2,64,29,29,58,4
+2021-10-01,LQ,Bosnia-Herzegovina,0,-77,1,0,77,39,37,76,1
+2021-10-02,LQ,Bosnia-Herzegovina,0,-45,0,0,45,23,22,45,0
+2021-10-03,LQ,Bosnia-Herzegovina,0,-58,0,0,58,29,29,58,0
+2021-10-04,LQ,Bosnia-Herzegovina,0,-56,0,0,56,28,28,56,0
+2021-10-05,LQ,Bosnia-Herzegovina,0,-45,1,0,45,21,23,44,1
+2021-10-06,LQ,Bosnia-Herzegovina,0,-49,1,1,49,24,24,48,0
+2021-10-07,LQ,Bosnia-Herzegovina,0,-50,1,0,50,24,25,49,1
+2021-10-08,LQ,Bosnia-Herzegovina,0,-65,0,0,65,32,33,65,0
+2021-10-09,LQ,Bosnia-Herzegovina,0,-47,0,0,47,23,24,47,0
+2021-10-10,LQ,Bosnia-Herzegovina,0,-49,0,0,49,26,23,49,0
+2021-10-11,LQ,Bosnia-Herzegovina,0,-53,0,0,53,26,27,53,0
+2021-10-12,LQ,Bosnia-Herzegovina,0,-43,0,0,43,22,21,43,0
+2021-10-13,LQ,Bosnia-Herzegovina,0,-41,1,0,41,20,20,40,1
+2021-10-14,LQ,Bosnia-Herzegovina,0,-52,2,0,52,25,25,50,2
+2021-10-15,LQ,Bosnia-Herzegovina,0,-58,0,0,58,30,28,58,0
+2021-10-16,LQ,Bosnia-Herzegovina,0,-42,0,0,42,20,22,42,0
+2021-10-17,LQ,Bosnia-Herzegovina,0,-48,0,0,48,24,24,48,0
+2021-10-18,LQ,Bosnia-Herzegovina,0,-50,0,0,50,26,24,50,0
+2021-10-19,LQ,Bosnia-Herzegovina,0,-51,0,0,51,26,25,51,0
+2021-10-20,LQ,Bosnia-Herzegovina,0,-45,1,1,45,23,21,44,0
+2021-10-21,LQ,Bosnia-Herzegovina,0,-48,0,0,48,24,24,48,0
+2021-10-22,LQ,Bosnia-Herzegovina,0,-62,0,0,62,31,31,62,0
+2021-10-23,LQ,Bosnia-Herzegovina,0,-46,0,0,46,23,23,46,0
+2021-10-24,LQ,Bosnia-Herzegovina,0,-46,0,0,46,23,23,46,0
+2021-10-25,LQ,Bosnia-Herzegovina,0,-53,0,0,53,26,27,53,0
+2021-10-26,LQ,Bosnia-Herzegovina,0,-46,0,0,46,24,22,46,0
+2021-10-27,LQ,Bosnia-Herzegovina,0,-40,0,0,40,19,21,40,0
+2021-10-28,LQ,Bosnia-Herzegovina,0,-46,2,0,46,23,21,44,2
+2021-10-29,LQ,Bosnia-Herzegovina,0,-48,0,0,48,24,24,48,0
+2021-10-30,LQ,Bosnia-Herzegovina,0,-47,0,0,47,24,23,47,0
+2021-10-31,LQ,Bosnia-Herzegovina,0,-48,1,0,48,24,23,47,1
+2021-11-01,LQ,Bosnia-Herzegovina,0,-48,0,0,48,24,24,48,0
+2021-11-02,LQ,Bosnia-Herzegovina,0,-50,0,0,50,25,25,50,0
+2021-11-03,LQ,Bosnia-Herzegovina,0,-42,0,0,42,20,22,42,0
+2021-11-04,LQ,Bosnia-Herzegovina,0,-40,0,0,40,20,20,40,0
+2021-11-05,LQ,Bosnia-Herzegovina,0,-46,0,0,46,22,24,46,0
+2021-11-06,LQ,Bosnia-Herzegovina,0,-51,2,0,51,26,23,49,2
+2021-11-07,LQ,Bosnia-Herzegovina,0,-46,0,0,46,25,21,46,0
+2021-11-08,LQ,Bosnia-Herzegovina,0,-58,1,0,58,26,31,57,1
+2021-11-09,LQ,Bosnia-Herzegovina,0,-50,0,0,50,25,25,50,0
+2021-11-10,LQ,Bosnia-Herzegovina,0,-34,0,0,34,16,18,34,0
+2021-11-11,LQ,Bosnia-Herzegovina,0,-35,0,0,35,20,15,35,0
+2021-11-12,LQ,Bosnia-Herzegovina,0,-58,0,0,58,27,31,58,0
+2021-11-13,LQ,Bosnia-Herzegovina,0,-46,0,0,46,23,23,46,0
+2021-11-14,LQ,Bosnia-Herzegovina,0,-43,0,0,43,22,21,43,0
+2021-11-15,LQ,Bosnia-Herzegovina,0,-44,1,0,44,21,22,43,1
+2021-11-16,LQ,Bosnia-Herzegovina,0,-52,2,0,52,25,25,50,2
+2021-11-17,LQ,Bosnia-Herzegovina,0,-30,0,0,30,15,15,30,0
+2021-11-18,LQ,Bosnia-Herzegovina,0,-40,0,0,40,21,19,40,0
+2021-11-19,LQ,Bosnia-Herzegovina,0,-56,1,0,56,27,28,55,1
+2021-11-20,LQ,Bosnia-Herzegovina,0,-39,0,0,39,20,19,39,0
+2021-11-21,LQ,Bosnia-Herzegovina,0,-34,0,0,34,16,18,34,0
+2021-11-22,LQ,Bosnia-Herzegovina,0,-40,0,0,40,20,20,40,0
+2021-11-23,LQ,Bosnia-Herzegovina,0,-46,1,0,46,22,23,45,1
+2021-11-24,LQ,Bosnia-Herzegovina,0,-42,4,0,42,18,20,38,4
+2021-11-25,LQ,Bosnia-Herzegovina,0,-40,1,0,40,22,17,39,1
+2021-11-26,LQ,Bosnia-Herzegovina,0,-48,0,0,48,23,25,48,0
+2021-11-27,LQ,Bosnia-Herzegovina,0,-45,0,0,45,24,21,45,0
+2021-11-28,LQ,Bosnia-Herzegovina,0,-44,0,0,44,22,22,44,0
+2021-11-29,LQ,Bosnia-Herzegovina,0,-40,3,0,40,18,19,37,3
+2021-11-30,LQ,Bosnia-Herzegovina,0,-45,0,0,45,23,22,45,0
+2021-12-01,LQ,Bosnia-Herzegovina,0,-27,0,0,27,13,14,27,0
+2021-12-02,LQ,Bosnia-Herzegovina,0,-38,0,0,38,19,19,38,0
+2021-12-03,LQ,Bosnia-Herzegovina,0,-58,0,0,58,28,30,58,0
+2021-12-04,LQ,Bosnia-Herzegovina,0,-46,0,0,46,24,22,46,0
+2021-12-05,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
+2021-12-06,LQ,Bosnia-Herzegovina,0,-38,0,0,38,19,19,38,0
+2021-12-07,LQ,Bosnia-Herzegovina,0,-45,2,0,45,21,22,43,2
+2021-12-08,LQ,Bosnia-Herzegovina,0,-35,0,0,35,17,18,35,0
+2021-12-09,LQ,Bosnia-Herzegovina,0,-33,0,0,33,17,16,33,0
+2021-12-10,LQ,Bosnia-Herzegovina,0,-56,0,0,56,28,28,56,0
+2021-12-11,LQ,Bosnia-Herzegovina,0,-40,0,0,40,21,19,40,0
+2021-12-12,LQ,Bosnia-Herzegovina,0,-33,0,0,33,16,17,33,0
+2021-12-13,LQ,Bosnia-Herzegovina,0,-50,0,0,50,24,26,50,0
+2021-12-14,LQ,Bosnia-Herzegovina,0,-46,2,0,46,22,22,44,2
+2021-12-15,LQ,Bosnia-Herzegovina,0,-49,2,0,49,23,24,47,2
+2021-12-16,LQ,Bosnia-Herzegovina,0,-55,2,0,55,28,25,53,2
+2021-12-17,LQ,Bosnia-Herzegovina,0,-73,0,0,73,36,37,73,0
+2021-12-18,LQ,Bosnia-Herzegovina,0,-61,2,0,61,30,29,59,2
+2021-12-19,LQ,Bosnia-Herzegovina,0,-48,1,0,48,23,24,47,1
+2021-12-20,LQ,Bosnia-Herzegovina,0,-61,1,0,61,29,31,60,1
+2021-12-21,LQ,Bosnia-Herzegovina,0,-61,0,0,61,32,29,61,0
+2021-12-22,LQ,Bosnia-Herzegovina,0,-53,1,0,53,25,27,52,1
+2021-12-23,LQ,Bosnia-Herzegovina,0,-65,0,0,65,33,32,65,0
+2021-12-24,LQ,Bosnia-Herzegovina,0,-71,0,0,71,36,35,71,0
+2021-12-25,LQ,Bosnia-Herzegovina,0,-47,0,0,47,23,24,47,0
+2021-12-26,LQ,Bosnia-Herzegovina,0,-51,0,0,51,24,27,51,0
+2021-12-27,LQ,Bosnia-Herzegovina,0,-66,5,0,66,30,31,61,5
+2021-12-28,LQ,Bosnia-Herzegovina,0,-54,0,0,54,30,24,54,0
+2021-12-29,LQ,Bosnia-Herzegovina,0,-49,0,0,49,22,27,49,0
+2021-12-30,LQ,Bosnia-Herzegovina,0,-66,0,0,66,33,33,66,0
+2021-12-31,LQ,Bosnia-Herzegovina,0,-52,0,0,52,28,24,52,0
 2021-01-01,LB,Bulgaria,649,612,2,0,37,18,17,35,2
 2021-01-02,LB,Bulgaria,958,867,5,0,91,41,45,86,5
 2021-01-03,LB,Bulgaria,1050,912,7,0,138,62,69,131,7
