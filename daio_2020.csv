@@ -1097,738 +1097,738 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2020-12-29,LO,Austria,802,648,32,3,154,62,60,122,29
 2020-12-30,LO,Austria,1024,785,13,3,239,108,118,226,10
 2020-12-31,LO,Austria,625,533,27,5,92,33,32,65,22
-2020-01-01,EB,Belgium and Luxembourg,0,-693,3,0,693,349,341,690,3
-2020-01-02,EB,Belgium and Luxembourg,0,-996,12,11,996,482,502,984,1
-2020-01-03,EB,Belgium and Luxembourg,0,-1000,15,10,1000,498,487,985,5
-2020-01-04,EB,Belgium and Luxembourg,0,-799,10,6,799,390,399,789,4
-2020-01-05,EB,Belgium and Luxembourg,0,-1004,13,3,1004,500,491,991,10
-2020-01-06,EB,Belgium and Luxembourg,0,-1044,11,6,1044,513,520,1033,5
-2020-01-07,EB,Belgium and Luxembourg,0,-1064,23,17,1064,522,519,1041,6
-2020-01-08,EB,Belgium and Luxembourg,0,-1037,17,12,1037,511,509,1020,5
-2020-01-09,EB,Belgium and Luxembourg,0,-1053,6,4,1053,520,527,1047,2
-2020-01-10,EB,Belgium and Luxembourg,0,-1120,13,6,1120,566,541,1107,7
-2020-01-11,EB,Belgium and Luxembourg,0,-714,7,6,714,351,356,707,1
-2020-01-12,EB,Belgium and Luxembourg,0,-909,8,2,909,451,450,901,6
-2020-01-13,EB,Belgium and Luxembourg,0,-1089,24,15,1089,520,545,1065,9
-2020-01-14,EB,Belgium and Luxembourg,0,-982,11,3,982,488,483,971,8
-2020-01-15,EB,Belgium and Luxembourg,0,-1070,20,8,1070,530,520,1050,12
-2020-01-16,EB,Belgium and Luxembourg,0,-1121,20,9,1121,548,553,1101,11
-2020-01-17,EB,Belgium and Luxembourg,0,-1138,25,13,1138,575,538,1113,12
-2020-01-18,EB,Belgium and Luxembourg,0,-723,7,2,723,352,364,716,5
-2020-01-19,EB,Belgium and Luxembourg,0,-917,6,0,917,452,459,911,6
-2020-01-20,EB,Belgium and Luxembourg,0,-1121,19,7,1121,541,561,1102,12
-2020-01-21,EB,Belgium and Luxembourg,0,-1029,10,3,1029,510,509,1019,7
-2020-01-22,EB,Belgium and Luxembourg,0,-1061,22,8,1061,525,514,1039,14
-2020-01-23,EB,Belgium and Luxembourg,0,-1100,7,4,1100,545,548,1093,3
-2020-01-24,EB,Belgium and Luxembourg,0,-1136,9,3,1136,577,550,1127,6
-2020-01-25,EB,Belgium and Luxembourg,0,-735,4,2,735,365,366,731,2
-2020-01-26,EB,Belgium and Luxembourg,0,-914,8,1,914,448,458,906,7
-2020-01-27,EB,Belgium and Luxembourg,0,-1098,10,6,1098,525,563,1088,4
-2020-01-28,EB,Belgium and Luxembourg,0,-1008,21,10,1008,499,488,987,11
-2020-01-29,EB,Belgium and Luxembourg,0,-1051,16,9,1051,512,523,1035,7
-2020-01-30,EB,Belgium and Luxembourg,0,-1078,20,8,1078,526,532,1058,12
-2020-01-31,EB,Belgium and Luxembourg,0,-1125,18,7,1125,566,541,1107,11
-2020-02-01,EB,Belgium and Luxembourg,0,-706,6,3,706,350,350,700,3
-2020-02-02,EB,Belgium and Luxembourg,0,-904,7,2,904,450,447,897,5
-2020-02-03,EB,Belgium and Luxembourg,0,-1091,16,7,1091,526,549,1075,9
-2020-02-04,EB,Belgium and Luxembourg,0,-1020,17,13,1020,500,503,1003,4
-2020-02-05,EB,Belgium and Luxembourg,0,-1085,16,11,1085,534,535,1069,5
-2020-02-06,EB,Belgium and Luxembourg,0,-1122,38,19,1122,542,542,1084,19
-2020-02-07,EB,Belgium and Luxembourg,0,-1165,20,10,1165,585,560,1145,10
-2020-02-08,EB,Belgium and Luxembourg,0,-765,9,4,765,380,376,756,5
-2020-02-09,EB,Belgium and Luxembourg,0,-758,2,0,758,373,383,756,2
-2020-02-10,EB,Belgium and Luxembourg,0,-983,9,1,983,482,492,974,8
-2020-02-11,EB,Belgium and Luxembourg,0,-1022,9,4,1022,501,512,1013,5
-2020-02-12,EB,Belgium and Luxembourg,0,-1130,22,17,1130,559,549,1108,5
-2020-02-13,EB,Belgium and Luxembourg,0,-1148,9,5,1148,568,571,1139,4
-2020-02-14,EB,Belgium and Luxembourg,0,-1180,22,16,1180,591,567,1158,6
-2020-02-15,EB,Belgium and Luxembourg,0,-790,9,6,790,388,393,781,3
-2020-02-16,EB,Belgium and Luxembourg,0,-933,3,0,933,460,470,930,3
-2020-02-17,EB,Belgium and Luxembourg,0,-1168,16,8,1168,567,585,1152,8
-2020-02-18,EB,Belgium and Luxembourg,0,-1043,11,7,1043,518,514,1032,4
-2020-02-19,EB,Belgium and Luxembourg,0,-1131,16,13,1131,563,552,1115,3
-2020-02-20,EB,Belgium and Luxembourg,0,-1135,20,5,1135,544,571,1115,15
-2020-02-21,EB,Belgium and Luxembourg,0,-1237,20,11,1237,625,592,1217,9
-2020-02-22,EB,Belgium and Luxembourg,0,-849,9,2,849,415,425,840,7
-2020-02-23,EB,Belgium and Luxembourg,0,-1003,12,5,1003,503,488,991,7
-2020-02-24,EB,Belgium and Luxembourg,0,-1129,12,5,1129,543,574,1117,7
-2020-02-25,EB,Belgium and Luxembourg,0,-1070,18,9,1070,529,523,1052,9
-2020-02-26,EB,Belgium and Luxembourg,0,-1103,10,3,1103,545,548,1093,7
-2020-02-27,EB,Belgium and Luxembourg,0,-1077,11,3,1077,533,533,1066,8
-2020-02-28,EB,Belgium and Luxembourg,0,-1187,13,7,1187,598,576,1174,6
-2020-02-29,EB,Belgium and Luxembourg,0,-836,9,2,836,411,416,827,7
-2020-03-01,EB,Belgium and Luxembourg,0,-1032,11,2,1032,512,509,1021,9
-2020-03-02,EB,Belgium and Luxembourg,0,-1147,15,8,1147,556,576,1132,7
-2020-03-03,EB,Belgium and Luxembourg,0,-1106,16,10,1106,545,545,1090,6
-2020-03-04,EB,Belgium and Luxembourg,0,-1150,34,13,1150,560,556,1116,21
-2020-03-05,EB,Belgium and Luxembourg,0,-1127,17,6,1127,551,559,1110,11
-2020-03-06,EB,Belgium and Luxembourg,0,-1145,10,6,1145,581,554,1135,4
-2020-03-07,EB,Belgium and Luxembourg,0,-774,15,6,774,378,381,759,9
-2020-03-08,EB,Belgium and Luxembourg,0,-923,7,2,923,461,455,916,5
-2020-03-09,EB,Belgium and Luxembourg,0,-1037,16,14,1037,502,519,1021,2
-2020-03-10,EB,Belgium and Luxembourg,0,-906,16,2,906,445,445,890,14
-2020-03-11,EB,Belgium and Luxembourg,0,-983,14,4,983,487,482,969,10
-2020-03-12,EB,Belgium and Luxembourg,0,-999,13,7,999,486,500,986,6
-2020-03-13,EB,Belgium and Luxembourg,0,-1065,21,5,1065,533,511,1044,16
-2020-03-14,EB,Belgium and Luxembourg,0,-707,6,2,707,349,352,701,4
-2020-03-15,EB,Belgium and Luxembourg,0,-784,7,2,784,390,387,777,5
-2020-03-16,EB,Belgium and Luxembourg,0,-792,16,7,792,371,405,776,9
-2020-03-17,EB,Belgium and Luxembourg,0,-702,15,6,702,338,349,687,9
-2020-03-18,EB,Belgium and Luxembourg,0,-626,4,2,626,316,306,622,2
-2020-03-19,EB,Belgium and Luxembourg,0,-567,5,2,567,279,283,562,3
-2020-03-20,EB,Belgium and Luxembourg,0,-564,3,2,564,288,273,561,1
-2020-03-21,EB,Belgium and Luxembourg,0,-328,8,2,328,161,159,320,6
-2020-03-22,EB,Belgium and Luxembourg,0,-335,5,5,335,166,164,330,0
-2020-03-23,EB,Belgium and Luxembourg,0,-325,10,6,325,143,172,315,4
-2020-03-24,EB,Belgium and Luxembourg,0,-358,9,5,358,179,170,349,4
-2020-03-25,EB,Belgium and Luxembourg,0,-286,11,8,286,133,142,275,3
-2020-03-26,EB,Belgium and Luxembourg,0,-287,14,12,287,138,135,273,2
-2020-03-27,EB,Belgium and Luxembourg,0,-300,10,10,300,151,139,290,0
-2020-03-28,EB,Belgium and Luxembourg,0,-170,0,0,170,85,85,170,0
-2020-03-29,EB,Belgium and Luxembourg,0,-169,0,0,169,92,77,169,0
-2020-03-30,EB,Belgium and Luxembourg,0,-221,3,3,221,93,125,218,0
-2020-03-31,EB,Belgium and Luxembourg,0,-257,4,2,257,135,118,253,2
-2020-04-01,EB,Belgium and Luxembourg,0,-249,13,11,249,116,120,236,2
-2020-04-02,EB,Belgium and Luxembourg,0,-261,12,9,261,122,127,249,3
-2020-04-03,EB,Belgium and Luxembourg,0,-227,3,2,227,122,102,224,1
-2020-04-04,EB,Belgium and Luxembourg,0,-130,2,2,130,65,63,128,0
-2020-04-05,EB,Belgium and Luxembourg,0,-154,2,2,154,76,76,152,0
-2020-04-06,EB,Belgium and Luxembourg,0,-206,5,2,206,89,112,201,3
-2020-04-07,EB,Belgium and Luxembourg,0,-216,2,2,216,110,104,214,0
-2020-04-08,EB,Belgium and Luxembourg,0,-232,9,9,232,111,112,223,0
-2020-04-09,EB,Belgium and Luxembourg,0,-236,5,5,236,114,117,231,0
-2020-04-10,EB,Belgium and Luxembourg,0,-196,3,2,196,102,91,193,1
-2020-04-11,EB,Belgium and Luxembourg,0,-142,2,2,142,77,63,140,0
-2020-04-12,EB,Belgium and Luxembourg,0,-142,0,0,142,70,72,142,0
-2020-04-13,EB,Belgium and Luxembourg,0,-137,6,4,137,65,66,131,2
-2020-04-14,EB,Belgium and Luxembourg,0,-218,5,4,218,102,111,213,1
-2020-04-15,EB,Belgium and Luxembourg,0,-246,2,2,246,121,123,244,0
-2020-04-16,EB,Belgium and Luxembourg,0,-242,6,5,242,116,120,236,1
-2020-04-17,EB,Belgium and Luxembourg,0,-219,4,2,219,118,97,215,2
-2020-04-18,EB,Belgium and Luxembourg,0,-129,0,0,129,64,65,129,0
-2020-04-19,EB,Belgium and Luxembourg,0,-148,2,1,148,74,72,146,1
-2020-04-20,EB,Belgium and Luxembourg,0,-211,2,1,211,92,117,209,1
-2020-04-21,EB,Belgium and Luxembourg,0,-257,5,3,257,131,121,252,2
-2020-04-22,EB,Belgium and Luxembourg,0,-234,2,2,234,114,118,232,0
-2020-04-23,EB,Belgium and Luxembourg,0,-265,8,6,265,126,131,257,2
-2020-04-24,EB,Belgium and Luxembourg,0,-229,6,5,229,120,103,223,1
-2020-04-25,EB,Belgium and Luxembourg,0,-135,0,0,135,67,68,135,0
-2020-04-26,EB,Belgium and Luxembourg,0,-165,1,0,165,86,78,164,1
-2020-04-27,EB,Belgium and Luxembourg,0,-209,7,3,209,87,115,202,4
-2020-04-28,EB,Belgium and Luxembourg,0,-254,6,6,254,128,120,248,0
-2020-04-29,EB,Belgium and Luxembourg,0,-256,11,5,256,121,124,245,6
-2020-04-30,EB,Belgium and Luxembourg,0,-253,5,1,253,122,126,248,4
-2020-05-01,EB,Belgium and Luxembourg,0,-196,2,0,196,103,91,194,2
-2020-05-02,EB,Belgium and Luxembourg,0,-132,1,0,132,69,62,131,1
-2020-05-03,EB,Belgium and Luxembourg,0,-168,1,0,168,88,79,167,1
-2020-05-04,EB,Belgium and Luxembourg,0,-224,5,3,224,93,126,219,2
-2020-05-05,EB,Belgium and Luxembourg,0,-280,4,4,280,139,137,276,0
-2020-05-06,EB,Belgium and Luxembourg,0,-279,4,3,279,135,140,275,1
-2020-05-07,EB,Belgium and Luxembourg,0,-301,8,5,301,147,146,293,3
-2020-05-08,EB,Belgium and Luxembourg,0,-262,12,6,262,131,119,250,6
-2020-05-09,EB,Belgium and Luxembourg,0,-168,3,0,168,88,77,165,3
-2020-05-10,EB,Belgium and Luxembourg,0,-167,2,0,167,86,79,165,2
-2020-05-11,EB,Belgium and Luxembourg,0,-243,5,4,243,103,135,238,1
-2020-05-12,EB,Belgium and Luxembourg,0,-309,20,16,309,151,138,289,4
-2020-05-13,EB,Belgium and Luxembourg,0,-291,14,8,291,135,142,277,6
-2020-05-14,EB,Belgium and Luxembourg,0,-308,12,8,308,147,149,296,4
-2020-05-15,EB,Belgium and Luxembourg,0,-313,14,12,313,156,143,299,2
-2020-05-16,EB,Belgium and Luxembourg,0,-179,6,5,179,89,84,173,1
-2020-05-17,EB,Belgium and Luxembourg,0,-193,4,1,193,97,92,189,3
-2020-05-18,EB,Belgium and Luxembourg,0,-242,12,8,242,105,125,230,4
-2020-05-19,EB,Belgium and Luxembourg,0,-310,12,8,310,147,151,298,4
-2020-05-20,EB,Belgium and Luxembourg,0,-301,12,10,301,146,143,289,2
-2020-05-21,EB,Belgium and Luxembourg,0,-282,8,6,282,138,136,274,2
-2020-05-22,EB,Belgium and Luxembourg,0,-285,30,20,285,132,123,255,10
-2020-05-23,EB,Belgium and Luxembourg,0,-169,6,2,169,87,76,163,4
-2020-05-24,EB,Belgium and Luxembourg,0,-202,3,3,202,105,94,199,0
-2020-05-25,EB,Belgium and Luxembourg,0,-245,10,2,245,104,131,235,8
-2020-05-26,EB,Belgium and Luxembourg,0,-311,16,12,311,143,152,295,4
-2020-05-27,EB,Belgium and Luxembourg,0,-319,15,10,319,153,151,304,5
-2020-05-28,EB,Belgium and Luxembourg,0,-329,18,8,329,158,153,311,10
-2020-05-29,EB,Belgium and Luxembourg,0,-301,16,12,301,149,136,285,4
-2020-05-30,EB,Belgium and Luxembourg,0,-202,15,14,202,93,94,187,1
-2020-05-31,EB,Belgium and Luxembourg,0,-198,4,3,198,95,99,194,1
-2020-06-01,EB,Belgium and Luxembourg,0,-255,4,2,255,114,137,251,2
-2020-06-02,EB,Belgium and Luxembourg,0,-312,15,4,312,155,142,297,11
-2020-06-03,EB,Belgium and Luxembourg,0,-330,14,10,330,156,160,316,4
-2020-06-04,EB,Belgium and Luxembourg,0,-334,15,12,334,159,160,319,3
-2020-06-05,EB,Belgium and Luxembourg,0,-299,15,13,299,149,135,284,2
-2020-06-06,EB,Belgium and Luxembourg,0,-206,9,7,206,101,96,197,2
-2020-06-07,EB,Belgium and Luxembourg,0,-237,5,2,237,117,115,232,3
-2020-06-08,EB,Belgium and Luxembourg,0,-288,14,9,288,121,153,274,5
-2020-06-09,EB,Belgium and Luxembourg,0,-325,23,8,325,153,149,302,15
-2020-06-10,EB,Belgium and Luxembourg,0,-323,21,11,323,151,151,302,10
-2020-06-11,EB,Belgium and Luxembourg,0,-343,15,11,343,161,167,328,4
-2020-06-12,EB,Belgium and Luxembourg,0,-341,21,10,341,169,151,320,11
-2020-06-13,EB,Belgium and Luxembourg,0,-185,14,4,185,95,76,171,10
-2020-06-14,EB,Belgium and Luxembourg,0,-217,13,1,217,97,107,204,12
-2020-06-15,EB,Belgium and Luxembourg,0,-384,12,6,384,178,194,372,6
-2020-06-16,EB,Belgium and Luxembourg,0,-420,15,5,420,208,197,405,10
-2020-06-17,EB,Belgium and Luxembourg,0,-417,17,7,417,196,204,400,10
-2020-06-18,EB,Belgium and Luxembourg,0,-421,25,16,421,201,195,396,9
-2020-06-19,EB,Belgium and Luxembourg,0,-464,26,16,464,228,210,438,10
-2020-06-20,EB,Belgium and Luxembourg,0,-275,15,8,275,137,123,260,7
-2020-06-21,EB,Belgium and Luxembourg,0,-338,6,0,338,162,170,332,6
-2020-06-22,EB,Belgium and Luxembourg,0,-438,20,7,438,190,228,418,13
-2020-06-23,EB,Belgium and Luxembourg,0,-456,17,11,456,224,215,439,6
-2020-06-24,EB,Belgium and Luxembourg,0,-482,20,9,482,231,231,462,11
-2020-06-25,EB,Belgium and Luxembourg,0,-461,19,14,461,225,217,442,5
-2020-06-26,EB,Belgium and Luxembourg,0,-465,15,9,465,230,220,450,6
-2020-06-27,EB,Belgium and Luxembourg,0,-305,8,4,305,155,142,297,4
-2020-06-28,EB,Belgium and Luxembourg,0,-346,7,2,346,159,180,339,5
-2020-06-29,EB,Belgium and Luxembourg,0,-466,16,5,466,209,241,450,11
-2020-06-30,EB,Belgium and Luxembourg,0,-495,21,9,495,241,233,474,12
-2020-07-01,EB,Belgium and Luxembourg,0,-665,23,7,665,326,316,642,16
-2020-07-02,EB,Belgium and Luxembourg,0,-624,18,13,624,302,304,606,5
-2020-07-03,EB,Belgium and Luxembourg,0,-634,20,12,634,316,298,614,8
-2020-07-04,EB,Belgium and Luxembourg,0,-478,7,4,478,246,225,471,3
-2020-07-05,EB,Belgium and Luxembourg,0,-504,3,2,504,245,256,501,1
-2020-07-06,EB,Belgium and Luxembourg,0,-597,21,12,597,274,302,576,9
-2020-07-07,EB,Belgium and Luxembourg,0,-579,15,3,579,285,279,564,12
-2020-07-08,EB,Belgium and Luxembourg,0,-648,24,13,648,314,310,624,11
-2020-07-09,EB,Belgium and Luxembourg,0,-636,23,10,636,304,309,613,13
-2020-07-10,EB,Belgium and Luxembourg,0,-674,14,9,674,343,317,660,5
-2020-07-11,EB,Belgium and Luxembourg,0,-524,17,8,524,257,250,507,9
-2020-07-12,EB,Belgium and Luxembourg,0,-547,12,0,547,265,270,535,12
-2020-07-13,EB,Belgium and Luxembourg,0,-621,19,11,621,280,322,602,8
-2020-07-14,EB,Belgium and Luxembourg,0,-611,19,7,611,304,288,592,12
-2020-07-15,EB,Belgium and Luxembourg,0,-670,30,15,670,321,319,640,15
-2020-07-16,EB,Belgium and Luxembourg,0,-675,15,8,675,321,339,660,7
-2020-07-17,EB,Belgium and Luxembourg,0,-709,11,5,709,356,342,698,6
-2020-07-18,EB,Belgium and Luxembourg,0,-557,13,5,557,282,262,544,8
-2020-07-19,EB,Belgium and Luxembourg,0,-575,5,0,575,281,289,570,5
-2020-07-20,EB,Belgium and Luxembourg,0,-630,16,12,630,298,316,614,4
-2020-07-21,EB,Belgium and Luxembourg,0,-633,11,7,633,318,304,622,4
-2020-07-22,EB,Belgium and Luxembourg,0,-631,14,5,631,313,304,617,9
-2020-07-23,EB,Belgium and Luxembourg,0,-649,27,12,649,310,312,622,15
-2020-07-24,EB,Belgium and Luxembourg,0,-703,16,12,703,347,340,687,4
-2020-07-25,EB,Belgium and Luxembourg,0,-534,13,5,534,268,253,521,8
-2020-07-26,EB,Belgium and Luxembourg,0,-576,3,2,576,286,287,573,1
-2020-07-27,EB,Belgium and Luxembourg,0,-610,18,11,610,280,312,592,7
-2020-07-28,EB,Belgium and Luxembourg,0,-611,12,7,611,299,300,599,5
-2020-07-29,EB,Belgium and Luxembourg,0,-625,11,7,625,312,302,614,4
-2020-07-30,EB,Belgium and Luxembourg,0,-652,26,12,652,308,318,626,14
-2020-07-31,EB,Belgium and Luxembourg,0,-723,19,5,723,350,354,704,14
-2020-08-01,EB,Belgium and Luxembourg,0,-595,9,2,595,310,276,586,7
-2020-08-02,EB,Belgium and Luxembourg,0,-615,2,1,615,302,311,613,1
-2020-08-03,EB,Belgium and Luxembourg,0,-655,10,2,655,309,336,645,8
-2020-08-04,EB,Belgium and Luxembourg,0,-654,12,9,654,321,321,642,3
-2020-08-05,EB,Belgium and Luxembourg,0,-676,21,8,676,331,324,655,13
-2020-08-06,EB,Belgium and Luxembourg,0,-667,22,13,667,329,316,645,9
-2020-08-07,EB,Belgium and Luxembourg,0,-697,25,13,697,339,333,672,12
-2020-08-08,EB,Belgium and Luxembourg,0,-605,7,1,605,306,292,598,6
-2020-08-09,EB,Belgium and Luxembourg,0,-617,0,0,617,308,309,617,0
-2020-08-10,EB,Belgium and Luxembourg,0,-653,9,2,653,303,341,644,7
-2020-08-11,EB,Belgium and Luxembourg,0,-603,18,7,603,296,289,585,11
-2020-08-12,EB,Belgium and Luxembourg,0,-678,17,9,678,331,330,661,8
-2020-08-13,EB,Belgium and Luxembourg,0,-662,7,7,662,330,325,655,0
-2020-08-14,EB,Belgium and Luxembourg,0,-656,23,13,656,324,309,633,10
-2020-08-15,EB,Belgium and Luxembourg,0,-571,8,4,571,282,281,563,4
-2020-08-16,EB,Belgium and Luxembourg,0,-627,5,2,627,313,309,622,3
-2020-08-17,EB,Belgium and Luxembourg,0,-652,16,6,652,298,338,636,10
-2020-08-18,EB,Belgium and Luxembourg,0,-616,11,5,616,307,298,605,6
-2020-08-19,EB,Belgium and Luxembourg,0,-641,20,9,641,311,310,621,11
-2020-08-20,EB,Belgium and Luxembourg,0,-686,17,8,686,333,336,669,9
-2020-08-21,EB,Belgium and Luxembourg,0,-672,21,11,672,331,320,651,10
-2020-08-22,EB,Belgium and Luxembourg,0,-556,9,4,556,281,266,547,5
-2020-08-23,EB,Belgium and Luxembourg,0,-628,12,3,628,300,316,616,9
-2020-08-24,EB,Belgium and Luxembourg,0,-675,16,8,675,314,345,659,8
-2020-08-25,EB,Belgium and Luxembourg,0,-628,20,12,628,316,292,608,8
-2020-08-26,EB,Belgium and Luxembourg,0,-660,11,3,660,321,328,649,8
-2020-08-27,EB,Belgium and Luxembourg,0,-737,24,9,737,355,358,713,15
-2020-08-28,EB,Belgium and Luxembourg,0,-695,18,8,695,341,336,677,10
-2020-08-29,EB,Belgium and Luxembourg,0,-575,12,4,575,288,275,563,8
-2020-08-30,EB,Belgium and Luxembourg,0,-641,4,0,641,317,320,637,4
-2020-08-31,EB,Belgium and Luxembourg,0,-711,19,7,711,327,365,692,12
-2020-09-01,EB,Belgium and Luxembourg,0,-562,16,10,562,289,257,546,6
-2020-09-02,EB,Belgium and Luxembourg,0,-607,14,8,607,296,297,593,6
-2020-09-03,EB,Belgium and Luxembourg,0,-628,21,8,628,305,302,607,13
-2020-09-04,EB,Belgium and Luxembourg,0,-643,21,11,643,318,304,622,10
-2020-09-05,EB,Belgium and Luxembourg,0,-524,9,5,524,260,255,515,4
-2020-09-06,EB,Belgium and Luxembourg,0,-589,8,0,589,288,293,581,8
-2020-09-07,EB,Belgium and Luxembourg,0,-609,13,7,609,284,312,596,6
-2020-09-08,EB,Belgium and Luxembourg,0,-575,23,12,575,279,273,552,11
-2020-09-09,EB,Belgium and Luxembourg,0,-601,16,11,601,289,296,585,5
-2020-09-10,EB,Belgium and Luxembourg,0,-590,11,5,590,293,286,579,6
-2020-09-11,EB,Belgium and Luxembourg,0,-667,17,12,667,337,313,650,5
-2020-09-12,EB,Belgium and Luxembourg,0,-469,10,3,469,235,224,459,7
-2020-09-13,EB,Belgium and Luxembourg,0,-581,8,4,581,280,293,573,4
-2020-09-14,EB,Belgium and Luxembourg,0,-601,11,5,601,277,313,590,6
-2020-09-15,EB,Belgium and Luxembourg,0,-548,13,5,548,270,265,535,8
-2020-09-16,EB,Belgium and Luxembourg,0,-594,16,5,594,291,287,578,11
-2020-09-17,EB,Belgium and Luxembourg,0,-606,22,12,606,300,284,584,10
-2020-09-18,EB,Belgium and Luxembourg,0,-661,9,5,661,336,316,652,4
-2020-09-19,EB,Belgium and Luxembourg,0,-473,10,2,473,239,224,463,8
-2020-09-20,EB,Belgium and Luxembourg,0,-562,3,0,562,267,292,559,3
-2020-09-21,EB,Belgium and Luxembourg,0,-641,25,9,641,293,323,616,16
-2020-09-22,EB,Belgium and Luxembourg,0,-578,17,6,578,282,279,561,11
-2020-09-23,EB,Belgium and Luxembourg,0,-591,19,8,591,284,288,572,11
-2020-09-24,EB,Belgium and Luxembourg,0,-596,19,3,596,293,284,577,16
-2020-09-25,EB,Belgium and Luxembourg,0,-668,17,8,668,336,315,651,9
-2020-09-26,EB,Belgium and Luxembourg,0,-434,8,6,434,217,209,426,2
-2020-09-27,EB,Belgium and Luxembourg,0,-541,12,4,541,263,266,529,8
-2020-09-28,EB,Belgium and Luxembourg,0,-591,14,9,591,273,304,577,5
-2020-09-29,EB,Belgium and Luxembourg,0,-577,29,14,577,278,270,548,15
-2020-09-30,EB,Belgium and Luxembourg,0,-605,25,10,605,293,287,580,15
-2020-10-01,EB,Belgium and Luxembourg,0,-628,17,5,628,295,316,611,12
-2020-10-02,EB,Belgium and Luxembourg,0,-662,18,7,662,341,303,644,11
-2020-10-03,EB,Belgium and Luxembourg,0,-444,13,7,444,220,211,431,6
-2020-10-04,EB,Belgium and Luxembourg,0,-515,5,4,515,253,257,510,1
-2020-10-05,EB,Belgium and Luxembourg,0,-552,9,5,552,249,294,543,4
-2020-10-06,EB,Belgium and Luxembourg,0,-463,8,4,463,233,222,455,4
-2020-10-07,EB,Belgium and Luxembourg,0,-524,16,10,524,256,252,508,6
-2020-10-08,EB,Belgium and Luxembourg,0,-564,14,1,564,278,272,550,13
-2020-10-09,EB,Belgium and Luxembourg,0,-612,28,9,612,300,284,584,19
-2020-10-10,EB,Belgium and Luxembourg,0,-417,10,6,417,208,199,407,4
-2020-10-11,EB,Belgium and Luxembourg,0,-539,10,7,539,258,271,529,3
-2020-10-12,EB,Belgium and Luxembourg,0,-560,21,8,560,259,280,539,13
-2020-10-13,EB,Belgium and Luxembourg,0,-510,15,10,510,257,238,495,5
-2020-10-14,EB,Belgium and Luxembourg,0,-535,23,13,535,256,256,512,10
-2020-10-15,EB,Belgium and Luxembourg,0,-568,21,12,568,262,285,547,9
-2020-10-16,EB,Belgium and Luxembourg,0,-638,20,10,638,327,291,618,10
-2020-10-17,EB,Belgium and Luxembourg,0,-458,9,6,458,231,218,449,3
-2020-10-18,EB,Belgium and Luxembourg,0,-524,15,6,524,254,255,509,9
-2020-10-19,EB,Belgium and Luxembourg,0,-541,21,14,541,241,279,520,7
-2020-10-20,EB,Belgium and Luxembourg,0,-503,21,12,503,247,235,482,9
-2020-10-21,EB,Belgium and Luxembourg,0,-520,21,10,520,247,252,499,11
-2020-10-22,EB,Belgium and Luxembourg,0,-575,28,11,575,270,277,547,17
-2020-10-23,EB,Belgium and Luxembourg,0,-619,22,11,619,303,294,597,11
-2020-10-24,EB,Belgium and Luxembourg,0,-447,12,4,447,222,213,435,8
-2020-10-25,EB,Belgium and Luxembourg,0,-489,5,0,489,242,242,484,5
-2020-10-26,EB,Belgium and Luxembourg,0,-534,20,7,534,244,270,514,13
-2020-10-27,EB,Belgium and Luxembourg,0,-481,19,6,481,234,228,462,13
-2020-10-28,EB,Belgium and Luxembourg,0,-518,7,3,518,250,261,511,4
-2020-10-29,EB,Belgium and Luxembourg,0,-578,17,10,578,286,275,561,7
-2020-10-30,EB,Belgium and Luxembourg,0,-668,16,8,668,334,318,652,8
-2020-10-31,EB,Belgium and Luxembourg,0,-492,10,7,492,250,232,482,3
-2020-11-01,EB,Belgium and Luxembourg,0,-521,2,1,521,258,261,519,1
-2020-11-02,EB,Belgium and Luxembourg,0,-502,2,1,502,234,266,500,1
-2020-11-03,EB,Belgium and Luxembourg,0,-483,4,2,483,241,238,479,2
-2020-11-04,EB,Belgium and Luxembourg,0,-491,8,2,491,238,245,483,6
-2020-11-05,EB,Belgium and Luxembourg,0,-508,11,3,508,251,246,497,8
-2020-11-06,EB,Belgium and Luxembourg,0,-609,12,3,609,302,295,597,9
-2020-11-07,EB,Belgium and Luxembourg,0,-445,13,5,445,227,205,432,8
-2020-11-08,EB,Belgium and Luxembourg,0,-492,4,0,492,241,247,488,4
-2020-11-09,EB,Belgium and Luxembourg,0,-479,8,2,479,215,256,471,6
-2020-11-10,EB,Belgium and Luxembourg,0,-414,7,1,414,215,192,407,6
-2020-11-11,EB,Belgium and Luxembourg,0,-428,8,3,428,202,218,420,5
-2020-11-12,EB,Belgium and Luxembourg,0,-463,16,5,463,228,219,447,11
-2020-11-13,EB,Belgium and Luxembourg,0,-519,9,1,519,261,249,510,8
-2020-11-14,EB,Belgium and Luxembourg,0,-348,3,1,348,179,166,345,2
-2020-11-15,EB,Belgium and Luxembourg,0,-432,2,1,432,211,219,430,1
-2020-11-16,EB,Belgium and Luxembourg,0,-453,10,2,453,204,239,443,8
-2020-11-17,EB,Belgium and Luxembourg,0,-450,11,3,450,223,216,439,8
-2020-11-18,EB,Belgium and Luxembourg,0,-444,14,3,444,217,213,430,11
-2020-11-19,EB,Belgium and Luxembourg,0,-459,1,1,459,228,230,458,0
-2020-11-20,EB,Belgium and Luxembourg,0,-532,7,2,532,275,250,525,5
-2020-11-21,EB,Belgium and Luxembourg,0,-360,5,0,360,182,173,355,5
-2020-11-22,EB,Belgium and Luxembourg,0,-403,2,0,403,200,201,401,2
-2020-11-23,EB,Belgium and Luxembourg,0,-410,9,2,410,191,210,401,7
-2020-11-24,EB,Belgium and Luxembourg,0,-396,6,0,396,195,195,390,6
-2020-11-25,EB,Belgium and Luxembourg,0,-438,12,4,438,210,216,426,8
-2020-11-26,EB,Belgium and Luxembourg,0,-442,4,3,442,219,219,438,1
-2020-11-27,EB,Belgium and Luxembourg,0,-491,10,5,491,252,229,481,5
-2020-11-28,EB,Belgium and Luxembourg,0,-358,8,3,358,184,166,350,5
-2020-11-29,EB,Belgium and Luxembourg,0,-391,2,2,391,190,199,389,0
-2020-11-30,EB,Belgium and Luxembourg,0,-431,6,1,431,196,229,425,5
-2020-12-01,EB,Belgium and Luxembourg,0,-423,4,1,423,214,205,419,3
-2020-12-02,EB,Belgium and Luxembourg,0,-452,6,2,452,222,224,446,4
-2020-12-03,EB,Belgium and Luxembourg,0,-504,3,1,504,249,252,501,2
-2020-12-04,EB,Belgium and Luxembourg,0,-512,4,2,512,257,251,508,2
-2020-12-05,EB,Belgium and Luxembourg,0,-345,1,0,345,186,158,344,1
-2020-12-06,EB,Belgium and Luxembourg,0,-406,3,2,406,195,208,403,1
-2020-12-07,EB,Belgium and Luxembourg,0,-474,10,4,474,217,247,464,6
-2020-12-08,EB,Belgium and Luxembourg,0,-418,8,5,418,209,201,410,3
-2020-12-09,EB,Belgium and Luxembourg,0,-499,15,4,499,237,247,484,11
-2020-12-10,EB,Belgium and Luxembourg,0,-523,7,2,523,254,262,516,5
-2020-12-11,EB,Belgium and Luxembourg,0,-591,11,2,591,303,277,580,9
-2020-12-12,EB,Belgium and Luxembourg,0,-383,1,0,383,197,185,382,1
-2020-12-13,EB,Belgium and Luxembourg,0,-436,3,1,436,214,219,433,2
-2020-12-14,EB,Belgium and Luxembourg,0,-517,13,4,517,233,271,504,9
-2020-12-15,EB,Belgium and Luxembourg,0,-482,5,2,482,247,230,477,3
-2020-12-16,EB,Belgium and Luxembourg,0,-552,12,9,552,273,267,540,3
-2020-12-17,EB,Belgium and Luxembourg,0,-627,11,3,627,310,306,616,8
-2020-12-18,EB,Belgium and Luxembourg,0,-686,14,7,686,340,332,672,7
-2020-12-19,EB,Belgium and Luxembourg,0,-540,7,3,540,272,261,533,4
-2020-12-20,EB,Belgium and Luxembourg,0,-543,7,1,543,275,261,536,6
-2020-12-21,EB,Belgium and Luxembourg,0,-540,5,2,540,250,285,535,3
-2020-12-22,EB,Belgium and Luxembourg,0,-521,8,3,521,254,259,513,5
-2020-12-23,EB,Belgium and Luxembourg,0,-614,10,1,614,303,301,604,9
-2020-12-24,EB,Belgium and Luxembourg,0,-473,5,0,473,241,227,468,5
-2020-12-25,EB,Belgium and Luxembourg,0,-246,1,0,246,124,121,245,1
-2020-12-26,EB,Belgium and Luxembourg,0,-454,4,0,454,229,221,450,4
-2020-12-27,EB,Belgium and Luxembourg,0,-514,5,1,514,249,260,509,4
-2020-12-28,EB,Belgium and Luxembourg,0,-472,3,1,472,225,244,469,2
-2020-12-29,EB,Belgium and Luxembourg,0,-468,9,0,468,240,219,459,9
-2020-12-30,EB,Belgium and Luxembourg,0,-533,2,0,533,261,270,531,2
-2020-12-31,EB,Belgium and Luxembourg,0,-373,3,2,373,194,176,370,1
-2020-01-01,LQ,Bosnia-Herzegovina,0,-32,0,0,32,16,16,32,0
-2020-01-02,LQ,Bosnia-Herzegovina,0,-32,0,0,32,15,17,32,0
-2020-01-03,LQ,Bosnia-Herzegovina,0,-52,3,0,52,25,24,49,3
-2020-01-04,LQ,Bosnia-Herzegovina,0,-39,0,0,39,20,19,39,0
-2020-01-05,LQ,Bosnia-Herzegovina,0,-42,0,0,42,20,22,42,0
-2020-01-06,LQ,Bosnia-Herzegovina,0,-41,1,0,41,21,19,40,1
-2020-01-07,LQ,Bosnia-Herzegovina,0,-41,0,0,41,20,21,41,0
-2020-01-08,LQ,Bosnia-Herzegovina,0,-39,0,0,39,20,19,39,0
-2020-01-09,LQ,Bosnia-Herzegovina,0,-37,0,0,37,19,18,37,0
-2020-01-10,LQ,Bosnia-Herzegovina,0,-41,2,0,41,19,20,39,2
-2020-01-11,LQ,Bosnia-Herzegovina,0,-37,0,0,37,19,18,37,0
-2020-01-12,LQ,Bosnia-Herzegovina,0,-36,0,0,36,17,19,36,0
-2020-01-13,LQ,Bosnia-Herzegovina,0,-31,2,0,31,15,14,29,2
-2020-01-14,LQ,Bosnia-Herzegovina,0,-47,0,0,47,22,25,47,0
-2020-01-15,LQ,Bosnia-Herzegovina,0,-37,0,0,37,19,18,37,0
-2020-01-16,LQ,Bosnia-Herzegovina,0,-26,0,0,26,13,13,26,0
-2020-01-17,LQ,Bosnia-Herzegovina,0,-26,0,0,26,14,12,26,0
-2020-01-18,LQ,Bosnia-Herzegovina,0,-39,0,0,39,19,20,39,0
-2020-01-19,LQ,Bosnia-Herzegovina,0,-36,1,0,36,17,18,35,1
-2020-01-20,LQ,Bosnia-Herzegovina,0,-40,1,0,40,20,19,39,1
-2020-01-21,LQ,Bosnia-Herzegovina,0,-43,0,0,43,21,22,43,0
-2020-01-22,LQ,Bosnia-Herzegovina,0,-39,0,0,39,20,19,39,0
-2020-01-23,LQ,Bosnia-Herzegovina,0,-37,0,0,37,19,18,37,0
-2020-01-24,LQ,Bosnia-Herzegovina,0,-37,0,0,37,18,19,37,0
-2020-01-25,LQ,Bosnia-Herzegovina,0,-33,0,0,33,17,16,33,0
-2020-01-26,LQ,Bosnia-Herzegovina,0,-27,0,0,27,13,14,27,0
-2020-01-27,LQ,Bosnia-Herzegovina,0,-31,2,0,31,16,13,29,2
-2020-01-28,LQ,Bosnia-Herzegovina,0,-49,0,0,49,23,26,49,0
-2020-01-29,LQ,Bosnia-Herzegovina,0,-40,0,0,40,20,20,40,0
-2020-01-30,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2020-01-31,LQ,Bosnia-Herzegovina,0,-37,0,0,37,18,19,37,0
-2020-02-01,LQ,Bosnia-Herzegovina,0,-42,0,0,42,21,21,42,0
-2020-02-02,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2020-02-03,LQ,Bosnia-Herzegovina,0,-38,0,0,38,19,19,38,0
-2020-02-04,LQ,Bosnia-Herzegovina,0,-44,2,0,44,21,21,42,2
-2020-02-05,LQ,Bosnia-Herzegovina,0,-39,0,0,39,20,19,39,0
-2020-02-06,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2020-02-07,LQ,Bosnia-Herzegovina,0,-47,0,0,47,24,23,47,0
-2020-02-08,LQ,Bosnia-Herzegovina,0,-37,0,0,37,19,18,37,0
-2020-02-09,LQ,Bosnia-Herzegovina,0,-33,0,0,33,16,17,33,0
-2020-02-10,LQ,Bosnia-Herzegovina,0,-41,0,0,41,21,20,41,0
-2020-02-11,LQ,Bosnia-Herzegovina,0,-33,0,0,33,16,17,33,0
-2020-02-12,LQ,Bosnia-Herzegovina,0,-37,2,0,37,18,17,35,2
-2020-02-13,LQ,Bosnia-Herzegovina,0,-34,2,0,34,15,17,32,2
-2020-02-14,LQ,Bosnia-Herzegovina,0,-47,0,0,47,24,23,47,0
-2020-02-15,LQ,Bosnia-Herzegovina,0,-39,0,0,39,20,19,39,0
-2020-02-16,LQ,Bosnia-Herzegovina,0,-31,0,0,31,15,16,31,0
-2020-02-17,LQ,Bosnia-Herzegovina,0,-37,0,0,37,19,18,37,0
-2020-02-18,LQ,Bosnia-Herzegovina,0,-42,0,0,42,20,22,42,0
-2020-02-19,LQ,Bosnia-Herzegovina,0,-42,2,0,42,21,19,40,2
-2020-02-20,LQ,Bosnia-Herzegovina,0,-31,0,0,31,15,16,31,0
-2020-02-21,LQ,Bosnia-Herzegovina,0,-40,0,0,40,20,20,40,0
-2020-02-22,LQ,Bosnia-Herzegovina,0,-40,0,0,40,20,20,40,0
-2020-02-23,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2020-02-24,LQ,Bosnia-Herzegovina,0,-43,0,0,43,22,21,43,0
-2020-02-25,LQ,Bosnia-Herzegovina,0,-42,0,0,42,21,21,42,0
-2020-02-26,LQ,Bosnia-Herzegovina,0,-37,0,0,37,19,18,37,0
-2020-02-27,LQ,Bosnia-Herzegovina,0,-34,0,0,34,17,17,34,0
-2020-02-28,LQ,Bosnia-Herzegovina,0,-43,0,0,43,21,22,43,0
-2020-02-29,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2020-03-01,LQ,Bosnia-Herzegovina,0,-31,0,0,31,15,16,31,0
-2020-03-02,LQ,Bosnia-Herzegovina,0,-42,0,0,42,22,20,42,0
-2020-03-03,LQ,Bosnia-Herzegovina,0,-40,0,0,40,19,21,40,0
-2020-03-04,LQ,Bosnia-Herzegovina,0,-39,0,0,39,20,19,39,0
-2020-03-05,LQ,Bosnia-Herzegovina,0,-33,0,0,33,16,17,33,0
-2020-03-06,LQ,Bosnia-Herzegovina,0,-48,0,0,48,24,24,48,0
-2020-03-07,LQ,Bosnia-Herzegovina,0,-34,0,0,34,17,17,34,0
-2020-03-08,LQ,Bosnia-Herzegovina,0,-35,0,0,35,17,18,35,0
-2020-03-09,LQ,Bosnia-Herzegovina,0,-43,0,0,43,22,21,43,0
-2020-03-10,LQ,Bosnia-Herzegovina,0,-40,2,0,40,19,19,38,2
-2020-03-11,LQ,Bosnia-Herzegovina,0,-33,0,0,33,17,16,33,0
-2020-03-12,LQ,Bosnia-Herzegovina,0,-31,0,0,31,15,16,31,0
-2020-03-13,LQ,Bosnia-Herzegovina,0,-44,0,0,44,23,21,44,0
-2020-03-14,LQ,Bosnia-Herzegovina,0,-34,0,0,34,17,17,34,0
-2020-03-15,LQ,Bosnia-Herzegovina,0,-29,0,0,29,15,14,29,0
-2020-03-16,LQ,Bosnia-Herzegovina,0,-32,0,0,32,17,15,32,0
-2020-03-17,LQ,Bosnia-Herzegovina,0,-22,0,0,22,11,11,22,0
-2020-03-18,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
-2020-03-19,LQ,Bosnia-Herzegovina,0,-12,0,0,12,6,6,12,0
-2020-03-20,LQ,Bosnia-Herzegovina,0,-12,0,0,12,6,6,12,0
-2020-03-21,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-03-22,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-03-23,LQ,Bosnia-Herzegovina,0,-14,0,0,14,7,7,14,0
-2020-03-24,LQ,Bosnia-Herzegovina,0,-10,0,0,10,5,5,10,0
-2020-03-25,LQ,Bosnia-Herzegovina,0,-10,0,0,10,5,5,10,0
-2020-03-26,LQ,Bosnia-Herzegovina,0,-8,0,0,8,4,4,8,0
-2020-03-27,LQ,Bosnia-Herzegovina,0,-14,0,0,14,7,7,14,0
-2020-03-28,LQ,Bosnia-Herzegovina,0,-3,1,1,3,1,1,2,0
-2020-03-29,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-03-30,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-03-31,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-04-01,LQ,Bosnia-Herzegovina,0,-8,0,0,8,4,4,8,0
-2020-04-02,LQ,Bosnia-Herzegovina,0,-7,0,0,7,3,4,7,0
-2020-04-03,LQ,Bosnia-Herzegovina,0,-9,0,0,9,4,5,9,0
-2020-04-04,LQ,Bosnia-Herzegovina,0,-2,0,0,2,1,1,2,0
-2020-04-05,LQ,Bosnia-Herzegovina,0,-4,0,0,4,2,2,4,0
-2020-04-06,LQ,Bosnia-Herzegovina,0,-8,0,0,8,4,4,8,0
-2020-04-07,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-04-08,LQ,Bosnia-Herzegovina,0,-10,0,0,10,5,5,10,0
-2020-04-09,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
-2020-04-10,LQ,Bosnia-Herzegovina,0,-13,0,0,13,6,7,13,0
-2020-04-11,LQ,Bosnia-Herzegovina,0,-2,0,0,2,1,1,2,0
-2020-04-12,LQ,Bosnia-Herzegovina,0,0,0,0,0,0,0,0,0
-2020-04-13,LQ,Bosnia-Herzegovina,0,-5,0,0,5,3,2,5,0
-2020-04-14,LQ,Bosnia-Herzegovina,0,-7,0,0,7,4,3,7,0
-2020-04-15,LQ,Bosnia-Herzegovina,0,-14,0,0,14,6,8,14,0
-2020-04-16,LQ,Bosnia-Herzegovina,0,-14,1,0,14,7,6,13,1
-2020-04-17,LQ,Bosnia-Herzegovina,0,-11,0,0,11,6,5,11,0
-2020-04-18,LQ,Bosnia-Herzegovina,0,-3,0,0,3,1,2,3,0
-2020-04-19,LQ,Bosnia-Herzegovina,0,0,0,0,0,0,0,0,0
-2020-04-20,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-04-21,LQ,Bosnia-Herzegovina,0,-12,0,0,12,6,6,12,0
-2020-04-22,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-04-23,LQ,Bosnia-Herzegovina,0,-17,3,1,17,7,7,14,2
-2020-04-24,LQ,Bosnia-Herzegovina,0,-5,0,0,5,3,2,5,0
-2020-04-25,LQ,Bosnia-Herzegovina,0,-3,0,0,3,1,2,3,0
-2020-04-26,LQ,Bosnia-Herzegovina,0,-1,0,0,1,0,1,1,0
-2020-04-27,LQ,Bosnia-Herzegovina,0,-11,0,0,11,6,5,11,0
-2020-04-28,LQ,Bosnia-Herzegovina,0,-9,0,0,9,4,5,9,0
-2020-04-29,LQ,Bosnia-Herzegovina,0,-8,0,0,8,4,4,8,0
-2020-04-30,LQ,Bosnia-Herzegovina,0,-4,0,0,4,2,2,4,0
-2020-05-01,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-05-02,LQ,Bosnia-Herzegovina,0,0,0,0,0,0,0,0,0
-2020-05-03,LQ,Bosnia-Herzegovina,0,-2,0,0,2,1,1,2,0
-2020-05-04,LQ,Bosnia-Herzegovina,0,-14,0,0,14,7,7,14,0
-2020-05-05,LQ,Bosnia-Herzegovina,0,-4,0,0,4,2,2,4,0
-2020-05-06,LQ,Bosnia-Herzegovina,0,-8,0,0,8,4,4,8,0
-2020-05-07,LQ,Bosnia-Herzegovina,0,-8,4,0,8,2,2,4,4
-2020-05-08,LQ,Bosnia-Herzegovina,0,-10,0,0,10,5,5,10,0
-2020-05-09,LQ,Bosnia-Herzegovina,0,-4,0,0,4,2,2,4,0
-2020-05-10,LQ,Bosnia-Herzegovina,0,-2,0,0,2,1,1,2,0
-2020-05-11,LQ,Bosnia-Herzegovina,0,-9,0,0,9,5,4,9,0
-2020-05-12,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-05-13,LQ,Bosnia-Herzegovina,0,-7,0,0,7,3,4,7,0
-2020-05-14,LQ,Bosnia-Herzegovina,0,-15,0,0,15,7,8,15,0
-2020-05-15,LQ,Bosnia-Herzegovina,0,-10,0,0,10,5,5,10,0
-2020-05-16,LQ,Bosnia-Herzegovina,0,-2,0,0,2,1,1,2,0
-2020-05-17,LQ,Bosnia-Herzegovina,0,0,0,0,0,0,0,0,0
-2020-05-18,LQ,Bosnia-Herzegovina,0,-14,2,0,14,6,6,12,2
-2020-05-19,LQ,Bosnia-Herzegovina,0,-10,0,0,10,5,5,10,0
-2020-05-20,LQ,Bosnia-Herzegovina,0,-6,2,0,6,2,2,4,2
-2020-05-21,LQ,Bosnia-Herzegovina,0,-15,3,2,15,6,6,12,1
-2020-05-22,LQ,Bosnia-Herzegovina,0,-8,2,1,8,3,3,6,1
-2020-05-23,LQ,Bosnia-Herzegovina,0,0,0,0,0,0,0,0,0
-2020-05-24,LQ,Bosnia-Herzegovina,0,0,0,0,0,0,0,0,0
-2020-05-25,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-05-26,LQ,Bosnia-Herzegovina,0,-15,2,0,15,7,6,13,2
-2020-05-27,LQ,Bosnia-Herzegovina,0,-7,0,0,7,3,4,7,0
-2020-05-28,LQ,Bosnia-Herzegovina,0,-8,0,0,8,4,4,8,0
-2020-05-29,LQ,Bosnia-Herzegovina,0,-6,0,0,6,3,3,6,0
-2020-05-30,LQ,Bosnia-Herzegovina,0,-2,0,0,2,1,1,2,0
-2020-05-31,LQ,Bosnia-Herzegovina,0,-2,0,0,2,0,2,2,0
-2020-06-01,LQ,Bosnia-Herzegovina,0,-9,0,0,9,5,4,9,0
-2020-06-02,LQ,Bosnia-Herzegovina,0,-26,0,0,26,13,13,26,0
-2020-06-03,LQ,Bosnia-Herzegovina,0,-29,0,0,29,14,15,29,0
-2020-06-04,LQ,Bosnia-Herzegovina,0,-7,0,0,7,3,4,7,0
-2020-06-05,LQ,Bosnia-Herzegovina,0,-21,0,0,21,11,10,21,0
-2020-06-06,LQ,Bosnia-Herzegovina,0,-12,0,0,12,6,6,12,0
-2020-06-07,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
-2020-06-08,LQ,Bosnia-Herzegovina,0,-16,0,0,16,9,7,16,0
-2020-06-09,LQ,Bosnia-Herzegovina,0,-21,0,0,21,10,11,21,0
-2020-06-10,LQ,Bosnia-Herzegovina,0,-25,0,0,25,12,13,25,0
-2020-06-11,LQ,Bosnia-Herzegovina,0,-18,0,0,18,10,8,18,0
-2020-06-12,LQ,Bosnia-Herzegovina,0,-14,0,0,14,7,7,14,0
-2020-06-13,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
-2020-06-14,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
-2020-06-15,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
-2020-06-16,LQ,Bosnia-Herzegovina,0,-28,0,0,28,14,14,28,0
-2020-06-17,LQ,Bosnia-Herzegovina,0,-29,0,0,29,14,15,29,0
-2020-06-18,LQ,Bosnia-Herzegovina,0,-12,0,0,12,6,6,12,0
-2020-06-19,LQ,Bosnia-Herzegovina,0,-32,0,0,32,17,15,32,0
-2020-06-20,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
-2020-06-21,LQ,Bosnia-Herzegovina,0,-19,0,0,19,9,10,19,0
-2020-06-22,LQ,Bosnia-Herzegovina,0,-21,0,0,21,10,11,21,0
-2020-06-23,LQ,Bosnia-Herzegovina,0,-30,0,0,30,15,15,30,0
-2020-06-24,LQ,Bosnia-Herzegovina,0,-34,0,0,34,17,17,34,0
-2020-06-25,LQ,Bosnia-Herzegovina,0,-10,0,0,10,5,5,10,0
-2020-06-26,LQ,Bosnia-Herzegovina,0,-26,0,0,26,13,13,26,0
-2020-06-27,LQ,Bosnia-Herzegovina,0,-14,0,0,14,7,7,14,0
-2020-06-28,LQ,Bosnia-Herzegovina,0,-26,0,0,26,13,13,26,0
-2020-06-29,LQ,Bosnia-Herzegovina,0,-23,0,0,23,12,11,23,0
-2020-06-30,LQ,Bosnia-Herzegovina,0,-29,0,0,29,14,15,29,0
-2020-07-01,LQ,Bosnia-Herzegovina,0,-31,0,0,31,16,15,31,0
-2020-07-02,LQ,Bosnia-Herzegovina,0,-31,0,0,31,16,15,31,0
-2020-07-03,LQ,Bosnia-Herzegovina,0,-29,0,0,29,14,15,29,0
-2020-07-04,LQ,Bosnia-Herzegovina,0,-17,0,0,17,9,8,17,0
-2020-07-05,LQ,Bosnia-Herzegovina,0,-27,0,0,27,13,14,27,0
-2020-07-06,LQ,Bosnia-Herzegovina,0,-30,0,0,30,14,16,30,0
-2020-07-07,LQ,Bosnia-Herzegovina,0,-30,2,0,30,14,14,28,2
-2020-07-08,LQ,Bosnia-Herzegovina,0,-39,0,0,39,19,20,39,0
-2020-07-09,LQ,Bosnia-Herzegovina,0,-31,0,0,31,16,15,31,0
-2020-07-10,LQ,Bosnia-Herzegovina,0,-38,0,0,38,19,19,38,0
-2020-07-11,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
-2020-07-12,LQ,Bosnia-Herzegovina,0,-32,0,0,32,16,16,32,0
-2020-07-13,LQ,Bosnia-Herzegovina,0,-35,0,0,35,18,17,35,0
-2020-07-14,LQ,Bosnia-Herzegovina,0,-38,0,0,38,18,20,38,0
-2020-07-15,LQ,Bosnia-Herzegovina,0,-42,1,0,42,21,20,41,1
-2020-07-16,LQ,Bosnia-Herzegovina,0,-23,0,0,23,12,11,23,0
-2020-07-17,LQ,Bosnia-Herzegovina,0,-35,0,0,35,18,17,35,0
-2020-07-18,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
-2020-07-19,LQ,Bosnia-Herzegovina,0,-21,0,0,21,10,11,21,0
-2020-07-20,LQ,Bosnia-Herzegovina,0,-26,0,0,26,13,13,26,0
-2020-07-21,LQ,Bosnia-Herzegovina,0,-28,0,0,28,14,14,28,0
-2020-07-22,LQ,Bosnia-Herzegovina,0,-24,0,0,24,12,12,24,0
-2020-07-23,LQ,Bosnia-Herzegovina,0,-21,0,0,21,11,10,21,0
-2020-07-24,LQ,Bosnia-Herzegovina,0,-40,0,0,40,19,21,40,0
-2020-07-25,LQ,Bosnia-Herzegovina,0,-19,0,0,19,10,9,19,0
-2020-07-26,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
-2020-07-27,LQ,Bosnia-Herzegovina,0,-32,0,0,32,16,16,32,0
-2020-07-28,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
-2020-07-29,LQ,Bosnia-Herzegovina,0,-29,1,1,29,14,14,28,0
-2020-07-30,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
-2020-07-31,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2020-08-01,LQ,Bosnia-Herzegovina,0,-24,1,1,24,12,11,23,0
-2020-08-02,LQ,Bosnia-Herzegovina,0,-24,0,0,24,11,13,24,0
-2020-08-03,LQ,Bosnia-Herzegovina,0,-35,0,0,35,18,17,35,0
-2020-08-04,LQ,Bosnia-Herzegovina,0,-33,0,0,33,16,17,33,0
-2020-08-05,LQ,Bosnia-Herzegovina,0,-42,0,0,42,21,21,42,0
-2020-08-06,LQ,Bosnia-Herzegovina,0,-21,0,0,21,11,10,21,0
-2020-08-07,LQ,Bosnia-Herzegovina,0,-33,0,0,33,16,17,33,0
-2020-08-08,LQ,Bosnia-Herzegovina,0,-29,0,0,29,15,14,29,0
-2020-08-09,LQ,Bosnia-Herzegovina,0,-27,0,0,27,13,14,27,0
-2020-08-10,LQ,Bosnia-Herzegovina,0,-37,0,0,37,19,18,37,0
-2020-08-11,LQ,Bosnia-Herzegovina,0,-29,1,1,29,13,15,28,0
-2020-08-12,LQ,Bosnia-Herzegovina,0,-41,1,1,41,20,20,40,0
-2020-08-13,LQ,Bosnia-Herzegovina,0,-16,0,0,16,9,7,16,0
-2020-08-14,LQ,Bosnia-Herzegovina,0,-38,0,0,38,19,19,38,0
-2020-08-15,LQ,Bosnia-Herzegovina,0,-31,0,0,31,16,15,31,0
-2020-08-16,LQ,Bosnia-Herzegovina,0,-28,0,0,28,13,15,28,0
-2020-08-17,LQ,Bosnia-Herzegovina,0,-34,0,0,34,17,17,34,0
-2020-08-18,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2020-08-19,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2020-08-20,LQ,Bosnia-Herzegovina,0,-23,0,0,23,12,11,23,0
-2020-08-21,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2020-08-22,LQ,Bosnia-Herzegovina,0,-22,0,0,22,11,11,22,0
-2020-08-23,LQ,Bosnia-Herzegovina,0,-29,0,0,29,14,15,29,0
-2020-08-24,LQ,Bosnia-Herzegovina,0,-31,0,0,31,16,15,31,0
-2020-08-25,LQ,Bosnia-Herzegovina,0,-33,2,0,33,15,16,31,2
-2020-08-26,LQ,Bosnia-Herzegovina,0,-36,0,0,36,17,19,36,0
-2020-08-27,LQ,Bosnia-Herzegovina,0,-22,2,0,22,11,9,20,2
-2020-08-28,LQ,Bosnia-Herzegovina,0,-41,0,0,41,21,20,41,0
-2020-08-29,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
-2020-08-30,LQ,Bosnia-Herzegovina,0,-22,0,0,22,11,11,22,0
-2020-08-31,LQ,Bosnia-Herzegovina,0,-29,0,0,29,15,14,29,0
-2020-09-01,LQ,Bosnia-Herzegovina,0,-25,0,0,25,12,13,25,0
-2020-09-02,LQ,Bosnia-Herzegovina,0,-29,2,0,29,14,13,27,2
-2020-09-03,LQ,Bosnia-Herzegovina,0,-26,0,0,26,12,14,26,0
-2020-09-04,LQ,Bosnia-Herzegovina,0,-32,0,0,32,17,15,32,0
-2020-09-05,LQ,Bosnia-Herzegovina,0,-21,0,0,21,11,10,21,0
-2020-09-06,LQ,Bosnia-Herzegovina,0,-24,0,0,24,11,13,24,0
-2020-09-07,LQ,Bosnia-Herzegovina,0,-29,0,0,29,15,14,29,0
-2020-09-08,LQ,Bosnia-Herzegovina,0,-31,0,0,31,15,16,31,0
-2020-09-09,LQ,Bosnia-Herzegovina,0,-24,2,0,24,11,11,22,2
-2020-09-10,LQ,Bosnia-Herzegovina,0,-18,2,0,18,8,8,16,2
-2020-09-11,LQ,Bosnia-Herzegovina,0,-34,0,0,34,17,17,34,0
-2020-09-12,LQ,Bosnia-Herzegovina,0,-21,0,0,21,11,10,21,0
-2020-09-13,LQ,Bosnia-Herzegovina,0,-21,0,0,21,10,11,21,0
-2020-09-14,LQ,Bosnia-Herzegovina,0,-21,2,0,21,10,9,19,2
-2020-09-15,LQ,Bosnia-Herzegovina,0,-27,0,0,27,13,14,27,0
-2020-09-16,LQ,Bosnia-Herzegovina,0,-23,0,0,23,11,12,23,0
-2020-09-17,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
-2020-09-18,LQ,Bosnia-Herzegovina,0,-44,0,0,44,23,21,44,0
-2020-09-19,LQ,Bosnia-Herzegovina,0,-26,0,0,26,13,13,26,0
-2020-09-20,LQ,Bosnia-Herzegovina,0,-24,0,0,24,12,12,24,0
-2020-09-21,LQ,Bosnia-Herzegovina,0,-23,0,0,23,12,11,23,0
-2020-09-22,LQ,Bosnia-Herzegovina,0,-15,0,0,15,7,8,15,0
-2020-09-23,LQ,Bosnia-Herzegovina,0,-28,0,0,28,14,14,28,0
-2020-09-24,LQ,Bosnia-Herzegovina,0,-19,0,0,19,9,10,19,0
-2020-09-25,LQ,Bosnia-Herzegovina,0,-28,0,0,28,14,14,28,0
-2020-09-26,LQ,Bosnia-Herzegovina,0,-22,0,0,22,12,10,22,0
-2020-09-27,LQ,Bosnia-Herzegovina,0,-27,0,0,27,12,15,27,0
-2020-09-28,LQ,Bosnia-Herzegovina,0,-30,0,0,30,16,14,30,0
-2020-09-29,LQ,Bosnia-Herzegovina,0,-24,0,0,24,12,12,24,0
-2020-09-30,LQ,Bosnia-Herzegovina,0,-23,0,0,23,12,11,23,0
-2020-10-01,LQ,Bosnia-Herzegovina,0,-22,0,0,22,11,11,22,0
-2020-10-02,LQ,Bosnia-Herzegovina,0,-33,0,0,33,17,16,33,0
-2020-10-03,LQ,Bosnia-Herzegovina,0,-12,0,0,12,6,6,12,0
-2020-10-04,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
-2020-10-05,LQ,Bosnia-Herzegovina,0,-25,0,0,25,13,12,25,0
-2020-10-06,LQ,Bosnia-Herzegovina,0,-17,2,1,17,6,9,15,1
-2020-10-07,LQ,Bosnia-Herzegovina,0,-24,4,1,24,11,9,20,3
-2020-10-08,LQ,Bosnia-Herzegovina,0,-27,5,1,27,10,12,22,4
-2020-10-09,LQ,Bosnia-Herzegovina,0,-32,2,1,32,16,14,30,1
-2020-10-10,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
-2020-10-11,LQ,Bosnia-Herzegovina,0,-25,2,0,25,11,12,23,2
-2020-10-12,LQ,Bosnia-Herzegovina,0,-32,2,0,32,15,15,30,2
-2020-10-13,LQ,Bosnia-Herzegovina,0,-19,0,0,19,9,10,19,0
-2020-10-14,LQ,Bosnia-Herzegovina,0,-26,0,0,26,12,14,26,0
-2020-10-15,LQ,Bosnia-Herzegovina,0,-24,0,0,24,13,11,24,0
-2020-10-16,LQ,Bosnia-Herzegovina,0,-29,4,0,29,12,13,25,4
-2020-10-17,LQ,Bosnia-Herzegovina,0,-20,0,0,20,11,9,20,0
-2020-10-18,LQ,Bosnia-Herzegovina,0,-19,0,0,19,9,10,19,0
-2020-10-19,LQ,Bosnia-Herzegovina,0,-26,0,0,26,14,12,26,0
-2020-10-20,LQ,Bosnia-Herzegovina,0,-19,0,0,19,9,10,19,0
-2020-10-21,LQ,Bosnia-Herzegovina,0,-22,0,0,22,11,11,22,0
-2020-10-22,LQ,Bosnia-Herzegovina,0,-22,0,0,22,10,12,22,0
-2020-10-23,LQ,Bosnia-Herzegovina,0,-27,0,0,27,14,13,27,0
-2020-10-24,LQ,Bosnia-Herzegovina,0,-20,0,0,20,11,9,20,0
-2020-10-25,LQ,Bosnia-Herzegovina,0,-19,0,0,19,10,9,19,0
-2020-10-26,LQ,Bosnia-Herzegovina,0,-30,0,0,30,14,16,30,0
-2020-10-27,LQ,Bosnia-Herzegovina,0,-22,0,0,22,11,11,22,0
-2020-10-28,LQ,Bosnia-Herzegovina,0,-19,0,0,19,9,10,19,0
-2020-10-29,LQ,Bosnia-Herzegovina,0,-30,0,0,30,14,16,30,0
-2020-10-30,LQ,Bosnia-Herzegovina,0,-37,0,0,37,20,17,37,0
-2020-10-31,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
-2020-11-01,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
-2020-11-02,LQ,Bosnia-Herzegovina,0,-30,0,0,30,15,15,30,0
-2020-11-03,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
-2020-11-04,LQ,Bosnia-Herzegovina,0,-15,0,0,15,7,8,15,0
-2020-11-05,LQ,Bosnia-Herzegovina,0,-25,0,0,25,12,13,25,0
-2020-11-06,LQ,Bosnia-Herzegovina,0,-26,0,0,26,14,12,26,0
-2020-11-07,LQ,Bosnia-Herzegovina,0,-25,0,0,25,12,13,25,0
-2020-11-08,LQ,Bosnia-Herzegovina,0,-22,0,0,22,11,11,22,0
-2020-11-09,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
-2020-11-10,LQ,Bosnia-Herzegovina,0,-26,2,0,26,11,13,24,2
-2020-11-11,LQ,Bosnia-Herzegovina,0,-24,0,0,24,12,12,24,0
-2020-11-12,LQ,Bosnia-Herzegovina,0,-17,0,0,17,9,8,17,0
-2020-11-13,LQ,Bosnia-Herzegovina,0,-26,1,1,26,13,12,25,0
-2020-11-14,LQ,Bosnia-Herzegovina,0,-22,0,0,22,10,12,22,0
-2020-11-15,LQ,Bosnia-Herzegovina,0,-25,0,0,25,12,13,25,0
-2020-11-16,LQ,Bosnia-Herzegovina,0,-24,1,1,24,12,11,23,0
-2020-11-17,LQ,Bosnia-Herzegovina,0,-14,0,0,14,7,7,14,0
-2020-11-18,LQ,Bosnia-Herzegovina,0,-18,0,0,18,8,10,18,0
-2020-11-19,LQ,Bosnia-Herzegovina,0,-21,2,0,21,11,8,19,2
-2020-11-20,LQ,Bosnia-Herzegovina,0,-28,0,0,28,14,14,28,0
-2020-11-21,LQ,Bosnia-Herzegovina,0,-17,2,0,17,7,8,15,2
-2020-11-22,LQ,Bosnia-Herzegovina,0,-23,0,0,23,12,11,23,0
-2020-11-23,LQ,Bosnia-Herzegovina,0,-25,0,0,25,13,12,25,0
-2020-11-24,LQ,Bosnia-Herzegovina,0,-13,0,0,13,7,6,13,0
-2020-11-25,LQ,Bosnia-Herzegovina,0,-22,0,0,22,9,13,22,0
-2020-11-26,LQ,Bosnia-Herzegovina,0,-14,0,0,14,7,7,14,0
-2020-11-27,LQ,Bosnia-Herzegovina,0,-23,1,0,23,13,9,22,1
-2020-11-28,LQ,Bosnia-Herzegovina,0,-15,0,0,15,7,8,15,0
-2020-11-29,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
-2020-11-30,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
-2020-12-01,LQ,Bosnia-Herzegovina,0,-18,3,0,18,8,7,15,3
-2020-12-02,LQ,Bosnia-Herzegovina,0,-18,1,0,18,8,9,17,1
-2020-12-03,LQ,Bosnia-Herzegovina,0,-16,0,0,16,7,9,16,0
-2020-12-04,LQ,Bosnia-Herzegovina,0,-28,0,0,28,15,13,28,0
-2020-12-05,LQ,Bosnia-Herzegovina,0,-9,0,0,9,4,5,9,0
-2020-12-06,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
-2020-12-07,LQ,Bosnia-Herzegovina,0,-18,0,0,18,10,8,18,0
-2020-12-08,LQ,Bosnia-Herzegovina,0,-18,1,1,18,9,8,17,0
-2020-12-09,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
-2020-12-10,LQ,Bosnia-Herzegovina,0,-19,0,0,19,9,10,19,0
-2020-12-11,LQ,Bosnia-Herzegovina,0,-38,0,0,38,20,18,38,0
-2020-12-12,LQ,Bosnia-Herzegovina,0,-13,0,0,13,6,7,13,0
-2020-12-13,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
-2020-12-14,LQ,Bosnia-Herzegovina,0,-23,0,0,23,11,12,23,0
-2020-12-15,LQ,Bosnia-Herzegovina,0,-17,2,0,17,8,7,15,2
-2020-12-16,LQ,Bosnia-Herzegovina,0,-18,0,0,18,9,9,18,0
-2020-12-17,LQ,Bosnia-Herzegovina,0,-17,0,0,17,9,8,17,0
-2020-12-18,LQ,Bosnia-Herzegovina,0,-26,1,0,26,13,12,25,1
-2020-12-19,LQ,Bosnia-Herzegovina,0,-13,0,0,13,6,7,13,0
-2020-12-20,LQ,Bosnia-Herzegovina,0,-17,1,0,17,8,8,16,1
-2020-12-21,LQ,Bosnia-Herzegovina,0,-31,0,0,31,15,16,31,0
-2020-12-22,LQ,Bosnia-Herzegovina,0,-19,0,0,19,10,9,19,0
-2020-12-23,LQ,Bosnia-Herzegovina,0,-19,0,0,19,9,10,19,0
-2020-12-24,LQ,Bosnia-Herzegovina,0,-27,0,0,27,14,13,27,0
-2020-12-25,LQ,Bosnia-Herzegovina,0,-17,0,0,17,9,8,17,0
-2020-12-26,LQ,Bosnia-Herzegovina,0,-11,0,0,11,5,6,11,0
-2020-12-27,LQ,Bosnia-Herzegovina,0,-19,0,0,19,10,9,19,0
-2020-12-28,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
-2020-12-29,LQ,Bosnia-Herzegovina,0,-16,0,0,16,8,8,16,0
-2020-12-30,LQ,Bosnia-Herzegovina,0,-20,0,0,20,10,10,20,0
-2020-12-31,LQ,Bosnia-Herzegovina,0,-17,0,0,17,8,9,17,0
+2020-01-01,EB,Belgium and Luxembourg,2428,1735,3,0,693,349,341,690,3
+2020-01-02,EB,Belgium and Luxembourg,3019,2023,12,11,996,482,502,984,1
+2020-01-03,EB,Belgium and Luxembourg,3127,2127,15,10,1000,498,487,985,5
+2020-01-04,EB,Belgium and Luxembourg,2866,2067,10,6,799,390,399,789,4
+2020-01-05,EB,Belgium and Luxembourg,3072,2068,13,3,1004,500,491,991,10
+2020-01-06,EB,Belgium and Luxembourg,3079,2035,11,6,1044,513,520,1033,5
+2020-01-07,EB,Belgium and Luxembourg,2866,1802,23,17,1064,522,519,1041,6
+2020-01-08,EB,Belgium and Luxembourg,2760,1723,17,12,1037,511,509,1020,5
+2020-01-09,EB,Belgium and Luxembourg,2900,1847,6,4,1053,520,527,1047,2
+2020-01-10,EB,Belgium and Luxembourg,3051,1931,13,6,1120,566,541,1107,7
+2020-01-11,EB,Belgium and Luxembourg,2524,1810,7,6,714,351,356,707,1
+2020-01-12,EB,Belgium and Luxembourg,2755,1846,8,2,909,451,450,901,6
+2020-01-13,EB,Belgium and Luxembourg,2953,1864,24,15,1089,520,545,1065,9
+2020-01-14,EB,Belgium and Luxembourg,2533,1551,11,3,982,488,483,971,8
+2020-01-15,EB,Belgium and Luxembourg,2740,1670,20,8,1070,530,520,1050,12
+2020-01-16,EB,Belgium and Luxembourg,2907,1786,20,9,1121,548,553,1101,11
+2020-01-17,EB,Belgium and Luxembourg,3092,1954,25,13,1138,575,538,1113,12
+2020-01-18,EB,Belgium and Luxembourg,2486,1763,7,2,723,352,364,716,5
+2020-01-19,EB,Belgium and Luxembourg,2690,1773,6,0,917,452,459,911,6
+2020-01-20,EB,Belgium and Luxembourg,2990,1869,19,7,1121,541,561,1102,12
+2020-01-21,EB,Belgium and Luxembourg,2686,1657,10,3,1029,510,509,1019,7
+2020-01-22,EB,Belgium and Luxembourg,2816,1755,22,8,1061,525,514,1039,14
+2020-01-23,EB,Belgium and Luxembourg,2998,1898,7,4,1100,545,548,1093,3
+2020-01-24,EB,Belgium and Luxembourg,3152,2016,9,3,1136,577,550,1127,6
+2020-01-25,EB,Belgium and Luxembourg,2541,1806,4,2,735,365,366,731,2
+2020-01-26,EB,Belgium and Luxembourg,2742,1828,8,1,914,448,458,906,7
+2020-01-27,EB,Belgium and Luxembourg,2950,1852,10,6,1098,525,563,1088,4
+2020-01-28,EB,Belgium and Luxembourg,2541,1533,21,10,1008,499,488,987,11
+2020-01-29,EB,Belgium and Luxembourg,2771,1720,16,9,1051,512,523,1035,7
+2020-01-30,EB,Belgium and Luxembourg,2928,1850,20,8,1078,526,532,1058,12
+2020-01-31,EB,Belgium and Luxembourg,3061,1936,18,7,1125,566,541,1107,11
+2020-02-01,EB,Belgium and Luxembourg,2531,1825,6,3,706,350,350,700,3
+2020-02-02,EB,Belgium and Luxembourg,2728,1824,7,2,904,450,447,897,5
+2020-02-03,EB,Belgium and Luxembourg,2949,1858,16,7,1091,526,549,1075,9
+2020-02-04,EB,Belgium and Luxembourg,2661,1641,17,13,1020,500,503,1003,4
+2020-02-05,EB,Belgium and Luxembourg,2884,1799,16,11,1085,534,535,1069,5
+2020-02-06,EB,Belgium and Luxembourg,2962,1840,38,19,1122,542,542,1084,19
+2020-02-07,EB,Belgium and Luxembourg,3194,2029,20,10,1165,585,560,1145,10
+2020-02-08,EB,Belgium and Luxembourg,2696,1931,9,4,765,380,376,756,5
+2020-02-09,EB,Belgium and Luxembourg,2293,1535,2,0,758,373,383,756,2
+2020-02-10,EB,Belgium and Luxembourg,2646,1663,9,1,983,482,492,974,8
+2020-02-11,EB,Belgium and Luxembourg,2658,1636,9,4,1022,501,512,1013,5
+2020-02-12,EB,Belgium and Luxembourg,2925,1795,22,17,1130,559,549,1108,5
+2020-02-13,EB,Belgium and Luxembourg,3066,1918,9,5,1148,568,571,1139,4
+2020-02-14,EB,Belgium and Luxembourg,3218,2038,22,16,1180,591,567,1158,6
+2020-02-15,EB,Belgium and Luxembourg,2832,2042,9,6,790,388,393,781,3
+2020-02-16,EB,Belgium and Luxembourg,2819,1886,3,0,933,460,470,930,3
+2020-02-17,EB,Belgium and Luxembourg,3075,1907,16,8,1168,567,585,1152,8
+2020-02-18,EB,Belgium and Luxembourg,2845,1802,11,7,1043,518,514,1032,4
+2020-02-19,EB,Belgium and Luxembourg,2992,1861,16,13,1131,563,552,1115,3
+2020-02-20,EB,Belgium and Luxembourg,3032,1897,20,5,1135,544,571,1115,15
+2020-02-21,EB,Belgium and Luxembourg,3230,1993,20,11,1237,625,592,1217,9
+2020-02-22,EB,Belgium and Luxembourg,2901,2052,9,2,849,415,425,840,7
+2020-02-23,EB,Belgium and Luxembourg,2973,1970,12,5,1003,503,488,991,7
+2020-02-24,EB,Belgium and Luxembourg,3112,1983,12,5,1129,543,574,1117,7
+2020-02-25,EB,Belgium and Luxembourg,2904,1834,18,9,1070,529,523,1052,9
+2020-02-26,EB,Belgium and Luxembourg,2921,1818,10,3,1103,545,548,1093,7
+2020-02-27,EB,Belgium and Luxembourg,3009,1932,11,3,1077,533,533,1066,8
+2020-02-28,EB,Belgium and Luxembourg,3225,2038,13,7,1187,598,576,1174,6
+2020-02-29,EB,Belgium and Luxembourg,2854,2018,9,2,836,411,416,827,7
+2020-03-01,EB,Belgium and Luxembourg,2998,1966,11,2,1032,512,509,1021,9
+2020-03-02,EB,Belgium and Luxembourg,3055,1908,15,8,1147,556,576,1132,7
+2020-03-03,EB,Belgium and Luxembourg,2846,1740,16,10,1106,545,545,1090,6
+2020-03-04,EB,Belgium and Luxembourg,3005,1855,34,13,1150,560,556,1116,21
+2020-03-05,EB,Belgium and Luxembourg,3085,1958,17,6,1127,551,559,1110,11
+2020-03-06,EB,Belgium and Luxembourg,3254,2109,10,6,1145,581,554,1135,4
+2020-03-07,EB,Belgium and Luxembourg,2681,1907,15,6,774,378,381,759,9
+2020-03-08,EB,Belgium and Luxembourg,2985,2062,7,2,923,461,455,916,5
+2020-03-09,EB,Belgium and Luxembourg,2863,1826,16,14,1037,502,519,1021,2
+2020-03-10,EB,Belgium and Luxembourg,2584,1678,16,2,906,445,445,890,14
+2020-03-11,EB,Belgium and Luxembourg,2705,1722,14,4,983,487,482,969,10
+2020-03-12,EB,Belgium and Luxembourg,2791,1792,13,7,999,486,500,986,6
+2020-03-13,EB,Belgium and Luxembourg,2938,1873,21,5,1065,533,511,1044,16
+2020-03-14,EB,Belgium and Luxembourg,2418,1711,6,2,707,349,352,701,4
+2020-03-15,EB,Belgium and Luxembourg,2595,1811,7,2,784,390,387,777,5
+2020-03-16,EB,Belgium and Luxembourg,2374,1582,16,7,792,371,405,776,9
+2020-03-17,EB,Belgium and Luxembourg,2013,1311,15,6,702,338,349,687,9
+2020-03-18,EB,Belgium and Luxembourg,1847,1221,4,2,626,316,306,622,2
+2020-03-19,EB,Belgium and Luxembourg,1790,1223,5,2,567,279,283,562,3
+2020-03-20,EB,Belgium and Luxembourg,1678,1114,3,2,564,288,273,561,1
+2020-03-21,EB,Belgium and Luxembourg,1328,1000,8,2,328,161,159,320,6
+2020-03-22,EB,Belgium and Luxembourg,1067,732,5,5,335,166,164,330,0
+2020-03-23,EB,Belgium and Luxembourg,840,515,10,6,325,143,172,315,4
+2020-03-24,EB,Belgium and Luxembourg,832,474,9,5,358,179,170,349,4
+2020-03-25,EB,Belgium and Luxembourg,727,441,11,8,286,133,142,275,3
+2020-03-26,EB,Belgium and Luxembourg,726,439,14,12,287,138,135,273,2
+2020-03-27,EB,Belgium and Luxembourg,693,393,10,10,300,151,139,290,0
+2020-03-28,EB,Belgium and Luxembourg,462,292,0,0,170,85,85,170,0
+2020-03-29,EB,Belgium and Luxembourg,445,276,0,0,169,92,77,169,0
+2020-03-30,EB,Belgium and Luxembourg,497,276,3,3,221,93,125,218,0
+2020-03-31,EB,Belgium and Luxembourg,565,308,4,2,257,135,118,253,2
+2020-04-01,EB,Belgium and Luxembourg,527,278,13,11,249,116,120,236,2
+2020-04-02,EB,Belgium and Luxembourg,548,287,12,9,261,122,127,249,3
+2020-04-03,EB,Belgium and Luxembourg,484,257,3,2,227,122,102,224,1
+2020-04-04,EB,Belgium and Luxembourg,368,238,2,2,130,65,63,128,0
+2020-04-05,EB,Belgium and Luxembourg,330,176,2,2,154,76,76,152,0
+2020-04-06,EB,Belgium and Luxembourg,419,213,5,2,206,89,112,201,3
+2020-04-07,EB,Belgium and Luxembourg,438,222,2,2,216,110,104,214,0
+2020-04-08,EB,Belgium and Luxembourg,468,236,9,9,232,111,112,223,0
+2020-04-09,EB,Belgium and Luxembourg,488,252,5,5,236,114,117,231,0
+2020-04-10,EB,Belgium and Luxembourg,376,180,3,2,196,102,91,193,1
+2020-04-11,EB,Belgium and Luxembourg,292,150,2,2,142,77,63,140,0
+2020-04-12,EB,Belgium and Luxembourg,301,159,0,0,142,70,72,142,0
+2020-04-13,EB,Belgium and Luxembourg,293,156,6,4,137,65,66,131,2
+2020-04-14,EB,Belgium and Luxembourg,422,204,5,4,218,102,111,213,1
+2020-04-15,EB,Belgium and Luxembourg,477,231,2,2,246,121,123,244,0
+2020-04-16,EB,Belgium and Luxembourg,483,241,6,5,242,116,120,236,1
+2020-04-17,EB,Belgium and Luxembourg,448,229,4,2,219,118,97,215,2
+2020-04-18,EB,Belgium and Luxembourg,314,185,0,0,129,64,65,129,0
+2020-04-19,EB,Belgium and Luxembourg,346,198,2,1,148,74,72,146,1
+2020-04-20,EB,Belgium and Luxembourg,418,207,2,1,211,92,117,209,1
+2020-04-21,EB,Belgium and Luxembourg,484,227,5,3,257,131,121,252,2
+2020-04-22,EB,Belgium and Luxembourg,498,264,2,2,234,114,118,232,0
+2020-04-23,EB,Belgium and Luxembourg,539,274,8,6,265,126,131,257,2
+2020-04-24,EB,Belgium and Luxembourg,478,249,6,5,229,120,103,223,1
+2020-04-25,EB,Belgium and Luxembourg,360,225,0,0,135,67,68,135,0
+2020-04-26,EB,Belgium and Luxembourg,384,219,1,0,165,86,78,164,1
+2020-04-27,EB,Belgium and Luxembourg,415,206,7,3,209,87,115,202,4
+2020-04-28,EB,Belgium and Luxembourg,519,265,6,6,254,128,120,248,0
+2020-04-29,EB,Belgium and Luxembourg,518,262,11,5,256,121,124,245,6
+2020-04-30,EB,Belgium and Luxembourg,535,282,5,1,253,122,126,248,4
+2020-05-01,EB,Belgium and Luxembourg,416,220,2,0,196,103,91,194,2
+2020-05-02,EB,Belgium and Luxembourg,337,205,1,0,132,69,62,131,1
+2020-05-03,EB,Belgium and Luxembourg,388,220,1,0,168,88,79,167,1
+2020-05-04,EB,Belgium and Luxembourg,461,237,5,3,224,93,126,219,2
+2020-05-05,EB,Belgium and Luxembourg,545,265,4,4,280,139,137,276,0
+2020-05-06,EB,Belgium and Luxembourg,557,278,4,3,279,135,140,275,1
+2020-05-07,EB,Belgium and Luxembourg,609,308,8,5,301,147,146,293,3
+2020-05-08,EB,Belgium and Luxembourg,517,255,12,6,262,131,119,250,6
+2020-05-09,EB,Belgium and Luxembourg,383,215,3,0,168,88,77,165,3
+2020-05-10,EB,Belgium and Luxembourg,411,244,2,0,167,86,79,165,2
+2020-05-11,EB,Belgium and Luxembourg,502,259,5,4,243,103,135,238,1
+2020-05-12,EB,Belgium and Luxembourg,607,298,20,16,309,151,138,289,4
+2020-05-13,EB,Belgium and Luxembourg,598,307,14,8,291,135,142,277,6
+2020-05-14,EB,Belgium and Luxembourg,627,319,12,8,308,147,149,296,4
+2020-05-15,EB,Belgium and Luxembourg,620,307,14,12,313,156,143,299,2
+2020-05-16,EB,Belgium and Luxembourg,437,258,6,5,179,89,84,173,1
+2020-05-17,EB,Belgium and Luxembourg,436,243,4,1,193,97,92,189,3
+2020-05-18,EB,Belgium and Luxembourg,539,297,12,8,242,105,125,230,4
+2020-05-19,EB,Belgium and Luxembourg,624,314,12,8,310,147,151,298,4
+2020-05-20,EB,Belgium and Luxembourg,625,324,12,10,301,146,143,289,2
+2020-05-21,EB,Belgium and Luxembourg,591,309,8,6,282,138,136,274,2
+2020-05-22,EB,Belgium and Luxembourg,589,304,30,20,285,132,123,255,10
+2020-05-23,EB,Belgium and Luxembourg,451,282,6,2,169,87,76,163,4
+2020-05-24,EB,Belgium and Luxembourg,502,300,3,3,202,105,94,199,0
+2020-05-25,EB,Belgium and Luxembourg,555,310,10,2,245,104,131,235,8
+2020-05-26,EB,Belgium and Luxembourg,642,331,16,12,311,143,152,295,4
+2020-05-27,EB,Belgium and Luxembourg,662,343,15,10,319,153,151,304,5
+2020-05-28,EB,Belgium and Luxembourg,639,310,18,8,329,158,153,311,10
+2020-05-29,EB,Belgium and Luxembourg,610,309,16,12,301,149,136,285,4
+2020-05-30,EB,Belgium and Luxembourg,456,254,15,14,202,93,94,187,1
+2020-05-31,EB,Belgium and Luxembourg,471,273,4,3,198,95,99,194,1
+2020-06-01,EB,Belgium and Luxembourg,532,277,4,2,255,114,137,251,2
+2020-06-02,EB,Belgium and Luxembourg,645,333,15,4,312,155,142,297,11
+2020-06-03,EB,Belgium and Luxembourg,654,324,14,10,330,156,160,316,4
+2020-06-04,EB,Belgium and Luxembourg,709,375,15,12,334,159,160,319,3
+2020-06-05,EB,Belgium and Luxembourg,695,396,15,13,299,149,135,284,2
+2020-06-06,EB,Belgium and Luxembourg,494,288,9,7,206,101,96,197,2
+2020-06-07,EB,Belgium and Luxembourg,554,317,5,2,237,117,115,232,3
+2020-06-08,EB,Belgium and Luxembourg,627,339,14,9,288,121,153,274,5
+2020-06-09,EB,Belgium and Luxembourg,665,340,23,8,325,153,149,302,15
+2020-06-10,EB,Belgium and Luxembourg,664,341,21,11,323,151,151,302,10
+2020-06-11,EB,Belgium and Luxembourg,689,346,15,11,343,161,167,328,4
+2020-06-12,EB,Belgium and Luxembourg,693,352,21,10,341,169,151,320,11
+2020-06-13,EB,Belgium and Luxembourg,469,284,14,4,185,95,76,171,10
+2020-06-14,EB,Belgium and Luxembourg,547,330,13,1,217,97,107,204,12
+2020-06-15,EB,Belgium and Luxembourg,786,402,12,6,384,178,194,372,6
+2020-06-16,EB,Belgium and Luxembourg,789,369,15,5,420,208,197,405,10
+2020-06-17,EB,Belgium and Luxembourg,821,404,17,7,417,196,204,400,10
+2020-06-18,EB,Belgium and Luxembourg,847,426,25,16,421,201,195,396,9
+2020-06-19,EB,Belgium and Luxembourg,904,440,26,16,464,228,210,438,10
+2020-06-20,EB,Belgium and Luxembourg,644,369,15,8,275,137,123,260,7
+2020-06-21,EB,Belgium and Luxembourg,746,408,6,0,338,162,170,332,6
+2020-06-22,EB,Belgium and Luxembourg,873,435,20,7,438,190,228,418,13
+2020-06-23,EB,Belgium and Luxembourg,892,436,17,11,456,224,215,439,6
+2020-06-24,EB,Belgium and Luxembourg,977,495,20,9,482,231,231,462,11
+2020-06-25,EB,Belgium and Luxembourg,965,504,19,14,461,225,217,442,5
+2020-06-26,EB,Belgium and Luxembourg,966,501,15,9,465,230,220,450,6
+2020-06-27,EB,Belgium and Luxembourg,713,408,8,4,305,155,142,297,4
+2020-06-28,EB,Belgium and Luxembourg,810,464,7,2,346,159,180,339,5
+2020-06-29,EB,Belgium and Luxembourg,958,492,16,5,466,209,241,450,11
+2020-06-30,EB,Belgium and Luxembourg,1001,506,21,9,495,241,233,474,12
+2020-07-01,EB,Belgium and Luxembourg,1398,733,23,7,665,326,316,642,16
+2020-07-02,EB,Belgium and Luxembourg,1391,767,18,13,624,302,304,606,5
+2020-07-03,EB,Belgium and Luxembourg,1431,797,20,12,634,316,298,614,8
+2020-07-04,EB,Belgium and Luxembourg,1232,754,7,4,478,246,225,471,3
+2020-07-05,EB,Belgium and Luxembourg,1259,755,3,2,504,245,256,501,1
+2020-07-06,EB,Belgium and Luxembourg,1374,777,21,12,597,274,302,576,9
+2020-07-07,EB,Belgium and Luxembourg,1323,744,15,3,579,285,279,564,12
+2020-07-08,EB,Belgium and Luxembourg,1412,764,24,13,648,314,310,624,11
+2020-07-09,EB,Belgium and Luxembourg,1437,801,23,10,636,304,309,613,13
+2020-07-10,EB,Belgium and Luxembourg,1546,872,14,9,674,343,317,660,5
+2020-07-11,EB,Belgium and Luxembourg,1350,826,17,8,524,257,250,507,9
+2020-07-12,EB,Belgium and Luxembourg,1328,781,12,0,547,265,270,535,12
+2020-07-13,EB,Belgium and Luxembourg,1435,814,19,11,621,280,322,602,8
+2020-07-14,EB,Belgium and Luxembourg,1362,751,19,7,611,304,288,592,12
+2020-07-15,EB,Belgium and Luxembourg,1561,891,30,15,670,321,319,640,15
+2020-07-16,EB,Belgium and Luxembourg,1605,930,15,8,675,321,339,660,7
+2020-07-17,EB,Belgium and Luxembourg,1670,961,11,5,709,356,342,698,6
+2020-07-18,EB,Belgium and Luxembourg,1509,952,13,5,557,282,262,544,8
+2020-07-19,EB,Belgium and Luxembourg,1554,979,5,0,575,281,289,570,5
+2020-07-20,EB,Belgium and Luxembourg,1569,939,16,12,630,298,316,614,4
+2020-07-21,EB,Belgium and Luxembourg,1508,875,11,7,633,318,304,622,4
+2020-07-22,EB,Belgium and Luxembourg,1583,952,14,5,631,313,304,617,9
+2020-07-23,EB,Belgium and Luxembourg,1574,925,27,12,649,310,312,622,15
+2020-07-24,EB,Belgium and Luxembourg,1697,994,16,12,703,347,340,687,4
+2020-07-25,EB,Belgium and Luxembourg,1559,1025,13,5,534,268,253,521,8
+2020-07-26,EB,Belgium and Luxembourg,1543,967,3,2,576,286,287,573,1
+2020-07-27,EB,Belgium and Luxembourg,1536,926,18,11,610,280,312,592,7
+2020-07-28,EB,Belgium and Luxembourg,1446,835,12,7,611,299,300,599,5
+2020-07-29,EB,Belgium and Luxembourg,1544,919,11,7,625,312,302,614,4
+2020-07-30,EB,Belgium and Luxembourg,1551,899,26,12,652,308,318,626,14
+2020-07-31,EB,Belgium and Luxembourg,1769,1046,19,5,723,350,354,704,14
+2020-08-01,EB,Belgium and Luxembourg,1738,1143,9,2,595,310,276,586,7
+2020-08-02,EB,Belgium and Luxembourg,1742,1127,2,1,615,302,311,613,1
+2020-08-03,EB,Belgium and Luxembourg,1756,1101,10,2,655,309,336,645,8
+2020-08-04,EB,Belgium and Luxembourg,1675,1021,12,9,654,321,321,642,3
+2020-08-05,EB,Belgium and Luxembourg,1793,1117,21,8,676,331,324,655,13
+2020-08-06,EB,Belgium and Luxembourg,1743,1076,22,13,667,329,316,645,9
+2020-08-07,EB,Belgium and Luxembourg,1874,1177,25,13,697,339,333,672,12
+2020-08-08,EB,Belgium and Luxembourg,1790,1185,7,1,605,306,292,598,6
+2020-08-09,EB,Belgium and Luxembourg,1843,1226,0,0,617,308,309,617,0
+2020-08-10,EB,Belgium and Luxembourg,1788,1135,9,2,653,303,341,644,7
+2020-08-11,EB,Belgium and Luxembourg,1606,1003,18,7,603,296,289,585,11
+2020-08-12,EB,Belgium and Luxembourg,1729,1051,17,9,678,331,330,661,8
+2020-08-13,EB,Belgium and Luxembourg,1735,1073,7,7,662,330,325,655,0
+2020-08-14,EB,Belgium and Luxembourg,1875,1219,23,13,656,324,309,633,10
+2020-08-15,EB,Belgium and Luxembourg,1788,1217,8,4,571,282,281,563,4
+2020-08-16,EB,Belgium and Luxembourg,1817,1190,5,2,627,313,309,622,3
+2020-08-17,EB,Belgium and Luxembourg,1768,1116,16,6,652,298,338,636,10
+2020-08-18,EB,Belgium and Luxembourg,1583,967,11,5,616,307,298,605,6
+2020-08-19,EB,Belgium and Luxembourg,1785,1144,20,9,641,311,310,621,11
+2020-08-20,EB,Belgium and Luxembourg,1765,1079,17,8,686,333,336,669,9
+2020-08-21,EB,Belgium and Luxembourg,1873,1201,21,11,672,331,320,651,10
+2020-08-22,EB,Belgium and Luxembourg,1738,1182,9,4,556,281,266,547,5
+2020-08-23,EB,Belgium and Luxembourg,1852,1224,12,3,628,300,316,616,9
+2020-08-24,EB,Belgium and Luxembourg,1794,1119,16,8,675,314,345,659,8
+2020-08-25,EB,Belgium and Luxembourg,1687,1059,20,12,628,316,292,608,8
+2020-08-26,EB,Belgium and Luxembourg,1750,1090,11,3,660,321,328,649,8
+2020-08-27,EB,Belgium and Luxembourg,1834,1097,24,9,737,355,358,713,15
+2020-08-28,EB,Belgium and Luxembourg,1860,1165,18,8,695,341,336,677,10
+2020-08-29,EB,Belgium and Luxembourg,1756,1181,12,4,575,288,275,563,8
+2020-08-30,EB,Belgium and Luxembourg,1858,1217,4,0,641,317,320,637,4
+2020-08-31,EB,Belgium and Luxembourg,1887,1176,19,7,711,327,365,692,12
+2020-09-01,EB,Belgium and Luxembourg,1602,1040,16,10,562,289,257,546,6
+2020-09-02,EB,Belgium and Luxembourg,1693,1086,14,8,607,296,297,593,6
+2020-09-03,EB,Belgium and Luxembourg,1775,1147,21,8,628,305,302,607,13
+2020-09-04,EB,Belgium and Luxembourg,1839,1196,21,11,643,318,304,622,10
+2020-09-05,EB,Belgium and Luxembourg,1673,1149,9,5,524,260,255,515,4
+2020-09-06,EB,Belgium and Luxembourg,1740,1151,8,0,589,288,293,581,8
+2020-09-07,EB,Belgium and Luxembourg,1692,1083,13,7,609,284,312,596,6
+2020-09-08,EB,Belgium and Luxembourg,1529,954,23,12,575,279,273,552,11
+2020-09-09,EB,Belgium and Luxembourg,1649,1048,16,11,601,289,296,585,5
+2020-09-10,EB,Belgium and Luxembourg,1659,1069,11,5,590,293,286,579,6
+2020-09-11,EB,Belgium and Luxembourg,1821,1154,17,12,667,337,313,650,5
+2020-09-12,EB,Belgium and Luxembourg,1523,1054,10,3,469,235,224,459,7
+2020-09-13,EB,Belgium and Luxembourg,1725,1144,8,4,581,280,293,573,4
+2020-09-14,EB,Belgium and Luxembourg,1624,1023,11,5,601,277,313,590,6
+2020-09-15,EB,Belgium and Luxembourg,1503,955,13,5,548,270,265,535,8
+2020-09-16,EB,Belgium and Luxembourg,1561,967,16,5,594,291,287,578,11
+2020-09-17,EB,Belgium and Luxembourg,1581,975,22,12,606,300,284,584,10
+2020-09-18,EB,Belgium and Luxembourg,1745,1084,9,5,661,336,316,652,4
+2020-09-19,EB,Belgium and Luxembourg,1439,966,10,2,473,239,224,463,8
+2020-09-20,EB,Belgium and Luxembourg,1573,1011,3,0,562,267,292,559,3
+2020-09-21,EB,Belgium and Luxembourg,1549,908,25,9,641,293,323,616,16
+2020-09-22,EB,Belgium and Luxembourg,1453,875,17,6,578,282,279,561,11
+2020-09-23,EB,Belgium and Luxembourg,1592,1001,19,8,591,284,288,572,11
+2020-09-24,EB,Belgium and Luxembourg,1531,935,19,3,596,293,284,577,16
+2020-09-25,EB,Belgium and Luxembourg,1692,1024,17,8,668,336,315,651,9
+2020-09-26,EB,Belgium and Luxembourg,1348,914,8,6,434,217,209,426,2
+2020-09-27,EB,Belgium and Luxembourg,1499,958,12,4,541,263,266,529,8
+2020-09-28,EB,Belgium and Luxembourg,1544,953,14,9,591,273,304,577,5
+2020-09-29,EB,Belgium and Luxembourg,1421,844,29,14,577,278,270,548,15
+2020-09-30,EB,Belgium and Luxembourg,1520,915,25,10,605,293,287,580,15
+2020-10-01,EB,Belgium and Luxembourg,1495,867,17,5,628,295,316,611,12
+2020-10-02,EB,Belgium and Luxembourg,1662,1000,18,7,662,341,303,644,11
+2020-10-03,EB,Belgium and Luxembourg,1346,902,13,7,444,220,211,431,6
+2020-10-04,EB,Belgium and Luxembourg,1422,907,5,4,515,253,257,510,1
+2020-10-05,EB,Belgium and Luxembourg,1424,872,9,5,552,249,294,543,4
+2020-10-06,EB,Belgium and Luxembourg,1177,714,8,4,463,233,222,455,4
+2020-10-07,EB,Belgium and Luxembourg,1351,827,16,10,524,256,252,508,6
+2020-10-08,EB,Belgium and Luxembourg,1373,809,14,1,564,278,272,550,13
+2020-10-09,EB,Belgium and Luxembourg,1573,961,28,9,612,300,284,584,19
+2020-10-10,EB,Belgium and Luxembourg,1331,914,10,6,417,208,199,407,4
+2020-10-11,EB,Belgium and Luxembourg,1402,863,10,7,539,258,271,529,3
+2020-10-12,EB,Belgium and Luxembourg,1387,827,21,8,560,259,280,539,13
+2020-10-13,EB,Belgium and Luxembourg,1205,695,15,10,510,257,238,495,5
+2020-10-14,EB,Belgium and Luxembourg,1338,803,23,13,535,256,256,512,10
+2020-10-15,EB,Belgium and Luxembourg,1375,807,21,12,568,262,285,547,9
+2020-10-16,EB,Belgium and Luxembourg,1563,925,20,10,638,327,291,618,10
+2020-10-17,EB,Belgium and Luxembourg,1424,966,9,6,458,231,218,449,3
+2020-10-18,EB,Belgium and Luxembourg,1428,904,15,6,524,254,255,509,9
+2020-10-19,EB,Belgium and Luxembourg,1319,778,21,14,541,241,279,520,7
+2020-10-20,EB,Belgium and Luxembourg,1149,646,21,12,503,247,235,482,9
+2020-10-21,EB,Belgium and Luxembourg,1293,773,21,10,520,247,252,499,11
+2020-10-22,EB,Belgium and Luxembourg,1369,794,28,11,575,270,277,547,17
+2020-10-23,EB,Belgium and Luxembourg,1552,933,22,11,619,303,294,597,11
+2020-10-24,EB,Belgium and Luxembourg,1356,909,12,4,447,222,213,435,8
+2020-10-25,EB,Belgium and Luxembourg,1304,815,5,0,489,242,242,484,5
+2020-10-26,EB,Belgium and Luxembourg,1309,775,20,7,534,244,270,514,13
+2020-10-27,EB,Belgium and Luxembourg,1108,627,19,6,481,234,228,462,13
+2020-10-28,EB,Belgium and Luxembourg,1234,716,7,3,518,250,261,511,4
+2020-10-29,EB,Belgium and Luxembourg,1316,738,17,10,578,286,275,561,7
+2020-10-30,EB,Belgium and Luxembourg,1512,844,16,8,668,334,318,652,8
+2020-10-31,EB,Belgium and Luxembourg,1298,806,10,7,492,250,232,482,3
+2020-11-01,EB,Belgium and Luxembourg,1294,773,2,1,521,258,261,519,1
+2020-11-02,EB,Belgium and Luxembourg,1226,724,2,1,502,234,266,500,1
+2020-11-03,EB,Belgium and Luxembourg,1088,605,4,2,483,241,238,479,2
+2020-11-04,EB,Belgium and Luxembourg,1163,672,8,2,491,238,245,483,6
+2020-11-05,EB,Belgium and Luxembourg,1173,665,11,3,508,251,246,497,8
+2020-11-06,EB,Belgium and Luxembourg,1354,745,12,3,609,302,295,597,9
+2020-11-07,EB,Belgium and Luxembourg,1125,680,13,5,445,227,205,432,8
+2020-11-08,EB,Belgium and Luxembourg,1173,681,4,0,492,241,247,488,4
+2020-11-09,EB,Belgium and Luxembourg,1075,596,8,2,479,215,256,471,6
+2020-11-10,EB,Belgium and Luxembourg,907,493,7,1,414,215,192,407,6
+2020-11-11,EB,Belgium and Luxembourg,967,539,8,3,428,202,218,420,5
+2020-11-12,EB,Belgium and Luxembourg,1044,581,16,5,463,228,219,447,11
+2020-11-13,EB,Belgium and Luxembourg,1154,635,9,1,519,261,249,510,8
+2020-11-14,EB,Belgium and Luxembourg,879,531,3,1,348,179,166,345,2
+2020-11-15,EB,Belgium and Luxembourg,1012,580,2,1,432,211,219,430,1
+2020-11-16,EB,Belgium and Luxembourg,989,536,10,2,453,204,239,443,8
+2020-11-17,EB,Belgium and Luxembourg,916,466,11,3,450,223,216,439,8
+2020-11-18,EB,Belgium and Luxembourg,975,531,14,3,444,217,213,430,11
+2020-11-19,EB,Belgium and Luxembourg,1015,556,1,1,459,228,230,458,0
+2020-11-20,EB,Belgium and Luxembourg,1112,580,7,2,532,275,250,525,5
+2020-11-21,EB,Belgium and Luxembourg,877,517,5,0,360,182,173,355,5
+2020-11-22,EB,Belgium and Luxembourg,947,544,2,0,403,200,201,401,2
+2020-11-23,EB,Belgium and Luxembourg,932,522,9,2,410,191,210,401,7
+2020-11-24,EB,Belgium and Luxembourg,798,402,6,0,396,195,195,390,6
+2020-11-25,EB,Belgium and Luxembourg,976,538,12,4,438,210,216,426,8
+2020-11-26,EB,Belgium and Luxembourg,938,496,4,3,442,219,219,438,1
+2020-11-27,EB,Belgium and Luxembourg,1090,599,10,5,491,252,229,481,5
+2020-11-28,EB,Belgium and Luxembourg,860,502,8,3,358,184,166,350,5
+2020-11-29,EB,Belgium and Luxembourg,903,512,2,2,391,190,199,389,0
+2020-11-30,EB,Belgium and Luxembourg,947,516,6,1,431,196,229,425,5
+2020-12-01,EB,Belgium and Luxembourg,897,474,4,1,423,214,205,419,3
+2020-12-02,EB,Belgium and Luxembourg,1035,583,6,2,452,222,224,446,4
+2020-12-03,EB,Belgium and Luxembourg,1049,545,3,1,504,249,252,501,2
+2020-12-04,EB,Belgium and Luxembourg,1118,606,4,2,512,257,251,508,2
+2020-12-05,EB,Belgium and Luxembourg,900,555,1,0,345,186,158,344,1
+2020-12-06,EB,Belgium and Luxembourg,929,523,3,2,406,195,208,403,1
+2020-12-07,EB,Belgium and Luxembourg,986,512,10,4,474,217,247,464,6
+2020-12-08,EB,Belgium and Luxembourg,919,501,8,5,418,209,201,410,3
+2020-12-09,EB,Belgium and Luxembourg,1067,568,15,4,499,237,247,484,11
+2020-12-10,EB,Belgium and Luxembourg,1127,604,7,2,523,254,262,516,5
+2020-12-11,EB,Belgium and Luxembourg,1232,641,11,2,591,303,277,580,9
+2020-12-12,EB,Belgium and Luxembourg,1011,628,1,0,383,197,185,382,1
+2020-12-13,EB,Belgium and Luxembourg,1023,587,3,1,436,214,219,433,2
+2020-12-14,EB,Belgium and Luxembourg,1130,613,13,4,517,233,271,504,9
+2020-12-15,EB,Belgium and Luxembourg,1052,570,5,2,482,247,230,477,3
+2020-12-16,EB,Belgium and Luxembourg,1184,632,12,9,552,273,267,540,3
+2020-12-17,EB,Belgium and Luxembourg,1424,797,11,3,627,310,306,616,8
+2020-12-18,EB,Belgium and Luxembourg,1602,916,14,7,686,340,332,672,7
+2020-12-19,EB,Belgium and Luxembourg,1491,951,7,3,540,272,261,533,4
+2020-12-20,EB,Belgium and Luxembourg,1430,887,7,1,543,275,261,536,6
+2020-12-21,EB,Belgium and Luxembourg,1256,716,5,2,540,250,285,535,3
+2020-12-22,EB,Belgium and Luxembourg,1155,634,8,3,521,254,259,513,5
+2020-12-23,EB,Belgium and Luxembourg,1366,752,10,1,614,303,301,604,9
+2020-12-24,EB,Belgium and Luxembourg,1036,563,5,0,473,241,227,468,5
+2020-12-25,EB,Belgium and Luxembourg,599,353,1,0,246,124,121,245,1
+2020-12-26,EB,Belgium and Luxembourg,1101,647,4,0,454,229,221,450,4
+2020-12-27,EB,Belgium and Luxembourg,1205,691,5,1,514,249,260,509,4
+2020-12-28,EB,Belgium and Luxembourg,1079,607,3,1,472,225,244,469,2
+2020-12-29,EB,Belgium and Luxembourg,1009,541,9,0,468,240,219,459,9
+2020-12-30,EB,Belgium and Luxembourg,1203,670,2,0,533,261,270,531,2
+2020-12-31,EB,Belgium and Luxembourg,806,433,3,2,373,194,176,370,1
+2020-01-01,LQ,Bosnia-Herzegovina,701,669,0,0,32,16,16,32,0
+2020-01-02,LQ,Bosnia-Herzegovina,861,829,0,0,32,15,17,32,0
+2020-01-03,LQ,Bosnia-Herzegovina,896,844,3,0,52,25,24,49,3
+2020-01-04,LQ,Bosnia-Herzegovina,977,938,0,0,39,20,19,39,0
+2020-01-05,LQ,Bosnia-Herzegovina,929,887,0,0,42,20,22,42,0
+2020-01-06,LQ,Bosnia-Herzegovina,893,852,1,0,41,21,19,40,1
+2020-01-07,LQ,Bosnia-Herzegovina,768,727,0,0,41,20,21,41,0
+2020-01-08,LQ,Bosnia-Herzegovina,766,727,0,0,39,20,19,39,0
+2020-01-09,LQ,Bosnia-Herzegovina,772,735,0,0,37,19,18,37,0
+2020-01-10,LQ,Bosnia-Herzegovina,826,785,2,0,41,19,20,39,2
+2020-01-11,LQ,Bosnia-Herzegovina,915,878,0,0,37,19,18,37,0
+2020-01-12,LQ,Bosnia-Herzegovina,906,870,0,0,36,17,19,36,0
+2020-01-13,LQ,Bosnia-Herzegovina,825,794,2,0,31,15,14,29,2
+2020-01-14,LQ,Bosnia-Herzegovina,759,712,0,0,47,22,25,47,0
+2020-01-15,LQ,Bosnia-Herzegovina,746,709,0,0,37,19,18,37,0
+2020-01-16,LQ,Bosnia-Herzegovina,757,731,0,0,26,13,13,26,0
+2020-01-17,LQ,Bosnia-Herzegovina,785,759,0,0,26,14,12,26,0
+2020-01-18,LQ,Bosnia-Herzegovina,850,811,0,0,39,19,20,39,0
+2020-01-19,LQ,Bosnia-Herzegovina,848,812,1,0,36,17,18,35,1
+2020-01-20,LQ,Bosnia-Herzegovina,785,745,1,0,40,20,19,39,1
+2020-01-21,LQ,Bosnia-Herzegovina,727,684,0,0,43,21,22,43,0
+2020-01-22,LQ,Bosnia-Herzegovina,721,682,0,0,39,20,19,39,0
+2020-01-23,LQ,Bosnia-Herzegovina,738,701,0,0,37,19,18,37,0
+2020-01-24,LQ,Bosnia-Herzegovina,793,756,0,0,37,18,19,37,0
+2020-01-25,LQ,Bosnia-Herzegovina,842,809,0,0,33,17,16,33,0
+2020-01-26,LQ,Bosnia-Herzegovina,818,791,0,0,27,13,14,27,0
+2020-01-27,LQ,Bosnia-Herzegovina,778,747,2,0,31,16,13,29,2
+2020-01-28,LQ,Bosnia-Herzegovina,711,662,0,0,49,23,26,49,0
+2020-01-29,LQ,Bosnia-Herzegovina,706,666,0,0,40,20,20,40,0
+2020-01-30,LQ,Bosnia-Herzegovina,749,713,0,0,36,18,18,36,0
+2020-01-31,LQ,Bosnia-Herzegovina,880,843,0,0,37,18,19,37,0
+2020-02-01,LQ,Bosnia-Herzegovina,864,822,0,0,42,21,21,42,0
+2020-02-02,LQ,Bosnia-Herzegovina,847,811,0,0,36,18,18,36,0
+2020-02-03,LQ,Bosnia-Herzegovina,788,750,0,0,38,19,19,38,0
+2020-02-04,LQ,Bosnia-Herzegovina,726,682,2,0,44,21,21,42,2
+2020-02-05,LQ,Bosnia-Herzegovina,719,680,0,0,39,20,19,39,0
+2020-02-06,LQ,Bosnia-Herzegovina,753,717,0,0,36,18,18,36,0
+2020-02-07,LQ,Bosnia-Herzegovina,884,837,0,0,47,24,23,47,0
+2020-02-08,LQ,Bosnia-Herzegovina,904,867,0,0,37,19,18,37,0
+2020-02-09,LQ,Bosnia-Herzegovina,847,814,0,0,33,16,17,33,0
+2020-02-10,LQ,Bosnia-Herzegovina,762,721,0,0,41,21,20,41,0
+2020-02-11,LQ,Bosnia-Herzegovina,717,684,0,0,33,16,17,33,0
+2020-02-12,LQ,Bosnia-Herzegovina,720,683,2,0,37,18,17,35,2
+2020-02-13,LQ,Bosnia-Herzegovina,721,687,2,0,34,15,17,32,2
+2020-02-14,LQ,Bosnia-Herzegovina,827,780,0,0,47,24,23,47,0
+2020-02-15,LQ,Bosnia-Herzegovina,889,850,0,0,39,20,19,39,0
+2020-02-16,LQ,Bosnia-Herzegovina,902,871,0,0,31,15,16,31,0
+2020-02-17,LQ,Bosnia-Herzegovina,794,757,0,0,37,19,18,37,0
+2020-02-18,LQ,Bosnia-Herzegovina,751,709,0,0,42,20,22,42,0
+2020-02-19,LQ,Bosnia-Herzegovina,757,715,2,0,42,21,19,40,2
+2020-02-20,LQ,Bosnia-Herzegovina,789,758,0,0,31,15,16,31,0
+2020-02-21,LQ,Bosnia-Herzegovina,867,827,0,0,40,20,20,40,0
+2020-02-22,LQ,Bosnia-Herzegovina,960,920,0,0,40,20,20,40,0
+2020-02-23,LQ,Bosnia-Herzegovina,944,908,0,0,36,18,18,36,0
+2020-02-24,LQ,Bosnia-Herzegovina,810,767,0,0,43,22,21,43,0
+2020-02-25,LQ,Bosnia-Herzegovina,732,690,0,0,42,21,21,42,0
+2020-02-26,LQ,Bosnia-Herzegovina,767,730,0,0,37,19,18,37,0
+2020-02-27,LQ,Bosnia-Herzegovina,762,728,0,0,34,17,17,34,0
+2020-02-28,LQ,Bosnia-Herzegovina,870,827,0,0,43,21,22,43,0
+2020-02-29,LQ,Bosnia-Herzegovina,916,880,0,0,36,18,18,36,0
+2020-03-01,LQ,Bosnia-Herzegovina,864,833,0,0,31,15,16,31,0
+2020-03-02,LQ,Bosnia-Herzegovina,784,742,0,0,42,22,20,42,0
+2020-03-03,LQ,Bosnia-Herzegovina,737,697,0,0,40,19,21,40,0
+2020-03-04,LQ,Bosnia-Herzegovina,705,666,0,0,39,20,19,39,0
+2020-03-05,LQ,Bosnia-Herzegovina,705,672,0,0,33,16,17,33,0
+2020-03-06,LQ,Bosnia-Herzegovina,779,731,0,0,48,24,24,48,0
+2020-03-07,LQ,Bosnia-Herzegovina,798,764,0,0,34,17,17,34,0
+2020-03-08,LQ,Bosnia-Herzegovina,769,734,0,0,35,17,18,35,0
+2020-03-09,LQ,Bosnia-Herzegovina,651,608,0,0,43,22,21,43,0
+2020-03-10,LQ,Bosnia-Herzegovina,611,571,2,0,40,19,19,38,2
+2020-03-11,LQ,Bosnia-Herzegovina,635,602,0,0,33,17,16,33,0
+2020-03-12,LQ,Bosnia-Herzegovina,603,572,0,0,31,15,16,31,0
+2020-03-13,LQ,Bosnia-Herzegovina,621,577,0,0,44,23,21,44,0
+2020-03-14,LQ,Bosnia-Herzegovina,591,557,0,0,34,17,17,34,0
+2020-03-15,LQ,Bosnia-Herzegovina,614,585,0,0,29,15,14,29,0
+2020-03-16,LQ,Bosnia-Herzegovina,553,521,0,0,32,17,15,32,0
+2020-03-17,LQ,Bosnia-Herzegovina,457,435,0,0,22,11,11,22,0
+2020-03-18,LQ,Bosnia-Herzegovina,472,454,0,0,18,9,9,18,0
+2020-03-19,LQ,Bosnia-Herzegovina,413,401,0,0,12,6,6,12,0
+2020-03-20,LQ,Bosnia-Herzegovina,389,377,0,0,12,6,6,12,0
+2020-03-21,LQ,Bosnia-Herzegovina,290,284,0,0,6,3,3,6,0
+2020-03-22,LQ,Bosnia-Herzegovina,196,190,0,0,6,3,3,6,0
+2020-03-23,LQ,Bosnia-Herzegovina,160,146,0,0,14,7,7,14,0
+2020-03-24,LQ,Bosnia-Herzegovina,160,150,0,0,10,5,5,10,0
+2020-03-25,LQ,Bosnia-Herzegovina,122,112,0,0,10,5,5,10,0
+2020-03-26,LQ,Bosnia-Herzegovina,97,89,0,0,8,4,4,8,0
+2020-03-27,LQ,Bosnia-Herzegovina,114,100,0,0,14,7,7,14,0
+2020-03-28,LQ,Bosnia-Herzegovina,104,101,1,1,3,1,1,2,0
+2020-03-29,LQ,Bosnia-Herzegovina,83,77,0,0,6,3,3,6,0
+2020-03-30,LQ,Bosnia-Herzegovina,73,67,0,0,6,3,3,6,0
+2020-03-31,LQ,Bosnia-Herzegovina,93,87,0,0,6,3,3,6,0
+2020-04-01,LQ,Bosnia-Herzegovina,102,94,0,0,8,4,4,8,0
+2020-04-02,LQ,Bosnia-Herzegovina,98,91,0,0,7,3,4,7,0
+2020-04-03,LQ,Bosnia-Herzegovina,104,95,0,0,9,4,5,9,0
+2020-04-04,LQ,Bosnia-Herzegovina,77,75,0,0,2,1,1,2,0
+2020-04-05,LQ,Bosnia-Herzegovina,79,75,0,0,4,2,2,4,0
+2020-04-06,LQ,Bosnia-Herzegovina,78,70,0,0,8,4,4,8,0
+2020-04-07,LQ,Bosnia-Herzegovina,78,72,0,0,6,3,3,6,0
+2020-04-08,LQ,Bosnia-Herzegovina,101,91,0,0,10,5,5,10,0
+2020-04-09,LQ,Bosnia-Herzegovina,96,76,0,0,20,10,10,20,0
+2020-04-10,LQ,Bosnia-Herzegovina,73,60,0,0,13,6,7,13,0
+2020-04-11,LQ,Bosnia-Herzegovina,69,67,0,0,2,1,1,2,0
+2020-04-12,LQ,Bosnia-Herzegovina,50,50,0,0,0,0,0,0,0
+2020-04-13,LQ,Bosnia-Herzegovina,76,71,0,0,5,3,2,5,0
+2020-04-14,LQ,Bosnia-Herzegovina,64,57,0,0,7,4,3,7,0
+2020-04-15,LQ,Bosnia-Herzegovina,88,74,0,0,14,6,8,14,0
+2020-04-16,LQ,Bosnia-Herzegovina,81,67,1,0,14,7,6,13,1
+2020-04-17,LQ,Bosnia-Herzegovina,79,68,0,0,11,6,5,11,0
+2020-04-18,LQ,Bosnia-Herzegovina,75,72,0,0,3,1,2,3,0
+2020-04-19,LQ,Bosnia-Herzegovina,56,56,0,0,0,0,0,0,0
+2020-04-20,LQ,Bosnia-Herzegovina,73,67,0,0,6,3,3,6,0
+2020-04-21,LQ,Bosnia-Herzegovina,82,70,0,0,12,6,6,12,0
+2020-04-22,LQ,Bosnia-Herzegovina,92,86,0,0,6,3,3,6,0
+2020-04-23,LQ,Bosnia-Herzegovina,118,101,3,1,17,7,7,14,2
+2020-04-24,LQ,Bosnia-Herzegovina,95,90,0,0,5,3,2,5,0
+2020-04-25,LQ,Bosnia-Herzegovina,86,83,0,0,3,1,2,3,0
+2020-04-26,LQ,Bosnia-Herzegovina,73,72,0,0,1,0,1,1,0
+2020-04-27,LQ,Bosnia-Herzegovina,95,84,0,0,11,6,5,11,0
+2020-04-28,LQ,Bosnia-Herzegovina,104,95,0,0,9,4,5,9,0
+2020-04-29,LQ,Bosnia-Herzegovina,107,99,0,0,8,4,4,8,0
+2020-04-30,LQ,Bosnia-Herzegovina,105,101,0,0,4,2,2,4,0
+2020-05-01,LQ,Bosnia-Herzegovina,111,105,0,0,6,3,3,6,0
+2020-05-02,LQ,Bosnia-Herzegovina,109,109,0,0,0,0,0,0,0
+2020-05-03,LQ,Bosnia-Herzegovina,86,84,0,0,2,1,1,2,0
+2020-05-04,LQ,Bosnia-Herzegovina,99,85,0,0,14,7,7,14,0
+2020-05-05,LQ,Bosnia-Herzegovina,94,90,0,0,4,2,2,4,0
+2020-05-06,LQ,Bosnia-Herzegovina,101,93,0,0,8,4,4,8,0
+2020-05-07,LQ,Bosnia-Herzegovina,108,100,4,0,8,2,2,4,4
+2020-05-08,LQ,Bosnia-Herzegovina,109,99,0,0,10,5,5,10,0
+2020-05-09,LQ,Bosnia-Herzegovina,107,103,0,0,4,2,2,4,0
+2020-05-10,LQ,Bosnia-Herzegovina,77,75,0,0,2,1,1,2,0
+2020-05-11,LQ,Bosnia-Herzegovina,117,108,0,0,9,5,4,9,0
+2020-05-12,LQ,Bosnia-Herzegovina,113,107,0,0,6,3,3,6,0
+2020-05-13,LQ,Bosnia-Herzegovina,103,96,0,0,7,3,4,7,0
+2020-05-14,LQ,Bosnia-Herzegovina,115,100,0,0,15,7,8,15,0
+2020-05-15,LQ,Bosnia-Herzegovina,122,112,0,0,10,5,5,10,0
+2020-05-16,LQ,Bosnia-Herzegovina,107,105,0,0,2,1,1,2,0
+2020-05-17,LQ,Bosnia-Herzegovina,89,89,0,0,0,0,0,0,0
+2020-05-18,LQ,Bosnia-Herzegovina,123,109,2,0,14,6,6,12,2
+2020-05-19,LQ,Bosnia-Herzegovina,94,84,0,0,10,5,5,10,0
+2020-05-20,LQ,Bosnia-Herzegovina,135,129,2,0,6,2,2,4,2
+2020-05-21,LQ,Bosnia-Herzegovina,141,126,3,2,15,6,6,12,1
+2020-05-22,LQ,Bosnia-Herzegovina,134,126,2,1,8,3,3,6,1
+2020-05-23,LQ,Bosnia-Herzegovina,134,134,0,0,0,0,0,0,0
+2020-05-24,LQ,Bosnia-Herzegovina,108,108,0,0,0,0,0,0,0
+2020-05-25,LQ,Bosnia-Herzegovina,106,100,0,0,6,3,3,6,0
+2020-05-26,LQ,Bosnia-Herzegovina,147,132,2,0,15,7,6,13,2
+2020-05-27,LQ,Bosnia-Herzegovina,138,131,0,0,7,3,4,7,0
+2020-05-28,LQ,Bosnia-Herzegovina,142,134,0,0,8,4,4,8,0
+2020-05-29,LQ,Bosnia-Herzegovina,114,108,0,0,6,3,3,6,0
+2020-05-30,LQ,Bosnia-Herzegovina,138,136,0,0,2,1,1,2,0
+2020-05-31,LQ,Bosnia-Herzegovina,120,118,0,0,2,0,2,2,0
+2020-06-01,LQ,Bosnia-Herzegovina,135,126,0,0,9,5,4,9,0
+2020-06-02,LQ,Bosnia-Herzegovina,140,114,0,0,26,13,13,26,0
+2020-06-03,LQ,Bosnia-Herzegovina,156,127,0,0,29,14,15,29,0
+2020-06-04,LQ,Bosnia-Herzegovina,148,141,0,0,7,3,4,7,0
+2020-06-05,LQ,Bosnia-Herzegovina,172,151,0,0,21,11,10,21,0
+2020-06-06,LQ,Bosnia-Herzegovina,169,157,0,0,12,6,6,12,0
+2020-06-07,LQ,Bosnia-Herzegovina,165,149,0,0,16,8,8,16,0
+2020-06-08,LQ,Bosnia-Herzegovina,161,145,0,0,16,9,7,16,0
+2020-06-09,LQ,Bosnia-Herzegovina,160,139,0,0,21,10,11,21,0
+2020-06-10,LQ,Bosnia-Herzegovina,175,150,0,0,25,12,13,25,0
+2020-06-11,LQ,Bosnia-Herzegovina,191,173,0,0,18,10,8,18,0
+2020-06-12,LQ,Bosnia-Herzegovina,185,171,0,0,14,7,7,14,0
+2020-06-13,LQ,Bosnia-Herzegovina,189,172,0,0,17,8,9,17,0
+2020-06-14,LQ,Bosnia-Herzegovina,183,167,0,0,16,8,8,16,0
+2020-06-15,LQ,Bosnia-Herzegovina,226,206,0,0,20,10,10,20,0
+2020-06-16,LQ,Bosnia-Herzegovina,216,188,0,0,28,14,14,28,0
+2020-06-17,LQ,Bosnia-Herzegovina,239,210,0,0,29,14,15,29,0
+2020-06-18,LQ,Bosnia-Herzegovina,207,195,0,0,12,6,6,12,0
+2020-06-19,LQ,Bosnia-Herzegovina,268,236,0,0,32,17,15,32,0
+2020-06-20,LQ,Bosnia-Herzegovina,258,242,0,0,16,8,8,16,0
+2020-06-21,LQ,Bosnia-Herzegovina,236,217,0,0,19,9,10,19,0
+2020-06-22,LQ,Bosnia-Herzegovina,225,204,0,0,21,10,11,21,0
+2020-06-23,LQ,Bosnia-Herzegovina,234,204,0,0,30,15,15,30,0
+2020-06-24,LQ,Bosnia-Herzegovina,246,212,0,0,34,17,17,34,0
+2020-06-25,LQ,Bosnia-Herzegovina,243,233,0,0,10,5,5,10,0
+2020-06-26,LQ,Bosnia-Herzegovina,313,287,0,0,26,13,13,26,0
+2020-06-27,LQ,Bosnia-Herzegovina,340,326,0,0,14,7,7,14,0
+2020-06-28,LQ,Bosnia-Herzegovina,347,321,0,0,26,13,13,26,0
+2020-06-29,LQ,Bosnia-Herzegovina,315,292,0,0,23,12,11,23,0
+2020-06-30,LQ,Bosnia-Herzegovina,330,301,0,0,29,14,15,29,0
+2020-07-01,LQ,Bosnia-Herzegovina,570,539,0,0,31,16,15,31,0
+2020-07-02,LQ,Bosnia-Herzegovina,573,542,0,0,31,16,15,31,0
+2020-07-03,LQ,Bosnia-Herzegovina,651,622,0,0,29,14,15,29,0
+2020-07-04,LQ,Bosnia-Herzegovina,717,700,0,0,17,9,8,17,0
+2020-07-05,LQ,Bosnia-Herzegovina,658,631,0,0,27,13,14,27,0
+2020-07-06,LQ,Bosnia-Herzegovina,571,541,0,0,30,14,16,30,0
+2020-07-07,LQ,Bosnia-Herzegovina,562,532,2,0,30,14,14,28,2
+2020-07-08,LQ,Bosnia-Herzegovina,582,543,0,0,39,19,20,39,0
+2020-07-09,LQ,Bosnia-Herzegovina,599,568,0,0,31,16,15,31,0
+2020-07-10,LQ,Bosnia-Herzegovina,731,693,0,0,38,19,19,38,0
+2020-07-11,LQ,Bosnia-Herzegovina,739,719,0,0,20,10,10,20,0
+2020-07-12,LQ,Bosnia-Herzegovina,685,653,0,0,32,16,16,32,0
+2020-07-13,LQ,Bosnia-Herzegovina,605,570,0,0,35,18,17,35,0
+2020-07-14,LQ,Bosnia-Herzegovina,540,502,0,0,38,18,20,38,0
+2020-07-15,LQ,Bosnia-Herzegovina,627,585,1,0,42,21,20,41,1
+2020-07-16,LQ,Bosnia-Herzegovina,562,539,0,0,23,12,11,23,0
+2020-07-17,LQ,Bosnia-Herzegovina,691,656,0,0,35,18,17,35,0
+2020-07-18,LQ,Bosnia-Herzegovina,804,786,0,0,18,9,9,18,0
+2020-07-19,LQ,Bosnia-Herzegovina,689,668,0,0,21,10,11,21,0
+2020-07-20,LQ,Bosnia-Herzegovina,631,605,0,0,26,13,13,26,0
+2020-07-21,LQ,Bosnia-Herzegovina,621,593,0,0,28,14,14,28,0
+2020-07-22,LQ,Bosnia-Herzegovina,621,597,0,0,24,12,12,24,0
+2020-07-23,LQ,Bosnia-Herzegovina,634,613,0,0,21,11,10,21,0
+2020-07-24,LQ,Bosnia-Herzegovina,783,743,0,0,40,19,21,40,0
+2020-07-25,LQ,Bosnia-Herzegovina,899,880,0,0,19,10,9,19,0
+2020-07-26,LQ,Bosnia-Herzegovina,760,740,0,0,20,10,10,20,0
+2020-07-27,LQ,Bosnia-Herzegovina,636,604,0,0,32,16,16,32,0
+2020-07-28,LQ,Bosnia-Herzegovina,663,645,0,0,18,9,9,18,0
+2020-07-29,LQ,Bosnia-Herzegovina,681,652,1,1,29,14,14,28,0
+2020-07-30,LQ,Bosnia-Herzegovina,636,620,0,0,16,8,8,16,0
+2020-07-31,LQ,Bosnia-Herzegovina,765,729,0,0,36,18,18,36,0
+2020-08-01,LQ,Bosnia-Herzegovina,1114,1090,1,1,24,12,11,23,0
+2020-08-02,LQ,Bosnia-Herzegovina,931,907,0,0,24,11,13,24,0
+2020-08-03,LQ,Bosnia-Herzegovina,786,751,0,0,35,18,17,35,0
+2020-08-04,LQ,Bosnia-Herzegovina,708,675,0,0,33,16,17,33,0
+2020-08-05,LQ,Bosnia-Herzegovina,799,757,0,0,42,21,21,42,0
+2020-08-06,LQ,Bosnia-Herzegovina,737,716,0,0,21,11,10,21,0
+2020-08-07,LQ,Bosnia-Herzegovina,874,841,0,0,33,16,17,33,0
+2020-08-08,LQ,Bosnia-Herzegovina,1108,1079,0,0,29,15,14,29,0
+2020-08-09,LQ,Bosnia-Herzegovina,880,853,0,0,27,13,14,27,0
+2020-08-10,LQ,Bosnia-Herzegovina,791,754,0,0,37,19,18,37,0
+2020-08-11,LQ,Bosnia-Herzegovina,755,726,1,1,29,13,15,28,0
+2020-08-12,LQ,Bosnia-Herzegovina,760,719,1,1,41,20,20,40,0
+2020-08-13,LQ,Bosnia-Herzegovina,757,741,0,0,16,9,7,16,0
+2020-08-14,LQ,Bosnia-Herzegovina,835,797,0,0,38,19,19,38,0
+2020-08-15,LQ,Bosnia-Herzegovina,1094,1063,0,0,31,16,15,31,0
+2020-08-16,LQ,Bosnia-Herzegovina,946,918,0,0,28,13,15,28,0
+2020-08-17,LQ,Bosnia-Herzegovina,790,756,0,0,34,17,17,34,0
+2020-08-18,LQ,Bosnia-Herzegovina,727,691,0,0,36,18,18,36,0
+2020-08-19,LQ,Bosnia-Herzegovina,778,742,0,0,36,18,18,36,0
+2020-08-20,LQ,Bosnia-Herzegovina,775,752,0,0,23,12,11,23,0
+2020-08-21,LQ,Bosnia-Herzegovina,872,836,0,0,36,18,18,36,0
+2020-08-22,LQ,Bosnia-Herzegovina,1107,1085,0,0,22,11,11,22,0
+2020-08-23,LQ,Bosnia-Herzegovina,900,871,0,0,29,14,15,29,0
+2020-08-24,LQ,Bosnia-Herzegovina,784,753,0,0,31,16,15,31,0
+2020-08-25,LQ,Bosnia-Herzegovina,770,737,2,0,33,15,16,31,2
+2020-08-26,LQ,Bosnia-Herzegovina,825,789,0,0,36,17,19,36,0
+2020-08-27,LQ,Bosnia-Herzegovina,766,744,2,0,22,11,9,20,2
+2020-08-28,LQ,Bosnia-Herzegovina,914,873,0,0,41,21,20,41,0
+2020-08-29,LQ,Bosnia-Herzegovina,1083,1063,0,0,20,10,10,20,0
+2020-08-30,LQ,Bosnia-Herzegovina,910,888,0,0,22,11,11,22,0
+2020-08-31,LQ,Bosnia-Herzegovina,752,723,0,0,29,15,14,29,0
+2020-09-01,LQ,Bosnia-Herzegovina,727,702,0,0,25,12,13,25,0
+2020-09-02,LQ,Bosnia-Herzegovina,746,717,2,0,29,14,13,27,2
+2020-09-03,LQ,Bosnia-Herzegovina,704,678,0,0,26,12,14,26,0
+2020-09-04,LQ,Bosnia-Herzegovina,848,816,0,0,32,17,15,32,0
+2020-09-05,LQ,Bosnia-Herzegovina,1022,1001,0,0,21,11,10,21,0
+2020-09-06,LQ,Bosnia-Herzegovina,880,856,0,0,24,11,13,24,0
+2020-09-07,LQ,Bosnia-Herzegovina,724,695,0,0,29,15,14,29,0
+2020-09-08,LQ,Bosnia-Herzegovina,695,664,0,0,31,15,16,31,0
+2020-09-09,LQ,Bosnia-Herzegovina,749,725,2,0,24,11,11,22,2
+2020-09-10,LQ,Bosnia-Herzegovina,721,703,2,0,18,8,8,16,2
+2020-09-11,LQ,Bosnia-Herzegovina,830,796,0,0,34,17,17,34,0
+2020-09-12,LQ,Bosnia-Herzegovina,991,970,0,0,21,11,10,21,0
+2020-09-13,LQ,Bosnia-Herzegovina,849,828,0,0,21,10,11,21,0
+2020-09-14,LQ,Bosnia-Herzegovina,694,673,2,0,21,10,9,19,2
+2020-09-15,LQ,Bosnia-Herzegovina,688,661,0,0,27,13,14,27,0
+2020-09-16,LQ,Bosnia-Herzegovina,658,635,0,0,23,11,12,23,0
+2020-09-17,LQ,Bosnia-Herzegovina,595,577,0,0,18,9,9,18,0
+2020-09-18,LQ,Bosnia-Herzegovina,779,735,0,0,44,23,21,44,0
+2020-09-19,LQ,Bosnia-Herzegovina,935,909,0,0,26,13,13,26,0
+2020-09-20,LQ,Bosnia-Herzegovina,807,783,0,0,24,12,12,24,0
+2020-09-21,LQ,Bosnia-Herzegovina,630,607,0,0,23,12,11,23,0
+2020-09-22,LQ,Bosnia-Herzegovina,560,545,0,0,15,7,8,15,0
+2020-09-23,LQ,Bosnia-Herzegovina,688,660,0,0,28,14,14,28,0
+2020-09-24,LQ,Bosnia-Herzegovina,595,576,0,0,19,9,10,19,0
+2020-09-25,LQ,Bosnia-Herzegovina,716,688,0,0,28,14,14,28,0
+2020-09-26,LQ,Bosnia-Herzegovina,939,917,0,0,22,12,10,22,0
+2020-09-27,LQ,Bosnia-Herzegovina,771,744,0,0,27,12,15,27,0
+2020-09-28,LQ,Bosnia-Herzegovina,590,560,0,0,30,16,14,30,0
+2020-09-29,LQ,Bosnia-Herzegovina,554,530,0,0,24,12,12,24,0
+2020-09-30,LQ,Bosnia-Herzegovina,609,586,0,0,23,12,11,23,0
+2020-10-01,LQ,Bosnia-Herzegovina,563,541,0,0,22,11,11,22,0
+2020-10-02,LQ,Bosnia-Herzegovina,710,677,0,0,33,17,16,33,0
+2020-10-03,LQ,Bosnia-Herzegovina,790,778,0,0,12,6,6,12,0
+2020-10-04,LQ,Bosnia-Herzegovina,705,685,0,0,20,10,10,20,0
+2020-10-05,LQ,Bosnia-Herzegovina,565,540,0,0,25,13,12,25,0
+2020-10-06,LQ,Bosnia-Herzegovina,484,467,2,1,17,6,9,15,1
+2020-10-07,LQ,Bosnia-Herzegovina,519,495,4,1,24,11,9,20,3
+2020-10-08,LQ,Bosnia-Herzegovina,541,514,5,1,27,10,12,22,4
+2020-10-09,LQ,Bosnia-Herzegovina,631,599,2,1,32,16,14,30,1
+2020-10-10,LQ,Bosnia-Herzegovina,835,819,0,0,16,8,8,16,0
+2020-10-11,LQ,Bosnia-Herzegovina,750,725,2,0,25,11,12,23,2
+2020-10-12,LQ,Bosnia-Herzegovina,551,519,2,0,32,15,15,30,2
+2020-10-13,LQ,Bosnia-Herzegovina,496,477,0,0,19,9,10,19,0
+2020-10-14,LQ,Bosnia-Herzegovina,526,500,0,0,26,12,14,26,0
+2020-10-15,LQ,Bosnia-Herzegovina,348,324,0,0,24,13,11,24,0
+2020-10-16,LQ,Bosnia-Herzegovina,731,702,4,0,29,12,13,25,4
+2020-10-17,LQ,Bosnia-Herzegovina,864,844,0,0,20,11,9,20,0
+2020-10-18,LQ,Bosnia-Herzegovina,675,656,0,0,19,9,10,19,0
+2020-10-19,LQ,Bosnia-Herzegovina,536,510,0,0,26,14,12,26,0
+2020-10-20,LQ,Bosnia-Herzegovina,486,467,0,0,19,9,10,19,0
+2020-10-21,LQ,Bosnia-Herzegovina,509,487,0,0,22,11,11,22,0
+2020-10-22,LQ,Bosnia-Herzegovina,492,470,0,0,22,10,12,22,0
+2020-10-23,LQ,Bosnia-Herzegovina,583,556,0,0,27,14,13,27,0
+2020-10-24,LQ,Bosnia-Herzegovina,818,798,0,0,20,11,9,20,0
+2020-10-25,LQ,Bosnia-Herzegovina,646,627,0,0,19,10,9,19,0
+2020-10-26,LQ,Bosnia-Herzegovina,426,396,0,0,30,14,16,30,0
+2020-10-27,LQ,Bosnia-Herzegovina,415,393,0,0,22,11,11,22,0
+2020-10-28,LQ,Bosnia-Herzegovina,458,439,0,0,19,9,10,19,0
+2020-10-29,LQ,Bosnia-Herzegovina,456,426,0,0,30,14,16,30,0
+2020-10-30,LQ,Bosnia-Herzegovina,606,569,0,0,37,20,17,37,0
+2020-10-31,LQ,Bosnia-Herzegovina,671,654,0,0,17,8,9,17,0
+2020-11-01,LQ,Bosnia-Herzegovina,585,565,0,0,20,10,10,20,0
+2020-11-02,LQ,Bosnia-Herzegovina,407,377,0,0,30,15,15,30,0
+2020-11-03,LQ,Bosnia-Herzegovina,318,302,0,0,16,8,8,16,0
+2020-11-04,LQ,Bosnia-Herzegovina,326,311,0,0,15,7,8,15,0
+2020-11-05,LQ,Bosnia-Herzegovina,352,327,0,0,25,12,13,25,0
+2020-11-06,LQ,Bosnia-Herzegovina,405,379,0,0,26,14,12,26,0
+2020-11-07,LQ,Bosnia-Herzegovina,463,438,0,0,25,12,13,25,0
+2020-11-08,LQ,Bosnia-Herzegovina,467,445,0,0,22,11,11,22,0
+2020-11-09,LQ,Bosnia-Herzegovina,328,308,0,0,20,10,10,20,0
+2020-11-10,LQ,Bosnia-Herzegovina,294,268,2,0,26,11,13,24,2
+2020-11-11,LQ,Bosnia-Herzegovina,316,292,0,0,24,12,12,24,0
+2020-11-12,LQ,Bosnia-Herzegovina,306,289,0,0,17,9,8,17,0
+2020-11-13,LQ,Bosnia-Herzegovina,361,335,1,1,26,13,12,25,0
+2020-11-14,LQ,Bosnia-Herzegovina,372,350,0,0,22,10,12,22,0
+2020-11-15,LQ,Bosnia-Herzegovina,402,377,0,0,25,12,13,25,0
+2020-11-16,LQ,Bosnia-Herzegovina,290,266,1,1,24,12,11,23,0
+2020-11-17,LQ,Bosnia-Herzegovina,263,249,0,0,14,7,7,14,0
+2020-11-18,LQ,Bosnia-Herzegovina,289,271,0,0,18,8,10,18,0
+2020-11-19,LQ,Bosnia-Herzegovina,311,290,2,0,21,11,8,19,2
+2020-11-20,LQ,Bosnia-Herzegovina,324,296,0,0,28,14,14,28,0
+2020-11-21,LQ,Bosnia-Herzegovina,325,308,2,0,17,7,8,15,2
+2020-11-22,LQ,Bosnia-Herzegovina,350,327,0,0,23,12,11,23,0
+2020-11-23,LQ,Bosnia-Herzegovina,256,231,0,0,25,13,12,25,0
+2020-11-24,LQ,Bosnia-Herzegovina,237,224,0,0,13,7,6,13,0
+2020-11-25,LQ,Bosnia-Herzegovina,289,267,0,0,22,9,13,22,0
+2020-11-26,LQ,Bosnia-Herzegovina,243,229,0,0,14,7,7,14,0
+2020-11-27,LQ,Bosnia-Herzegovina,334,311,1,0,23,13,9,22,1
+2020-11-28,LQ,Bosnia-Herzegovina,289,274,0,0,15,7,8,15,0
+2020-11-29,LQ,Bosnia-Herzegovina,307,287,0,0,20,10,10,20,0
+2020-11-30,LQ,Bosnia-Herzegovina,248,232,0,0,16,8,8,16,0
+2020-12-01,LQ,Bosnia-Herzegovina,222,204,3,0,18,8,7,15,3
+2020-12-02,LQ,Bosnia-Herzegovina,279,261,1,0,18,8,9,17,1
+2020-12-03,LQ,Bosnia-Herzegovina,293,277,0,0,16,7,9,16,0
+2020-12-04,LQ,Bosnia-Herzegovina,345,317,0,0,28,15,13,28,0
+2020-12-05,LQ,Bosnia-Herzegovina,301,292,0,0,9,4,5,9,0
+2020-12-06,LQ,Bosnia-Herzegovina,311,293,0,0,18,9,9,18,0
+2020-12-07,LQ,Bosnia-Herzegovina,293,275,0,0,18,10,8,18,0
+2020-12-08,LQ,Bosnia-Herzegovina,245,227,1,1,18,9,8,17,0
+2020-12-09,LQ,Bosnia-Herzegovina,284,267,0,0,17,8,9,17,0
+2020-12-10,LQ,Bosnia-Herzegovina,322,303,0,0,19,9,10,19,0
+2020-12-11,LQ,Bosnia-Herzegovina,374,336,0,0,38,20,18,38,0
+2020-12-12,LQ,Bosnia-Herzegovina,363,350,0,0,13,6,7,13,0
+2020-12-13,LQ,Bosnia-Herzegovina,377,357,0,0,20,10,10,20,0
+2020-12-14,LQ,Bosnia-Herzegovina,356,333,0,0,23,11,12,23,0
+2020-12-15,LQ,Bosnia-Herzegovina,289,272,2,0,17,8,7,15,2
+2020-12-16,LQ,Bosnia-Herzegovina,349,331,0,0,18,9,9,18,0
+2020-12-17,LQ,Bosnia-Herzegovina,423,406,0,0,17,9,8,17,0
+2020-12-18,LQ,Bosnia-Herzegovina,510,484,1,0,26,13,12,25,1
+2020-12-19,LQ,Bosnia-Herzegovina,588,575,0,0,13,6,7,13,0
+2020-12-20,LQ,Bosnia-Herzegovina,520,503,1,0,17,8,8,16,1
+2020-12-21,LQ,Bosnia-Herzegovina,427,396,0,0,31,15,16,31,0
+2020-12-22,LQ,Bosnia-Herzegovina,373,354,0,0,19,10,9,19,0
+2020-12-23,LQ,Bosnia-Herzegovina,429,410,0,0,19,9,10,19,0
+2020-12-24,LQ,Bosnia-Herzegovina,386,359,0,0,27,14,13,27,0
+2020-12-25,LQ,Bosnia-Herzegovina,245,228,0,0,17,9,8,17,0
+2020-12-26,LQ,Bosnia-Herzegovina,371,360,0,0,11,5,6,11,0
+2020-12-27,LQ,Bosnia-Herzegovina,417,398,0,0,19,10,9,19,0
+2020-12-28,LQ,Bosnia-Herzegovina,357,340,0,0,17,8,9,17,0
+2020-12-29,LQ,Bosnia-Herzegovina,287,271,0,0,16,8,8,16,0
+2020-12-30,LQ,Bosnia-Herzegovina,355,335,0,0,20,10,10,20,0
+2020-12-31,LQ,Bosnia-Herzegovina,220,203,0,0,17,8,9,17,0
 2020-01-01,LB,Bulgaria,1705,1568,6,0,137,65,66,131,6
 2020-01-02,LB,Bulgaria,1966,1747,11,1,219,99,109,208,10
 2020-01-03,LB,Bulgaria,2015,1814,7,0,201,97,97,194,7
@@ -11345,372 +11345,372 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2020-12-29,LR,Romania,571,448,21,5,123,52,50,102,16
 2020-12-30,LR,Romania,670,515,25,5,155,65,65,130,20
 2020-12-31,LR,Romania,445,408,4,0,37,17,16,33,4
-2020-01-01,LY,Serbia & Montenegro,0,-155,8,0,155,76,71,147,8
-2020-01-02,LY,Serbia & Montenegro,0,-228,15,0,228,107,106,213,15
-2020-01-03,LY,Serbia & Montenegro,0,-221,17,0,221,103,101,204,17
-2020-01-04,LY,Serbia & Montenegro,0,-182,18,1,182,81,83,164,17
-2020-01-05,LY,Serbia & Montenegro,0,-213,19,3,213,99,95,194,16
-2020-01-06,LY,Serbia & Montenegro,0,-232,16,1,232,105,111,216,15
-2020-01-07,LY,Serbia & Montenegro,0,-186,19,1,186,82,85,167,18
-2020-01-08,LY,Serbia & Montenegro,0,-209,14,0,209,99,96,195,14
-2020-01-09,LY,Serbia & Montenegro,0,-203,15,0,203,93,95,188,15
-2020-01-10,LY,Serbia & Montenegro,0,-253,21,1,253,117,115,232,20
-2020-01-11,LY,Serbia & Montenegro,0,-180,15,1,180,81,84,165,14
-2020-01-12,LY,Serbia & Montenegro,0,-197,10,0,197,97,90,187,10
-2020-01-13,LY,Serbia & Montenegro,0,-202,21,0,202,84,97,181,21
-2020-01-14,LY,Serbia & Montenegro,0,-161,13,0,161,75,73,148,13
-2020-01-15,LY,Serbia & Montenegro,0,-141,11,0,141,71,59,130,11
-2020-01-16,LY,Serbia & Montenegro,0,-184,19,2,184,81,84,165,17
-2020-01-17,LY,Serbia & Montenegro,0,-222,16,1,222,100,106,206,15
-2020-01-18,LY,Serbia & Montenegro,0,-161,18,1,161,72,71,143,17
-2020-01-19,LY,Serbia & Montenegro,0,-199,14,1,199,93,92,185,13
-2020-01-20,LY,Serbia & Montenegro,0,-208,18,0,208,93,97,190,18
-2020-01-21,LY,Serbia & Montenegro,0,-198,17,1,198,89,92,181,16
-2020-01-22,LY,Serbia & Montenegro,0,-204,17,3,204,97,90,187,14
-2020-01-23,LY,Serbia & Montenegro,0,-204,24,5,204,88,92,180,19
-2020-01-24,LY,Serbia & Montenegro,0,-231,21,3,231,106,104,210,18
-2020-01-25,LY,Serbia & Montenegro,0,-149,20,3,149,64,65,129,17
-2020-01-26,LY,Serbia & Montenegro,0,-193,14,1,193,92,87,179,13
-2020-01-27,LY,Serbia & Montenegro,0,-217,16,0,217,96,105,201,16
-2020-01-28,LY,Serbia & Montenegro,0,-186,17,2,186,83,86,169,15
-2020-01-29,LY,Serbia & Montenegro,0,-203,19,3,203,94,90,184,16
-2020-01-30,LY,Serbia & Montenegro,0,-203,22,4,203,91,90,181,18
-2020-01-31,LY,Serbia & Montenegro,0,-249,25,4,249,113,111,224,21
-2020-02-01,LY,Serbia & Montenegro,0,-161,17,2,161,73,71,144,15
-2020-02-02,LY,Serbia & Montenegro,0,-200,15,1,200,95,90,185,14
-2020-02-03,LY,Serbia & Montenegro,0,-212,20,4,212,93,99,192,16
-2020-02-04,LY,Serbia & Montenegro,0,-185,18,1,185,82,85,167,17
-2020-02-05,LY,Serbia & Montenegro,0,-182,17,1,182,84,81,165,16
-2020-02-06,LY,Serbia & Montenegro,0,-197,19,4,197,90,88,178,15
-2020-02-07,LY,Serbia & Montenegro,0,-232,21,2,232,107,104,211,19
-2020-02-08,LY,Serbia & Montenegro,0,-153,17,1,153,66,70,136,16
-2020-02-09,LY,Serbia & Montenegro,0,-189,12,0,189,89,88,177,12
-2020-02-10,LY,Serbia & Montenegro,0,-202,17,2,202,91,94,185,15
-2020-02-11,LY,Serbia & Montenegro,0,-190,20,1,190,87,83,170,19
-2020-02-12,LY,Serbia & Montenegro,0,-213,22,8,213,95,96,191,14
-2020-02-13,LY,Serbia & Montenegro,0,-213,29,11,213,93,91,184,18
-2020-02-14,LY,Serbia & Montenegro,0,-234,21,1,234,107,106,213,20
-2020-02-15,LY,Serbia & Montenegro,0,-151,14,0,151,69,68,137,14
-2020-02-16,LY,Serbia & Montenegro,0,-198,13,1,198,92,93,185,12
-2020-02-17,LY,Serbia & Montenegro,0,-220,21,2,220,95,104,199,19
-2020-02-18,LY,Serbia & Montenegro,0,-210,27,7,210,90,93,183,20
-2020-02-19,LY,Serbia & Montenegro,0,-235,28,9,235,104,103,207,19
-2020-02-20,LY,Serbia & Montenegro,0,-202,22,7,202,90,90,180,15
-2020-02-21,LY,Serbia & Montenegro,0,-252,25,6,252,115,112,227,19
-2020-02-22,LY,Serbia & Montenegro,0,-163,14,0,163,71,78,149,14
-2020-02-23,LY,Serbia & Montenegro,0,-203,14,1,203,101,88,189,13
-2020-02-24,LY,Serbia & Montenegro,0,-233,20,3,233,100,113,213,17
-2020-02-25,LY,Serbia & Montenegro,0,-209,23,7,209,94,92,186,16
-2020-02-26,LY,Serbia & Montenegro,0,-204,23,8,204,91,90,181,15
-2020-02-27,LY,Serbia & Montenegro,0,-207,19,4,207,96,92,188,15
-2020-02-28,LY,Serbia & Montenegro,0,-233,19,0,233,106,108,214,19
-2020-02-29,LY,Serbia & Montenegro,0,-172,19,3,172,76,77,153,16
-2020-03-01,LY,Serbia & Montenegro,0,-202,16,1,202,95,91,186,15
-2020-03-02,LY,Serbia & Montenegro,0,-220,22,6,220,97,101,198,16
-2020-03-03,LY,Serbia & Montenegro,0,-189,16,0,189,86,87,173,16
-2020-03-04,LY,Serbia & Montenegro,0,-198,15,0,198,93,90,183,15
-2020-03-05,LY,Serbia & Montenegro,0,-205,24,6,205,91,90,181,18
-2020-03-06,LY,Serbia & Montenegro,0,-224,18,2,224,103,103,206,16
-2020-03-07,LY,Serbia & Montenegro,0,-143,13,0,143,66,64,130,13
-2020-03-08,LY,Serbia & Montenegro,0,-196,12,0,196,94,90,184,12
-2020-03-09,LY,Serbia & Montenegro,0,-202,18,2,202,87,97,184,16
-2020-03-10,LY,Serbia & Montenegro,0,-191,20,2,191,86,85,171,18
-2020-03-11,LY,Serbia & Montenegro,0,-192,25,8,192,84,83,167,17
-2020-03-12,LY,Serbia & Montenegro,0,-193,31,10,193,80,82,162,21
-2020-03-13,LY,Serbia & Montenegro,0,-217,24,7,217,96,97,193,17
-2020-03-14,LY,Serbia & Montenegro,0,-139,13,1,139,63,63,126,12
-2020-03-15,LY,Serbia & Montenegro,0,-175,15,1,175,81,79,160,14
-2020-03-16,LY,Serbia & Montenegro,0,-158,9,1,158,70,79,149,8
-2020-03-17,LY,Serbia & Montenegro,0,-85,0,0,85,44,41,85,0
-2020-03-18,LY,Serbia & Montenegro,0,-84,5,1,84,40,39,79,4
-2020-03-19,LY,Serbia & Montenegro,0,-77,7,1,77,35,35,70,6
-2020-03-20,LY,Serbia & Montenegro,0,-41,3,3,41,18,20,38,0
-2020-03-21,LY,Serbia & Montenegro,0,-23,4,0,23,9,10,19,4
-2020-03-22,LY,Serbia & Montenegro,0,-25,1,0,25,12,12,24,1
-2020-03-23,LY,Serbia & Montenegro,0,-28,0,0,28,14,14,28,0
-2020-03-24,LY,Serbia & Montenegro,0,-30,0,0,30,15,15,30,0
-2020-03-25,LY,Serbia & Montenegro,0,-16,0,0,16,7,9,16,0
-2020-03-26,LY,Serbia & Montenegro,0,-32,3,0,32,16,13,29,3
-2020-03-27,LY,Serbia & Montenegro,0,-31,1,1,31,14,16,30,0
-2020-03-28,LY,Serbia & Montenegro,0,-13,1,1,13,6,6,12,0
-2020-03-29,LY,Serbia & Montenegro,0,-11,0,0,11,6,5,11,0
-2020-03-30,LY,Serbia & Montenegro,0,-23,0,0,23,12,11,23,0
-2020-03-31,LY,Serbia & Montenegro,0,-23,0,0,23,11,12,23,0
-2020-04-01,LY,Serbia & Montenegro,0,-26,2,0,26,13,11,24,2
-2020-04-02,LY,Serbia & Montenegro,0,-30,0,0,30,14,16,30,0
-2020-04-03,LY,Serbia & Montenegro,0,-45,1,0,45,23,21,44,1
-2020-04-04,LY,Serbia & Montenegro,0,-26,0,0,26,12,14,26,0
-2020-04-05,LY,Serbia & Montenegro,0,-8,0,0,8,4,4,8,0
-2020-04-06,LY,Serbia & Montenegro,0,-16,0,0,16,8,8,16,0
-2020-04-07,LY,Serbia & Montenegro,0,-13,0,0,13,6,7,13,0
-2020-04-08,LY,Serbia & Montenegro,0,-24,0,0,24,12,12,24,0
-2020-04-09,LY,Serbia & Montenegro,0,-42,4,0,42,19,19,38,4
-2020-04-10,LY,Serbia & Montenegro,0,-21,0,0,21,11,10,21,0
-2020-04-11,LY,Serbia & Montenegro,0,-7,0,0,7,4,3,7,0
-2020-04-12,LY,Serbia & Montenegro,0,-14,0,0,14,6,8,14,0
-2020-04-13,LY,Serbia & Montenegro,0,-27,1,1,27,13,13,26,0
-2020-04-14,LY,Serbia & Montenegro,0,-25,2,2,25,13,10,23,0
-2020-04-15,LY,Serbia & Montenegro,0,-27,4,2,27,11,12,23,2
-2020-04-16,LY,Serbia & Montenegro,0,-26,0,0,26,14,12,26,0
-2020-04-17,LY,Serbia & Montenegro,0,-22,1,0,22,12,9,21,1
-2020-04-18,LY,Serbia & Montenegro,0,-17,0,0,17,8,9,17,0
-2020-04-19,LY,Serbia & Montenegro,0,-4,0,0,4,2,2,4,0
-2020-04-20,LY,Serbia & Montenegro,0,-21,0,0,21,11,10,21,0
-2020-04-21,LY,Serbia & Montenegro,0,-19,1,1,19,8,10,18,0
-2020-04-22,LY,Serbia & Montenegro,0,-30,1,1,30,14,15,29,0
-2020-04-23,LY,Serbia & Montenegro,0,-35,2,1,35,17,16,33,1
-2020-04-24,LY,Serbia & Montenegro,0,-36,3,1,36,15,18,33,2
-2020-04-25,LY,Serbia & Montenegro,0,-16,0,0,16,9,7,16,0
-2020-04-26,LY,Serbia & Montenegro,0,-20,2,0,20,9,9,18,2
-2020-04-27,LY,Serbia & Montenegro,0,-24,4,2,24,10,10,20,2
-2020-04-28,LY,Serbia & Montenegro,0,-25,5,3,25,11,9,20,2
-2020-04-29,LY,Serbia & Montenegro,0,-21,0,0,21,9,12,21,0
-2020-04-30,LY,Serbia & Montenegro,0,-33,2,2,33,16,15,31,0
-2020-05-01,LY,Serbia & Montenegro,0,-20,0,0,20,10,10,20,0
-2020-05-02,LY,Serbia & Montenegro,0,-14,0,0,14,8,6,14,0
-2020-05-03,LY,Serbia & Montenegro,0,-11,1,1,11,3,7,10,0
-2020-05-04,LY,Serbia & Montenegro,0,-29,2,2,29,15,12,27,0
-2020-05-05,LY,Serbia & Montenegro,0,-24,4,0,24,9,11,20,4
-2020-05-06,LY,Serbia & Montenegro,0,-20,3,1,20,9,8,17,2
-2020-05-07,LY,Serbia & Montenegro,0,-25,7,2,25,9,9,18,5
-2020-05-08,LY,Serbia & Montenegro,0,-36,4,3,36,16,16,32,1
-2020-05-09,LY,Serbia & Montenegro,0,-21,0,0,21,11,10,21,0
-2020-05-10,LY,Serbia & Montenegro,0,-13,0,0,13,6,7,13,0
-2020-05-11,LY,Serbia & Montenegro,0,-25,5,5,25,10,10,20,0
-2020-05-12,LY,Serbia & Montenegro,0,-31,4,3,31,14,13,27,1
-2020-05-13,LY,Serbia & Montenegro,0,-37,7,6,37,15,15,30,1
-2020-05-14,LY,Serbia & Montenegro,0,-34,2,2,34,16,16,32,0
-2020-05-15,LY,Serbia & Montenegro,0,-44,6,2,44,19,19,38,4
-2020-05-16,LY,Serbia & Montenegro,0,-35,2,0,35,17,16,33,2
-2020-05-17,LY,Serbia & Montenegro,0,-15,0,0,15,7,8,15,0
-2020-05-18,LY,Serbia & Montenegro,0,-31,1,1,31,14,16,30,0
-2020-05-19,LY,Serbia & Montenegro,0,-33,4,2,33,15,14,29,2
-2020-05-20,LY,Serbia & Montenegro,0,-26,3,1,26,11,12,23,2
-2020-05-21,LY,Serbia & Montenegro,0,-52,11,5,52,20,21,41,6
-2020-05-22,LY,Serbia & Montenegro,0,-39,1,1,39,18,20,38,0
-2020-05-23,LY,Serbia & Montenegro,0,-39,1,0,39,19,19,38,1
-2020-05-24,LY,Serbia & Montenegro,0,-18,1,0,18,10,7,17,1
-2020-05-25,LY,Serbia & Montenegro,0,-29,6,2,29,11,12,23,4
-2020-05-26,LY,Serbia & Montenegro,0,-34,6,1,34,14,14,28,5
-2020-05-27,LY,Serbia & Montenegro,0,-52,6,1,52,22,24,46,5
-2020-05-28,LY,Serbia & Montenegro,0,-53,5,2,53,22,26,48,3
-2020-05-29,LY,Serbia & Montenegro,0,-47,5,3,47,22,20,42,2
-2020-05-30,LY,Serbia & Montenegro,0,-26,1,0,26,11,14,25,1
-2020-05-31,LY,Serbia & Montenegro,0,-24,0,0,24,12,12,24,0
-2020-06-01,LY,Serbia & Montenegro,0,-50,3,0,50,24,23,47,3
-2020-06-02,LY,Serbia & Montenegro,0,-36,1,0,36,18,17,35,1
-2020-06-03,LY,Serbia & Montenegro,0,-64,5,2,64,29,30,59,3
-2020-06-04,LY,Serbia & Montenegro,0,-65,9,5,65,28,28,56,4
-2020-06-05,LY,Serbia & Montenegro,0,-86,2,1,86,44,40,84,1
-2020-06-06,LY,Serbia & Montenegro,0,-39,2,0,39,19,18,37,2
-2020-06-07,LY,Serbia & Montenegro,0,-69,3,1,69,33,33,66,2
-2020-06-08,LY,Serbia & Montenegro,0,-56,2,2,56,28,26,54,0
-2020-06-09,LY,Serbia & Montenegro,0,-45,7,3,45,19,19,38,4
-2020-06-10,LY,Serbia & Montenegro,0,-61,3,2,61,29,29,58,1
-2020-06-11,LY,Serbia & Montenegro,0,-72,7,5,72,32,33,65,2
-2020-06-12,LY,Serbia & Montenegro,0,-94,10,5,94,38,46,84,5
-2020-06-13,LY,Serbia & Montenegro,0,-52,2,1,52,24,26,50,1
-2020-06-14,LY,Serbia & Montenegro,0,-63,3,1,63,31,29,60,2
-2020-06-15,LY,Serbia & Montenegro,0,-130,16,8,130,55,59,114,8
-2020-06-16,LY,Serbia & Montenegro,0,-86,7,1,86,42,37,79,6
-2020-06-17,LY,Serbia & Montenegro,0,-96,10,2,96,44,42,86,8
-2020-06-18,LY,Serbia & Montenegro,0,-87,9,3,87,38,40,78,6
-2020-06-19,LY,Serbia & Montenegro,0,-163,24,11,163,70,69,139,13
-2020-06-20,LY,Serbia & Montenegro,0,-66,10,0,66,28,28,56,10
-2020-06-21,LY,Serbia & Montenegro,0,-94,6,1,94,43,45,88,5
-2020-06-22,LY,Serbia & Montenegro,0,-118,6,3,118,60,52,112,3
-2020-06-23,LY,Serbia & Montenegro,0,-69,9,1,69,31,29,60,8
-2020-06-24,LY,Serbia & Montenegro,0,-102,13,8,102,42,47,89,5
-2020-06-25,LY,Serbia & Montenegro,0,-106,19,10,106,45,42,87,9
-2020-06-26,LY,Serbia & Montenegro,0,-135,11,5,135,62,62,124,6
-2020-06-27,LY,Serbia & Montenegro,0,-73,8,0,73,30,35,65,8
-2020-06-28,LY,Serbia & Montenegro,0,-83,4,1,83,38,41,79,3
-2020-06-29,LY,Serbia & Montenegro,0,-133,23,8,133,58,52,110,15
-2020-06-30,LY,Serbia & Montenegro,0,-82,16,6,82,35,31,66,10
-2020-07-01,LY,Serbia & Montenegro,0,-134,12,9,134,59,63,122,3
-2020-07-02,LY,Serbia & Montenegro,0,-157,22,0,157,67,68,135,22
-2020-07-03,LY,Serbia & Montenegro,0,-177,14,4,177,82,81,163,10
-2020-07-04,LY,Serbia & Montenegro,0,-136,18,2,136,57,61,118,16
-2020-07-05,LY,Serbia & Montenegro,0,-161,18,3,161,74,69,143,15
-2020-07-06,LY,Serbia & Montenegro,0,-163,18,8,163,72,73,145,10
-2020-07-07,LY,Serbia & Montenegro,0,-120,15,5,120,51,54,105,10
-2020-07-08,LY,Serbia & Montenegro,0,-150,20,6,150,66,64,130,14
-2020-07-09,LY,Serbia & Montenegro,0,-172,23,6,172,77,72,149,17
-2020-07-10,LY,Serbia & Montenegro,0,-201,22,4,201,90,89,179,18
-2020-07-11,LY,Serbia & Montenegro,0,-141,21,1,141,57,63,120,20
-2020-07-12,LY,Serbia & Montenegro,0,-154,13,0,154,74,67,141,13
-2020-07-13,LY,Serbia & Montenegro,0,-175,15,5,175,78,82,160,10
-2020-07-14,LY,Serbia & Montenegro,0,-116,9,6,116,55,52,107,3
-2020-07-15,LY,Serbia & Montenegro,0,-147,17,12,147,62,68,130,5
-2020-07-16,LY,Serbia & Montenegro,0,-167,20,3,167,77,70,147,17
-2020-07-17,LY,Serbia & Montenegro,0,-168,24,6,168,72,72,144,18
-2020-07-18,LY,Serbia & Montenegro,0,-128,19,0,128,55,54,109,19
-2020-07-19,LY,Serbia & Montenegro,0,-146,14,1,146,68,64,132,13
-2020-07-20,LY,Serbia & Montenegro,0,-153,28,10,153,60,65,125,18
-2020-07-21,LY,Serbia & Montenegro,0,-98,14,8,98,42,42,84,6
-2020-07-22,LY,Serbia & Montenegro,0,-97,12,7,97,42,43,85,5
-2020-07-23,LY,Serbia & Montenegro,0,-160,17,5,160,74,69,143,12
-2020-07-24,LY,Serbia & Montenegro,0,-159,21,9,159,68,70,138,12
-2020-07-25,LY,Serbia & Montenegro,0,-135,15,0,135,58,62,120,15
-2020-07-26,LY,Serbia & Montenegro,0,-160,23,2,160,70,67,137,21
-2020-07-27,LY,Serbia & Montenegro,0,-141,14,4,141,61,66,127,10
-2020-07-28,LY,Serbia & Montenegro,0,-101,6,4,101,47,48,95,2
-2020-07-29,LY,Serbia & Montenegro,0,-141,28,8,141,57,56,113,20
-2020-07-30,LY,Serbia & Montenegro,0,-171,29,8,171,70,72,142,21
-2020-07-31,LY,Serbia & Montenegro,0,-160,18,9,160,75,67,142,9
-2020-08-01,LY,Serbia & Montenegro,0,-146,16,0,146,62,68,130,16
-2020-08-02,LY,Serbia & Montenegro,0,-182,24,0,182,81,77,158,24
-2020-08-03,LY,Serbia & Montenegro,0,-163,19,2,163,69,75,144,17
-2020-08-04,LY,Serbia & Montenegro,0,-103,8,5,103,47,48,95,3
-2020-08-05,LY,Serbia & Montenegro,0,-125,12,3,125,56,57,113,9
-2020-08-06,LY,Serbia & Montenegro,0,-155,26,7,155,69,60,129,19
-2020-08-07,LY,Serbia & Montenegro,0,-187,30,8,187,81,76,157,22
-2020-08-08,LY,Serbia & Montenegro,0,-137,16,0,137,60,61,121,16
-2020-08-09,LY,Serbia & Montenegro,0,-148,13,0,148,67,68,135,13
-2020-08-10,LY,Serbia & Montenegro,0,-180,34,8,180,72,74,146,26
-2020-08-11,LY,Serbia & Montenegro,0,-113,25,10,113,45,43,88,15
-2020-08-12,LY,Serbia & Montenegro,0,-135,24,10,135,55,56,111,14
-2020-08-13,LY,Serbia & Montenegro,0,-152,27,9,152,60,65,125,18
-2020-08-14,LY,Serbia & Montenegro,0,-186,29,5,186,81,76,157,24
-2020-08-15,LY,Serbia & Montenegro,0,-154,12,0,154,73,69,142,12
-2020-08-16,LY,Serbia & Montenegro,0,-152,6,0,152,74,72,146,6
-2020-08-17,LY,Serbia & Montenegro,0,-162,15,1,162,71,76,147,14
-2020-08-18,LY,Serbia & Montenegro,0,-115,21,12,115,47,47,94,9
-2020-08-19,LY,Serbia & Montenegro,0,-141,26,4,141,56,59,115,22
-2020-08-20,LY,Serbia & Montenegro,0,-160,31,11,160,68,61,129,20
-2020-08-21,LY,Serbia & Montenegro,0,-202,35,11,202,83,84,167,24
-2020-08-22,LY,Serbia & Montenegro,0,-164,22,1,164,69,73,142,21
-2020-08-23,LY,Serbia & Montenegro,0,-176,31,0,176,76,69,145,31
-2020-08-24,LY,Serbia & Montenegro,0,-162,24,8,162,67,71,138,16
-2020-08-25,LY,Serbia & Montenegro,0,-129,18,1,129,56,55,111,17
-2020-08-26,LY,Serbia & Montenegro,0,-158,35,12,158,59,64,123,23
-2020-08-27,LY,Serbia & Montenegro,0,-162,34,12,162,65,63,128,22
-2020-08-28,LY,Serbia & Montenegro,0,-200,37,12,200,82,81,163,25
-2020-08-29,LY,Serbia & Montenegro,0,-164,29,3,164,65,70,135,26
-2020-08-30,LY,Serbia & Montenegro,0,-193,32,2,193,83,78,161,30
-2020-08-31,LY,Serbia & Montenegro,0,-181,29,4,181,74,78,152,25
-2020-09-01,LY,Serbia & Montenegro,0,-129,22,2,129,54,53,107,20
-2020-09-02,LY,Serbia & Montenegro,0,-124,21,4,124,51,52,103,17
-2020-09-03,LY,Serbia & Montenegro,0,-143,22,2,143,63,58,121,20
-2020-09-04,LY,Serbia & Montenegro,0,-184,32,4,184,74,78,152,28
-2020-09-05,LY,Serbia & Montenegro,0,-161,23,2,161,70,68,138,21
-2020-09-06,LY,Serbia & Montenegro,0,-179,28,0,179,76,75,151,28
-2020-09-07,LY,Serbia & Montenegro,0,-186,28,7,186,78,80,158,21
-2020-09-08,LY,Serbia & Montenegro,0,-132,32,5,132,51,49,100,27
-2020-09-09,LY,Serbia & Montenegro,0,-134,28,6,134,53,53,106,22
-2020-09-10,LY,Serbia & Montenegro,0,-134,27,5,134,55,52,107,22
-2020-09-11,LY,Serbia & Montenegro,0,-189,34,6,189,78,77,155,28
-2020-09-12,LY,Serbia & Montenegro,0,-143,23,0,143,58,62,120,23
-2020-09-13,LY,Serbia & Montenegro,0,-162,29,0,162,67,66,133,29
-2020-09-14,LY,Serbia & Montenegro,0,-179,37,6,179,70,72,142,31
-2020-09-15,LY,Serbia & Montenegro,0,-110,26,2,110,44,40,84,24
-2020-09-16,LY,Serbia & Montenegro,0,-153,28,5,153,59,66,125,23
-2020-09-17,LY,Serbia & Montenegro,0,-137,32,5,137,52,53,105,27
-2020-09-18,LY,Serbia & Montenegro,0,-187,33,4,187,78,76,154,29
-2020-09-19,LY,Serbia & Montenegro,0,-138,21,0,138,58,59,117,21
-2020-09-20,LY,Serbia & Montenegro,0,-172,24,0,172,74,74,148,24
-2020-09-21,LY,Serbia & Montenegro,0,-162,34,4,162,64,64,128,30
-2020-09-22,LY,Serbia & Montenegro,0,-103,21,2,103,40,42,82,19
-2020-09-23,LY,Serbia & Montenegro,0,-136,19,1,136,62,55,117,18
-2020-09-24,LY,Serbia & Montenegro,0,-118,24,5,118,48,46,94,19
-2020-09-25,LY,Serbia & Montenegro,0,-176,17,4,176,80,79,159,13
-2020-09-26,LY,Serbia & Montenegro,0,-135,16,0,135,59,60,119,16
-2020-09-27,LY,Serbia & Montenegro,0,-175,21,1,175,78,76,154,20
-2020-09-28,LY,Serbia & Montenegro,0,-146,21,2,146,58,67,125,19
-2020-09-29,LY,Serbia & Montenegro,0,-102,16,1,102,42,44,86,15
-2020-09-30,LY,Serbia & Montenegro,0,-136,28,11,136,58,50,108,17
-2020-10-01,LY,Serbia & Montenegro,0,-110,16,2,110,47,47,94,14
-2020-10-02,LY,Serbia & Montenegro,0,-189,23,6,189,81,85,166,17
-2020-10-03,LY,Serbia & Montenegro,0,-134,15,1,134,61,58,119,14
-2020-10-04,LY,Serbia & Montenegro,0,-149,14,0,149,70,65,135,14
-2020-10-05,LY,Serbia & Montenegro,0,-160,15,1,160,69,76,145,14
-2020-10-06,LY,Serbia & Montenegro,0,-95,22,9,95,39,34,73,13
-2020-10-07,LY,Serbia & Montenegro,0,-130,21,8,130,52,57,109,13
-2020-10-08,LY,Serbia & Montenegro,0,-137,14,1,137,64,59,123,13
-2020-10-09,LY,Serbia & Montenegro,0,-181,19,5,181,79,83,162,14
-2020-10-10,LY,Serbia & Montenegro,0,-135,17,2,135,58,60,118,15
-2020-10-11,LY,Serbia & Montenegro,0,-161,19,2,161,70,72,142,17
-2020-10-12,LY,Serbia & Montenegro,0,-152,15,2,152,69,68,137,13
-2020-10-13,LY,Serbia & Montenegro,0,-91,14,2,91,37,40,77,12
-2020-10-14,LY,Serbia & Montenegro,0,-137,26,13,137,59,52,111,13
-2020-10-15,LY,Serbia & Montenegro,0,-116,14,6,116,50,52,102,8
-2020-10-16,LY,Serbia & Montenegro,0,-171,19,3,171,76,76,152,16
-2020-10-17,LY,Serbia & Montenegro,0,-111,12,0,111,50,49,99,12
-2020-10-18,LY,Serbia & Montenegro,0,-153,13,1,153,71,69,140,12
-2020-10-19,LY,Serbia & Montenegro,0,-152,26,12,152,63,63,126,14
-2020-10-20,LY,Serbia & Montenegro,0,-98,21,11,98,38,39,77,10
-2020-10-21,LY,Serbia & Montenegro,0,-121,14,1,121,53,54,107,13
-2020-10-22,LY,Serbia & Montenegro,0,-130,27,11,130,53,50,103,16
-2020-10-23,LY,Serbia & Montenegro,0,-178,24,13,178,75,79,154,11
-2020-10-24,LY,Serbia & Montenegro,0,-107,11,0,107,49,47,96,11
-2020-10-25,LY,Serbia & Montenegro,0,-135,16,0,135,61,58,119,16
-2020-10-26,LY,Serbia & Montenegro,0,-141,20,9,141,59,62,121,11
-2020-10-27,LY,Serbia & Montenegro,0,-82,13,1,82,33,36,69,12
-2020-10-28,LY,Serbia & Montenegro,0,-138,24,9,138,54,60,114,15
-2020-10-29,LY,Serbia & Montenegro,0,-115,14,3,115,52,49,101,11
-2020-10-30,LY,Serbia & Montenegro,0,-157,24,10,157,69,64,133,14
-2020-10-31,LY,Serbia & Montenegro,0,-106,19,0,106,40,47,87,19
-2020-11-01,LY,Serbia & Montenegro,0,-140,23,2,140,59,58,117,21
-2020-11-02,LY,Serbia & Montenegro,0,-148,28,13,148,59,61,120,15
-2020-11-03,LY,Serbia & Montenegro,0,-105,25,14,105,43,37,80,11
-2020-11-04,LY,Serbia & Montenegro,0,-100,14,4,100,40,46,86,10
-2020-11-05,LY,Serbia & Montenegro,0,-111,12,0,111,49,50,99,12
-2020-11-06,LY,Serbia & Montenegro,0,-144,13,2,144,62,69,131,11
-2020-11-07,LY,Serbia & Montenegro,0,-104,10,0,104,50,44,94,10
-2020-11-08,LY,Serbia & Montenegro,0,-117,12,0,117,54,51,105,12
-2020-11-09,LY,Serbia & Montenegro,0,-118,11,0,118,51,56,107,11
-2020-11-10,LY,Serbia & Montenegro,0,-84,12,1,84,37,35,72,11
-2020-11-11,LY,Serbia & Montenegro,0,-96,10,0,96,42,44,86,10
-2020-11-12,LY,Serbia & Montenegro,0,-104,26,11,104,38,40,78,15
-2020-11-13,LY,Serbia & Montenegro,0,-125,15,2,125,58,52,110,13
-2020-11-14,LY,Serbia & Montenegro,0,-79,13,2,79,33,33,66,11
-2020-11-15,LY,Serbia & Montenegro,0,-112,18,1,112,48,46,94,17
-2020-11-16,LY,Serbia & Montenegro,0,-129,21,8,129,52,56,108,13
-2020-11-17,LY,Serbia & Montenegro,0,-55,7,0,55,21,27,48,7
-2020-11-18,LY,Serbia & Montenegro,0,-87,11,0,87,43,33,76,11
-2020-11-19,LY,Serbia & Montenegro,0,-81,11,3,81,35,35,70,8
-2020-11-20,LY,Serbia & Montenegro,0,-116,18,6,116,47,51,98,12
-2020-11-21,LY,Serbia & Montenegro,0,-56,10,0,56,21,25,46,10
-2020-11-22,LY,Serbia & Montenegro,0,-100,10,0,100,46,44,90,10
-2020-11-23,LY,Serbia & Montenegro,0,-125,17,5,125,57,51,108,12
-2020-11-24,LY,Serbia & Montenegro,0,-46,7,1,46,20,19,39,6
-2020-11-25,LY,Serbia & Montenegro,0,-77,15,3,77,29,33,62,12
-2020-11-26,LY,Serbia & Montenegro,0,-74,8,0,74,32,34,66,8
-2020-11-27,LY,Serbia & Montenegro,0,-118,13,3,118,52,53,105,10
-2020-11-28,LY,Serbia & Montenegro,0,-63,13,0,63,24,26,50,13
-2020-11-29,LY,Serbia & Montenegro,0,-79,10,0,79,35,34,69,10
-2020-11-30,LY,Serbia & Montenegro,0,-110,18,5,110,45,47,92,13
-2020-12-01,LY,Serbia & Montenegro,0,-67,18,9,67,27,22,49,9
-2020-12-02,LY,Serbia & Montenegro,0,-74,14,8,74,32,28,60,6
-2020-12-03,LY,Serbia & Montenegro,0,-80,12,4,80,32,36,68,8
-2020-12-04,LY,Serbia & Montenegro,0,-116,11,2,116,52,53,105,9
-2020-12-05,LY,Serbia & Montenegro,0,-51,8,0,51,22,21,43,8
-2020-12-06,LY,Serbia & Montenegro,0,-88,6,0,88,41,41,82,6
-2020-12-07,LY,Serbia & Montenegro,0,-110,10,1,110,51,49,100,9
-2020-12-08,LY,Serbia & Montenegro,0,-56,11,0,56,22,23,45,11
-2020-12-09,LY,Serbia & Montenegro,0,-63,8,2,63,29,26,55,6
-2020-12-10,LY,Serbia & Montenegro,0,-78,16,6,78,30,32,62,10
-2020-12-11,LY,Serbia & Montenegro,0,-141,10,0,141,67,64,131,10
-2020-12-12,LY,Serbia & Montenegro,0,-64,8,0,64,27,29,56,8
-2020-12-13,LY,Serbia & Montenegro,0,-91,7,0,91,45,39,84,7
-2020-12-14,LY,Serbia & Montenegro,0,-113,12,1,113,46,55,101,11
-2020-12-15,LY,Serbia & Montenegro,0,-71,10,1,71,35,26,61,9
-2020-12-16,LY,Serbia & Montenegro,0,-69,13,4,69,27,29,56,9
-2020-12-17,LY,Serbia & Montenegro,0,-95,10,1,95,43,42,85,9
-2020-12-18,LY,Serbia & Montenegro,0,-154,18,4,154,66,70,136,14
-2020-12-19,LY,Serbia & Montenegro,0,-110,12,1,110,46,52,98,11
-2020-12-20,LY,Serbia & Montenegro,0,-117,10,0,117,57,50,107,10
-2020-12-21,LY,Serbia & Montenegro,0,-123,12,2,123,56,55,111,10
-2020-12-22,LY,Serbia & Montenegro,0,-95,10,4,95,42,43,85,6
-2020-12-23,LY,Serbia & Montenegro,0,-120,13,4,120,55,52,107,9
-2020-12-24,LY,Serbia & Montenegro,0,-96,8,2,96,41,47,88,6
-2020-12-25,LY,Serbia & Montenegro,0,-100,14,1,100,43,43,86,13
-2020-12-26,LY,Serbia & Montenegro,0,-58,7,0,58,25,26,51,7
-2020-12-27,LY,Serbia & Montenegro,0,-99,5,0,99,50,44,94,5
-2020-12-28,LY,Serbia & Montenegro,0,-114,9,3,114,53,52,105,6
-2020-12-29,LY,Serbia & Montenegro,0,-67,7,1,67,29,31,60,6
-2020-12-30,LY,Serbia & Montenegro,0,-96,8,3,96,44,44,88,5
-2020-12-31,LY,Serbia & Montenegro,0,-54,8,0,54,22,24,46,8
+2020-01-01,LY,Serbia & Montenegro,1266,1111,8,0,155,76,71,147,8
+2020-01-02,LY,Serbia & Montenegro,1573,1345,15,0,228,107,106,213,15
+2020-01-03,LY,Serbia & Montenegro,1630,1409,17,0,221,103,101,204,17
+2020-01-04,LY,Serbia & Montenegro,1779,1597,18,1,182,81,83,164,17
+2020-01-05,LY,Serbia & Montenegro,1791,1578,19,3,213,99,95,194,16
+2020-01-06,LY,Serbia & Montenegro,1596,1364,16,1,232,105,111,216,15
+2020-01-07,LY,Serbia & Montenegro,1344,1158,19,1,186,82,85,167,18
+2020-01-08,LY,Serbia & Montenegro,1473,1264,14,0,209,99,96,195,14
+2020-01-09,LY,Serbia & Montenegro,1460,1257,15,0,203,93,95,188,15
+2020-01-10,LY,Serbia & Montenegro,1604,1351,21,1,253,117,115,232,20
+2020-01-11,LY,Serbia & Montenegro,1655,1475,15,1,180,81,84,165,14
+2020-01-12,LY,Serbia & Montenegro,1667,1470,10,0,197,97,90,187,10
+2020-01-13,LY,Serbia & Montenegro,1469,1267,21,0,202,84,97,181,21
+2020-01-14,LY,Serbia & Montenegro,1302,1141,13,0,161,75,73,148,13
+2020-01-15,LY,Serbia & Montenegro,1343,1202,11,0,141,71,59,130,11
+2020-01-16,LY,Serbia & Montenegro,1378,1194,19,2,184,81,84,165,17
+2020-01-17,LY,Serbia & Montenegro,1518,1296,16,1,222,100,106,206,15
+2020-01-18,LY,Serbia & Montenegro,1548,1387,18,1,161,72,71,143,17
+2020-01-19,LY,Serbia & Montenegro,1573,1374,14,1,199,93,92,185,13
+2020-01-20,LY,Serbia & Montenegro,1426,1218,18,0,208,93,97,190,18
+2020-01-21,LY,Serbia & Montenegro,1284,1086,17,1,198,89,92,181,16
+2020-01-22,LY,Serbia & Montenegro,1375,1171,17,3,204,97,90,187,14
+2020-01-23,LY,Serbia & Montenegro,1348,1144,24,5,204,88,92,180,19
+2020-01-24,LY,Serbia & Montenegro,1491,1260,21,3,231,106,104,210,18
+2020-01-25,LY,Serbia & Montenegro,1527,1378,20,3,149,64,65,129,17
+2020-01-26,LY,Serbia & Montenegro,1554,1361,14,1,193,92,87,179,13
+2020-01-27,LY,Serbia & Montenegro,1404,1187,16,0,217,96,105,201,16
+2020-01-28,LY,Serbia & Montenegro,1300,1114,17,2,186,83,86,169,15
+2020-01-29,LY,Serbia & Montenegro,1380,1177,19,3,203,94,90,184,16
+2020-01-30,LY,Serbia & Montenegro,1326,1123,22,4,203,91,90,181,18
+2020-01-31,LY,Serbia & Montenegro,1541,1292,25,4,249,113,111,224,21
+2020-02-01,LY,Serbia & Montenegro,1544,1383,17,2,161,73,71,144,15
+2020-02-02,LY,Serbia & Montenegro,1535,1335,15,1,200,95,90,185,14
+2020-02-03,LY,Serbia & Montenegro,1350,1138,20,4,212,93,99,192,16
+2020-02-04,LY,Serbia & Montenegro,1287,1102,18,1,185,82,85,167,17
+2020-02-05,LY,Serbia & Montenegro,1287,1105,17,1,182,84,81,165,16
+2020-02-06,LY,Serbia & Montenegro,1313,1116,19,4,197,90,88,178,15
+2020-02-07,LY,Serbia & Montenegro,1517,1285,21,2,232,107,104,211,19
+2020-02-08,LY,Serbia & Montenegro,1524,1371,17,1,153,66,70,136,16
+2020-02-09,LY,Serbia & Montenegro,1545,1356,12,0,189,89,88,177,12
+2020-02-10,LY,Serbia & Montenegro,1361,1159,17,2,202,91,94,185,15
+2020-02-11,LY,Serbia & Montenegro,1264,1074,20,1,190,87,83,170,19
+2020-02-12,LY,Serbia & Montenegro,1397,1184,22,8,213,95,96,191,14
+2020-02-13,LY,Serbia & Montenegro,1403,1190,29,11,213,93,91,184,18
+2020-02-14,LY,Serbia & Montenegro,1592,1358,21,1,234,107,106,213,20
+2020-02-15,LY,Serbia & Montenegro,1561,1410,14,0,151,69,68,137,14
+2020-02-16,LY,Serbia & Montenegro,1649,1451,13,1,198,92,93,185,12
+2020-02-17,LY,Serbia & Montenegro,1466,1246,21,2,220,95,104,199,19
+2020-02-18,LY,Serbia & Montenegro,1369,1159,27,7,210,90,93,183,20
+2020-02-19,LY,Serbia & Montenegro,1464,1229,28,9,235,104,103,207,19
+2020-02-20,LY,Serbia & Montenegro,1438,1236,22,7,202,90,90,180,15
+2020-02-21,LY,Serbia & Montenegro,1612,1360,25,6,252,115,112,227,19
+2020-02-22,LY,Serbia & Montenegro,1632,1469,14,0,163,71,78,149,14
+2020-02-23,LY,Serbia & Montenegro,1676,1473,14,1,203,101,88,189,13
+2020-02-24,LY,Serbia & Montenegro,1463,1230,20,3,233,100,113,213,17
+2020-02-25,LY,Serbia & Montenegro,1318,1109,23,7,209,94,92,186,16
+2020-02-26,LY,Serbia & Montenegro,1395,1191,23,8,204,91,90,181,15
+2020-02-27,LY,Serbia & Montenegro,1381,1174,19,4,207,96,92,188,15
+2020-02-28,LY,Serbia & Montenegro,1608,1375,19,0,233,106,108,214,19
+2020-02-29,LY,Serbia & Montenegro,1627,1455,19,3,172,76,77,153,16
+2020-03-01,LY,Serbia & Montenegro,1603,1401,16,1,202,95,91,186,15
+2020-03-02,LY,Serbia & Montenegro,1490,1270,22,6,220,97,101,198,16
+2020-03-03,LY,Serbia & Montenegro,1349,1160,16,0,189,86,87,173,16
+2020-03-04,LY,Serbia & Montenegro,1383,1185,15,0,198,93,90,183,15
+2020-03-05,LY,Serbia & Montenegro,1292,1087,24,6,205,91,90,181,18
+2020-03-06,LY,Serbia & Montenegro,1463,1239,18,2,224,103,103,206,16
+2020-03-07,LY,Serbia & Montenegro,1469,1326,13,0,143,66,64,130,13
+2020-03-08,LY,Serbia & Montenegro,1476,1280,12,0,196,94,90,184,12
+2020-03-09,LY,Serbia & Montenegro,1259,1057,18,2,202,87,97,184,16
+2020-03-10,LY,Serbia & Montenegro,1193,1002,20,2,191,86,85,171,18
+2020-03-11,LY,Serbia & Montenegro,1208,1016,25,8,192,84,83,167,17
+2020-03-12,LY,Serbia & Montenegro,1202,1009,31,10,193,80,82,162,21
+2020-03-13,LY,Serbia & Montenegro,1240,1023,24,7,217,96,97,193,17
+2020-03-14,LY,Serbia & Montenegro,1264,1125,13,1,139,63,63,126,12
+2020-03-15,LY,Serbia & Montenegro,1264,1089,15,1,175,81,79,160,14
+2020-03-16,LY,Serbia & Montenegro,1069,911,9,1,158,70,79,149,8
+2020-03-17,LY,Serbia & Montenegro,881,796,0,0,85,44,41,85,0
+2020-03-18,LY,Serbia & Montenegro,902,818,5,1,84,40,39,79,4
+2020-03-19,LY,Serbia & Montenegro,760,683,7,1,77,35,35,70,6
+2020-03-20,LY,Serbia & Montenegro,763,722,3,3,41,18,20,38,0
+2020-03-21,LY,Serbia & Montenegro,557,534,4,0,23,9,10,19,4
+2020-03-22,LY,Serbia & Montenegro,422,397,1,0,25,12,12,24,1
+2020-03-23,LY,Serbia & Montenegro,328,300,0,0,28,14,14,28,0
+2020-03-24,LY,Serbia & Montenegro,280,250,0,0,30,15,15,30,0
+2020-03-25,LY,Serbia & Montenegro,215,199,0,0,16,7,9,16,0
+2020-03-26,LY,Serbia & Montenegro,227,195,3,0,32,16,13,29,3
+2020-03-27,LY,Serbia & Montenegro,201,170,1,1,31,14,16,30,0
+2020-03-28,LY,Serbia & Montenegro,185,172,1,1,13,6,6,12,0
+2020-03-29,LY,Serbia & Montenegro,154,143,0,0,11,6,5,11,0
+2020-03-30,LY,Serbia & Montenegro,151,128,0,0,23,12,11,23,0
+2020-03-31,LY,Serbia & Montenegro,179,156,0,0,23,11,12,23,0
+2020-04-01,LY,Serbia & Montenegro,196,170,2,0,26,13,11,24,2
+2020-04-02,LY,Serbia & Montenegro,180,150,0,0,30,14,16,30,0
+2020-04-03,LY,Serbia & Montenegro,200,155,1,0,45,23,21,44,1
+2020-04-04,LY,Serbia & Montenegro,162,136,0,0,26,12,14,26,0
+2020-04-05,LY,Serbia & Montenegro,148,140,0,0,8,4,4,8,0
+2020-04-06,LY,Serbia & Montenegro,142,126,0,0,16,8,8,16,0
+2020-04-07,LY,Serbia & Montenegro,129,116,0,0,13,6,7,13,0
+2020-04-08,LY,Serbia & Montenegro,182,158,0,0,24,12,12,24,0
+2020-04-09,LY,Serbia & Montenegro,195,153,4,0,42,19,19,38,4
+2020-04-10,LY,Serbia & Montenegro,169,148,0,0,21,11,10,21,0
+2020-04-11,LY,Serbia & Montenegro,136,129,0,0,7,4,3,7,0
+2020-04-12,LY,Serbia & Montenegro,116,102,0,0,14,6,8,14,0
+2020-04-13,LY,Serbia & Montenegro,161,134,1,1,27,13,13,26,0
+2020-04-14,LY,Serbia & Montenegro,126,101,2,2,25,13,10,23,0
+2020-04-15,LY,Serbia & Montenegro,178,151,4,2,27,11,12,23,2
+2020-04-16,LY,Serbia & Montenegro,156,130,0,0,26,14,12,26,0
+2020-04-17,LY,Serbia & Montenegro,161,139,1,0,22,12,9,21,1
+2020-04-18,LY,Serbia & Montenegro,144,127,0,0,17,8,9,17,0
+2020-04-19,LY,Serbia & Montenegro,115,111,0,0,4,2,2,4,0
+2020-04-20,LY,Serbia & Montenegro,149,128,0,0,21,11,10,21,0
+2020-04-21,LY,Serbia & Montenegro,155,136,1,1,19,8,10,18,0
+2020-04-22,LY,Serbia & Montenegro,199,169,1,1,30,14,15,29,0
+2020-04-23,LY,Serbia & Montenegro,199,164,2,1,35,17,16,33,1
+2020-04-24,LY,Serbia & Montenegro,176,140,3,1,36,15,18,33,2
+2020-04-25,LY,Serbia & Montenegro,157,141,0,0,16,9,7,16,0
+2020-04-26,LY,Serbia & Montenegro,146,126,2,0,20,9,9,18,2
+2020-04-27,LY,Serbia & Montenegro,166,142,4,2,24,10,10,20,2
+2020-04-28,LY,Serbia & Montenegro,187,162,5,3,25,11,9,20,2
+2020-04-29,LY,Serbia & Montenegro,205,184,0,0,21,9,12,21,0
+2020-04-30,LY,Serbia & Montenegro,211,178,2,2,33,16,15,31,0
+2020-05-01,LY,Serbia & Montenegro,201,181,0,0,20,10,10,20,0
+2020-05-02,LY,Serbia & Montenegro,195,181,0,0,14,8,6,14,0
+2020-05-03,LY,Serbia & Montenegro,171,160,1,1,11,3,7,10,0
+2020-05-04,LY,Serbia & Montenegro,178,149,2,2,29,15,12,27,0
+2020-05-05,LY,Serbia & Montenegro,191,167,4,0,24,9,11,20,4
+2020-05-06,LY,Serbia & Montenegro,215,195,3,1,20,9,8,17,2
+2020-05-07,LY,Serbia & Montenegro,219,194,7,2,25,9,9,18,5
+2020-05-08,LY,Serbia & Montenegro,212,176,4,3,36,16,16,32,1
+2020-05-09,LY,Serbia & Montenegro,195,174,0,0,21,11,10,21,0
+2020-05-10,LY,Serbia & Montenegro,168,155,0,0,13,6,7,13,0
+2020-05-11,LY,Serbia & Montenegro,191,166,5,5,25,10,10,20,0
+2020-05-12,LY,Serbia & Montenegro,203,172,4,3,31,14,13,27,1
+2020-05-13,LY,Serbia & Montenegro,217,180,7,6,37,15,15,30,1
+2020-05-14,LY,Serbia & Montenegro,230,196,2,2,34,16,16,32,0
+2020-05-15,LY,Serbia & Montenegro,226,182,6,2,44,19,19,38,4
+2020-05-16,LY,Serbia & Montenegro,221,186,2,0,35,17,16,33,2
+2020-05-17,LY,Serbia & Montenegro,199,184,0,0,15,7,8,15,0
+2020-05-18,LY,Serbia & Montenegro,214,183,1,1,31,14,16,30,0
+2020-05-19,LY,Serbia & Montenegro,214,181,4,2,33,15,14,29,2
+2020-05-20,LY,Serbia & Montenegro,272,246,3,1,26,11,12,23,2
+2020-05-21,LY,Serbia & Montenegro,266,214,11,5,52,20,21,41,6
+2020-05-22,LY,Serbia & Montenegro,236,197,1,1,39,18,20,38,0
+2020-05-23,LY,Serbia & Montenegro,249,210,1,0,39,19,19,38,1
+2020-05-24,LY,Serbia & Montenegro,199,181,1,0,18,10,7,17,1
+2020-05-25,LY,Serbia & Montenegro,202,173,6,2,29,11,12,23,4
+2020-05-26,LY,Serbia & Montenegro,225,191,6,1,34,14,14,28,5
+2020-05-27,LY,Serbia & Montenegro,264,212,6,1,52,22,24,46,5
+2020-05-28,LY,Serbia & Montenegro,261,208,5,2,53,22,26,48,3
+2020-05-29,LY,Serbia & Montenegro,229,182,5,3,47,22,20,42,2
+2020-05-30,LY,Serbia & Montenegro,234,208,1,0,26,11,14,25,1
+2020-05-31,LY,Serbia & Montenegro,212,188,0,0,24,12,12,24,0
+2020-06-01,LY,Serbia & Montenegro,232,182,3,0,50,24,23,47,3
+2020-06-02,LY,Serbia & Montenegro,224,188,1,0,36,18,17,35,1
+2020-06-03,LY,Serbia & Montenegro,268,204,5,2,64,29,30,59,3
+2020-06-04,LY,Serbia & Montenegro,283,218,9,5,65,28,28,56,4
+2020-06-05,LY,Serbia & Montenegro,319,233,2,1,86,44,40,84,1
+2020-06-06,LY,Serbia & Montenegro,267,228,2,0,39,19,18,37,2
+2020-06-07,LY,Serbia & Montenegro,315,246,3,1,69,33,33,66,2
+2020-06-08,LY,Serbia & Montenegro,269,213,2,2,56,28,26,54,0
+2020-06-09,LY,Serbia & Montenegro,263,218,7,3,45,19,19,38,4
+2020-06-10,LY,Serbia & Montenegro,321,260,3,2,61,29,29,58,1
+2020-06-11,LY,Serbia & Montenegro,361,289,7,5,72,32,33,65,2
+2020-06-12,LY,Serbia & Montenegro,351,257,10,5,94,38,46,84,5
+2020-06-13,LY,Serbia & Montenegro,338,286,2,1,52,24,26,50,1
+2020-06-14,LY,Serbia & Montenegro,367,304,3,1,63,31,29,60,2
+2020-06-15,LY,Serbia & Montenegro,474,344,16,8,130,55,59,114,8
+2020-06-16,LY,Serbia & Montenegro,377,291,7,1,86,42,37,79,6
+2020-06-17,LY,Serbia & Montenegro,473,377,10,2,96,44,42,86,8
+2020-06-18,LY,Serbia & Montenegro,444,357,9,3,87,38,40,78,6
+2020-06-19,LY,Serbia & Montenegro,538,375,24,11,163,70,69,139,13
+2020-06-20,LY,Serbia & Montenegro,459,393,10,0,66,28,28,56,10
+2020-06-21,LY,Serbia & Montenegro,456,362,6,1,94,43,45,88,5
+2020-06-22,LY,Serbia & Montenegro,477,359,6,3,118,60,52,112,3
+2020-06-23,LY,Serbia & Montenegro,417,348,9,1,69,31,29,60,8
+2020-06-24,LY,Serbia & Montenegro,503,401,13,8,102,42,47,89,5
+2020-06-25,LY,Serbia & Montenegro,529,423,19,10,106,45,42,87,9
+2020-06-26,LY,Serbia & Montenegro,627,492,11,5,135,62,62,124,6
+2020-06-27,LY,Serbia & Montenegro,594,521,8,0,73,30,35,65,8
+2020-06-28,LY,Serbia & Montenegro,611,528,4,1,83,38,41,79,3
+2020-06-29,LY,Serbia & Montenegro,589,456,23,8,133,58,52,110,15
+2020-06-30,LY,Serbia & Montenegro,535,453,16,6,82,35,31,66,10
+2020-07-01,LY,Serbia & Montenegro,920,786,12,9,134,59,63,122,3
+2020-07-02,LY,Serbia & Montenegro,1024,867,22,0,157,67,68,135,22
+2020-07-03,LY,Serbia & Montenegro,1140,963,14,4,177,82,81,163,10
+2020-07-04,LY,Serbia & Montenegro,1176,1040,18,2,136,57,61,118,16
+2020-07-05,LY,Serbia & Montenegro,1111,950,18,3,161,74,69,143,15
+2020-07-06,LY,Serbia & Montenegro,987,824,18,8,163,72,73,145,10
+2020-07-07,LY,Serbia & Montenegro,888,768,15,5,120,51,54,105,10
+2020-07-08,LY,Serbia & Montenegro,972,822,20,6,150,66,64,130,14
+2020-07-09,LY,Serbia & Montenegro,1014,842,23,6,172,77,72,149,17
+2020-07-10,LY,Serbia & Montenegro,1168,967,22,4,201,90,89,179,18
+2020-07-11,LY,Serbia & Montenegro,1224,1083,21,1,141,57,63,120,20
+2020-07-12,LY,Serbia & Montenegro,1111,957,13,0,154,74,67,141,13
+2020-07-13,LY,Serbia & Montenegro,1038,863,15,5,175,78,82,160,10
+2020-07-14,LY,Serbia & Montenegro,905,789,9,6,116,55,52,107,3
+2020-07-15,LY,Serbia & Montenegro,1045,898,17,12,147,62,68,130,5
+2020-07-16,LY,Serbia & Montenegro,1094,927,20,3,167,77,70,147,17
+2020-07-17,LY,Serbia & Montenegro,1244,1076,24,6,168,72,72,144,18
+2020-07-18,LY,Serbia & Montenegro,1419,1291,19,0,128,55,54,109,19
+2020-07-19,LY,Serbia & Montenegro,1273,1127,14,1,146,68,64,132,13
+2020-07-20,LY,Serbia & Montenegro,1104,951,28,10,153,60,65,125,18
+2020-07-21,LY,Serbia & Montenegro,1040,942,14,8,98,42,42,84,6
+2020-07-22,LY,Serbia & Montenegro,1113,1016,12,7,97,42,43,85,5
+2020-07-23,LY,Serbia & Montenegro,1151,991,17,5,160,74,69,143,12
+2020-07-24,LY,Serbia & Montenegro,1313,1154,21,9,159,68,70,138,12
+2020-07-25,LY,Serbia & Montenegro,1558,1423,15,0,135,58,62,120,15
+2020-07-26,LY,Serbia & Montenegro,1393,1233,23,2,160,70,67,137,21
+2020-07-27,LY,Serbia & Montenegro,1133,992,14,4,141,61,66,127,10
+2020-07-28,LY,Serbia & Montenegro,1091,990,6,4,101,47,48,95,2
+2020-07-29,LY,Serbia & Montenegro,1172,1031,28,8,141,57,56,113,20
+2020-07-30,LY,Serbia & Montenegro,1188,1017,29,8,171,70,72,142,21
+2020-07-31,LY,Serbia & Montenegro,1398,1238,18,9,160,75,67,142,9
+2020-08-01,LY,Serbia & Montenegro,1814,1668,16,0,146,62,68,130,16
+2020-08-02,LY,Serbia & Montenegro,1653,1471,24,0,182,81,77,158,24
+2020-08-03,LY,Serbia & Montenegro,1371,1208,19,2,163,69,75,144,17
+2020-08-04,LY,Serbia & Montenegro,1291,1188,8,5,103,47,48,95,3
+2020-08-05,LY,Serbia & Montenegro,1398,1273,12,3,125,56,57,113,9
+2020-08-06,LY,Serbia & Montenegro,1361,1206,26,7,155,69,60,129,19
+2020-08-07,LY,Serbia & Montenegro,1540,1353,30,8,187,81,76,157,22
+2020-08-08,LY,Serbia & Montenegro,1793,1656,16,0,137,60,61,121,16
+2020-08-09,LY,Serbia & Montenegro,1632,1484,13,0,148,67,68,135,13
+2020-08-10,LY,Serbia & Montenegro,1447,1267,34,8,180,72,74,146,26
+2020-08-11,LY,Serbia & Montenegro,1345,1232,25,10,113,45,43,88,15
+2020-08-12,LY,Serbia & Montenegro,1383,1248,24,10,135,55,56,111,14
+2020-08-13,LY,Serbia & Montenegro,1345,1193,27,9,152,60,65,125,18
+2020-08-14,LY,Serbia & Montenegro,1530,1344,29,5,186,81,76,157,24
+2020-08-15,LY,Serbia & Montenegro,1875,1721,12,0,154,73,69,142,12
+2020-08-16,LY,Serbia & Montenegro,1672,1520,6,0,152,74,72,146,6
+2020-08-17,LY,Serbia & Montenegro,1461,1299,15,1,162,71,76,147,14
+2020-08-18,LY,Serbia & Montenegro,1312,1197,21,12,115,47,47,94,9
+2020-08-19,LY,Serbia & Montenegro,1425,1284,26,4,141,56,59,115,22
+2020-08-20,LY,Serbia & Montenegro,1391,1231,31,11,160,68,61,129,20
+2020-08-21,LY,Serbia & Montenegro,1614,1412,35,11,202,83,84,167,24
+2020-08-22,LY,Serbia & Montenegro,1876,1712,22,1,164,69,73,142,21
+2020-08-23,LY,Serbia & Montenegro,1673,1497,31,0,176,76,69,145,31
+2020-08-24,LY,Serbia & Montenegro,1443,1281,24,8,162,67,71,138,16
+2020-08-25,LY,Serbia & Montenegro,1362,1233,18,1,129,56,55,111,17
+2020-08-26,LY,Serbia & Montenegro,1433,1275,35,12,158,59,64,123,23
+2020-08-27,LY,Serbia & Montenegro,1415,1253,34,12,162,65,63,128,22
+2020-08-28,LY,Serbia & Montenegro,1645,1445,37,12,200,82,81,163,25
+2020-08-29,LY,Serbia & Montenegro,1874,1710,29,3,164,65,70,135,26
+2020-08-30,LY,Serbia & Montenegro,1658,1465,32,2,193,83,78,161,30
+2020-08-31,LY,Serbia & Montenegro,1418,1237,29,4,181,74,78,152,25
+2020-09-01,LY,Serbia & Montenegro,1351,1222,22,2,129,54,53,107,20
+2020-09-02,LY,Serbia & Montenegro,1358,1234,21,4,124,51,52,103,17
+2020-09-03,LY,Serbia & Montenegro,1331,1188,22,2,143,63,58,121,20
+2020-09-04,LY,Serbia & Montenegro,1538,1354,32,4,184,74,78,152,28
+2020-09-05,LY,Serbia & Montenegro,1822,1661,23,2,161,70,68,138,21
+2020-09-06,LY,Serbia & Montenegro,1622,1443,28,0,179,76,75,151,28
+2020-09-07,LY,Serbia & Montenegro,1379,1193,28,7,186,78,80,158,21
+2020-09-08,LY,Serbia & Montenegro,1246,1114,32,5,132,51,49,100,27
+2020-09-09,LY,Serbia & Montenegro,1334,1200,28,6,134,53,53,106,22
+2020-09-10,LY,Serbia & Montenegro,1284,1150,27,5,134,55,52,107,22
+2020-09-11,LY,Serbia & Montenegro,1530,1341,34,6,189,78,77,155,28
+2020-09-12,LY,Serbia & Montenegro,1768,1625,23,0,143,58,62,120,23
+2020-09-13,LY,Serbia & Montenegro,1592,1430,29,0,162,67,66,133,29
+2020-09-14,LY,Serbia & Montenegro,1315,1136,37,6,179,70,72,142,31
+2020-09-15,LY,Serbia & Montenegro,1183,1073,26,2,110,44,40,84,24
+2020-09-16,LY,Serbia & Montenegro,1261,1108,28,5,153,59,66,125,23
+2020-09-17,LY,Serbia & Montenegro,1175,1038,32,5,137,52,53,105,27
+2020-09-18,LY,Serbia & Montenegro,1407,1220,33,4,187,78,76,154,29
+2020-09-19,LY,Serbia & Montenegro,1698,1560,21,0,138,58,59,117,21
+2020-09-20,LY,Serbia & Montenegro,1552,1380,24,0,172,74,74,148,24
+2020-09-21,LY,Serbia & Montenegro,1224,1062,34,4,162,64,64,128,30
+2020-09-22,LY,Serbia & Montenegro,1048,945,21,2,103,40,42,82,19
+2020-09-23,LY,Serbia & Montenegro,1203,1067,19,1,136,62,55,117,18
+2020-09-24,LY,Serbia & Montenegro,1092,974,24,5,118,48,46,94,19
+2020-09-25,LY,Serbia & Montenegro,1368,1192,17,4,176,80,79,159,13
+2020-09-26,LY,Serbia & Montenegro,1676,1541,16,0,135,59,60,119,16
+2020-09-27,LY,Serbia & Montenegro,1465,1290,21,1,175,78,76,154,20
+2020-09-28,LY,Serbia & Montenegro,1119,973,21,2,146,58,67,125,19
+2020-09-29,LY,Serbia & Montenegro,1050,948,16,1,102,42,44,86,15
+2020-09-30,LY,Serbia & Montenegro,1184,1048,28,11,136,58,50,108,17
+2020-10-01,LY,Serbia & Montenegro,1038,928,16,2,110,47,47,94,14
+2020-10-02,LY,Serbia & Montenegro,1359,1170,23,6,189,81,85,166,17
+2020-10-03,LY,Serbia & Montenegro,1599,1465,15,1,134,61,58,119,14
+2020-10-04,LY,Serbia & Montenegro,1397,1248,14,0,149,70,65,135,14
+2020-10-05,LY,Serbia & Montenegro,1130,970,15,1,160,69,76,145,14
+2020-10-06,LY,Serbia & Montenegro,956,861,22,9,95,39,34,73,13
+2020-10-07,LY,Serbia & Montenegro,1025,895,21,8,130,52,57,109,13
+2020-10-08,LY,Serbia & Montenegro,998,861,14,1,137,64,59,123,13
+2020-10-09,LY,Serbia & Montenegro,1223,1042,19,5,181,79,83,162,14
+2020-10-10,LY,Serbia & Montenegro,1612,1477,17,2,135,58,60,118,15
+2020-10-11,LY,Serbia & Montenegro,1410,1249,19,2,161,70,72,142,17
+2020-10-12,LY,Serbia & Montenegro,1082,930,15,2,152,69,68,137,13
+2020-10-13,LY,Serbia & Montenegro,928,837,14,2,91,37,40,77,12
+2020-10-14,LY,Serbia & Montenegro,1035,898,26,13,137,59,52,111,13
+2020-10-15,LY,Serbia & Montenegro,730,614,14,6,116,50,52,102,8
+2020-10-16,LY,Serbia & Montenegro,1385,1214,19,3,171,76,76,152,16
+2020-10-17,LY,Serbia & Montenegro,1587,1476,12,0,111,50,49,99,12
+2020-10-18,LY,Serbia & Montenegro,1329,1176,13,1,153,71,69,140,12
+2020-10-19,LY,Serbia & Montenegro,1018,866,26,12,152,63,63,126,14
+2020-10-20,LY,Serbia & Montenegro,846,748,21,11,98,38,39,77,10
+2020-10-21,LY,Serbia & Montenegro,923,802,14,1,121,53,54,107,13
+2020-10-22,LY,Serbia & Montenegro,911,781,27,11,130,53,50,103,16
+2020-10-23,LY,Serbia & Montenegro,1174,996,24,13,178,75,79,154,11
+2020-10-24,LY,Serbia & Montenegro,1548,1441,11,0,107,49,47,96,11
+2020-10-25,LY,Serbia & Montenegro,1237,1102,16,0,135,61,58,119,16
+2020-10-26,LY,Serbia & Montenegro,851,710,20,9,141,59,62,121,11
+2020-10-27,LY,Serbia & Montenegro,718,636,13,1,82,33,36,69,12
+2020-10-28,LY,Serbia & Montenegro,875,737,24,9,138,54,60,114,15
+2020-10-29,LY,Serbia & Montenegro,820,705,14,3,115,52,49,101,11
+2020-10-30,LY,Serbia & Montenegro,1081,924,24,10,157,69,64,133,14
+2020-10-31,LY,Serbia & Montenegro,1270,1164,19,0,106,40,47,87,19
+2020-11-01,LY,Serbia & Montenegro,1161,1021,23,2,140,59,58,117,21
+2020-11-02,LY,Serbia & Montenegro,755,607,28,13,148,59,61,120,15
+2020-11-03,LY,Serbia & Montenegro,643,538,25,14,105,43,37,80,11
+2020-11-04,LY,Serbia & Montenegro,629,529,14,4,100,40,46,86,10
+2020-11-05,LY,Serbia & Montenegro,674,563,12,0,111,49,50,99,12
+2020-11-06,LY,Serbia & Montenegro,800,656,13,2,144,62,69,131,11
+2020-11-07,LY,Serbia & Montenegro,822,718,10,0,104,50,44,94,10
+2020-11-08,LY,Serbia & Montenegro,881,764,12,0,117,54,51,105,12
+2020-11-09,LY,Serbia & Montenegro,616,498,11,0,118,51,56,107,11
+2020-11-10,LY,Serbia & Montenegro,504,420,12,1,84,37,35,72,11
+2020-11-11,LY,Serbia & Montenegro,581,485,10,0,96,42,44,86,10
+2020-11-12,LY,Serbia & Montenegro,574,470,26,11,104,38,40,78,15
+2020-11-13,LY,Serbia & Montenegro,673,548,15,2,125,58,52,110,13
+2020-11-14,LY,Serbia & Montenegro,644,565,13,2,79,33,33,66,11
+2020-11-15,LY,Serbia & Montenegro,701,589,18,1,112,48,46,94,17
+2020-11-16,LY,Serbia & Montenegro,552,423,21,8,129,52,56,108,13
+2020-11-17,LY,Serbia & Montenegro,434,379,7,0,55,21,27,48,7
+2020-11-18,LY,Serbia & Montenegro,518,431,11,0,87,43,33,76,11
+2020-11-19,LY,Serbia & Montenegro,502,421,11,3,81,35,35,70,8
+2020-11-20,LY,Serbia & Montenegro,619,503,18,6,116,47,51,98,12
+2020-11-21,LY,Serbia & Montenegro,543,487,10,0,56,21,25,46,10
+2020-11-22,LY,Serbia & Montenegro,627,527,10,0,100,46,44,90,10
+2020-11-23,LY,Serbia & Montenegro,491,366,17,5,125,57,51,108,12
+2020-11-24,LY,Serbia & Montenegro,384,338,7,1,46,20,19,39,6
+2020-11-25,LY,Serbia & Montenegro,511,434,15,3,77,29,33,62,12
+2020-11-26,LY,Serbia & Montenegro,453,379,8,0,74,32,34,66,8
+2020-11-27,LY,Serbia & Montenegro,643,525,13,3,118,52,53,105,10
+2020-11-28,LY,Serbia & Montenegro,524,461,13,0,63,24,26,50,13
+2020-11-29,LY,Serbia & Montenegro,584,505,10,0,79,35,34,69,10
+2020-11-30,LY,Serbia & Montenegro,478,368,18,5,110,45,47,92,13
+2020-12-01,LY,Serbia & Montenegro,399,332,18,9,67,27,22,49,9
+2020-12-02,LY,Serbia & Montenegro,503,429,14,8,74,32,28,60,6
+2020-12-03,LY,Serbia & Montenegro,538,458,12,4,80,32,36,68,8
+2020-12-04,LY,Serbia & Montenegro,635,519,11,2,116,52,53,105,9
+2020-12-05,LY,Serbia & Montenegro,587,536,8,0,51,22,21,43,8
+2020-12-06,LY,Serbia & Montenegro,626,538,6,0,88,41,41,82,6
+2020-12-07,LY,Serbia & Montenegro,536,426,10,1,110,51,49,100,9
+2020-12-08,LY,Serbia & Montenegro,411,355,11,0,56,22,23,45,11
+2020-12-09,LY,Serbia & Montenegro,522,459,8,2,63,29,26,55,6
+2020-12-10,LY,Serbia & Montenegro,568,490,16,6,78,30,32,62,10
+2020-12-11,LY,Serbia & Montenegro,696,555,10,0,141,67,64,131,10
+2020-12-12,LY,Serbia & Montenegro,675,611,8,0,64,27,29,56,8
+2020-12-13,LY,Serbia & Montenegro,678,587,7,0,91,45,39,84,7
+2020-12-14,LY,Serbia & Montenegro,617,504,12,1,113,46,55,101,11
+2020-12-15,LY,Serbia & Montenegro,519,448,10,1,71,35,26,61,9
+2020-12-16,LY,Serbia & Montenegro,612,543,13,4,69,27,29,56,9
+2020-12-17,LY,Serbia & Montenegro,748,653,10,1,95,43,42,85,9
+2020-12-18,LY,Serbia & Montenegro,955,801,18,4,154,66,70,136,14
+2020-12-19,LY,Serbia & Montenegro,1040,930,12,1,110,46,52,98,11
+2020-12-20,LY,Serbia & Montenegro,958,841,10,0,117,57,50,107,10
+2020-12-21,LY,Serbia & Montenegro,707,584,12,2,123,56,55,111,10
+2020-12-22,LY,Serbia & Montenegro,656,561,10,4,95,42,43,85,6
+2020-12-23,LY,Serbia & Montenegro,771,651,13,4,120,55,52,107,9
+2020-12-24,LY,Serbia & Montenegro,695,599,8,2,96,41,47,88,6
+2020-12-25,LY,Serbia & Montenegro,532,432,14,1,100,43,43,86,13
+2020-12-26,LY,Serbia & Montenegro,695,637,7,0,58,25,26,51,7
+2020-12-27,LY,Serbia & Montenegro,780,681,5,0,99,50,44,94,5
+2020-12-28,LY,Serbia & Montenegro,646,532,9,3,114,53,52,105,6
+2020-12-29,LY,Serbia & Montenegro,488,421,7,1,67,29,31,60,6
+2020-12-30,LY,Serbia & Montenegro,658,562,8,3,96,44,44,88,5
+2020-12-31,LY,Serbia & Montenegro,443,389,8,0,54,22,24,46,8
 2020-01-01,LZ,Slovakia,962,924,1,1,38,18,19,37,0
 2020-01-02,LZ,Slovakia,1210,1153,4,0,57,26,27,53,4
 2020-01-03,LZ,Slovakia,1231,1162,3,0,69,33,33,66,3
@@ -12443,372 +12443,372 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2020-12-29,LJ,Slovenia,269,255,0,0,14,7,7,14,0
 2020-12-30,LJ,Slovenia,345,326,0,0,19,9,10,19,0
 2020-12-31,LJ,Slovenia,200,177,2,0,23,10,11,21,2
-2020-01-01,LE,Spain,4233,1040,874,0,3193,1159,1160,2319,874
-2020-01-02,LE,Spain,5203,1208,1101,8,3995,1457,1437,2894,1093
-2020-01-03,LE,Spain,5312,1261,1096,8,4051,1481,1474,2955,1088
-2020-01-04,LE,Spain,5543,1358,964,9,4185,1612,1609,3221,955
-2020-01-05,LE,Spain,5344,1281,949,6,4063,1575,1539,3114,943
-2020-01-06,LE,Spain,5042,1255,1044,10,3787,1378,1365,2743,1034
-2020-01-07,LE,Spain,4752,1162,1104,32,3590,1236,1250,2486,1072
-2020-01-08,LE,Spain,4231,1011,1031,39,3220,1092,1097,2189,992
-2020-01-09,LE,Spain,4501,1054,1104,41,3447,1155,1188,2343,1063
-2020-01-10,LE,Spain,4938,1186,1151,29,3752,1304,1297,2601,1122
-2020-01-11,LE,Spain,4775,1173,880,25,3602,1361,1361,2722,855
-2020-01-12,LE,Spain,4944,1141,1042,15,3803,1399,1362,2761,1027
-2020-01-13,LE,Spain,4551,1072,1111,29,3479,1179,1189,2368,1082
-2020-01-14,LE,Spain,3826,874,1026,37,2952,964,962,1926,989
-2020-01-15,LE,Spain,3765,835,1015,41,2930,961,954,1915,974
-2020-01-16,LE,Spain,4281,986,1070,41,3295,1104,1121,2225,1029
-2020-01-17,LE,Spain,4815,1107,1159,37,3708,1273,1276,2549,1122
-2020-01-18,LE,Spain,4545,1109,867,16,3436,1287,1282,2569,851
-2020-01-19,LE,Spain,4726,1092,997,9,3634,1325,1312,2637,988
-2020-01-20,LE,Spain,4371,1011,1073,22,3360,1141,1146,2287,1051
-2020-01-21,LE,Spain,3897,883,998,36,3014,1015,1001,2016,962
-2020-01-22,LE,Spain,3806,819,1044,49,2987,966,977,1943,995
-2020-01-23,LE,Spain,4266,934,1091,52,3332,1110,1131,2241,1039
-2020-01-24,LE,Spain,4783,1041,1163,37,3742,1290,1289,2579,1126
-2020-01-25,LE,Spain,4527,1070,868,14,3457,1302,1287,2589,854
-2020-01-26,LE,Spain,4813,1110,1044,19,3703,1334,1325,2659,1025
-2020-01-27,LE,Spain,4474,1015,1092,36,3459,1189,1178,2367,1056
-2020-01-28,LE,Spain,3871,889,980,43,2982,1008,994,2002,937
-2020-01-29,LE,Spain,3866,858,1054,42,3008,974,980,1954,1012
-2020-01-30,LE,Spain,4383,997,1101,40,3386,1133,1152,2285,1061
-2020-01-31,LE,Spain,4829,1089,1170,28,3740,1286,1284,2570,1142
-2020-02-01,LE,Spain,4697,1149,889,18,3548,1319,1340,2659,871
-2020-02-02,LE,Spain,4956,1146,1075,16,3810,1376,1359,2735,1059
-2020-02-03,LE,Spain,4531,1042,1128,25,3489,1189,1172,2361,1103
-2020-02-04,LE,Spain,4051,925,994,27,3126,1056,1076,2132,967
-2020-02-05,LE,Spain,4089,901,1083,38,3188,1054,1051,2105,1045
-2020-02-06,LE,Spain,4513,1030,1128,34,3483,1167,1188,2355,1094
-2020-02-07,LE,Spain,4906,1100,1182,28,3806,1313,1311,2624,1154
-2020-02-08,LE,Spain,4886,1247,887,17,3639,1381,1371,2752,870
-2020-02-09,LE,Spain,4804,1131,1056,17,3673,1288,1329,2617,1039
-2020-02-10,LE,Spain,4636,1096,1105,32,3540,1242,1193,2435,1073
-2020-02-11,LE,Spain,4205,970,1022,34,3235,1113,1100,2213,988
-2020-02-12,LE,Spain,4197,950,1055,37,3247,1098,1094,2192,1018
-2020-02-13,LE,Spain,4720,1148,1110,40,3572,1229,1233,2462,1070
-2020-02-14,LE,Spain,5186,1184,1207,26,4002,1403,1392,2795,1181
-2020-02-15,LE,Spain,5114,1296,932,27,3818,1426,1460,2886,905
-2020-02-16,LE,Spain,5187,1201,1076,18,3986,1458,1452,2910,1058
-2020-02-17,LE,Spain,4918,1118,1162,39,3800,1324,1314,2638,1123
-2020-02-18,LE,Spain,4488,1024,1065,34,3464,1195,1204,2399,1031
-2020-02-19,LE,Spain,4503,1036,1130,33,3467,1168,1169,2337,1097
-2020-02-20,LE,Spain,4811,1105,1152,36,3706,1270,1284,2554,1116
-2020-02-21,LE,Spain,5351,1231,1237,27,4120,1452,1431,2883,1210
-2020-02-22,LE,Spain,5279,1368,929,19,3911,1464,1518,2982,910
-2020-02-23,LE,Spain,4973,1296,902,23,3677,1392,1383,2775,879
-2020-02-24,LE,Spain,5157,1193,1215,37,3964,1375,1374,2749,1178
-2020-02-25,LE,Spain,4863,1089,1155,33,3774,1314,1305,2619,1122
-2020-02-26,LE,Spain,4686,1042,1153,39,3644,1237,1254,2491,1114
-2020-02-27,LE,Spain,4911,1084,1169,34,3827,1336,1322,2658,1135
-2020-02-28,LE,Spain,5303,1193,1225,31,4110,1455,1430,2885,1194
-2020-02-29,LE,Spain,5262,1271,944,20,3991,1521,1526,3047,924
-2020-03-01,LE,Spain,5297,1209,1087,14,4088,1515,1486,3001,1073
-2020-03-02,LE,Spain,4996,1177,1147,12,3819,1341,1331,2672,1135
-2020-03-03,LE,Spain,4492,1055,1018,19,3437,1207,1212,2419,999
-2020-03-04,LE,Spain,4455,994,1106,32,3461,1169,1186,2355,1074
-2020-03-05,LE,Spain,4812,1112,1132,37,3700,1280,1288,2568,1095
-2020-03-06,LE,Spain,5149,1169,1182,20,3980,1407,1391,2798,1162
-2020-03-07,LE,Spain,5071,1200,950,16,3871,1460,1461,2921,934
-2020-03-08,LE,Spain,5233,1185,1097,18,4048,1485,1466,2951,1079
-2020-03-09,LE,Spain,4785,1120,1114,22,3665,1269,1282,2551,1092
-2020-03-10,LE,Spain,4375,1031,1026,32,3344,1165,1153,2318,994
-2020-03-11,LE,Spain,4121,953,1096,38,3168,1036,1036,2072,1058
-2020-03-12,LE,Spain,4463,1019,1154,38,3444,1142,1148,2290,1116
-2020-03-13,LE,Spain,4787,1073,1213,18,3714,1248,1253,2501,1195
-2020-03-14,LE,Spain,4516,1078,813,14,3438,1303,1322,2625,799
-2020-03-15,LE,Spain,4500,963,872,4,3537,1367,1298,2665,868
-2020-03-16,LE,Spain,3901,970,775,2,2931,1064,1092,2156,773
-2020-03-17,LE,Spain,2997,782,560,3,2215,831,824,1655,557
-2020-03-18,LE,Spain,2495,724,336,9,1771,728,707,1435,327
-2020-03-19,LE,Spain,2331,680,255,5,1651,690,706,1396,250
-2020-03-20,LE,Spain,2130,619,221,1,1511,648,642,1290,220
-2020-03-21,LE,Spain,1714,478,182,3,1236,533,521,1054,179
-2020-03-22,LE,Spain,1181,419,153,7,762,305,304,609,146
-2020-03-23,LE,Spain,771,281,182,14,490,153,155,308,168
-2020-03-24,LE,Spain,758,211,220,52,547,164,163,327,168
-2020-03-25,LE,Spain,623,122,170,9,501,166,165,331,161
-2020-03-26,LE,Spain,658,129,205,36,529,162,162,324,169
-2020-03-27,LE,Spain,660,133,209,31,527,161,157,318,178
-2020-03-28,LE,Spain,453,113,109,1,340,109,122,231,108
-2020-03-29,LE,Spain,442,110,104,1,332,119,109,228,103
-2020-03-30,LE,Spain,414,93,130,2,321,95,96,191,128
-2020-03-31,LE,Spain,463,88,151,31,375,111,113,224,120
-2020-04-01,LE,Spain,414,74,132,9,340,101,107,208,123
-2020-04-02,LE,Spain,407,71,147,32,336,96,93,189,115
-2020-04-03,LE,Spain,421,88,130,7,333,95,108,203,123
-2020-04-04,LE,Spain,304,75,84,2,229,73,72,145,82
-2020-04-05,LE,Spain,283,71,99,1,212,57,56,113,98
-2020-04-06,LE,Spain,313,77,118,6,236,62,56,118,112
-2020-04-07,LE,Spain,368,60,113,19,308,95,100,195,94
-2020-04-08,LE,Spain,378,82,119,10,296,89,88,177,109
-2020-04-09,LE,Spain,340,69,97,9,271,90,84,174,88
-2020-04-10,LE,Spain,269,68,82,1,201,60,59,119,81
-2020-04-11,LE,Spain,203,35,63,2,168,49,56,105,61
-2020-04-12,LE,Spain,228,41,90,1,187,50,47,97,89
-2020-04-13,LE,Spain,276,37,122,17,239,58,59,117,105
-2020-04-14,LE,Spain,326,60,114,18,266,69,83,152,96
-2020-04-15,LE,Spain,324,75,112,10,249,73,64,137,102
-2020-04-16,LE,Spain,359,75,123,19,284,85,76,161,104
-2020-04-17,LE,Spain,384,72,119,4,312,91,102,193,115
-2020-04-18,LE,Spain,237,59,72,1,178,51,55,106,71
-2020-04-19,LE,Spain,265,63,82,0,202,60,60,120,82
-2020-04-20,LE,Spain,331,65,118,12,266,76,72,148,106
-2020-04-21,LE,Spain,351,70,118,13,281,84,79,163,105
-2020-04-22,LE,Spain,329,73,109,14,256,69,78,147,95
-2020-04-23,LE,Spain,374,71,123,20,303,87,93,180,103
-2020-04-24,LE,Spain,403,84,124,11,319,100,95,195,113
-2020-04-25,LE,Spain,228,49,57,2,179,59,63,122,55
-2020-04-26,LE,Spain,267,55,82,0,212,65,65,130,82
-2020-04-27,LE,Spain,318,62,132,17,256,64,60,124,115
-2020-04-28,LE,Spain,391,98,129,12,293,85,79,164,117
-2020-04-29,LE,Spain,327,63,113,16,264,69,82,151,97
-2020-04-30,LE,Spain,401,84,124,19,317,99,94,193,105
-2020-05-01,LE,Spain,300,70,104,11,230,62,64,126,93
-2020-05-02,LE,Spain,264,65,71,0,199,66,62,128,71
-2020-05-03,LE,Spain,293,72,87,1,221,66,68,134,86
-2020-05-04,LE,Spain,359,89,114,12,270,75,81,156,102
-2020-05-05,LE,Spain,394,95,128,25,299,85,86,171,103
-2020-05-06,LE,Spain,368,83,125,13,285,78,82,160,112
-2020-05-07,LE,Spain,398,94,125,24,304,93,86,179,101
-2020-05-08,LE,Spain,397,100,120,13,297,86,91,177,107
-2020-05-09,LE,Spain,278,72,62,0,206,75,69,144,62
-2020-05-10,LE,Spain,298,67,78,1,231,75,78,153,77
-2020-05-11,LE,Spain,444,107,165,21,337,85,87,172,144
-2020-05-12,LE,Spain,402,74,124,9,328,100,104,204,115
-2020-05-13,LE,Spain,422,93,129,13,329,98,102,200,116
-2020-05-14,LE,Spain,443,90,154,11,353,99,100,199,143
-2020-05-15,LE,Spain,451,103,158,20,348,98,92,190,138
-2020-05-16,LE,Spain,286,69,74,1,217,72,71,143,73
-2020-05-17,LE,Spain,339,68,108,0,271,80,83,163,108
-2020-05-18,LE,Spain,429,94,159,21,335,88,88,176,138
-2020-05-19,LE,Spain,428,98,141,21,330,93,96,189,120
-2020-05-20,LE,Spain,523,109,172,30,414,120,122,242,142
-2020-05-21,LE,Spain,486,116,148,14,370,115,107,222,134
-2020-05-22,LE,Spain,488,115,158,27,373,101,114,215,131
-2020-05-23,LE,Spain,320,87,76,0,233,78,79,157,76
-2020-05-24,LE,Spain,339,72,94,0,267,84,89,173,94
-2020-05-25,LE,Spain,397,83,153,18,314,84,77,161,135
-2020-05-26,LE,Spain,455,97,154,31,358,102,102,204,123
-2020-05-27,LE,Spain,476,99,163,21,377,104,110,214,142
-2020-05-28,LE,Spain,540,119,204,33,421,106,111,217,171
-2020-05-29,LE,Spain,530,124,195,34,406,104,107,211,161
-2020-05-30,LE,Spain,353,91,113,13,262,79,70,149,100
-2020-05-31,LE,Spain,336,92,104,6,244,70,70,140,98
-2020-06-01,LE,Spain,487,113,188,28,374,95,91,186,160
-2020-06-02,LE,Spain,529,115,198,40,414,112,104,216,158
-2020-06-03,LE,Spain,529,132,187,33,397,105,105,210,154
-2020-06-04,LE,Spain,505,122,183,26,383,99,101,200,157
-2020-06-05,LE,Spain,561,145,205,42,416,93,118,211,163
-2020-06-06,LE,Spain,418,144,106,12,274,88,80,168,94
-2020-06-07,LE,Spain,415,133,102,4,282,87,93,180,98
-2020-06-08,LE,Spain,551,128,218,38,423,107,98,205,180
-2020-06-09,LE,Spain,562,150,204,32,412,99,109,208,172
-2020-06-10,LE,Spain,583,149,219,36,434,112,103,215,183
-2020-06-11,LE,Spain,521,125,220,33,396,92,84,176,187
-2020-06-12,LE,Spain,633,160,251,28,473,111,111,222,223
-2020-06-13,LE,Spain,452,138,156,17,314,78,80,158,139
-2020-06-14,LE,Spain,492,146,160,7,346,87,99,186,153
-2020-06-15,LE,Spain,684,166,260,29,518,132,126,258,231
-2020-06-16,LE,Spain,666,161,278,36,505,113,114,227,242
-2020-06-17,LE,Spain,657,167,254,42,490,115,121,236,212
-2020-06-18,LE,Spain,696,174,287,54,522,123,112,235,233
-2020-06-19,LE,Spain,750,180,323,37,570,121,126,247,286
-2020-06-20,LE,Spain,567,161,199,19,406,101,106,207,180
-2020-06-21,LE,Spain,852,197,282,9,655,182,191,373,273
-2020-06-22,LE,Spain,967,156,425,40,811,190,196,386,385
-2020-06-23,LE,Spain,962,185,401,41,777,180,196,376,360
-2020-06-24,LE,Spain,964,178,382,32,786,200,204,404,350
-2020-06-25,LE,Spain,967,183,408,34,784,184,192,376,374
-2020-06-26,LE,Spain,1150,224,446,22,926,234,246,480,424
-2020-06-27,LE,Spain,1001,205,304,13,796,237,255,492,291
-2020-06-28,LE,Spain,1059,205,403,25,854,237,214,451,378
-2020-06-29,LE,Spain,1081,208,409,26,873,239,225,464,383
-2020-06-30,LE,Spain,1066,218,393,21,848,231,224,455,372
-2020-07-01,LE,Spain,2032,330,594,33,1702,524,584,1108,561
-2020-07-02,LE,Spain,2040,322,623,31,1718,541,554,1095,592
-2020-07-03,LE,Spain,2335,389,708,31,1946,614,624,1238,677
-2020-07-04,LE,Spain,2335,415,516,8,1920,696,708,1404,508
-2020-07-05,LE,Spain,2228,370,601,10,1858,634,623,1257,591
-2020-07-06,LE,Spain,2154,356,656,38,1798,575,567,1142,618
-2020-07-07,LE,Spain,2078,365,631,44,1713,541,541,1082,587
-2020-07-08,LE,Spain,2144,360,679,54,1784,555,550,1105,625
-2020-07-09,LE,Spain,2192,352,703,58,1840,579,558,1137,645
-2020-07-10,LE,Spain,2519,432,775,36,2087,646,666,1312,739
-2020-07-11,LE,Spain,2636,445,602,18,2191,783,806,1589,584
-2020-07-12,LE,Spain,2426,375,670,14,2051,696,685,1381,656
-2020-07-13,LE,Spain,2406,378,771,45,2028,633,624,1257,726
-2020-07-14,LE,Spain,2288,380,731,47,1908,592,585,1177,684
-2020-07-15,LE,Spain,2455,420,753,42,2035,647,635,1282,711
-2020-07-16,LE,Spain,2702,438,801,46,2264,722,741,1463,755
-2020-07-17,LE,Spain,3042,472,926,39,2570,815,829,1644,887
-2020-07-18,LE,Spain,3086,502,728,12,2584,918,938,1856,716
-2020-07-19,LE,Spain,3016,485,820,9,2531,868,843,1711,811
-2020-07-20,LE,Spain,2914,476,888,38,2438,783,767,1550,850
-2020-07-21,LE,Spain,2696,464,811,47,2232,714,707,1421,764
-2020-07-22,LE,Spain,2636,454,825,39,2182,673,684,1357,786
-2020-07-23,LE,Spain,2825,491,830,38,2334,745,759,1504,792
-2020-07-24,LE,Spain,3173,536,945,35,2637,840,852,1692,910
-2020-07-25,LE,Spain,3343,535,754,21,2808,1023,1031,2054,733
-2020-07-26,LE,Spain,3225,503,863,15,2722,942,917,1859,848
-2020-07-27,LE,Spain,2928,461,897,34,2467,795,775,1570,863
-2020-07-28,LE,Spain,2714,471,791,44,2243,731,721,1452,747
-2020-07-29,LE,Spain,2748,497,833,42,2251,709,709,1418,791
-2020-07-30,LE,Spain,2933,499,855,38,2434,785,794,1579,817
-2020-07-31,LE,Spain,3223,502,969,47,2721,876,876,1752,922
-2020-08-01,LE,Spain,3954,639,924,27,3315,1182,1209,2391,897
-2020-08-02,LE,Spain,3859,628,991,10,3231,1132,1108,2240,981
-2020-08-03,LE,Spain,3653,617,1016,34,3036,1017,1003,2020,982
-2020-08-04,LE,Spain,3137,538,901,40,2599,852,846,1698,861
-2020-08-05,LE,Spain,3144,562,921,37,2582,830,831,1661,884
-2020-08-06,LE,Spain,3377,571,981,46,2806,909,916,1825,935
-2020-08-07,LE,Spain,3704,627,1062,23,3077,1015,1000,2015,1039
-2020-08-08,LE,Spain,3787,649,922,9,3138,1097,1119,2216,913
-2020-08-09,LE,Spain,3712,623,990,12,3089,1063,1036,2099,978
-2020-08-10,LE,Spain,3457,595,971,26,2862,944,947,1891,945
-2020-08-11,LE,Spain,3037,527,880,30,2510,819,811,1630,850
-2020-08-12,LE,Spain,3059,544,903,33,2515,805,807,1612,870
-2020-08-13,LE,Spain,3276,579,969,30,2697,862,866,1728,939
-2020-08-14,LE,Spain,3651,643,1090,40,3008,952,966,1918,1050
-2020-08-15,LE,Spain,3737,657,918,27,3080,1077,1085,2162,891
-2020-08-16,LE,Spain,3798,665,1005,13,3133,1089,1039,2128,992
-2020-08-17,LE,Spain,3447,609,1003,36,2838,921,914,1835,967
-2020-08-18,LE,Spain,3066,552,909,55,2514,801,804,1605,854
-2020-08-19,LE,Spain,3099,573,928,36,2526,800,798,1598,892
-2020-08-20,LE,Spain,3298,579,984,45,2719,868,867,1735,939
-2020-08-21,LE,Spain,3565,639,1060,27,2926,932,934,1866,1033
-2020-08-22,LE,Spain,3675,666,924,25,3009,1038,1047,2085,899
-2020-08-23,LE,Spain,3694,673,1022,27,3021,1008,991,1999,995
-2020-08-24,LE,Spain,3436,676,1025,34,2760,871,864,1735,991
-2020-08-25,LE,Spain,2963,569,895,44,2394,748,751,1499,851
-2020-08-26,LE,Spain,3043,599,947,43,2444,746,751,1497,904
-2020-08-27,LE,Spain,3292,629,996,48,2663,827,840,1667,948
-2020-08-28,LE,Spain,3576,679,1064,31,2897,921,912,1833,1033
-2020-08-29,LE,Spain,3609,704,889,10,2905,1011,1005,2016,879
-2020-08-30,LE,Spain,3662,704,1028,13,2958,973,957,1930,1015
-2020-08-31,LE,Spain,3313,635,1008,36,2678,837,833,1670,972
-2020-09-01,LE,Spain,2657,523,847,36,2134,642,645,1287,811
-2020-09-02,LE,Spain,2659,551,913,42,2108,589,606,1195,871
-2020-09-03,LE,Spain,2814,567,904,49,2247,663,680,1343,855
-2020-09-04,LE,Spain,3080,632,990,39,2448,731,727,1458,951
-2020-09-05,LE,Spain,3145,680,793,15,2465,837,835,1672,778
-2020-09-06,LE,Spain,3099,656,907,21,2443,773,763,1536,886
-2020-09-07,LE,Spain,2826,566,922,49,2260,672,666,1338,873
-2020-09-08,LE,Spain,2451,499,817,29,1952,570,565,1135,788
-2020-09-09,LE,Spain,2500,526,879,46,1974,546,549,1095,833
-2020-09-10,LE,Spain,2696,598,887,38,2098,609,602,1211,849
-2020-09-11,LE,Spain,2960,639,981,42,2321,665,675,1340,939
-2020-09-12,LE,Spain,2854,641,785,20,2213,719,709,1428,765
-2020-09-13,LE,Spain,2925,661,889,18,2264,689,686,1375,871
-2020-09-14,LE,Spain,2610,565,856,33,2045,597,592,1189,823
-2020-09-15,LE,Spain,2257,503,721,40,1754,524,509,1033,681
-2020-09-16,LE,Spain,2246,520,748,52,1726,486,492,978,696
-2020-09-17,LE,Spain,2395,548,734,44,1847,550,563,1113,690
-2020-09-18,LE,Spain,2726,623,823,18,2103,635,645,1280,805
-2020-09-19,LE,Spain,2609,619,680,17,1990,657,653,1310,663
-2020-09-20,LE,Spain,2754,642,823,24,2112,644,645,1289,799
-2020-09-21,LE,Spain,2493,548,815,41,1945,570,560,1130,774
-2020-09-22,LE,Spain,2142,470,702,35,1672,485,485,970,667
-2020-09-23,LE,Spain,2189,505,719,35,1684,481,484,965,684
-2020-09-24,LE,Spain,2345,544,706,29,1801,547,548,1095,677
-2020-09-25,LE,Spain,2666,614,833,24,2052,599,620,1219,809
-2020-09-26,LE,Spain,2570,615,650,11,1955,644,661,1305,639
-2020-09-27,LE,Spain,2752,652,773,11,2100,675,652,1327,762
-2020-09-28,LE,Spain,2444,535,779,37,1909,565,565,1130,742
-2020-09-29,LE,Spain,2147,468,690,45,1679,497,492,989,645
-2020-09-30,LE,Spain,2217,498,746,42,1719,489,484,973,704
-2020-10-01,LE,Spain,2135,496,723,31,1639,453,463,916,692
-2020-10-02,LE,Spain,2493,600,802,21,1893,544,547,1091,781
-2020-10-03,LE,Spain,2382,612,603,9,1770,576,591,1167,594
-2020-10-04,LE,Spain,2460,607,719,10,1853,578,556,1134,709
-2020-10-05,LE,Spain,2178,508,747,41,1670,461,462,923,706
-2020-10-06,LE,Spain,1819,431,624,32,1388,383,381,764,592
-2020-10-07,LE,Spain,1929,460,655,37,1469,406,408,814,618
-2020-10-08,LE,Spain,2079,492,695,47,1587,450,442,892,648
-2020-10-09,LE,Spain,2546,570,850,31,1976,553,573,1126,819
-2020-10-10,LE,Spain,2318,610,593,9,1708,556,559,1115,584
-2020-10-11,LE,Spain,2399,634,658,6,1765,571,536,1107,652
-2020-10-12,LE,Spain,2179,514,726,10,1665,462,477,939,716
-2020-10-13,LE,Spain,1760,408,643,44,1352,349,360,709,599
-2020-10-14,LE,Spain,1935,456,682,37,1479,403,394,797,645
-2020-10-15,LE,Spain,2056,498,709,36,1558,427,422,849,673
-2020-10-16,LE,Spain,2598,594,901,42,2004,535,568,1103,859
-2020-10-17,LE,Spain,2491,655,638,23,1836,599,599,1198,615
-2020-10-18,LE,Spain,2471,593,742,14,1878,573,563,1136,728
-2020-10-19,LE,Spain,2130,526,752,27,1604,430,422,852,725
-2020-10-20,LE,Spain,1630,424,549,36,1206,328,329,657,513
-2020-10-21,LE,Spain,1777,432,623,40,1345,362,360,722,583
-2020-10-22,LE,Spain,1884,471,628,41,1413,390,395,785,587
-2020-10-23,LE,Spain,2405,572,820,27,1833,494,519,1013,793
-2020-10-24,LE,Spain,2387,633,588,19,1754,580,586,1166,569
-2020-10-25,LE,Spain,2330,616,713,8,1714,506,495,1001,705
-2020-10-26,LE,Spain,2062,509,716,29,1553,423,414,837,687
-2020-10-27,LE,Spain,1564,372,604,32,1192,297,291,588,572
-2020-10-28,LE,Spain,1728,434,625,29,1294,334,335,669,596
-2020-10-29,LE,Spain,1940,457,687,38,1483,373,423,796,649
-2020-10-30,LE,Spain,2433,562,867,49,1871,509,495,1004,818
-2020-10-31,LE,Spain,2303,586,592,27,1717,567,558,1125,565
-2020-11-01,LE,Spain,2275,613,624,17,1662,520,518,1038,607
-2020-11-02,LE,Spain,1926,459,653,20,1467,418,396,814,633
-2020-11-03,LE,Spain,1482,337,524,39,1145,322,299,621,485
-2020-11-04,LE,Spain,1547,361,519,31,1186,325,342,667,488
-2020-11-05,LE,Spain,1528,347,562,34,1181,306,313,619,528
-2020-11-06,LE,Spain,2054,472,702,36,1582,432,448,880,666
-2020-11-07,LE,Spain,1859,475,462,14,1384,459,463,922,448
-2020-11-08,LE,Spain,1952,494,557,17,1458,463,438,901,540
-2020-11-09,LE,Spain,1695,392,594,32,1303,359,350,709,562
-2020-11-10,LE,Spain,1339,297,496,32,1042,282,264,546,464
-2020-11-11,LE,Spain,1413,311,536,36,1102,277,289,566,500
-2020-11-12,LE,Spain,1408,357,495,24,1051,283,273,556,471
-2020-11-13,LE,Spain,1864,420,688,29,1444,368,388,756,659
-2020-11-14,LE,Spain,1607,401,465,16,1206,369,372,741,449
-2020-11-15,LE,Spain,1765,455,582,20,1310,381,347,728,562
-2020-11-16,LE,Spain,1570,327,605,26,1243,312,326,638,579
-2020-11-17,LE,Spain,1265,261,523,26,1004,237,244,481,497
-2020-11-18,LE,Spain,1404,277,543,35,1127,284,300,584,508
-2020-11-19,LE,Spain,1365,276,508,24,1089,298,283,581,484
-2020-11-20,LE,Spain,1668,374,667,40,1294,308,319,627,627
-2020-11-21,LE,Spain,1479,354,445,18,1125,331,349,680,427
-2020-11-22,LE,Spain,1625,389,576,18,1236,338,322,660,558
-2020-11-23,LE,Spain,1410,282,601,34,1128,279,248,527,567
-2020-11-24,LE,Spain,1142,241,519,52,901,195,187,382,467
-2020-11-25,LE,Spain,1240,242,527,29,998,234,237,471,498
-2020-11-26,LE,Spain,1250,274,490,24,976,245,241,486,466
-2020-11-27,LE,Spain,1637,370,647,23,1267,299,321,620,624
-2020-11-28,LE,Spain,1372,323,436,11,1049,305,308,613,425
-2020-11-29,LE,Spain,1503,364,528,3,1139,312,299,611,525
-2020-11-30,LE,Spain,1477,301,620,40,1176,287,269,556,580
-2020-12-01,LE,Spain,1235,250,543,31,985,219,223,442,512
-2020-12-02,LE,Spain,1391,278,566,31,1113,269,278,547,535
-2020-12-03,LE,Spain,1466,273,614,31,1193,294,285,579,583
-2020-12-04,LE,Spain,1817,379,760,16,1438,340,338,678,744
-2020-12-05,LE,Spain,1622,380,490,5,1242,378,374,752,485
-2020-12-06,LE,Spain,1418,374,443,18,1044,308,293,601,425
-2020-12-07,LE,Spain,1289,301,443,13,988,275,270,545,430
-2020-12-08,LE,Spain,1376,282,592,9,1094,244,258,502,583
-2020-12-09,LE,Spain,1414,290,568,42,1124,283,273,556,526
-2020-12-10,LE,Spain,1482,338,509,22,1144,309,326,635,487
-2020-12-11,LE,Spain,1816,438,646,19,1378,364,368,732,627
-2020-12-12,LE,Spain,1707,438,467,15,1269,396,406,802,452
-2020-12-13,LE,Spain,1746,436,604,15,1310,353,353,706,589
-2020-12-14,LE,Spain,1680,391,629,26,1289,337,323,660,603
-2020-12-15,LE,Spain,1507,363,543,32,1144,304,297,601,511
-2020-12-16,LE,Spain,1669,371,613,30,1298,335,350,685,583
-2020-12-17,LE,Spain,2114,521,691,35,1593,449,453,902,656
-2020-12-18,LE,Spain,2562,673,788,18,1889,548,553,1101,770
-2020-12-19,LE,Spain,2711,727,615,6,1984,673,696,1369,609
-2020-12-20,LE,Spain,2501,683,665,4,1818,586,567,1153,661
-2020-12-21,LE,Spain,2246,546,734,30,1700,474,492,966,704
-2020-12-22,LE,Spain,2164,464,749,24,1700,477,474,951,725
-2020-12-23,LE,Spain,2360,543,801,27,1817,520,496,1016,774
-2020-12-24,LE,Spain,1690,486,549,4,1204,317,338,655,545
-2020-12-25,LE,Spain,1147,345,375,1,802,204,223,427,374
-2020-12-26,LE,Spain,2333,593,606,9,1740,561,573,1134,597
-2020-12-27,LE,Spain,2392,607,701,9,1785,538,546,1084,692
-2020-12-28,LE,Spain,2057,487,668,16,1570,455,447,902,652
-2020-12-29,LE,Spain,1772,404,622,3,1368,371,375,746,619
-2020-12-30,LE,Spain,1991,444,693,14,1547,423,431,854,679
-2020-12-31,LE,Spain,1401,407,463,2,994,265,266,531,461
+2020-01-01,LE,Spain,3929,736,874,0,3193,1159,1160,2319,874
+2020-01-02,LE,Spain,4834,839,1101,8,3995,1457,1437,2894,1093
+2020-01-03,LE,Spain,4893,842,1096,8,4051,1481,1474,2955,1088
+2020-01-04,LE,Spain,5171,986,964,9,4185,1612,1609,3221,955
+2020-01-05,LE,Spain,5035,972,949,6,4063,1575,1539,3114,943
+2020-01-06,LE,Spain,4735,948,1044,10,3787,1378,1365,2743,1034
+2020-01-07,LE,Spain,4369,779,1104,32,3590,1236,1250,2486,1072
+2020-01-08,LE,Spain,3898,678,1031,39,3220,1092,1097,2189,992
+2020-01-09,LE,Spain,4130,683,1104,41,3447,1155,1188,2343,1063
+2020-01-10,LE,Spain,4500,748,1151,29,3752,1304,1297,2601,1122
+2020-01-11,LE,Spain,4386,784,880,25,3602,1361,1361,2722,855
+2020-01-12,LE,Spain,4574,771,1042,15,3803,1399,1362,2761,1027
+2020-01-13,LE,Spain,4217,738,1111,29,3479,1179,1189,2368,1082
+2020-01-14,LE,Spain,3479,527,1026,37,2952,964,962,1926,989
+2020-01-15,LE,Spain,3427,497,1015,41,2930,961,954,1915,974
+2020-01-16,LE,Spain,3932,637,1070,41,3295,1104,1121,2225,1029
+2020-01-17,LE,Spain,4404,696,1159,37,3708,1273,1276,2549,1122
+2020-01-18,LE,Spain,4190,754,867,16,3436,1287,1282,2569,851
+2020-01-19,LE,Spain,4331,697,997,9,3634,1325,1312,2637,988
+2020-01-20,LE,Spain,4019,659,1073,22,3360,1141,1146,2287,1051
+2020-01-21,LE,Spain,3568,554,998,36,3014,1015,1001,2016,962
+2020-01-22,LE,Spain,3480,493,1044,49,2987,966,977,1943,995
+2020-01-23,LE,Spain,3927,595,1091,52,3332,1110,1131,2241,1039
+2020-01-24,LE,Spain,4365,623,1163,37,3742,1290,1289,2579,1126
+2020-01-25,LE,Spain,4171,714,868,14,3457,1302,1287,2589,854
+2020-01-26,LE,Spain,4451,748,1044,19,3703,1334,1325,2659,1025
+2020-01-27,LE,Spain,4145,686,1092,36,3459,1189,1178,2367,1056
+2020-01-28,LE,Spain,3541,559,980,43,2982,1008,994,2002,937
+2020-01-29,LE,Spain,3521,513,1054,42,3008,974,980,1954,1012
+2020-01-30,LE,Spain,4040,654,1101,40,3386,1133,1152,2285,1061
+2020-01-31,LE,Spain,4457,717,1170,28,3740,1286,1284,2570,1142
+2020-02-01,LE,Spain,4361,813,889,18,3548,1319,1340,2659,871
+2020-02-02,LE,Spain,4594,784,1075,16,3810,1376,1359,2735,1059
+2020-02-03,LE,Spain,4232,743,1128,25,3489,1189,1172,2361,1103
+2020-02-04,LE,Spain,3761,635,994,27,3126,1056,1076,2132,967
+2020-02-05,LE,Spain,3764,576,1083,38,3188,1054,1051,2105,1045
+2020-02-06,LE,Spain,4187,704,1128,34,3483,1167,1188,2355,1094
+2020-02-07,LE,Spain,4521,715,1182,28,3806,1313,1311,2624,1154
+2020-02-08,LE,Spain,4539,900,887,17,3639,1381,1371,2752,870
+2020-02-09,LE,Spain,4463,790,1056,17,3673,1288,1329,2617,1039
+2020-02-10,LE,Spain,4332,792,1105,32,3540,1242,1193,2435,1073
+2020-02-11,LE,Spain,3900,665,1022,34,3235,1113,1100,2213,988
+2020-02-12,LE,Spain,3890,643,1055,37,3247,1098,1094,2192,1018
+2020-02-13,LE,Spain,4408,836,1110,40,3572,1229,1233,2462,1070
+2020-02-14,LE,Spain,4834,832,1207,26,4002,1403,1392,2795,1181
+2020-02-15,LE,Spain,4784,966,932,27,3818,1426,1460,2886,905
+2020-02-16,LE,Spain,4853,867,1076,18,3986,1458,1452,2910,1058
+2020-02-17,LE,Spain,4605,805,1162,39,3800,1324,1314,2638,1123
+2020-02-18,LE,Spain,4184,720,1065,34,3464,1195,1204,2399,1031
+2020-02-19,LE,Spain,4177,710,1130,33,3467,1168,1169,2337,1097
+2020-02-20,LE,Spain,4477,771,1152,36,3706,1270,1284,2554,1116
+2020-02-21,LE,Spain,4960,840,1237,27,4120,1452,1431,2883,1210
+2020-02-22,LE,Spain,4957,1046,929,19,3911,1464,1518,2982,910
+2020-02-23,LE,Spain,4793,1116,902,23,3677,1392,1383,2775,879
+2020-02-24,LE,Spain,4816,852,1215,37,3964,1375,1374,2749,1178
+2020-02-25,LE,Spain,4483,709,1155,33,3774,1314,1305,2619,1122
+2020-02-26,LE,Spain,4341,697,1153,39,3644,1237,1254,2491,1114
+2020-02-27,LE,Spain,4586,759,1169,34,3827,1336,1322,2658,1135
+2020-02-28,LE,Spain,4934,824,1225,31,4110,1455,1430,2885,1194
+2020-02-29,LE,Spain,4921,930,944,20,3991,1521,1526,3047,924
+2020-03-01,LE,Spain,4942,854,1087,14,4088,1515,1486,3001,1073
+2020-03-02,LE,Spain,4669,850,1147,12,3819,1341,1331,2672,1135
+2020-03-03,LE,Spain,4168,731,1018,19,3437,1207,1212,2419,999
+2020-03-04,LE,Spain,4122,661,1106,32,3461,1169,1186,2355,1074
+2020-03-05,LE,Spain,4468,768,1132,37,3700,1280,1288,2568,1095
+2020-03-06,LE,Spain,4767,787,1182,20,3980,1407,1391,2798,1162
+2020-03-07,LE,Spain,4700,829,950,16,3871,1460,1461,2921,934
+2020-03-08,LE,Spain,4881,833,1097,18,4048,1485,1466,2951,1079
+2020-03-09,LE,Spain,4461,796,1114,22,3665,1269,1282,2551,1092
+2020-03-10,LE,Spain,4049,705,1026,32,3344,1165,1153,2318,994
+2020-03-11,LE,Spain,3783,615,1096,38,3168,1036,1036,2072,1058
+2020-03-12,LE,Spain,4132,688,1154,38,3444,1142,1148,2290,1116
+2020-03-13,LE,Spain,4438,724,1213,18,3714,1248,1253,2501,1195
+2020-03-14,LE,Spain,4224,786,813,14,3438,1303,1322,2625,799
+2020-03-15,LE,Spain,4238,701,872,4,3537,1367,1298,2665,868
+2020-03-16,LE,Spain,3712,781,775,2,2931,1064,1092,2156,773
+2020-03-17,LE,Spain,2805,590,560,3,2215,831,824,1655,557
+2020-03-18,LE,Spain,2382,611,336,9,1771,728,707,1435,327
+2020-03-19,LE,Spain,2239,588,255,5,1651,690,706,1396,250
+2020-03-20,LE,Spain,2021,510,221,1,1511,648,642,1290,220
+2020-03-21,LE,Spain,1627,391,182,3,1236,533,521,1054,179
+2020-03-22,LE,Spain,1113,351,153,7,762,305,304,609,146
+2020-03-23,LE,Spain,704,214,182,14,490,153,155,308,168
+2020-03-24,LE,Spain,699,152,220,52,547,164,163,327,168
+2020-03-25,LE,Spain,556,55,170,9,501,166,165,331,161
+2020-03-26,LE,Spain,589,60,205,36,529,162,162,324,169
+2020-03-27,LE,Spain,593,66,209,31,527,161,157,318,178
+2020-03-28,LE,Spain,422,82,109,1,340,109,122,231,108
+2020-03-29,LE,Spain,412,80,104,1,332,119,109,228,103
+2020-03-30,LE,Spain,376,55,130,2,321,95,96,191,128
+2020-03-31,LE,Spain,425,50,151,31,375,111,113,224,120
+2020-04-01,LE,Spain,372,32,132,9,340,101,107,208,123
+2020-04-02,LE,Spain,364,28,147,32,336,96,93,189,115
+2020-04-03,LE,Spain,379,46,130,7,333,95,108,203,123
+2020-04-04,LE,Spain,278,49,84,2,229,73,72,145,82
+2020-04-05,LE,Spain,255,43,99,1,212,57,56,113,98
+2020-04-06,LE,Spain,280,44,118,6,236,62,56,118,112
+2020-04-07,LE,Spain,332,24,113,19,308,95,100,195,94
+2020-04-08,LE,Spain,348,52,119,10,296,89,88,177,109
+2020-04-09,LE,Spain,306,35,97,9,271,90,84,174,88
+2020-04-10,LE,Spain,232,31,82,1,201,60,59,119,81
+2020-04-11,LE,Spain,175,7,63,2,168,49,56,105,61
+2020-04-12,LE,Spain,201,14,90,1,187,50,47,97,89
+2020-04-13,LE,Spain,246,7,122,17,239,58,59,117,105
+2020-04-14,LE,Spain,294,28,114,18,266,69,83,152,96
+2020-04-15,LE,Spain,281,32,112,10,249,73,64,137,102
+2020-04-16,LE,Spain,322,38,123,19,284,85,76,161,104
+2020-04-17,LE,Spain,341,29,119,4,312,91,102,193,115
+2020-04-18,LE,Spain,212,34,72,1,178,51,55,106,71
+2020-04-19,LE,Spain,232,30,82,0,202,60,60,120,82
+2020-04-20,LE,Spain,300,34,118,12,266,76,72,148,106
+2020-04-21,LE,Spain,313,32,118,13,281,84,79,163,105
+2020-04-22,LE,Spain,296,40,109,14,256,69,78,147,95
+2020-04-23,LE,Spain,332,29,123,20,303,87,93,180,103
+2020-04-24,LE,Spain,357,38,124,11,319,100,95,195,113
+2020-04-25,LE,Spain,200,21,57,2,179,59,63,122,55
+2020-04-26,LE,Spain,236,24,82,0,212,65,65,130,82
+2020-04-27,LE,Spain,285,29,132,17,256,64,60,124,115
+2020-04-28,LE,Spain,355,62,129,12,293,85,79,164,117
+2020-04-29,LE,Spain,288,24,113,16,264,69,82,151,97
+2020-04-30,LE,Spain,362,45,124,19,317,99,94,193,105
+2020-05-01,LE,Spain,266,36,104,11,230,62,64,126,93
+2020-05-02,LE,Spain,238,39,71,0,199,66,62,128,71
+2020-05-03,LE,Spain,258,37,87,1,221,66,68,134,86
+2020-05-04,LE,Spain,324,54,114,12,270,75,81,156,102
+2020-05-05,LE,Spain,348,49,128,25,299,85,86,171,103
+2020-05-06,LE,Spain,329,44,125,13,285,78,82,160,112
+2020-05-07,LE,Spain,359,55,125,24,304,93,86,179,101
+2020-05-08,LE,Spain,353,56,120,13,297,86,91,177,107
+2020-05-09,LE,Spain,251,45,62,0,206,75,69,144,62
+2020-05-10,LE,Spain,265,34,78,1,231,75,78,153,77
+2020-05-11,LE,Spain,395,58,165,21,337,85,87,172,144
+2020-05-12,LE,Spain,361,33,124,9,328,100,104,204,115
+2020-05-13,LE,Spain,369,40,129,13,329,98,102,200,116
+2020-05-14,LE,Spain,394,41,154,11,353,99,100,199,143
+2020-05-15,LE,Spain,392,44,158,20,348,98,92,190,138
+2020-05-16,LE,Spain,246,29,74,1,217,72,71,143,73
+2020-05-17,LE,Spain,296,25,108,0,271,80,83,163,108
+2020-05-18,LE,Spain,375,40,159,21,335,88,88,176,138
+2020-05-19,LE,Spain,372,42,141,21,330,93,96,189,120
+2020-05-20,LE,Spain,467,53,172,30,414,120,122,242,142
+2020-05-21,LE,Spain,428,58,148,14,370,115,107,222,134
+2020-05-22,LE,Spain,436,63,158,27,373,101,114,215,131
+2020-05-23,LE,Spain,270,37,76,0,233,78,79,157,76
+2020-05-24,LE,Spain,293,26,94,0,267,84,89,173,94
+2020-05-25,LE,Spain,348,34,153,18,314,84,77,161,135
+2020-05-26,LE,Spain,412,54,154,31,358,102,102,204,123
+2020-05-27,LE,Spain,413,36,163,21,377,104,110,214,142
+2020-05-28,LE,Spain,476,55,204,33,421,106,111,217,171
+2020-05-29,LE,Spain,466,60,195,34,406,104,107,211,161
+2020-05-30,LE,Spain,292,30,113,13,262,79,70,149,100
+2020-05-31,LE,Spain,287,43,104,6,244,70,70,140,98
+2020-06-01,LE,Spain,420,46,188,28,374,95,91,186,160
+2020-06-02,LE,Spain,466,52,198,40,414,112,104,216,158
+2020-06-03,LE,Spain,465,68,187,33,397,105,105,210,154
+2020-06-04,LE,Spain,450,67,183,26,383,99,101,200,157
+2020-06-05,LE,Spain,491,75,205,42,416,93,118,211,163
+2020-06-06,LE,Spain,365,91,106,12,274,88,80,168,94
+2020-06-07,LE,Spain,354,72,102,4,282,87,93,180,98
+2020-06-08,LE,Spain,487,64,218,38,423,107,98,205,180
+2020-06-09,LE,Spain,498,86,204,32,412,99,109,208,172
+2020-06-10,LE,Spain,493,59,219,36,434,112,103,215,183
+2020-06-11,LE,Spain,436,40,220,33,396,92,84,176,187
+2020-06-12,LE,Spain,527,54,251,28,473,111,111,222,223
+2020-06-13,LE,Spain,384,70,156,17,314,78,80,158,139
+2020-06-14,LE,Spain,418,72,160,7,346,87,99,186,153
+2020-06-15,LE,Spain,571,53,260,29,518,132,126,258,231
+2020-06-16,LE,Spain,559,54,278,36,505,113,114,227,242
+2020-06-17,LE,Spain,547,57,254,42,490,115,121,236,212
+2020-06-18,LE,Spain,596,74,287,54,522,123,112,235,233
+2020-06-19,LE,Spain,609,39,323,37,570,121,126,247,286
+2020-06-20,LE,Spain,459,53,199,19,406,101,106,207,180
+2020-06-21,LE,Spain,738,83,282,9,655,182,191,373,273
+2020-06-22,LE,Spain,836,25,425,40,811,190,196,386,385
+2020-06-23,LE,Spain,822,45,401,41,777,180,196,376,360
+2020-06-24,LE,Spain,840,54,382,32,786,200,204,404,350
+2020-06-25,LE,Spain,830,46,408,34,784,184,192,376,374
+2020-06-26,LE,Spain,991,65,446,22,926,234,246,480,424
+2020-06-27,LE,Spain,895,99,304,13,796,237,255,492,291
+2020-06-28,LE,Spain,933,79,403,25,854,237,214,451,378
+2020-06-29,LE,Spain,956,83,409,26,873,239,225,464,383
+2020-06-30,LE,Spain,946,98,393,21,848,231,224,455,372
+2020-07-01,LE,Spain,1858,156,594,33,1702,524,584,1108,561
+2020-07-02,LE,Spain,1888,170,623,31,1718,541,554,1095,592
+2020-07-03,LE,Spain,2163,217,708,31,1946,614,624,1238,677
+2020-07-04,LE,Spain,2192,272,516,8,1920,696,708,1404,508
+2020-07-05,LE,Spain,2075,217,601,10,1858,634,623,1257,591
+2020-07-06,LE,Spain,1987,189,656,38,1798,575,567,1142,618
+2020-07-07,LE,Spain,1921,208,631,44,1713,541,541,1082,587
+2020-07-08,LE,Spain,1962,178,679,54,1784,555,550,1105,625
+2020-07-09,LE,Spain,2024,184,703,58,1840,579,558,1137,645
+2020-07-10,LE,Spain,2321,234,775,36,2087,646,666,1312,739
+2020-07-11,LE,Spain,2486,295,602,18,2191,783,806,1589,584
+2020-07-12,LE,Spain,2254,203,670,14,2051,696,685,1381,656
+2020-07-13,LE,Spain,2212,184,771,45,2028,633,624,1257,726
+2020-07-14,LE,Spain,2082,174,731,47,1908,592,585,1177,684
+2020-07-15,LE,Spain,2251,216,753,42,2035,647,635,1282,711
+2020-07-16,LE,Spain,2482,218,801,46,2264,722,741,1463,755
+2020-07-17,LE,Spain,2789,219,926,39,2570,815,829,1644,887
+2020-07-18,LE,Spain,2876,292,728,12,2584,918,938,1856,716
+2020-07-19,LE,Spain,2772,241,820,9,2531,868,843,1711,811
+2020-07-20,LE,Spain,2667,229,888,38,2438,783,767,1550,850
+2020-07-21,LE,Spain,2445,213,811,47,2232,714,707,1421,764
+2020-07-22,LE,Spain,2406,224,825,39,2182,673,684,1357,786
+2020-07-23,LE,Spain,2575,241,830,38,2334,745,759,1504,792
+2020-07-24,LE,Spain,2895,258,945,35,2637,840,852,1692,910
+2020-07-25,LE,Spain,3093,285,754,21,2808,1023,1031,2054,733
+2020-07-26,LE,Spain,2956,234,863,15,2722,942,917,1859,848
+2020-07-27,LE,Spain,2686,219,897,34,2467,795,775,1570,863
+2020-07-28,LE,Spain,2477,234,791,44,2243,731,721,1452,747
+2020-07-29,LE,Spain,2516,265,833,42,2251,709,709,1418,791
+2020-07-30,LE,Spain,2684,250,855,38,2434,785,794,1579,817
+2020-07-31,LE,Spain,2938,217,969,47,2721,876,876,1752,922
+2020-08-01,LE,Spain,3692,377,924,27,3315,1182,1209,2391,897
+2020-08-02,LE,Spain,3584,353,991,10,3231,1132,1108,2240,981
+2020-08-03,LE,Spain,3381,345,1016,34,3036,1017,1003,2020,982
+2020-08-04,LE,Spain,2900,301,901,40,2599,852,846,1698,861
+2020-08-05,LE,Spain,2884,302,921,37,2582,830,831,1661,884
+2020-08-06,LE,Spain,3128,322,981,46,2806,909,916,1825,935
+2020-08-07,LE,Spain,3421,344,1062,23,3077,1015,1000,2015,1039
+2020-08-08,LE,Spain,3543,405,922,9,3138,1097,1119,2216,913
+2020-08-09,LE,Spain,3453,364,990,12,3089,1063,1036,2099,978
+2020-08-10,LE,Spain,3187,325,971,26,2862,944,947,1891,945
+2020-08-11,LE,Spain,2789,279,880,30,2510,819,811,1630,850
+2020-08-12,LE,Spain,2806,291,903,33,2515,805,807,1612,870
+2020-08-13,LE,Spain,3024,327,969,30,2697,862,866,1728,939
+2020-08-14,LE,Spain,3370,362,1090,40,3008,952,966,1918,1050
+2020-08-15,LE,Spain,3490,410,918,27,3080,1077,1085,2162,891
+2020-08-16,LE,Spain,3517,384,1005,13,3133,1089,1039,2128,992
+2020-08-17,LE,Spain,3195,357,1003,36,2838,921,914,1835,967
+2020-08-18,LE,Spain,2828,314,909,55,2514,801,804,1605,854
+2020-08-19,LE,Spain,2837,311,928,36,2526,800,798,1598,892
+2020-08-20,LE,Spain,3044,325,984,45,2719,868,867,1735,939
+2020-08-21,LE,Spain,3269,343,1060,27,2926,932,934,1866,1033
+2020-08-22,LE,Spain,3436,427,924,25,3009,1038,1047,2085,899
+2020-08-23,LE,Spain,3415,394,1022,27,3021,1008,991,1999,995
+2020-08-24,LE,Spain,3184,424,1025,34,2760,871,864,1735,991
+2020-08-25,LE,Spain,2742,348,895,44,2394,748,751,1499,851
+2020-08-26,LE,Spain,2788,344,947,43,2444,746,751,1497,904
+2020-08-27,LE,Spain,3036,373,996,48,2663,827,840,1667,948
+2020-08-28,LE,Spain,3300,403,1064,31,2897,921,912,1833,1033
+2020-08-29,LE,Spain,3369,464,889,10,2905,1011,1005,2016,879
+2020-08-30,LE,Spain,3377,419,1028,13,2958,973,957,1930,1015
+2020-08-31,LE,Spain,3055,377,1008,36,2678,837,833,1670,972
+2020-09-01,LE,Spain,2404,270,847,36,2134,642,645,1287,811
+2020-09-02,LE,Spain,2407,299,913,42,2108,589,606,1195,871
+2020-09-03,LE,Spain,2549,302,904,49,2247,663,680,1343,855
+2020-09-04,LE,Spain,2789,341,990,39,2448,731,727,1458,951
+2020-09-05,LE,Spain,2882,417,793,15,2465,837,835,1672,778
+2020-09-06,LE,Spain,2813,370,907,21,2443,773,763,1536,886
+2020-09-07,LE,Spain,2565,305,922,49,2260,672,666,1338,873
+2020-09-08,LE,Spain,2216,264,817,29,1952,570,565,1135,788
+2020-09-09,LE,Spain,2249,275,879,46,1974,546,549,1095,833
+2020-09-10,LE,Spain,2441,343,887,38,2098,609,602,1211,849
+2020-09-11,LE,Spain,2678,357,981,42,2321,665,675,1340,939
+2020-09-12,LE,Spain,2629,416,785,20,2213,719,709,1428,765
+2020-09-13,LE,Spain,2673,409,889,18,2264,689,686,1375,871
+2020-09-14,LE,Spain,2404,359,856,33,2045,597,592,1189,823
+2020-09-15,LE,Spain,2075,321,721,40,1754,524,509,1033,681
+2020-09-16,LE,Spain,2048,322,748,52,1726,486,492,978,696
+2020-09-17,LE,Spain,2191,344,734,44,1847,550,563,1113,690
+2020-09-18,LE,Spain,2487,384,823,18,2103,635,645,1280,805
+2020-09-19,LE,Spain,2431,441,680,17,1990,657,653,1310,663
+2020-09-20,LE,Spain,2535,423,823,24,2112,644,645,1289,799
+2020-09-21,LE,Spain,2303,358,815,41,1945,570,560,1130,774
+2020-09-22,LE,Spain,1961,289,702,35,1672,485,485,970,667
+2020-09-23,LE,Spain,1990,306,719,35,1684,481,484,965,684
+2020-09-24,LE,Spain,2152,351,706,29,1801,547,548,1095,677
+2020-09-25,LE,Spain,2419,367,833,24,2052,599,620,1219,809
+2020-09-26,LE,Spain,2384,429,650,11,1955,644,661,1305,639
+2020-09-27,LE,Spain,2534,434,773,11,2100,675,652,1327,762
+2020-09-28,LE,Spain,2243,334,779,37,1909,565,565,1130,742
+2020-09-29,LE,Spain,1967,288,690,45,1679,497,492,989,645
+2020-09-30,LE,Spain,2026,307,746,42,1719,489,484,973,704
+2020-10-01,LE,Spain,1935,296,723,31,1639,453,463,916,692
+2020-10-02,LE,Spain,2248,355,802,21,1893,544,547,1091,781
+2020-10-03,LE,Spain,2203,433,603,9,1770,576,591,1167,594
+2020-10-04,LE,Spain,2243,390,719,10,1853,578,556,1134,709
+2020-10-05,LE,Spain,1985,315,747,41,1670,461,462,923,706
+2020-10-06,LE,Spain,1637,249,624,32,1388,383,381,764,592
+2020-10-07,LE,Spain,1723,254,655,37,1469,406,408,814,618
+2020-10-08,LE,Spain,1870,283,695,47,1587,450,442,892,648
+2020-10-09,LE,Spain,2289,313,850,31,1976,553,573,1126,819
+2020-10-10,LE,Spain,2139,431,593,9,1708,556,559,1115,584
+2020-10-11,LE,Spain,2189,424,658,6,1765,571,536,1107,652
+2020-10-12,LE,Spain,1959,294,726,10,1665,462,477,939,716
+2020-10-13,LE,Spain,1572,220,643,44,1352,349,360,709,599
+2020-10-14,LE,Spain,1736,257,682,37,1479,403,394,797,645
+2020-10-15,LE,Spain,1852,294,709,36,1558,427,422,849,673
+2020-10-16,LE,Spain,2346,342,901,42,2004,535,568,1103,859
+2020-10-17,LE,Spain,2306,470,638,23,1836,599,599,1198,615
+2020-10-18,LE,Spain,2255,377,742,14,1878,573,563,1136,728
+2020-10-19,LE,Spain,1921,317,752,27,1604,430,422,852,725
+2020-10-20,LE,Spain,1471,265,549,36,1206,328,329,657,513
+2020-10-21,LE,Spain,1562,217,623,40,1345,362,360,722,583
+2020-10-22,LE,Spain,1672,259,628,41,1413,390,395,785,587
+2020-10-23,LE,Spain,2144,311,820,27,1833,494,519,1013,793
+2020-10-24,LE,Spain,2196,442,588,19,1754,580,586,1166,569
+2020-10-25,LE,Spain,2105,391,713,8,1714,506,495,1001,705
+2020-10-26,LE,Spain,1851,298,716,29,1553,423,414,837,687
+2020-10-27,LE,Spain,1367,175,604,32,1192,297,291,588,572
+2020-10-28,LE,Spain,1524,230,625,29,1294,334,335,669,596
+2020-10-29,LE,Spain,1736,253,687,38,1483,373,423,796,649
+2020-10-30,LE,Spain,2178,307,867,49,1871,509,495,1004,818
+2020-10-31,LE,Spain,2083,366,592,27,1717,567,558,1125,565
+2020-11-01,LE,Spain,2034,372,624,17,1662,520,518,1038,607
+2020-11-02,LE,Spain,1705,238,653,20,1467,418,396,814,633
+2020-11-03,LE,Spain,1275,130,524,39,1145,322,299,621,485
+2020-11-04,LE,Spain,1341,155,519,31,1186,325,342,667,488
+2020-11-05,LE,Spain,1312,131,562,34,1181,306,313,619,528
+2020-11-06,LE,Spain,1812,230,702,36,1582,432,448,880,666
+2020-11-07,LE,Spain,1658,274,462,14,1384,459,463,922,448
+2020-11-08,LE,Spain,1718,260,557,17,1458,463,438,901,540
+2020-11-09,LE,Spain,1475,172,594,32,1303,359,350,709,562
+2020-11-10,LE,Spain,1137,95,496,32,1042,282,264,546,464
+2020-11-11,LE,Spain,1203,101,536,36,1102,277,289,566,500
+2020-11-12,LE,Spain,1193,142,495,24,1051,283,273,556,471
+2020-11-13,LE,Spain,1610,166,688,29,1444,368,388,756,659
+2020-11-14,LE,Spain,1413,207,465,16,1206,369,372,741,449
+2020-11-15,LE,Spain,1530,220,582,20,1310,381,347,728,562
+2020-11-16,LE,Spain,1369,126,605,26,1243,312,326,638,579
+2020-11-17,LE,Spain,1067,63,523,26,1004,237,244,481,497
+2020-11-18,LE,Spain,1193,66,543,35,1127,284,300,584,508
+2020-11-19,LE,Spain,1152,63,508,24,1089,298,283,581,484
+2020-11-20,LE,Spain,1421,127,667,40,1294,308,319,627,627
+2020-11-21,LE,Spain,1283,158,445,18,1125,331,349,680,427
+2020-11-22,LE,Spain,1398,162,576,18,1236,338,322,660,558
+2020-11-23,LE,Spain,1214,86,601,34,1128,279,248,527,567
+2020-11-24,LE,Spain,942,41,519,52,901,195,187,382,467
+2020-11-25,LE,Spain,1046,48,527,29,998,234,237,471,498
+2020-11-26,LE,Spain,1049,73,490,24,976,245,241,486,466
+2020-11-27,LE,Spain,1392,125,647,23,1267,299,321,620,624
+2020-11-28,LE,Spain,1184,135,436,11,1049,305,308,613,425
+2020-11-29,LE,Spain,1273,134,528,3,1139,312,299,611,525
+2020-11-30,LE,Spain,1281,105,620,40,1176,287,269,556,580
+2020-12-01,LE,Spain,1053,68,543,31,985,219,223,442,512
+2020-12-02,LE,Spain,1171,58,566,31,1113,269,278,547,535
+2020-12-03,LE,Spain,1249,56,614,31,1193,294,285,579,583
+2020-12-04,LE,Spain,1525,87,760,16,1438,340,338,678,744
+2020-12-05,LE,Spain,1375,133,490,5,1242,378,374,752,485
+2020-12-06,LE,Spain,1217,173,443,18,1044,308,293,601,425
+2020-12-07,LE,Spain,1099,111,443,13,988,275,270,545,430
+2020-12-08,LE,Spain,1116,22,592,9,1094,244,258,502,583
+2020-12-09,LE,Spain,1197,73,568,42,1124,283,273,556,526
+2020-12-10,LE,Spain,1271,127,509,22,1144,309,326,635,487
+2020-12-11,LE,Spain,1566,188,646,19,1378,364,368,732,627
+2020-12-12,LE,Spain,1496,227,467,15,1269,396,406,802,452
+2020-12-13,LE,Spain,1501,191,604,15,1310,353,353,706,589
+2020-12-14,LE,Spain,1449,160,629,26,1289,337,323,660,603
+2020-12-15,LE,Spain,1293,149,543,32,1144,304,297,601,511
+2020-12-16,LE,Spain,1439,141,613,30,1298,335,350,685,583
+2020-12-17,LE,Spain,1892,299,691,35,1593,449,453,902,656
+2020-12-18,LE,Spain,2289,400,788,18,1889,548,553,1101,770
+2020-12-19,LE,Spain,2477,493,615,6,1984,673,696,1369,609
+2020-12-20,LE,Spain,2272,454,665,4,1818,586,567,1153,661
+2020-12-21,LE,Spain,2040,340,734,30,1700,474,492,966,704
+2020-12-22,LE,Spain,1920,220,749,24,1700,477,474,951,725
+2020-12-23,LE,Spain,2084,267,801,27,1817,520,496,1016,774
+2020-12-24,LE,Spain,1496,292,549,4,1204,317,338,655,545
+2020-12-25,LE,Spain,994,192,375,1,802,204,223,427,374
+2020-12-26,LE,Spain,2135,395,606,9,1740,561,573,1134,597
+2020-12-27,LE,Spain,2157,372,701,9,1785,538,546,1084,692
+2020-12-28,LE,Spain,1857,287,668,16,1570,455,447,902,652
+2020-12-29,LE,Spain,1591,223,622,3,1368,371,375,746,619
+2020-12-30,LE,Spain,1797,250,693,14,1547,423,431,854,679
+2020-12-31,LE,Spain,1234,240,463,2,994,265,266,531,461
 2020-01-01,ES,Sweden,1617,959,149,0,658,256,253,509,149
 2020-01-02,ES,Sweden,2100,1217,227,2,883,325,331,656,225
 2020-01-03,ES,Sweden,2048,1147,231,7,901,333,337,670,224

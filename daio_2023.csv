@@ -347,6 +347,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LA,Albania,546,378,0,0,168,81,87,168,0
 2023-12-13,LA,Albania,585,413,0,0,172,86,86,172,0
 2023-12-14,LA,Albania,607,443,0,0,164,82,82,164,0
+2023-12-15,LA,Albania,621,453,0,0,168,85,83,168,0
 2023-01-01,UD,Armenia,185,80,0,0,105,50,55,105,0
 2023-01-02,UD,Armenia,207,97,0,0,110,56,54,110,0
 2023-01-03,UD,Armenia,228,106,0,0,122,61,61,122,0
@@ -695,6 +696,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,UD,Armenia,144,64,0,0,80,39,41,80,0
 2023-12-13,UD,Armenia,157,65,0,0,92,46,46,92,0
 2023-12-14,UD,Armenia,155,64,0,0,91,45,46,91,0
+2023-12-15,UD,Armenia,185,90,1,1,95,49,45,94,0
 2023-01-01,LO,Austria,2742,2081,19,3,661,329,313,642,16
 2023-01-02,LO,Austria,3130,2324,30,0,806,388,388,776,30
 2023-01-03,LO,Austria,2916,2259,27,0,657,317,313,630,27
@@ -1043,347 +1045,348 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LO,Austria,2824,2154,37,4,670,316,317,633,33
 2023-12-13,LO,Austria,3030,2322,24,1,708,341,343,684,23
 2023-12-14,LO,Austria,3178,2427,27,1,751,368,356,724,26
-2023-01-01,EB,Belgium and Luxembourg,0,-708,4,1,708,354,350,704,3
-2023-01-02,EB,Belgium and Luxembourg,0,-865,17,9,865,410,438,848,8
-2023-01-03,EB,Belgium and Luxembourg,0,-836,25,12,836,402,409,811,13
-2023-01-04,EB,Belgium and Luxembourg,0,-849,12,6,849,420,417,837,6
-2023-01-05,EB,Belgium and Luxembourg,0,-916,20,9,916,452,444,896,11
-2023-01-06,EB,Belgium and Luxembourg,0,-934,28,13,934,462,444,906,15
-2023-01-07,EB,Belgium and Luxembourg,0,-754,14,5,754,365,375,740,9
-2023-01-08,EB,Belgium and Luxembourg,0,-861,6,0,861,430,425,855,6
-2023-01-09,EB,Belgium and Luxembourg,0,-859,9,5,859,412,438,850,4
-2023-01-10,EB,Belgium and Luxembourg,0,-790,15,9,790,391,384,775,6
-2023-01-11,EB,Belgium and Luxembourg,0,-816,17,12,816,401,398,799,5
-2023-01-12,EB,Belgium and Luxembourg,0,-899,12,3,899,446,441,887,9
-2023-01-13,EB,Belgium and Luxembourg,0,-917,10,3,917,466,441,907,7
-2023-01-14,EB,Belgium and Luxembourg,0,-659,2,0,659,328,329,657,2
-2023-01-15,EB,Belgium and Luxembourg,0,-854,4,0,854,420,430,850,4
-2023-01-16,EB,Belgium and Luxembourg,0,-836,7,2,836,391,438,829,5
-2023-01-17,EB,Belgium and Luxembourg,0,-810,16,6,810,402,392,794,10
-2023-01-18,EB,Belgium and Luxembourg,0,-866,18,7,866,430,418,848,11
-2023-01-19,EB,Belgium and Luxembourg,0,-932,11,4,932,465,456,921,7
-2023-01-20,EB,Belgium and Luxembourg,0,-921,5,2,921,470,446,916,3
-2023-01-21,EB,Belgium and Luxembourg,0,-666,5,3,666,315,346,661,2
-2023-01-22,EB,Belgium and Luxembourg,0,-874,12,0,874,437,425,862,12
-2023-01-23,EB,Belgium and Luxembourg,0,-866,9,2,866,420,437,857,7
-2023-01-24,EB,Belgium and Luxembourg,0,-746,8,6,746,367,371,738,2
-2023-01-25,EB,Belgium and Luxembourg,0,-770,6,1,770,382,382,764,5
-2023-01-26,EB,Belgium and Luxembourg,0,-874,12,3,874,432,430,862,9
-2023-01-27,EB,Belgium and Luxembourg,0,-884,10,2,884,458,416,874,8
-2023-01-28,EB,Belgium and Luxembourg,0,-675,13,8,675,326,336,662,5
-2023-01-29,EB,Belgium and Luxembourg,0,-831,8,5,831,403,420,823,3
-2023-01-30,EB,Belgium and Luxembourg,0,-833,22,14,833,395,416,811,8
-2023-01-31,EB,Belgium and Luxembourg,0,-788,21,7,788,379,388,767,14
-2023-02-01,EB,Belgium and Luxembourg,0,-850,15,8,850,425,410,835,7
-2023-02-02,EB,Belgium and Luxembourg,0,-898,21,12,898,444,433,877,9
-2023-02-03,EB,Belgium and Luxembourg,0,-920,20,13,920,463,437,900,7
-2023-02-04,EB,Belgium and Luxembourg,0,-684,10,5,684,331,343,674,5
-2023-02-05,EB,Belgium and Luxembourg,0,-869,8,0,869,431,430,861,8
-2023-02-06,EB,Belgium and Luxembourg,0,-899,16,8,899,424,459,883,8
-2023-02-07,EB,Belgium and Luxembourg,0,-810,22,11,810,398,390,788,11
-2023-02-08,EB,Belgium and Luxembourg,0,-890,23,8,890,431,436,867,15
-2023-02-09,EB,Belgium and Luxembourg,0,-955,19,12,955,457,479,936,7
-2023-02-10,EB,Belgium and Luxembourg,0,-1000,18,8,1000,523,459,982,10
-2023-02-11,EB,Belgium and Luxembourg,0,-738,7,1,738,365,366,731,6
-2023-02-12,EB,Belgium and Luxembourg,0,-884,5,1,884,429,450,879,4
-2023-02-13,EB,Belgium and Luxembourg,0,-922,22,13,922,440,460,900,9
-2023-02-14,EB,Belgium and Luxembourg,0,-869,16,11,869,422,431,853,5
-2023-02-15,EB,Belgium and Luxembourg,0,-925,18,10,925,457,450,907,8
-2023-02-16,EB,Belgium and Luxembourg,0,-978,29,14,978,481,468,949,15
-2023-02-17,EB,Belgium and Luxembourg,0,-960,12,1,960,487,461,948,11
-2023-02-18,EB,Belgium and Luxembourg,0,-813,18,6,813,399,396,795,12
-2023-02-19,EB,Belgium and Luxembourg,0,-957,6,1,957,467,484,951,5
-2023-02-20,EB,Belgium and Luxembourg,0,-934,13,8,934,447,474,921,5
-2023-02-21,EB,Belgium and Luxembourg,0,-868,16,4,868,430,422,852,12
-2023-02-22,EB,Belgium and Luxembourg,0,-909,23,8,909,447,439,886,15
-2023-02-23,EB,Belgium and Luxembourg,0,-951,10,8,951,472,469,941,2
-2023-02-24,EB,Belgium and Luxembourg,0,-1015,10,7,1015,516,489,1005,3
-2023-02-25,EB,Belgium and Luxembourg,0,-791,7,3,791,386,398,784,4
-2023-02-26,EB,Belgium and Luxembourg,0,-969,9,4,969,476,484,960,5
-2023-02-27,EB,Belgium and Luxembourg,0,-965,18,7,965,457,490,947,11
-2023-02-28,EB,Belgium and Luxembourg,0,-859,12,9,859,430,417,847,3
-2023-03-01,EB,Belgium and Luxembourg,0,-918,23,12,918,450,445,895,11
-2023-03-02,EB,Belgium and Luxembourg,0,-989,22,9,989,489,478,967,13
-2023-03-03,EB,Belgium and Luxembourg,0,-1040,8,4,1040,524,508,1032,4
-2023-03-04,EB,Belgium and Luxembourg,0,-758,6,0,758,378,374,752,6
-2023-03-05,EB,Belgium and Luxembourg,0,-937,12,3,937,458,467,925,9
-2023-03-06,EB,Belgium and Luxembourg,0,-925,14,5,925,446,465,911,9
-2023-03-07,EB,Belgium and Luxembourg,0,-856,10,3,856,427,419,846,7
-2023-03-08,EB,Belgium and Luxembourg,0,-894,12,4,894,439,443,882,8
-2023-03-09,EB,Belgium and Luxembourg,0,-996,12,6,996,500,484,984,6
-2023-03-10,EB,Belgium and Luxembourg,0,-967,4,0,967,495,468,963,4
-2023-03-11,EB,Belgium and Luxembourg,0,-756,18,7,756,367,371,738,11
-2023-03-12,EB,Belgium and Luxembourg,0,-887,13,2,887,432,442,874,11
-2023-03-13,EB,Belgium and Luxembourg,0,-915,7,1,915,439,469,908,6
-2023-03-14,EB,Belgium and Luxembourg,0,-910,12,2,910,456,442,898,10
-2023-03-15,EB,Belgium and Luxembourg,0,-931,19,12,931,464,448,912,7
-2023-03-16,EB,Belgium and Luxembourg,0,-991,23,13,991,481,487,968,10
-2023-03-17,EB,Belgium and Luxembourg,0,-1030,15,10,1030,518,497,1015,5
-2023-03-18,EB,Belgium and Luxembourg,0,-733,8,6,733,361,364,725,2
-2023-03-19,EB,Belgium and Luxembourg,0,-909,9,1,909,444,456,900,8
-2023-03-20,EB,Belgium and Luxembourg,0,-975,17,9,975,465,493,958,8
-2023-03-21,EB,Belgium and Luxembourg,0,-905,20,10,905,443,442,885,10
-2023-03-22,EB,Belgium and Luxembourg,0,-957,8,3,957,473,476,949,5
-2023-03-23,EB,Belgium and Luxembourg,0,-998,18,8,998,487,493,980,10
-2023-03-24,EB,Belgium and Luxembourg,0,-1000,14,4,1000,517,469,986,10
-2023-03-25,EB,Belgium and Luxembourg,0,-762,7,1,762,371,384,755,6
-2023-03-26,EB,Belgium and Luxembourg,0,-918,7,3,918,449,462,911,4
-2023-03-27,EB,Belgium and Luxembourg,0,-996,18,7,996,471,507,978,11
-2023-03-28,EB,Belgium and Luxembourg,0,-1000,32,15,1000,485,483,968,17
-2023-03-29,EB,Belgium and Luxembourg,0,-1065,25,11,1065,529,511,1040,14
-2023-03-30,EB,Belgium and Luxembourg,0,-1052,11,3,1052,520,521,1041,8
-2023-03-31,EB,Belgium and Luxembourg,0,-1086,7,2,1086,554,525,1079,5
-2023-04-01,EB,Belgium and Luxembourg,0,-864,9,3,864,429,426,855,6
-2023-04-02,EB,Belgium and Luxembourg,0,-963,10,7,963,474,479,953,3
-2023-04-03,EB,Belgium and Luxembourg,0,-1053,23,17,1053,500,530,1030,6
-2023-04-04,EB,Belgium and Luxembourg,0,-1110,33,22,1110,536,541,1077,11
-2023-04-05,EB,Belgium and Luxembourg,0,-1089,23,13,1089,539,527,1066,10
-2023-04-06,EB,Belgium and Luxembourg,0,-1063,9,2,1063,527,527,1054,7
-2023-04-07,EB,Belgium and Luxembourg,0,-1043,15,9,1043,522,506,1028,6
-2023-04-08,EB,Belgium and Luxembourg,0,-855,9,6,855,425,421,846,3
-2023-04-09,EB,Belgium and Luxembourg,0,-941,9,1,941,464,468,932,8
-2023-04-10,EB,Belgium and Luxembourg,0,-969,1,1,969,471,497,968,0
-2023-04-11,EB,Belgium and Luxembourg,0,-1039,16,8,1039,517,506,1023,8
-2023-04-12,EB,Belgium and Luxembourg,0,-1025,10,3,1025,510,505,1015,7
-2023-04-13,EB,Belgium and Luxembourg,0,-1075,14,5,1075,532,529,1061,9
-2023-04-14,EB,Belgium and Luxembourg,0,-1092,16,12,1092,554,522,1076,4
-2023-04-15,EB,Belgium and Luxembourg,0,-856,14,10,856,413,429,842,4
-2023-04-16,EB,Belgium and Luxembourg,0,-981,11,3,981,483,487,970,8
-2023-04-17,EB,Belgium and Luxembourg,0,-1078,23,9,1078,515,540,1055,14
-2023-04-18,EB,Belgium and Luxembourg,0,-1094,27,17,1094,536,531,1067,10
-2023-04-19,EB,Belgium and Luxembourg,0,-1098,16,12,1098,536,546,1082,4
-2023-04-20,EB,Belgium and Luxembourg,0,-1161,16,5,1161,574,571,1145,11
-2023-04-21,EB,Belgium and Luxembourg,0,-1107,25,12,1107,553,529,1082,13
-2023-04-22,EB,Belgium and Luxembourg,0,-875,16,12,875,431,428,859,4
-2023-04-23,EB,Belgium and Luxembourg,0,-1016,17,8,1016,494,505,999,9
-2023-04-24,EB,Belgium and Luxembourg,0,-1104,21,11,1104,527,556,1083,10
-2023-04-25,EB,Belgium and Luxembourg,0,-1096,24,11,1096,541,531,1072,13
-2023-04-26,EB,Belgium and Luxembourg,0,-1151,31,18,1151,564,556,1120,13
-2023-04-27,EB,Belgium and Luxembourg,0,-1186,20,13,1186,581,585,1166,7
-2023-04-28,EB,Belgium and Luxembourg,0,-1175,16,11,1175,597,562,1159,5
-2023-04-29,EB,Belgium and Luxembourg,0,-940,16,6,940,456,468,924,10
-2023-04-30,EB,Belgium and Luxembourg,0,-1013,9,2,1013,502,502,1004,7
-2023-05-01,EB,Belgium and Luxembourg,0,-1030,3,0,1030,494,533,1027,3
-2023-05-02,EB,Belgium and Luxembourg,0,-1085,16,8,1085,543,526,1069,8
-2023-05-03,EB,Belgium and Luxembourg,0,-1120,24,10,1120,550,546,1096,14
-2023-05-04,EB,Belgium and Luxembourg,0,-1139,29,15,1139,558,552,1110,14
-2023-05-05,EB,Belgium and Luxembourg,0,-1084,15,4,1084,547,522,1069,11
-2023-05-06,EB,Belgium and Luxembourg,0,-904,11,7,904,442,451,893,4
-2023-05-07,EB,Belgium and Luxembourg,0,-1005,4,2,1005,497,504,1001,2
-2023-05-08,EB,Belgium and Luxembourg,0,-1078,11,5,1078,528,539,1067,6
-2023-05-09,EB,Belgium and Luxembourg,0,-1116,18,7,1116,548,550,1098,11
-2023-05-10,EB,Belgium and Luxembourg,0,-1097,12,6,1097,546,539,1085,6
-2023-05-11,EB,Belgium and Luxembourg,0,-1164,11,5,1164,580,573,1153,6
-2023-05-12,EB,Belgium and Luxembourg,0,-1148,17,7,1148,574,557,1131,10
-2023-05-13,EB,Belgium and Luxembourg,0,-950,7,5,950,462,481,943,2
-2023-05-14,EB,Belgium and Luxembourg,0,-1056,13,3,1056,522,521,1043,10
-2023-05-15,EB,Belgium and Luxembourg,0,-1166,24,13,1166,558,584,1142,11
-2023-05-16,EB,Belgium and Luxembourg,0,-1153,18,5,1153,562,573,1135,13
-2023-05-17,EB,Belgium and Luxembourg,0,-1179,17,11,1179,592,570,1162,6
-2023-05-18,EB,Belgium and Luxembourg,0,-1115,11,1,1115,558,546,1104,10
-2023-05-19,EB,Belgium and Luxembourg,0,-1074,21,11,1074,533,520,1053,10
-2023-05-20,EB,Belgium and Luxembourg,0,-900,12,7,900,442,446,888,5
-2023-05-21,EB,Belgium and Luxembourg,0,-1104,10,3,1104,539,555,1094,7
-2023-05-22,EB,Belgium and Luxembourg,0,-1154,21,9,1154,554,579,1133,12
-2023-05-23,EB,Belgium and Luxembourg,0,-1158,25,10,1158,572,561,1133,15
-2023-05-24,EB,Belgium and Luxembourg,0,-1134,15,8,1134,561,558,1119,7
-2023-05-25,EB,Belgium and Luxembourg,0,-1186,19,8,1186,586,581,1167,11
-2023-05-26,EB,Belgium and Luxembourg,0,-1189,25,11,1189,598,566,1164,14
-2023-05-27,EB,Belgium and Luxembourg,0,-947,15,11,947,470,462,932,4
-2023-05-28,EB,Belgium and Luxembourg,0,-1024,15,10,1024,502,507,1009,5
-2023-05-29,EB,Belgium and Luxembourg,0,-1104,12,4,1104,522,570,1092,8
-2023-05-30,EB,Belgium and Luxembourg,0,-1151,27,11,1151,567,557,1124,16
-2023-05-31,EB,Belgium and Luxembourg,0,-1121,24,13,1121,552,545,1097,11
-2023-06-01,EB,Belgium and Luxembourg,0,-1183,30,14,1183,585,568,1153,16
-2023-06-02,EB,Belgium and Luxembourg,0,-1110,21,8,1110,559,530,1089,13
-2023-06-03,EB,Belgium and Luxembourg,0,-931,16,7,931,452,463,915,9
-2023-06-04,EB,Belgium and Luxembourg,0,-1075,9,2,1075,524,542,1066,7
-2023-06-05,EB,Belgium and Luxembourg,0,-1135,15,8,1135,543,577,1120,7
-2023-06-06,EB,Belgium and Luxembourg,0,-1072,17,8,1072,531,524,1055,9
-2023-06-07,EB,Belgium and Luxembourg,0,-1133,14,5,1133,567,552,1119,9
-2023-06-08,EB,Belgium and Luxembourg,0,-1163,23,9,1163,575,565,1140,14
-2023-06-09,EB,Belgium and Luxembourg,0,-1123,15,10,1123,568,540,1108,5
-2023-06-10,EB,Belgium and Luxembourg,0,-956,16,5,956,463,477,940,11
-2023-06-11,EB,Belgium and Luxembourg,0,-1087,8,4,1087,535,544,1079,4
-2023-06-12,EB,Belgium and Luxembourg,0,-1148,8,6,1148,560,580,1140,2
-2023-06-13,EB,Belgium and Luxembourg,0,-1166,20,9,1166,565,581,1146,11
-2023-06-14,EB,Belgium and Luxembourg,0,-1171,27,11,1171,568,576,1144,16
-2023-06-15,EB,Belgium and Luxembourg,0,-1239,18,9,1239,615,606,1221,9
-2023-06-16,EB,Belgium and Luxembourg,0,-1217,18,7,1217,618,581,1199,11
-2023-06-17,EB,Belgium and Luxembourg,0,-945,16,5,945,456,473,929,11
-2023-06-18,EB,Belgium and Luxembourg,0,-1116,11,4,1116,558,547,1105,7
-2023-06-19,EB,Belgium and Luxembourg,0,-1202,31,18,1202,559,612,1171,13
-2023-06-20,EB,Belgium and Luxembourg,0,-1173,20,7,1173,587,566,1153,13
-2023-06-21,EB,Belgium and Luxembourg,0,-1192,19,12,1192,595,578,1173,7
-2023-06-22,EB,Belgium and Luxembourg,0,-1156,20,4,1156,569,567,1136,16
-2023-06-23,EB,Belgium and Luxembourg,0,-1166,10,4,1166,589,567,1156,6
-2023-06-24,EB,Belgium and Luxembourg,0,-940,10,5,940,459,471,930,5
-2023-06-25,EB,Belgium and Luxembourg,0,-1086,16,8,1086,537,533,1070,8
-2023-06-26,EB,Belgium and Luxembourg,0,-1210,15,7,1210,582,613,1195,8
-2023-06-27,EB,Belgium and Luxembourg,0,-1211,27,14,1211,589,595,1184,13
-2023-06-28,EB,Belgium and Luxembourg,0,-1263,19,9,1263,616,628,1244,10
-2023-06-29,EB,Belgium and Luxembourg,0,-1281,16,6,1281,632,633,1265,10
-2023-06-30,EB,Belgium and Luxembourg,0,-1268,16,9,1268,646,606,1252,7
-2023-07-01,EB,Belgium and Luxembourg,0,-1027,13,4,1027,506,508,1014,9
-2023-07-02,EB,Belgium and Luxembourg,0,-1147,8,2,1147,572,567,1139,6
-2023-07-03,EB,Belgium and Luxembourg,0,-1167,12,4,1167,569,586,1155,8
-2023-07-04,EB,Belgium and Luxembourg,0,-1177,24,11,1177,572,581,1153,13
-2023-07-05,EB,Belgium and Luxembourg,0,-1229,19,8,1229,603,607,1210,11
-2023-07-06,EB,Belgium and Luxembourg,0,-1240,30,12,1240,612,598,1210,18
-2023-07-07,EB,Belgium and Luxembourg,0,-1211,11,9,1211,618,582,1200,2
-2023-07-08,EB,Belgium and Luxembourg,0,-1016,11,6,1016,500,505,1005,5
-2023-07-09,EB,Belgium and Luxembourg,0,-1107,4,1,1107,550,553,1103,3
-2023-07-10,EB,Belgium and Luxembourg,0,-1193,26,12,1193,568,599,1167,14
-2023-07-11,EB,Belgium and Luxembourg,0,-1170,12,5,1170,585,573,1158,7
-2023-07-12,EB,Belgium and Luxembourg,0,-1192,10,5,1192,595,587,1182,5
-2023-07-13,EB,Belgium and Luxembourg,0,-1208,14,11,1208,598,596,1194,3
-2023-07-14,EB,Belgium and Luxembourg,0,-1203,17,4,1203,605,581,1186,13
-2023-07-15,EB,Belgium and Luxembourg,0,-920,5,2,920,455,460,915,3
-2023-07-16,EB,Belgium and Luxembourg,0,-1046,11,2,1046,512,523,1035,9
-2023-07-17,EB,Belgium and Luxembourg,0,-1186,19,7,1186,567,600,1167,12
-2023-07-18,EB,Belgium and Luxembourg,0,-1186,17,11,1186,597,572,1169,6
-2023-07-19,EB,Belgium and Luxembourg,0,-1184,12,4,1184,589,583,1172,8
-2023-07-20,EB,Belgium and Luxembourg,0,-1203,19,8,1203,588,596,1184,11
-2023-07-21,EB,Belgium and Luxembourg,0,-1176,12,4,1176,592,572,1164,8
-2023-07-22,EB,Belgium and Luxembourg,0,-1009,13,9,1009,493,503,996,4
-2023-07-23,EB,Belgium and Luxembourg,0,-1111,3,1,1111,554,554,1108,2
-2023-07-24,EB,Belgium and Luxembourg,0,-1157,7,6,1157,562,588,1150,1
-2023-07-25,EB,Belgium and Luxembourg,0,-1145,16,6,1145,566,563,1129,10
-2023-07-26,EB,Belgium and Luxembourg,0,-1206,15,4,1206,601,590,1191,11
-2023-07-27,EB,Belgium and Luxembourg,0,-1202,11,3,1202,584,607,1191,8
-2023-07-28,EB,Belgium and Luxembourg,0,-1203,11,4,1203,604,588,1192,7
-2023-07-29,EB,Belgium and Luxembourg,0,-977,6,2,977,476,495,971,4
-2023-07-30,EB,Belgium and Luxembourg,0,-1141,8,0,1141,574,559,1133,8
-2023-07-31,EB,Belgium and Luxembourg,0,-1197,18,4,1197,583,596,1179,14
-2023-08-01,EB,Belgium and Luxembourg,0,-1138,12,9,1138,562,564,1126,3
-2023-08-02,EB,Belgium and Luxembourg,0,-1126,5,2,1126,566,555,1121,3
-2023-08-03,EB,Belgium and Luxembourg,0,-1116,13,7,1116,559,544,1103,6
-2023-08-04,EB,Belgium and Luxembourg,0,-1147,16,9,1147,578,553,1131,7
-2023-08-05,EB,Belgium and Luxembourg,0,-973,9,5,973,479,485,964,4
-2023-08-06,EB,Belgium and Luxembourg,0,-1085,0,0,1085,543,542,1085,0
-2023-08-07,EB,Belgium and Luxembourg,0,-1120,8,4,1120,533,579,1112,4
-2023-08-08,EB,Belgium and Luxembourg,0,-1111,16,9,1111,552,543,1095,7
-2023-08-09,EB,Belgium and Luxembourg,0,-1128,11,5,1128,561,556,1117,6
-2023-08-10,EB,Belgium and Luxembourg,0,-1140,16,9,1140,565,559,1124,7
-2023-08-11,EB,Belgium and Luxembourg,0,-1183,22,7,1183,585,576,1161,15
-2023-08-12,EB,Belgium and Luxembourg,0,-1015,17,7,1015,504,494,998,10
-2023-08-13,EB,Belgium and Luxembourg,0,-1102,11,2,1102,545,546,1091,9
-2023-08-14,EB,Belgium and Luxembourg,0,-1066,15,7,1066,509,542,1051,8
-2023-08-15,EB,Belgium and Luxembourg,0,-1057,8,0,1057,523,526,1049,8
-2023-08-16,EB,Belgium and Luxembourg,0,-1162,20,8,1162,572,570,1142,12
-2023-08-17,EB,Belgium and Luxembourg,0,-1132,14,6,1132,567,551,1118,8
-2023-08-18,EB,Belgium and Luxembourg,0,-1127,15,6,1127,563,549,1112,9
-2023-08-19,EB,Belgium and Luxembourg,0,-985,6,1,985,485,494,979,5
-2023-08-20,EB,Belgium and Luxembourg,0,-1111,10,3,1111,545,556,1101,7
-2023-08-21,EB,Belgium and Luxembourg,0,-1129,23,13,1129,539,567,1106,10
-2023-08-22,EB,Belgium and Luxembourg,0,-1118,15,8,1118,551,552,1103,7
-2023-08-23,EB,Belgium and Luxembourg,0,-1176,21,12,1176,586,569,1155,9
-2023-08-24,EB,Belgium and Luxembourg,0,-1159,15,9,1159,570,574,1144,6
-2023-08-25,EB,Belgium and Luxembourg,0,-1139,15,6,1139,575,549,1124,9
-2023-08-26,EB,Belgium and Luxembourg,0,-987,11,4,987,483,493,976,7
-2023-08-27,EB,Belgium and Luxembourg,0,-1088,8,3,1088,539,541,1080,5
-2023-08-28,EB,Belgium and Luxembourg,0,-1094,11,6,1094,533,550,1083,5
-2023-08-29,EB,Belgium and Luxembourg,0,-1132,19,6,1132,557,556,1113,13
-2023-08-30,EB,Belgium and Luxembourg,0,-1183,9,4,1183,593,581,1174,5
-2023-08-31,EB,Belgium and Luxembourg,0,-1124,12,8,1124,555,557,1112,4
-2023-09-01,EB,Belgium and Luxembourg,0,-1198,10,3,1198,613,575,1188,7
-2023-09-02,EB,Belgium and Luxembourg,0,-963,6,2,963,476,481,957,4
-2023-09-03,EB,Belgium and Luxembourg,0,-1114,5,1,1114,552,557,1109,4
-2023-09-04,EB,Belgium and Luxembourg,0,-1143,28,14,1143,550,565,1115,14
-2023-09-05,EB,Belgium and Luxembourg,0,-1119,13,5,1119,546,560,1106,8
-2023-09-06,EB,Belgium and Luxembourg,0,-1151,16,10,1151,576,559,1135,6
-2023-09-07,EB,Belgium and Luxembourg,0,-1197,24,8,1197,583,590,1173,16
-2023-09-08,EB,Belgium and Luxembourg,0,-1162,14,5,1162,581,567,1148,9
-2023-09-09,EB,Belgium and Luxembourg,0,-960,10,2,960,472,478,950,8
-2023-09-10,EB,Belgium and Luxembourg,0,-1103,9,2,1103,547,547,1094,7
-2023-09-11,EB,Belgium and Luxembourg,0,-1207,22,8,1207,582,603,1185,14
-2023-09-12,EB,Belgium and Luxembourg,0,-1166,18,6,1166,579,569,1148,12
-2023-09-13,EB,Belgium and Luxembourg,0,-1178,22,8,1178,585,571,1156,14
-2023-09-14,EB,Belgium and Luxembourg,0,-1155,13,5,1155,563,579,1142,8
-2023-09-15,EB,Belgium and Luxembourg,0,-1173,17,8,1173,590,566,1156,9
-2023-09-16,EB,Belgium and Luxembourg,0,-930,11,1,930,454,465,919,10
-2023-09-17,EB,Belgium and Luxembourg,0,-1119,6,1,1119,555,558,1113,5
-2023-09-18,EB,Belgium and Luxembourg,0,-1168,15,6,1168,562,591,1153,9
-2023-09-19,EB,Belgium and Luxembourg,0,-1162,14,4,1162,572,576,1148,10
-2023-09-20,EB,Belgium and Luxembourg,0,-1228,23,6,1228,606,599,1205,17
-2023-09-21,EB,Belgium and Luxembourg,0,-1194,16,4,1194,592,586,1178,12
-2023-09-22,EB,Belgium and Luxembourg,0,-1185,14,3,1185,604,567,1171,11
-2023-09-23,EB,Belgium and Luxembourg,0,-925,9,3,925,453,463,916,6
-2023-09-24,EB,Belgium and Luxembourg,0,-1134,18,7,1134,554,562,1116,11
-2023-09-25,EB,Belgium and Luxembourg,0,-1194,21,7,1194,569,604,1173,14
-2023-09-26,EB,Belgium and Luxembourg,0,-1108,17,12,1108,549,542,1091,5
-2023-09-27,EB,Belgium and Luxembourg,0,-1163,25,13,1163,574,564,1138,12
-2023-09-28,EB,Belgium and Luxembourg,0,-1221,16,8,1221,601,604,1205,8
-2023-09-29,EB,Belgium and Luxembourg,0,-1160,18,4,1160,592,550,1142,14
-2023-09-30,EB,Belgium and Luxembourg,0,-943,9,1,943,464,470,934,8
-2023-10-01,EB,Belgium and Luxembourg,0,-1117,14,2,1117,544,559,1103,12
-2023-10-02,EB,Belgium and Luxembourg,0,-1181,20,12,1181,565,596,1161,8
-2023-10-03,EB,Belgium and Luxembourg,0,-1088,10,5,1088,542,536,1078,5
-2023-10-04,EB,Belgium and Luxembourg,0,-1161,20,6,1161,566,575,1141,14
-2023-10-05,EB,Belgium and Luxembourg,0,-1211,29,5,1211,597,585,1182,24
-2023-10-06,EB,Belgium and Luxembourg,0,-1159,21,8,1159,582,556,1138,13
-2023-10-07,EB,Belgium and Luxembourg,0,-920,17,8,920,444,459,903,9
-2023-10-08,EB,Belgium and Luxembourg,0,-1106,11,5,1106,543,552,1095,6
-2023-10-09,EB,Belgium and Luxembourg,0,-1135,24,13,1135,547,564,1111,11
-2023-10-10,EB,Belgium and Luxembourg,0,-1100,21,12,1100,537,542,1079,9
-2023-10-11,EB,Belgium and Luxembourg,0,-1146,17,10,1146,573,556,1129,7
-2023-10-12,EB,Belgium and Luxembourg,0,-1167,30,14,1167,575,562,1137,16
-2023-10-13,EB,Belgium and Luxembourg,0,-1089,17,8,1089,551,521,1072,9
-2023-10-14,EB,Belgium and Luxembourg,0,-898,9,6,898,443,446,889,3
-2023-10-15,EB,Belgium and Luxembourg,0,-1064,8,2,1064,523,533,1056,6
-2023-10-16,EB,Belgium and Luxembourg,0,-1161,18,6,1161,556,587,1143,12
-2023-10-17,EB,Belgium and Luxembourg,0,-1111,14,5,1111,556,541,1097,9
-2023-10-18,EB,Belgium and Luxembourg,0,-1131,21,11,1131,561,549,1110,10
-2023-10-19,EB,Belgium and Luxembourg,0,-1155,25,14,1155,566,564,1130,11
-2023-10-20,EB,Belgium and Luxembourg,0,-1095,19,9,1095,551,525,1076,10
-2023-10-21,EB,Belgium and Luxembourg,0,-888,2,1,888,428,458,886,1
-2023-10-22,EB,Belgium and Luxembourg,0,-1032,4,0,1032,512,516,1028,4
-2023-10-23,EB,Belgium and Luxembourg,0,-1117,18,9,1117,538,561,1099,9
-2023-10-24,EB,Belgium and Luxembourg,0,-1077,14,6,1077,532,531,1063,8
-2023-10-25,EB,Belgium and Luxembourg,0,-1149,10,8,1149,571,568,1139,2
-2023-10-26,EB,Belgium and Luxembourg,0,-1186,25,14,1186,577,584,1161,11
-2023-10-27,EB,Belgium and Luxembourg,0,-1192,22,7,1192,609,561,1170,15
-2023-10-28,EB,Belgium and Luxembourg,0,-897,6,2,897,440,451,891,4
-2023-10-29,EB,Belgium and Luxembourg,0,-1008,4,2,1008,504,500,1004,2
-2023-10-30,EB,Belgium and Luxembourg,0,-989,15,9,989,474,500,974,6
-2023-10-31,EB,Belgium and Luxembourg,0,-1004,18,12,1004,492,494,986,6
-2023-11-01,EB,Belgium and Luxembourg,0,-945,7,2,945,468,470,938,5
-2023-11-02,EB,Belgium and Luxembourg,0,-949,4,1,949,471,474,945,3
-2023-11-03,EB,Belgium and Luxembourg,0,-1079,21,9,1079,544,514,1058,12
-2023-11-04,EB,Belgium and Luxembourg,0,-865,5,0,865,423,437,860,5
-2023-11-05,EB,Belgium and Luxembourg,0,-1057,8,3,1057,525,524,1049,5
-2023-11-06,EB,Belgium and Luxembourg,0,-1034,15,5,1034,501,518,1019,10
-2023-11-07,EB,Belgium and Luxembourg,0,-940,17,9,940,463,460,923,8
-2023-11-08,EB,Belgium and Luxembourg,0,-952,15,2,952,470,467,937,13
-2023-11-09,EB,Belgium and Luxembourg,0,-998,16,10,998,495,487,982,6
-2023-11-10,EB,Belgium and Luxembourg,0,-1007,13,4,1007,508,486,994,9
-2023-11-11,EB,Belgium and Luxembourg,0,-741,3,3,741,362,376,738,0
-2023-11-12,EB,Belgium and Luxembourg,0,-935,10,3,935,455,470,925,7
-2023-11-13,EB,Belgium and Luxembourg,0,-986,15,5,986,479,492,971,10
-2023-11-14,EB,Belgium and Luxembourg,0,-928,10,5,928,462,456,918,5
-2023-11-15,EB,Belgium and Luxembourg,0,-990,16,7,990,485,489,974,9
-2023-11-16,EB,Belgium and Luxembourg,0,-997,18,7,997,486,493,979,11
-2023-11-17,EB,Belgium and Luxembourg,0,-1061,15,11,1061,537,509,1046,4
-2023-11-18,EB,Belgium and Luxembourg,0,-728,4,0,728,364,360,724,4
-2023-11-19,EB,Belgium and Luxembourg,0,-893,5,1,893,443,445,888,4
-2023-11-20,EB,Belgium and Luxembourg,0,-954,21,12,954,456,477,933,9
-2023-11-21,EB,Belgium and Luxembourg,0,-932,20,13,932,458,454,912,7
-2023-11-22,EB,Belgium and Luxembourg,0,-942,16,5,942,463,463,926,11
-2023-11-23,EB,Belgium and Luxembourg,0,-993,37,19,993,487,469,956,18
-2023-11-24,EB,Belgium and Luxembourg,0,-998,13,5,998,494,491,985,8
-2023-11-25,EB,Belgium and Luxembourg,0,-742,6,2,742,364,372,736,4
-2023-11-26,EB,Belgium and Luxembourg,0,-917,4,1,917,460,453,913,3
-2023-11-27,EB,Belgium and Luxembourg,0,-991,21,10,991,470,500,970,11
-2023-11-28,EB,Belgium and Luxembourg,0,-933,20,8,933,455,458,913,12
-2023-11-29,EB,Belgium and Luxembourg,0,-961,16,8,961,482,463,945,8
-2023-11-30,EB,Belgium and Luxembourg,0,-933,19,5,933,464,450,914,14
-2023-12-01,EB,Belgium and Luxembourg,0,-1022,12,4,1022,513,497,1010,8
-2023-12-02,EB,Belgium and Luxembourg,0,-718,18,10,718,340,360,700,8
-2023-12-03,EB,Belgium and Luxembourg,0,-901,5,0,901,449,447,896,5
-2023-12-04,EB,Belgium and Luxembourg,0,-954,13,4,954,458,483,941,9
-2023-12-05,EB,Belgium and Luxembourg,0,-912,5,1,912,453,454,907,4
-2023-12-06,EB,Belgium and Luxembourg,0,-959,25,19,959,466,468,934,6
-2023-12-07,EB,Belgium and Luxembourg,0,-1043,20,13,1043,512,511,1023,7
+2023-12-15,LO,Austria,3585,2710,20,2,875,421,434,855,18
+2023-01-01,EB,Belgium and Luxembourg,2374,1666,4,1,708,354,350,704,3
+2023-01-02,EB,Belgium and Luxembourg,2654,1789,17,9,865,410,438,848,8
+2023-01-03,EB,Belgium and Luxembourg,2530,1694,25,12,836,402,409,811,13
+2023-01-04,EB,Belgium and Luxembourg,2583,1734,12,6,849,420,417,837,6
+2023-01-05,EB,Belgium and Luxembourg,2647,1731,20,9,916,452,444,896,11
+2023-01-06,EB,Belgium and Luxembourg,2780,1846,28,13,934,462,444,906,15
+2023-01-07,EB,Belgium and Luxembourg,2651,1897,14,5,754,365,375,740,9
+2023-01-08,EB,Belgium and Luxembourg,2739,1878,6,0,861,430,425,855,6
+2023-01-09,EB,Belgium and Luxembourg,2492,1633,9,5,859,412,438,850,4
+2023-01-10,EB,Belgium and Luxembourg,2343,1553,15,9,790,391,384,775,6
+2023-01-11,EB,Belgium and Luxembourg,2309,1493,17,12,816,401,398,799,5
+2023-01-12,EB,Belgium and Luxembourg,2522,1623,12,3,899,446,441,887,9
+2023-01-13,EB,Belgium and Luxembourg,2638,1721,10,3,917,466,441,907,7
+2023-01-14,EB,Belgium and Luxembourg,2328,1669,2,0,659,328,329,657,2
+2023-01-15,EB,Belgium and Luxembourg,2524,1670,4,0,854,420,430,850,4
+2023-01-16,EB,Belgium and Luxembourg,2448,1612,7,2,836,391,438,829,5
+2023-01-17,EB,Belgium and Luxembourg,2273,1463,16,6,810,402,392,794,10
+2023-01-18,EB,Belgium and Luxembourg,2369,1503,18,7,866,430,418,848,11
+2023-01-19,EB,Belgium and Luxembourg,2493,1561,11,4,932,465,456,921,7
+2023-01-20,EB,Belgium and Luxembourg,2648,1727,5,2,921,470,446,916,3
+2023-01-21,EB,Belgium and Luxembourg,2264,1598,5,3,666,315,346,661,2
+2023-01-22,EB,Belgium and Luxembourg,2487,1613,12,0,874,437,425,862,12
+2023-01-23,EB,Belgium and Luxembourg,2422,1556,9,2,866,420,437,857,7
+2023-01-24,EB,Belgium and Luxembourg,2159,1413,8,6,746,367,371,738,2
+2023-01-25,EB,Belgium and Luxembourg,2283,1513,6,1,770,382,382,764,5
+2023-01-26,EB,Belgium and Luxembourg,2418,1544,12,3,874,432,430,862,9
+2023-01-27,EB,Belgium and Luxembourg,2564,1680,10,2,884,458,416,874,8
+2023-01-28,EB,Belgium and Luxembourg,2307,1632,13,8,675,326,336,662,5
+2023-01-29,EB,Belgium and Luxembourg,2536,1705,8,5,831,403,420,823,3
+2023-01-30,EB,Belgium and Luxembourg,2412,1579,22,14,833,395,416,811,8
+2023-01-31,EB,Belgium and Luxembourg,2230,1442,21,7,788,379,388,767,14
+2023-02-01,EB,Belgium and Luxembourg,2443,1593,15,8,850,425,410,835,7
+2023-02-02,EB,Belgium and Luxembourg,2525,1627,21,12,898,444,433,877,9
+2023-02-03,EB,Belgium and Luxembourg,2675,1755,20,13,920,463,437,900,7
+2023-02-04,EB,Belgium and Luxembourg,2506,1822,10,5,684,331,343,674,5
+2023-02-05,EB,Belgium and Luxembourg,2605,1736,8,0,869,431,430,861,8
+2023-02-06,EB,Belgium and Luxembourg,2546,1647,16,8,899,424,459,883,8
+2023-02-07,EB,Belgium and Luxembourg,2365,1555,22,11,810,398,390,788,11
+2023-02-08,EB,Belgium and Luxembourg,2525,1635,23,8,890,431,436,867,15
+2023-02-09,EB,Belgium and Luxembourg,2645,1690,19,12,955,457,479,936,7
+2023-02-10,EB,Belgium and Luxembourg,2898,1898,18,8,1000,523,459,982,10
+2023-02-11,EB,Belgium and Luxembourg,2814,2076,7,1,738,365,366,731,6
+2023-02-12,EB,Belgium and Luxembourg,2720,1836,5,1,884,429,450,879,4
+2023-02-13,EB,Belgium and Luxembourg,2678,1756,22,13,922,440,460,900,9
+2023-02-14,EB,Belgium and Luxembourg,2386,1517,16,11,869,422,431,853,5
+2023-02-15,EB,Belgium and Luxembourg,2621,1696,18,10,925,457,450,907,8
+2023-02-16,EB,Belgium and Luxembourg,2859,1881,29,14,978,481,468,949,15
+2023-02-17,EB,Belgium and Luxembourg,2703,1743,12,1,960,487,461,948,11
+2023-02-18,EB,Belgium and Luxembourg,2754,1941,18,6,813,399,396,795,12
+2023-02-19,EB,Belgium and Luxembourg,2966,2009,6,1,957,467,484,951,5
+2023-02-20,EB,Belgium and Luxembourg,2819,1885,13,8,934,447,474,921,5
+2023-02-21,EB,Belgium and Luxembourg,2532,1664,16,4,868,430,422,852,12
+2023-02-22,EB,Belgium and Luxembourg,2667,1758,23,8,909,447,439,886,15
+2023-02-23,EB,Belgium and Luxembourg,2797,1846,10,8,951,472,469,941,2
+2023-02-24,EB,Belgium and Luxembourg,3015,2000,10,7,1015,516,489,1005,3
+2023-02-25,EB,Belgium and Luxembourg,2713,1922,7,3,791,386,398,784,4
+2023-02-26,EB,Belgium and Luxembourg,2900,1931,9,4,969,476,484,960,5
+2023-02-27,EB,Belgium and Luxembourg,2760,1795,18,7,965,457,490,947,11
+2023-02-28,EB,Belgium and Luxembourg,2562,1703,12,9,859,430,417,847,3
+2023-03-01,EB,Belgium and Luxembourg,2733,1815,23,12,918,450,445,895,11
+2023-03-02,EB,Belgium and Luxembourg,2870,1881,22,9,989,489,478,967,13
+2023-03-03,EB,Belgium and Luxembourg,3075,2035,8,4,1040,524,508,1032,4
+2023-03-04,EB,Belgium and Luxembourg,2705,1947,6,0,758,378,374,752,6
+2023-03-05,EB,Belgium and Luxembourg,2928,1991,12,3,937,458,467,925,9
+2023-03-06,EB,Belgium and Luxembourg,2775,1850,14,5,925,446,465,911,9
+2023-03-07,EB,Belgium and Luxembourg,2597,1741,10,3,856,427,419,846,7
+2023-03-08,EB,Belgium and Luxembourg,2704,1810,12,4,894,439,443,882,8
+2023-03-09,EB,Belgium and Luxembourg,2917,1921,12,6,996,500,484,984,6
+2023-03-10,EB,Belgium and Luxembourg,2926,1959,4,0,967,495,468,963,4
+2023-03-11,EB,Belgium and Luxembourg,2825,2069,18,7,756,367,371,738,11
+2023-03-12,EB,Belgium and Luxembourg,3123,2236,13,2,887,432,442,874,11
+2023-03-13,EB,Belgium and Luxembourg,2737,1822,7,1,915,439,469,908,6
+2023-03-14,EB,Belgium and Luxembourg,2627,1717,12,2,910,456,442,898,10
+2023-03-15,EB,Belgium and Luxembourg,2888,1957,19,12,931,464,448,912,7
+2023-03-16,EB,Belgium and Luxembourg,2763,1772,23,13,991,481,487,968,10
+2023-03-17,EB,Belgium and Luxembourg,2912,1882,15,10,1030,518,497,1015,5
+2023-03-18,EB,Belgium and Luxembourg,2640,1907,8,6,733,361,364,725,2
+2023-03-19,EB,Belgium and Luxembourg,2962,2053,9,1,909,444,456,900,8
+2023-03-20,EB,Belgium and Luxembourg,3141,2166,17,9,975,465,493,958,8
+2023-03-21,EB,Belgium and Luxembourg,2759,1854,20,10,905,443,442,885,10
+2023-03-22,EB,Belgium and Luxembourg,2851,1894,8,3,957,473,476,949,5
+2023-03-23,EB,Belgium and Luxembourg,2955,1957,18,8,998,487,493,980,10
+2023-03-24,EB,Belgium and Luxembourg,3181,2181,14,4,1000,517,469,986,10
+2023-03-25,EB,Belgium and Luxembourg,2745,1983,7,1,762,371,384,755,6
+2023-03-26,EB,Belgium and Luxembourg,3082,2164,7,3,918,449,462,911,4
+2023-03-27,EB,Belgium and Luxembourg,2804,1808,18,7,996,471,507,978,11
+2023-03-28,EB,Belgium and Luxembourg,3050,2050,32,15,1000,485,483,968,17
+2023-03-29,EB,Belgium and Luxembourg,3229,2164,25,11,1065,529,511,1040,14
+2023-03-30,EB,Belgium and Luxembourg,3348,2296,11,3,1052,520,521,1041,8
+2023-03-31,EB,Belgium and Luxembourg,3405,2319,7,2,1086,554,525,1079,5
+2023-04-01,EB,Belgium and Luxembourg,3238,2374,9,3,864,429,426,855,6
+2023-04-02,EB,Belgium and Luxembourg,3351,2388,10,7,963,474,479,953,3
+2023-04-03,EB,Belgium and Luxembourg,3377,2324,23,17,1053,500,530,1030,6
+2023-04-04,EB,Belgium and Luxembourg,3278,2168,33,22,1110,536,541,1077,11
+2023-04-05,EB,Belgium and Luxembourg,3322,2233,23,13,1089,539,527,1066,10
+2023-04-06,EB,Belgium and Luxembourg,3408,2345,9,2,1063,527,527,1054,7
+2023-04-07,EB,Belgium and Luxembourg,3338,2295,15,9,1043,522,506,1028,6
+2023-04-08,EB,Belgium and Luxembourg,3096,2241,9,6,855,425,421,846,3
+2023-04-09,EB,Belgium and Luxembourg,3174,2233,9,1,941,464,468,932,8
+2023-04-10,EB,Belgium and Luxembourg,3242,2273,1,1,969,471,497,968,0
+2023-04-11,EB,Belgium and Luxembourg,3193,2154,16,8,1039,517,506,1023,8
+2023-04-12,EB,Belgium and Luxembourg,3125,2100,10,3,1025,510,505,1015,7
+2023-04-13,EB,Belgium and Luxembourg,3212,2137,14,5,1075,532,529,1061,9
+2023-04-14,EB,Belgium and Luxembourg,3376,2284,16,12,1092,554,522,1076,4
+2023-04-15,EB,Belgium and Luxembourg,3108,2252,14,10,856,413,429,842,4
+2023-04-16,EB,Belgium and Luxembourg,3365,2384,11,3,981,483,487,970,8
+2023-04-17,EB,Belgium and Luxembourg,3222,2144,23,9,1078,515,540,1055,14
+2023-04-18,EB,Belgium and Luxembourg,3176,2082,27,17,1094,536,531,1067,10
+2023-04-19,EB,Belgium and Luxembourg,3276,2178,16,12,1098,536,546,1082,4
+2023-04-20,EB,Belgium and Luxembourg,3156,1995,16,5,1161,574,571,1145,11
+2023-04-21,EB,Belgium and Luxembourg,3231,2124,25,12,1107,553,529,1082,13
+2023-04-22,EB,Belgium and Luxembourg,3067,2192,16,12,875,431,428,859,4
+2023-04-23,EB,Belgium and Luxembourg,3308,2292,17,8,1016,494,505,999,9
+2023-04-24,EB,Belgium and Luxembourg,3047,1943,21,11,1104,527,556,1083,10
+2023-04-25,EB,Belgium and Luxembourg,3077,1981,24,11,1096,541,531,1072,13
+2023-04-26,EB,Belgium and Luxembourg,3211,2060,31,18,1151,564,556,1120,13
+2023-04-27,EB,Belgium and Luxembourg,3269,2083,20,13,1186,581,585,1166,7
+2023-04-28,EB,Belgium and Luxembourg,3441,2266,16,11,1175,597,562,1159,5
+2023-04-29,EB,Belgium and Luxembourg,3165,2225,16,6,940,456,468,924,10
+2023-04-30,EB,Belgium and Luxembourg,3301,2288,9,2,1013,502,502,1004,7
+2023-05-01,EB,Belgium and Luxembourg,3320,2290,3,0,1030,494,533,1027,3
+2023-05-02,EB,Belgium and Luxembourg,3223,2138,16,8,1085,543,526,1069,8
+2023-05-03,EB,Belgium and Luxembourg,3310,2190,24,10,1120,550,546,1096,14
+2023-05-04,EB,Belgium and Luxembourg,3325,2186,29,15,1139,558,552,1110,14
+2023-05-05,EB,Belgium and Luxembourg,3371,2287,15,4,1084,547,522,1069,11
+2023-05-06,EB,Belgium and Luxembourg,3156,2252,11,7,904,442,451,893,4
+2023-05-07,EB,Belgium and Luxembourg,3292,2287,4,2,1005,497,504,1001,2
+2023-05-08,EB,Belgium and Luxembourg,3312,2234,11,5,1078,528,539,1067,6
+2023-05-09,EB,Belgium and Luxembourg,3322,2206,18,7,1116,548,550,1098,11
+2023-05-10,EB,Belgium and Luxembourg,3339,2242,12,6,1097,546,539,1085,6
+2023-05-11,EB,Belgium and Luxembourg,3387,2223,11,5,1164,580,573,1153,6
+2023-05-12,EB,Belgium and Luxembourg,3519,2371,17,7,1148,574,557,1131,10
+2023-05-13,EB,Belgium and Luxembourg,3281,2331,7,5,950,462,481,943,2
+2023-05-14,EB,Belgium and Luxembourg,3385,2329,13,3,1056,522,521,1043,10
+2023-05-15,EB,Belgium and Luxembourg,3397,2231,24,13,1166,558,584,1142,11
+2023-05-16,EB,Belgium and Luxembourg,3392,2239,18,5,1153,562,573,1135,13
+2023-05-17,EB,Belgium and Luxembourg,3500,2321,17,11,1179,592,570,1162,6
+2023-05-18,EB,Belgium and Luxembourg,3431,2316,11,1,1115,558,546,1104,10
+2023-05-19,EB,Belgium and Luxembourg,3387,2313,21,11,1074,533,520,1053,10
+2023-05-20,EB,Belgium and Luxembourg,3210,2310,12,7,900,442,446,888,5
+2023-05-21,EB,Belgium and Luxembourg,3575,2471,10,3,1104,539,555,1094,7
+2023-05-22,EB,Belgium and Luxembourg,3415,2261,21,9,1154,554,579,1133,12
+2023-05-23,EB,Belgium and Luxembourg,3386,2228,25,10,1158,572,561,1133,15
+2023-05-24,EB,Belgium and Luxembourg,3423,2289,15,8,1134,561,558,1119,7
+2023-05-25,EB,Belgium and Luxembourg,3596,2410,19,8,1186,586,581,1167,11
+2023-05-26,EB,Belgium and Luxembourg,3651,2462,25,11,1189,598,566,1164,14
+2023-05-27,EB,Belgium and Luxembourg,3403,2456,15,11,947,470,462,932,4
+2023-05-28,EB,Belgium and Luxembourg,3429,2405,15,10,1024,502,507,1009,5
+2023-05-29,EB,Belgium and Luxembourg,3549,2445,12,4,1104,522,570,1092,8
+2023-05-30,EB,Belgium and Luxembourg,3490,2339,27,11,1151,567,557,1124,16
+2023-05-31,EB,Belgium and Luxembourg,3399,2278,24,13,1121,552,545,1097,11
+2023-06-01,EB,Belgium and Luxembourg,3606,2423,30,14,1183,585,568,1153,16
+2023-06-02,EB,Belgium and Luxembourg,3508,2398,21,8,1110,559,530,1089,13
+2023-06-03,EB,Belgium and Luxembourg,3251,2320,16,7,931,452,463,915,9
+2023-06-04,EB,Belgium and Luxembourg,3619,2544,9,2,1075,524,542,1066,7
+2023-06-05,EB,Belgium and Luxembourg,3503,2368,15,8,1135,543,577,1120,7
+2023-06-06,EB,Belgium and Luxembourg,3480,2408,17,8,1072,531,524,1055,9
+2023-06-07,EB,Belgium and Luxembourg,3610,2477,14,5,1133,567,552,1119,9
+2023-06-08,EB,Belgium and Luxembourg,3603,2440,23,9,1163,575,565,1140,14
+2023-06-09,EB,Belgium and Luxembourg,3579,2456,15,10,1123,568,540,1108,5
+2023-06-10,EB,Belgium and Luxembourg,3366,2410,16,5,956,463,477,940,11
+2023-06-11,EB,Belgium and Luxembourg,3655,2568,8,4,1087,535,544,1079,4
+2023-06-12,EB,Belgium and Luxembourg,3501,2353,8,6,1148,560,580,1140,2
+2023-06-13,EB,Belgium and Luxembourg,3512,2346,20,9,1166,565,581,1146,11
+2023-06-14,EB,Belgium and Luxembourg,3554,2383,27,11,1171,568,576,1144,16
+2023-06-15,EB,Belgium and Luxembourg,3607,2368,18,9,1239,615,606,1221,9
+2023-06-16,EB,Belgium and Luxembourg,3686,2469,18,7,1217,618,581,1199,11
+2023-06-17,EB,Belgium and Luxembourg,3303,2358,16,5,945,456,473,929,11
+2023-06-18,EB,Belgium and Luxembourg,3435,2319,11,4,1116,558,547,1105,7
+2023-06-19,EB,Belgium and Luxembourg,3548,2346,31,18,1202,559,612,1171,13
+2023-06-20,EB,Belgium and Luxembourg,3418,2245,20,7,1173,587,566,1153,13
+2023-06-21,EB,Belgium and Luxembourg,3554,2362,19,12,1192,595,578,1173,7
+2023-06-22,EB,Belgium and Luxembourg,3552,2396,20,4,1156,569,567,1136,16
+2023-06-23,EB,Belgium and Luxembourg,3798,2632,10,4,1166,589,567,1156,6
+2023-06-24,EB,Belgium and Luxembourg,3378,2438,10,5,940,459,471,930,5
+2023-06-25,EB,Belgium and Luxembourg,3614,2528,16,8,1086,537,533,1070,8
+2023-06-26,EB,Belgium and Luxembourg,3678,2468,15,7,1210,582,613,1195,8
+2023-06-27,EB,Belgium and Luxembourg,3639,2428,27,14,1211,589,595,1184,13
+2023-06-28,EB,Belgium and Luxembourg,3673,2410,19,9,1263,616,628,1244,10
+2023-06-29,EB,Belgium and Luxembourg,3719,2438,16,6,1281,632,633,1265,10
+2023-06-30,EB,Belgium and Luxembourg,3819,2551,16,9,1268,646,606,1252,7
+2023-07-01,EB,Belgium and Luxembourg,3537,2510,13,4,1027,506,508,1014,9
+2023-07-02,EB,Belgium and Luxembourg,3735,2588,8,2,1147,572,567,1139,6
+2023-07-03,EB,Belgium and Luxembourg,3663,2496,12,4,1167,569,586,1155,8
+2023-07-04,EB,Belgium and Luxembourg,3596,2419,24,11,1177,572,581,1153,13
+2023-07-05,EB,Belgium and Luxembourg,3510,2281,19,8,1229,603,607,1210,11
+2023-07-06,EB,Belgium and Luxembourg,3688,2448,30,12,1240,612,598,1210,18
+2023-07-07,EB,Belgium and Luxembourg,3802,2591,11,9,1211,618,582,1200,2
+2023-07-08,EB,Belgium and Luxembourg,3434,2418,11,6,1016,500,505,1005,5
+2023-07-09,EB,Belgium and Luxembourg,3500,2393,4,1,1107,550,553,1103,3
+2023-07-10,EB,Belgium and Luxembourg,3603,2410,26,12,1193,568,599,1167,14
+2023-07-11,EB,Belgium and Luxembourg,3594,2424,12,5,1170,585,573,1158,7
+2023-07-12,EB,Belgium and Luxembourg,3545,2353,10,5,1192,595,587,1182,5
+2023-07-13,EB,Belgium and Luxembourg,3604,2396,14,11,1208,598,596,1194,3
+2023-07-14,EB,Belgium and Luxembourg,3719,2516,17,4,1203,605,581,1186,13
+2023-07-15,EB,Belgium and Luxembourg,3336,2416,5,2,920,455,460,915,3
+2023-07-16,EB,Belgium and Luxembourg,3590,2544,11,2,1046,512,523,1035,9
+2023-07-17,EB,Belgium and Luxembourg,3593,2407,19,7,1186,567,600,1167,12
+2023-07-18,EB,Belgium and Luxembourg,3603,2417,17,11,1186,597,572,1169,6
+2023-07-19,EB,Belgium and Luxembourg,3576,2392,12,4,1184,589,583,1172,8
+2023-07-20,EB,Belgium and Luxembourg,3709,2506,19,8,1203,588,596,1184,11
+2023-07-21,EB,Belgium and Luxembourg,3800,2624,12,4,1176,592,572,1164,8
+2023-07-22,EB,Belgium and Luxembourg,3536,2527,13,9,1009,493,503,996,4
+2023-07-23,EB,Belgium and Luxembourg,3682,2571,3,1,1111,554,554,1108,2
+2023-07-24,EB,Belgium and Luxembourg,3560,2403,7,6,1157,562,588,1150,1
+2023-07-25,EB,Belgium and Luxembourg,3495,2350,16,6,1145,566,563,1129,10
+2023-07-26,EB,Belgium and Luxembourg,3623,2417,15,4,1206,601,590,1191,11
+2023-07-27,EB,Belgium and Luxembourg,3579,2377,11,3,1202,584,607,1191,8
+2023-07-28,EB,Belgium and Luxembourg,3768,2565,11,4,1203,604,588,1192,7
+2023-07-29,EB,Belgium and Luxembourg,3503,2526,6,2,977,476,495,971,4
+2023-07-30,EB,Belgium and Luxembourg,3701,2560,8,0,1141,574,559,1133,8
+2023-07-31,EB,Belgium and Luxembourg,3577,2380,18,4,1197,583,596,1179,14
+2023-08-01,EB,Belgium and Luxembourg,3432,2294,12,9,1138,562,564,1126,3
+2023-08-02,EB,Belgium and Luxembourg,3520,2394,5,2,1126,566,555,1121,3
+2023-08-03,EB,Belgium and Luxembourg,3494,2378,13,7,1116,559,544,1103,6
+2023-08-04,EB,Belgium and Luxembourg,3639,2492,16,9,1147,578,553,1131,7
+2023-08-05,EB,Belgium and Luxembourg,3428,2455,9,5,973,479,485,964,4
+2023-08-06,EB,Belgium and Luxembourg,3491,2406,0,0,1085,543,542,1085,0
+2023-08-07,EB,Belgium and Luxembourg,3460,2340,8,4,1120,533,579,1112,4
+2023-08-08,EB,Belgium and Luxembourg,3428,2317,16,9,1111,552,543,1095,7
+2023-08-09,EB,Belgium and Luxembourg,3434,2306,11,5,1128,561,556,1117,6
+2023-08-10,EB,Belgium and Luxembourg,3503,2363,16,9,1140,565,559,1124,7
+2023-08-11,EB,Belgium and Luxembourg,3636,2453,22,7,1183,585,576,1161,15
+2023-08-12,EB,Belgium and Luxembourg,3398,2383,17,7,1015,504,494,998,10
+2023-08-13,EB,Belgium and Luxembourg,3575,2473,11,2,1102,545,546,1091,9
+2023-08-14,EB,Belgium and Luxembourg,3430,2364,15,7,1066,509,542,1051,8
+2023-08-15,EB,Belgium and Luxembourg,3389,2332,8,0,1057,523,526,1049,8
+2023-08-16,EB,Belgium and Luxembourg,3365,2203,20,8,1162,572,570,1142,12
+2023-08-17,EB,Belgium and Luxembourg,3404,2272,14,6,1132,567,551,1118,8
+2023-08-18,EB,Belgium and Luxembourg,3565,2438,15,6,1127,563,549,1112,9
+2023-08-19,EB,Belgium and Luxembourg,3418,2433,6,1,985,485,494,979,5
+2023-08-20,EB,Belgium and Luxembourg,3605,2494,10,3,1111,545,556,1101,7
+2023-08-21,EB,Belgium and Luxembourg,3446,2317,23,13,1129,539,567,1106,10
+2023-08-22,EB,Belgium and Luxembourg,3446,2328,15,8,1118,551,552,1103,7
+2023-08-23,EB,Belgium and Luxembourg,3496,2320,21,12,1176,586,569,1155,9
+2023-08-24,EB,Belgium and Luxembourg,3109,1950,15,9,1159,570,574,1144,6
+2023-08-25,EB,Belgium and Luxembourg,3545,2406,15,6,1139,575,549,1124,9
+2023-08-26,EB,Belgium and Luxembourg,3484,2497,11,4,987,483,493,976,7
+2023-08-27,EB,Belgium and Luxembourg,3622,2534,8,3,1088,539,541,1080,5
+2023-08-28,EB,Belgium and Luxembourg,3306,2212,11,6,1094,533,550,1083,5
+2023-08-29,EB,Belgium and Luxembourg,3469,2337,19,6,1132,557,556,1113,13
+2023-08-30,EB,Belgium and Luxembourg,3533,2350,9,4,1183,593,581,1174,5
+2023-08-31,EB,Belgium and Luxembourg,3552,2428,12,8,1124,555,557,1112,4
+2023-09-01,EB,Belgium and Luxembourg,3690,2492,10,3,1198,613,575,1188,7
+2023-09-02,EB,Belgium and Luxembourg,3390,2427,6,2,963,476,481,957,4
+2023-09-03,EB,Belgium and Luxembourg,3593,2479,5,1,1114,552,557,1109,4
+2023-09-04,EB,Belgium and Luxembourg,3510,2367,28,14,1143,550,565,1115,14
+2023-09-05,EB,Belgium and Luxembourg,3448,2329,13,5,1119,546,560,1106,8
+2023-09-06,EB,Belgium and Luxembourg,3496,2345,16,10,1151,576,559,1135,6
+2023-09-07,EB,Belgium and Luxembourg,3676,2479,24,8,1197,583,590,1173,16
+2023-09-08,EB,Belgium and Luxembourg,3675,2513,14,5,1162,581,567,1148,9
+2023-09-09,EB,Belgium and Luxembourg,3399,2439,10,2,960,472,478,950,8
+2023-09-10,EB,Belgium and Luxembourg,3609,2506,9,2,1103,547,547,1094,7
+2023-09-11,EB,Belgium and Luxembourg,3590,2383,22,8,1207,582,603,1185,14
+2023-09-12,EB,Belgium and Luxembourg,3526,2360,18,6,1166,579,569,1148,12
+2023-09-13,EB,Belgium and Luxembourg,3653,2475,22,8,1178,585,571,1156,14
+2023-09-14,EB,Belgium and Luxembourg,3665,2510,13,5,1155,563,579,1142,8
+2023-09-15,EB,Belgium and Luxembourg,3764,2591,17,8,1173,590,566,1156,9
+2023-09-16,EB,Belgium and Luxembourg,3523,2593,11,1,930,454,465,919,10
+2023-09-17,EB,Belgium and Luxembourg,3630,2511,6,1,1119,555,558,1113,5
+2023-09-18,EB,Belgium and Luxembourg,3545,2377,15,6,1168,562,591,1153,9
+2023-09-19,EB,Belgium and Luxembourg,3638,2476,14,4,1162,572,576,1148,10
+2023-09-20,EB,Belgium and Luxembourg,3761,2533,23,6,1228,606,599,1205,17
+2023-09-21,EB,Belgium and Luxembourg,3648,2454,16,4,1194,592,586,1178,12
+2023-09-22,EB,Belgium and Luxembourg,3778,2593,14,3,1185,604,567,1171,11
+2023-09-23,EB,Belgium and Luxembourg,3340,2415,9,3,925,453,463,916,6
+2023-09-24,EB,Belgium and Luxembourg,3677,2543,18,7,1134,554,562,1116,11
+2023-09-25,EB,Belgium and Luxembourg,3570,2376,21,7,1194,569,604,1173,14
+2023-09-26,EB,Belgium and Luxembourg,3491,2383,17,12,1108,549,542,1091,5
+2023-09-27,EB,Belgium and Luxembourg,3561,2398,25,13,1163,574,564,1138,12
+2023-09-28,EB,Belgium and Luxembourg,3736,2515,16,8,1221,601,604,1205,8
+2023-09-29,EB,Belgium and Luxembourg,3772,2612,18,4,1160,592,550,1142,14
+2023-09-30,EB,Belgium and Luxembourg,3448,2505,9,1,943,464,470,934,8
+2023-10-01,EB,Belgium and Luxembourg,3605,2488,14,2,1117,544,559,1103,12
+2023-10-02,EB,Belgium and Luxembourg,3500,2319,20,12,1181,565,596,1161,8
+2023-10-03,EB,Belgium and Luxembourg,3398,2310,10,5,1088,542,536,1078,5
+2023-10-04,EB,Belgium and Luxembourg,3495,2334,20,6,1161,566,575,1141,14
+2023-10-05,EB,Belgium and Luxembourg,3629,2418,29,5,1211,597,585,1182,24
+2023-10-06,EB,Belgium and Luxembourg,3740,2581,21,8,1159,582,556,1138,13
+2023-10-07,EB,Belgium and Luxembourg,3344,2424,17,8,920,444,459,903,9
+2023-10-08,EB,Belgium and Luxembourg,3595,2489,11,5,1106,543,552,1095,6
+2023-10-09,EB,Belgium and Luxembourg,3544,2409,24,13,1135,547,564,1111,11
+2023-10-10,EB,Belgium and Luxembourg,3398,2298,21,12,1100,537,542,1079,9
+2023-10-11,EB,Belgium and Luxembourg,3459,2313,17,10,1146,573,556,1129,7
+2023-10-12,EB,Belgium and Luxembourg,3548,2381,30,14,1167,575,562,1137,16
+2023-10-13,EB,Belgium and Luxembourg,3606,2517,17,8,1089,551,521,1072,9
+2023-10-14,EB,Belgium and Luxembourg,3360,2462,9,6,898,443,446,889,3
+2023-10-15,EB,Belgium and Luxembourg,3535,2471,8,2,1064,523,533,1056,6
+2023-10-16,EB,Belgium and Luxembourg,3530,2369,18,6,1161,556,587,1143,12
+2023-10-17,EB,Belgium and Luxembourg,3415,2304,14,5,1111,556,541,1097,9
+2023-10-18,EB,Belgium and Luxembourg,3489,2358,21,11,1131,561,549,1110,10
+2023-10-19,EB,Belgium and Luxembourg,3480,2325,25,14,1155,566,564,1130,11
+2023-10-20,EB,Belgium and Luxembourg,3606,2511,19,9,1095,551,525,1076,10
+2023-10-21,EB,Belgium and Luxembourg,3225,2337,2,1,888,428,458,886,1
+2023-10-22,EB,Belgium and Luxembourg,3451,2419,4,0,1032,512,516,1028,4
+2023-10-23,EB,Belgium and Luxembourg,3423,2306,18,9,1117,538,561,1099,9
+2023-10-24,EB,Belgium and Luxembourg,3276,2199,14,6,1077,532,531,1063,8
+2023-10-25,EB,Belgium and Luxembourg,3355,2206,10,8,1149,571,568,1139,2
+2023-10-26,EB,Belgium and Luxembourg,3419,2233,25,14,1186,577,584,1161,11
+2023-10-27,EB,Belgium and Luxembourg,3634,2442,22,7,1192,609,561,1170,15
+2023-10-28,EB,Belgium and Luxembourg,3207,2310,6,2,897,440,451,891,4
+2023-10-29,EB,Belgium and Luxembourg,3280,2272,4,2,1008,504,500,1004,2
+2023-10-30,EB,Belgium and Luxembourg,3142,2153,15,9,989,474,500,974,6
+2023-10-31,EB,Belgium and Luxembourg,2993,1989,18,12,1004,492,494,986,6
+2023-11-01,EB,Belgium and Luxembourg,2955,2010,7,2,945,468,470,938,5
+2023-11-02,EB,Belgium and Luxembourg,2861,1912,4,1,949,471,474,945,3
+2023-11-03,EB,Belgium and Luxembourg,3152,2073,21,9,1079,544,514,1058,12
+2023-11-04,EB,Belgium and Luxembourg,2815,1950,5,0,865,423,437,860,5
+2023-11-05,EB,Belgium and Luxembourg,3165,2108,8,3,1057,525,524,1049,5
+2023-11-06,EB,Belgium and Luxembourg,3056,2022,15,5,1034,501,518,1019,10
+2023-11-07,EB,Belgium and Luxembourg,2696,1756,17,9,940,463,460,923,8
+2023-11-08,EB,Belgium and Luxembourg,2772,1820,15,2,952,470,467,937,13
+2023-11-09,EB,Belgium and Luxembourg,2940,1942,16,10,998,495,487,982,6
+2023-11-10,EB,Belgium and Luxembourg,3084,2077,13,4,1007,508,486,994,9
+2023-11-11,EB,Belgium and Luxembourg,2594,1853,3,3,741,362,376,738,0
+2023-11-12,EB,Belgium and Luxembourg,3021,2086,10,3,935,455,470,925,7
+2023-11-13,EB,Belgium and Luxembourg,2930,1944,15,5,986,479,492,971,10
+2023-11-14,EB,Belgium and Luxembourg,2653,1725,10,5,928,462,456,918,5
+2023-11-15,EB,Belgium and Luxembourg,2817,1827,16,7,990,485,489,974,9
+2023-11-16,EB,Belgium and Luxembourg,2920,1923,18,7,997,486,493,979,11
+2023-11-17,EB,Belgium and Luxembourg,3100,2039,15,11,1061,537,509,1046,4
+2023-11-18,EB,Belgium and Luxembourg,2602,1874,4,0,728,364,360,724,4
+2023-11-19,EB,Belgium and Luxembourg,2900,2007,5,1,893,443,445,888,4
+2023-11-20,EB,Belgium and Luxembourg,2913,1959,21,12,954,456,477,933,9
+2023-11-21,EB,Belgium and Luxembourg,2612,1680,20,13,932,458,454,912,7
+2023-11-22,EB,Belgium and Luxembourg,2766,1824,16,5,942,463,463,926,11
+2023-11-23,EB,Belgium and Luxembourg,2920,1927,37,19,993,487,469,956,18
+2023-11-24,EB,Belgium and Luxembourg,2977,1979,13,5,998,494,491,985,8
+2023-11-25,EB,Belgium and Luxembourg,2591,1849,6,2,742,364,372,736,4
+2023-11-26,EB,Belgium and Luxembourg,2966,2049,4,1,917,460,453,913,3
+2023-11-27,EB,Belgium and Luxembourg,2839,1848,21,10,991,470,500,970,11
+2023-11-28,EB,Belgium and Luxembourg,2603,1670,20,8,933,455,458,913,12
+2023-11-29,EB,Belgium and Luxembourg,2780,1819,16,8,961,482,463,945,8
+2023-11-30,EB,Belgium and Luxembourg,2843,1910,19,5,933,464,450,914,14
+2023-12-01,EB,Belgium and Luxembourg,2949,1927,12,4,1022,513,497,1010,8
+2023-12-02,EB,Belgium and Luxembourg,2513,1795,18,10,718,340,360,700,8
+2023-12-03,EB,Belgium and Luxembourg,2856,1955,5,0,901,449,447,896,5
+2023-12-04,EB,Belgium and Luxembourg,2672,1718,13,4,954,458,483,941,9
+2023-12-05,EB,Belgium and Luxembourg,2494,1582,5,1,912,453,454,907,4
+2023-12-06,EB,Belgium and Luxembourg,2722,1763,25,19,959,466,468,934,6
+2023-12-07,EB,Belgium and Luxembourg,2861,1818,20,13,1043,512,511,1023,7
 2023-12-08,EB,Belgium and Luxembourg,3006,1972,18,6,1034,527,489,1016,12
 2023-12-09,EB,Belgium and Luxembourg,2675,1938,8,4,737,354,375,729,4
 2023-12-10,EB,Belgium and Luxembourg,2985,2082,4,1,903,455,444,899,3
@@ -1391,347 +1394,348 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,EB,Belgium and Luxembourg,2601,1686,12,5,915,448,455,903,7
 2023-12-13,EB,Belgium and Luxembourg,2733,1769,18,9,964,462,484,946,9
 2023-12-14,EB,Belgium and Luxembourg,2974,1930,22,11,1044,520,502,1022,11
-2023-01-01,LQ,Bosnia-Herzegovina,0,-47,0,0,47,23,24,47,0
-2023-01-02,LQ,Bosnia-Herzegovina,0,-55,0,0,55,27,28,55,0
-2023-01-03,LQ,Bosnia-Herzegovina,0,-49,0,0,49,25,24,49,0
-2023-01-04,LQ,Bosnia-Herzegovina,0,-42,1,1,42,21,20,41,0
-2023-01-05,LQ,Bosnia-Herzegovina,0,-49,0,0,49,23,26,49,0
-2023-01-06,LQ,Bosnia-Herzegovina,0,-64,0,0,64,33,31,64,0
-2023-01-07,LQ,Bosnia-Herzegovina,0,-28,0,0,28,15,13,28,0
-2023-01-08,LQ,Bosnia-Herzegovina,0,-68,0,0,68,32,36,68,0
-2023-01-09,LQ,Bosnia-Herzegovina,0,-60,4,0,60,28,28,56,4
-2023-01-10,LQ,Bosnia-Herzegovina,0,-40,0,0,40,20,20,40,0
-2023-01-11,LQ,Bosnia-Herzegovina,0,-35,0,0,35,18,17,35,0
-2023-01-12,LQ,Bosnia-Herzegovina,0,-55,3,0,55,26,26,52,3
-2023-01-13,LQ,Bosnia-Herzegovina,0,-69,0,0,69,35,34,69,0
-2023-01-14,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2023-01-15,LQ,Bosnia-Herzegovina,0,-55,2,0,55,27,26,53,2
-2023-01-16,LQ,Bosnia-Herzegovina,0,-56,0,0,56,27,29,56,0
-2023-01-17,LQ,Bosnia-Herzegovina,0,-35,0,0,35,18,17,35,0
-2023-01-18,LQ,Bosnia-Herzegovina,0,-35,0,0,35,18,17,35,0
-2023-01-19,LQ,Bosnia-Herzegovina,0,-41,0,0,41,20,21,41,0
-2023-01-20,LQ,Bosnia-Herzegovina,0,-67,0,0,67,33,34,67,0
-2023-01-21,LQ,Bosnia-Herzegovina,0,-29,0,0,29,15,14,29,0
-2023-01-22,LQ,Bosnia-Herzegovina,0,-45,0,0,45,22,23,45,0
-2023-01-23,LQ,Bosnia-Herzegovina,0,-64,1,0,64,31,32,63,1
-2023-01-24,LQ,Bosnia-Herzegovina,0,-33,0,0,33,17,16,33,0
-2023-01-25,LQ,Bosnia-Herzegovina,0,-38,0,0,38,20,18,38,0
-2023-01-26,LQ,Bosnia-Herzegovina,0,-41,0,0,41,20,21,41,0
-2023-01-27,LQ,Bosnia-Herzegovina,0,-68,0,0,68,34,34,68,0
-2023-01-28,LQ,Bosnia-Herzegovina,0,-34,0,0,34,17,17,34,0
-2023-01-29,LQ,Bosnia-Herzegovina,0,-52,0,0,52,26,26,52,0
-2023-01-30,LQ,Bosnia-Herzegovina,0,-59,1,0,59,29,29,58,1
-2023-01-31,LQ,Bosnia-Herzegovina,0,-37,0,0,37,18,19,37,0
-2023-02-01,LQ,Bosnia-Herzegovina,0,-40,0,0,40,21,19,40,0
-2023-02-02,LQ,Bosnia-Herzegovina,0,-40,0,0,40,19,21,40,0
-2023-02-03,LQ,Bosnia-Herzegovina,0,-61,0,0,61,31,30,61,0
-2023-02-04,LQ,Bosnia-Herzegovina,0,-29,0,0,29,15,14,29,0
-2023-02-05,LQ,Bosnia-Herzegovina,0,-49,0,0,49,24,25,49,0
-2023-02-06,LQ,Bosnia-Herzegovina,0,-52,0,0,52,25,27,52,0
-2023-02-07,LQ,Bosnia-Herzegovina,0,-39,0,0,39,20,19,39,0
-2023-02-08,LQ,Bosnia-Herzegovina,0,-36,0,0,36,19,17,36,0
-2023-02-09,LQ,Bosnia-Herzegovina,0,-35,2,0,35,16,17,33,2
-2023-02-10,LQ,Bosnia-Herzegovina,0,-72,0,0,72,36,36,72,0
-2023-02-11,LQ,Bosnia-Herzegovina,0,-35,0,0,35,18,17,35,0
-2023-02-12,LQ,Bosnia-Herzegovina,0,-52,0,0,52,25,27,52,0
-2023-02-13,LQ,Bosnia-Herzegovina,0,-66,0,0,66,33,33,66,0
-2023-02-14,LQ,Bosnia-Herzegovina,0,-44,0,0,44,22,22,44,0
-2023-02-15,LQ,Bosnia-Herzegovina,0,-36,0,0,36,19,17,36,0
-2023-02-16,LQ,Bosnia-Herzegovina,0,-35,0,0,35,17,18,35,0
-2023-02-17,LQ,Bosnia-Herzegovina,0,-60,2,0,60,29,29,58,2
-2023-02-18,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2023-02-19,LQ,Bosnia-Herzegovina,0,-52,0,0,52,26,26,52,0
-2023-02-20,LQ,Bosnia-Herzegovina,0,-54,0,0,54,26,28,54,0
-2023-02-21,LQ,Bosnia-Herzegovina,0,-33,0,0,33,17,16,33,0
-2023-02-22,LQ,Bosnia-Herzegovina,0,-41,0,0,41,21,20,41,0
-2023-02-23,LQ,Bosnia-Herzegovina,0,-40,0,0,40,19,21,40,0
-2023-02-24,LQ,Bosnia-Herzegovina,0,-70,0,0,70,35,35,70,0
-2023-02-25,LQ,Bosnia-Herzegovina,0,-37,0,0,37,19,18,37,0
-2023-02-26,LQ,Bosnia-Herzegovina,0,-40,0,0,40,20,20,40,0
-2023-02-27,LQ,Bosnia-Herzegovina,0,-55,2,0,55,26,27,53,2
-2023-02-28,LQ,Bosnia-Herzegovina,0,-42,0,0,42,21,21,42,0
-2023-03-01,LQ,Bosnia-Herzegovina,0,-31,0,0,31,16,15,31,0
-2023-03-02,LQ,Bosnia-Herzegovina,0,-41,1,0,41,21,19,40,1
-2023-03-03,LQ,Bosnia-Herzegovina,0,-58,1,0,58,28,29,57,1
-2023-03-04,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2023-03-05,LQ,Bosnia-Herzegovina,0,-54,0,0,54,27,27,54,0
-2023-03-06,LQ,Bosnia-Herzegovina,0,-55,0,0,55,26,29,55,0
-2023-03-07,LQ,Bosnia-Herzegovina,0,-43,0,0,43,22,21,43,0
-2023-03-08,LQ,Bosnia-Herzegovina,0,-39,0,0,39,20,19,39,0
-2023-03-09,LQ,Bosnia-Herzegovina,0,-44,0,0,44,21,23,44,0
-2023-03-10,LQ,Bosnia-Herzegovina,0,-70,0,0,70,36,34,70,0
-2023-03-11,LQ,Bosnia-Herzegovina,0,-36,0,0,36,18,18,36,0
-2023-03-12,LQ,Bosnia-Herzegovina,0,-52,0,0,52,26,26,52,0
-2023-03-13,LQ,Bosnia-Herzegovina,0,-58,2,0,58,27,29,56,2
-2023-03-14,LQ,Bosnia-Herzegovina,0,-50,1,1,50,24,25,49,0
-2023-03-15,LQ,Bosnia-Herzegovina,0,-43,0,0,43,23,20,43,0
-2023-03-16,LQ,Bosnia-Herzegovina,0,-42,0,0,42,19,23,42,0
-2023-03-17,LQ,Bosnia-Herzegovina,0,-67,0,0,67,34,33,67,0
-2023-03-18,LQ,Bosnia-Herzegovina,0,-37,0,0,37,19,18,37,0
-2023-03-19,LQ,Bosnia-Herzegovina,0,-52,0,0,52,25,27,52,0
-2023-03-20,LQ,Bosnia-Herzegovina,0,-54,0,0,54,27,27,54,0
-2023-03-21,LQ,Bosnia-Herzegovina,0,-52,2,0,52,25,25,50,2
-2023-03-22,LQ,Bosnia-Herzegovina,0,-48,0,0,48,25,23,48,0
-2023-03-23,LQ,Bosnia-Herzegovina,0,-48,1,1,48,23,24,47,0
-2023-03-24,LQ,Bosnia-Herzegovina,0,-59,0,0,59,30,29,59,0
-2023-03-25,LQ,Bosnia-Herzegovina,0,-41,0,0,41,20,21,41,0
-2023-03-26,LQ,Bosnia-Herzegovina,0,-60,0,0,60,30,30,60,0
-2023-03-27,LQ,Bosnia-Herzegovina,0,-53,0,0,53,27,26,53,0
-2023-03-28,LQ,Bosnia-Herzegovina,0,-60,0,0,60,29,31,60,0
-2023-03-29,LQ,Bosnia-Herzegovina,0,-53,0,0,53,27,26,53,0
-2023-03-30,LQ,Bosnia-Herzegovina,0,-62,2,0,62,29,31,60,2
-2023-03-31,LQ,Bosnia-Herzegovina,0,-56,0,0,56,29,27,56,0
-2023-04-01,LQ,Bosnia-Herzegovina,0,-55,0,0,55,27,28,55,0
-2023-04-02,LQ,Bosnia-Herzegovina,0,-49,0,0,49,25,24,49,0
-2023-04-03,LQ,Bosnia-Herzegovina,0,-73,0,0,73,36,37,73,0
-2023-04-04,LQ,Bosnia-Herzegovina,0,-52,0,0,52,26,26,52,0
-2023-04-05,LQ,Bosnia-Herzegovina,0,-53,0,0,53,27,26,53,0
-2023-04-06,LQ,Bosnia-Herzegovina,0,-53,0,0,53,26,27,53,0
-2023-04-07,LQ,Bosnia-Herzegovina,0,-61,0,0,61,31,30,61,0
-2023-04-08,LQ,Bosnia-Herzegovina,0,-52,0,0,52,26,26,52,0
-2023-04-09,LQ,Bosnia-Herzegovina,0,-52,0,0,52,26,26,52,0
-2023-04-10,LQ,Bosnia-Herzegovina,0,-59,0,0,59,29,30,59,0
-2023-04-11,LQ,Bosnia-Herzegovina,0,-59,0,0,59,29,30,59,0
-2023-04-12,LQ,Bosnia-Herzegovina,0,-58,0,0,58,30,28,58,0
-2023-04-13,LQ,Bosnia-Herzegovina,0,-60,0,0,60,30,30,60,0
-2023-04-14,LQ,Bosnia-Herzegovina,0,-58,0,0,58,29,29,58,0
-2023-04-15,LQ,Bosnia-Herzegovina,0,-57,0,0,57,28,29,57,0
-2023-04-16,LQ,Bosnia-Herzegovina,0,-50,0,0,50,25,25,50,0
-2023-04-17,LQ,Bosnia-Herzegovina,0,-71,0,0,71,35,36,71,0
-2023-04-18,LQ,Bosnia-Herzegovina,0,-68,0,0,68,33,35,68,0
-2023-04-19,LQ,Bosnia-Herzegovina,0,-72,2,1,72,36,34,70,1
-2023-04-20,LQ,Bosnia-Herzegovina,0,-71,2,1,71,35,34,69,1
-2023-04-21,LQ,Bosnia-Herzegovina,0,-69,2,1,69,34,33,67,1
-2023-04-22,LQ,Bosnia-Herzegovina,0,-64,1,1,64,32,31,63,0
-2023-04-23,LQ,Bosnia-Herzegovina,0,-54,0,0,54,27,27,54,0
-2023-04-24,LQ,Bosnia-Herzegovina,0,-63,1,1,63,29,33,62,0
-2023-04-25,LQ,Bosnia-Herzegovina,0,-69,0,0,69,35,34,69,0
-2023-04-26,LQ,Bosnia-Herzegovina,0,-66,0,0,66,34,32,66,0
-2023-04-27,LQ,Bosnia-Herzegovina,0,-69,1,1,69,34,34,68,0
-2023-04-28,LQ,Bosnia-Herzegovina,0,-66,1,1,66,33,32,65,0
-2023-04-29,LQ,Bosnia-Herzegovina,0,-58,0,0,58,29,29,58,0
-2023-04-30,LQ,Bosnia-Herzegovina,0,-46,0,0,46,23,23,46,0
-2023-05-01,LQ,Bosnia-Herzegovina,0,-64,0,0,64,31,33,64,0
-2023-05-02,LQ,Bosnia-Herzegovina,0,-71,0,0,71,36,35,71,0
-2023-05-03,LQ,Bosnia-Herzegovina,0,-65,1,0,65,32,32,64,1
-2023-05-04,LQ,Bosnia-Herzegovina,0,-58,0,0,58,28,30,58,0
-2023-05-05,LQ,Bosnia-Herzegovina,0,-62,0,0,62,32,30,62,0
-2023-05-06,LQ,Bosnia-Herzegovina,0,-62,0,0,62,31,31,62,0
-2023-05-07,LQ,Bosnia-Herzegovina,0,-53,0,0,53,27,26,53,0
-2023-05-08,LQ,Bosnia-Herzegovina,0,-66,1,1,66,33,32,65,0
-2023-05-09,LQ,Bosnia-Herzegovina,0,-68,0,0,68,34,34,68,0
-2023-05-10,LQ,Bosnia-Herzegovina,0,-59,0,0,59,30,29,59,0
-2023-05-11,LQ,Bosnia-Herzegovina,0,-58,0,0,58,28,30,58,0
-2023-05-12,LQ,Bosnia-Herzegovina,0,-69,0,0,69,35,34,69,0
-2023-05-13,LQ,Bosnia-Herzegovina,0,-60,0,0,60,30,30,60,0
-2023-05-14,LQ,Bosnia-Herzegovina,0,-50,0,0,50,25,25,50,0
-2023-05-15,LQ,Bosnia-Herzegovina,0,-63,0,0,63,31,32,63,0
-2023-05-16,LQ,Bosnia-Herzegovina,0,-65,3,0,65,30,32,62,3
-2023-05-17,LQ,Bosnia-Herzegovina,0,-71,3,1,71,35,33,68,2
-2023-05-18,LQ,Bosnia-Herzegovina,0,-62,0,0,62,30,32,62,0
-2023-05-19,LQ,Bosnia-Herzegovina,0,-67,0,0,67,35,32,67,0
-2023-05-20,LQ,Bosnia-Herzegovina,0,-63,0,0,63,31,32,63,0
-2023-05-21,LQ,Bosnia-Herzegovina,0,-57,0,0,57,29,28,57,0
-2023-05-22,LQ,Bosnia-Herzegovina,0,-68,0,0,68,33,35,68,0
-2023-05-23,LQ,Bosnia-Herzegovina,0,-58,1,1,58,29,28,57,0
-2023-05-24,LQ,Bosnia-Herzegovina,0,-63,0,0,63,32,31,63,0
-2023-05-25,LQ,Bosnia-Herzegovina,0,-78,0,0,78,39,39,78,0
-2023-05-26,LQ,Bosnia-Herzegovina,0,-60,0,0,60,31,29,60,0
-2023-05-27,LQ,Bosnia-Herzegovina,0,-55,0,0,55,27,28,55,0
-2023-05-28,LQ,Bosnia-Herzegovina,0,-57,0,0,57,29,28,57,0
-2023-05-29,LQ,Bosnia-Herzegovina,0,-60,0,0,60,29,31,60,0
-2023-05-30,LQ,Bosnia-Herzegovina,0,-69,1,1,69,33,35,68,0
-2023-05-31,LQ,Bosnia-Herzegovina,0,-69,1,1,69,36,32,68,0
-2023-06-01,LQ,Bosnia-Herzegovina,0,-66,0,0,66,32,34,66,0
-2023-06-02,LQ,Bosnia-Herzegovina,0,-68,1,0,68,34,33,67,1
-2023-06-03,LQ,Bosnia-Herzegovina,0,-69,0,0,69,34,35,69,0
-2023-06-04,LQ,Bosnia-Herzegovina,0,-50,0,0,50,25,25,50,0
-2023-06-05,LQ,Bosnia-Herzegovina,0,-68,0,0,68,34,34,68,0
-2023-06-06,LQ,Bosnia-Herzegovina,0,-63,0,0,63,31,32,63,0
-2023-06-07,LQ,Bosnia-Herzegovina,0,-68,0,0,68,35,33,68,0
-2023-06-08,LQ,Bosnia-Herzegovina,0,-61,0,0,61,29,32,61,0
-2023-06-09,LQ,Bosnia-Herzegovina,0,-75,0,0,75,38,37,75,0
-2023-06-10,LQ,Bosnia-Herzegovina,0,-67,0,0,67,33,34,67,0
-2023-06-11,LQ,Bosnia-Herzegovina,0,-55,0,0,55,27,28,55,0
-2023-06-12,LQ,Bosnia-Herzegovina,0,-77,0,0,77,39,38,77,0
-2023-06-13,LQ,Bosnia-Herzegovina,0,-76,0,0,76,38,38,76,0
-2023-06-14,LQ,Bosnia-Herzegovina,0,-71,0,0,71,36,35,71,0
-2023-06-15,LQ,Bosnia-Herzegovina,0,-77,0,0,77,37,40,77,0
-2023-06-16,LQ,Bosnia-Herzegovina,0,-85,1,0,85,43,41,84,1
-2023-06-17,LQ,Bosnia-Herzegovina,0,-76,0,0,76,38,38,76,0
-2023-06-18,LQ,Bosnia-Herzegovina,0,-64,0,0,64,32,32,64,0
-2023-06-19,LQ,Bosnia-Herzegovina,0,-70,0,0,70,36,34,70,0
-2023-06-20,LQ,Bosnia-Herzegovina,0,-72,0,0,72,35,37,72,0
-2023-06-21,LQ,Bosnia-Herzegovina,0,-81,0,0,81,40,41,81,0
-2023-06-22,LQ,Bosnia-Herzegovina,0,-70,1,0,70,33,36,69,1
-2023-06-23,LQ,Bosnia-Herzegovina,0,-91,1,0,91,46,44,90,1
-2023-06-24,LQ,Bosnia-Herzegovina,0,-79,2,2,79,39,38,77,0
-2023-06-25,LQ,Bosnia-Herzegovina,0,-69,0,0,69,34,35,69,0
-2023-06-26,LQ,Bosnia-Herzegovina,0,-80,0,0,80,42,38,80,0
-2023-06-27,LQ,Bosnia-Herzegovina,0,-75,0,0,75,36,39,75,0
-2023-06-28,LQ,Bosnia-Herzegovina,0,-80,3,0,80,40,37,77,3
-2023-06-29,LQ,Bosnia-Herzegovina,0,-68,0,0,68,33,35,68,0
-2023-06-30,LQ,Bosnia-Herzegovina,0,-88,2,0,88,44,42,86,2
-2023-07-01,LQ,Bosnia-Herzegovina,0,-75,0,0,75,37,38,75,0
-2023-07-02,LQ,Bosnia-Herzegovina,0,-66,0,0,66,33,33,66,0
-2023-07-03,LQ,Bosnia-Herzegovina,0,-83,0,0,83,42,41,83,0
-2023-07-04,LQ,Bosnia-Herzegovina,0,-81,0,0,81,40,41,81,0
-2023-07-05,LQ,Bosnia-Herzegovina,0,-79,0,0,79,40,39,79,0
-2023-07-06,LQ,Bosnia-Herzegovina,0,-76,1,0,76,36,39,75,1
-2023-07-07,LQ,Bosnia-Herzegovina,0,-88,0,0,88,45,43,88,0
-2023-07-08,LQ,Bosnia-Herzegovina,0,-85,0,0,85,42,43,85,0
-2023-07-09,LQ,Bosnia-Herzegovina,0,-74,0,0,74,38,36,74,0
-2023-07-10,LQ,Bosnia-Herzegovina,0,-82,0,0,82,41,41,82,0
-2023-07-11,LQ,Bosnia-Herzegovina,0,-84,3,0,84,39,42,81,3
-2023-07-12,LQ,Bosnia-Herzegovina,0,-80,2,0,80,40,38,78,2
-2023-07-13,LQ,Bosnia-Herzegovina,0,-71,0,0,71,35,36,71,0
-2023-07-14,LQ,Bosnia-Herzegovina,0,-92,0,0,92,47,45,92,0
-2023-07-15,LQ,Bosnia-Herzegovina,0,-78,0,0,78,39,39,78,0
-2023-07-16,LQ,Bosnia-Herzegovina,0,-75,0,0,75,38,37,75,0
-2023-07-17,LQ,Bosnia-Herzegovina,0,-87,0,0,87,42,45,87,0
-2023-07-18,LQ,Bosnia-Herzegovina,0,-80,1,0,80,41,38,79,1
-2023-07-19,LQ,Bosnia-Herzegovina,0,-80,1,0,80,39,40,79,1
-2023-07-20,LQ,Bosnia-Herzegovina,0,-70,0,0,70,34,36,70,0
-2023-07-21,LQ,Bosnia-Herzegovina,0,-89,1,1,89,46,42,88,0
-2023-07-22,LQ,Bosnia-Herzegovina,0,-83,0,0,83,41,42,83,0
-2023-07-23,LQ,Bosnia-Herzegovina,0,-71,0,0,71,36,35,71,0
-2023-07-24,LQ,Bosnia-Herzegovina,0,-95,2,0,95,46,47,93,2
-2023-07-25,LQ,Bosnia-Herzegovina,0,-86,0,0,86,44,42,86,0
-2023-07-26,LQ,Bosnia-Herzegovina,0,-80,1,1,80,38,41,79,0
-2023-07-27,LQ,Bosnia-Herzegovina,0,-84,1,0,84,40,43,83,1
-2023-07-28,LQ,Bosnia-Herzegovina,0,-93,0,0,93,49,44,93,0
-2023-07-29,LQ,Bosnia-Herzegovina,0,-81,0,0,81,39,42,81,0
-2023-07-30,LQ,Bosnia-Herzegovina,0,-77,0,0,77,39,38,77,0
-2023-07-31,LQ,Bosnia-Herzegovina,0,-99,0,0,99,50,49,99,0
-2023-08-01,LQ,Bosnia-Herzegovina,0,-94,0,0,94,47,47,94,0
-2023-08-02,LQ,Bosnia-Herzegovina,0,-79,0,0,79,39,40,79,0
-2023-08-03,LQ,Bosnia-Herzegovina,0,-83,0,0,83,40,43,83,0
-2023-08-04,LQ,Bosnia-Herzegovina,0,-92,0,0,92,48,44,92,0
-2023-08-05,LQ,Bosnia-Herzegovina,0,-88,0,0,88,43,45,88,0
-2023-08-06,LQ,Bosnia-Herzegovina,0,-75,0,0,75,39,36,75,0
-2023-08-07,LQ,Bosnia-Herzegovina,0,-108,0,0,108,54,54,108,0
-2023-08-08,LQ,Bosnia-Herzegovina,0,-90,0,0,90,45,45,90,0
-2023-08-09,LQ,Bosnia-Herzegovina,0,-79,0,0,79,39,40,79,0
-2023-08-10,LQ,Bosnia-Herzegovina,0,-84,0,0,84,41,43,84,0
-2023-08-11,LQ,Bosnia-Herzegovina,0,-104,0,0,104,54,50,104,0
-2023-08-12,LQ,Bosnia-Herzegovina,0,-89,0,0,89,43,46,89,0
-2023-08-13,LQ,Bosnia-Herzegovina,0,-82,0,0,82,41,41,82,0
-2023-08-14,LQ,Bosnia-Herzegovina,0,-93,0,0,93,47,46,93,0
-2023-08-15,LQ,Bosnia-Herzegovina,0,-87,0,0,87,44,43,87,0
-2023-08-16,LQ,Bosnia-Herzegovina,0,-81,0,0,81,41,40,81,0
-2023-08-17,LQ,Bosnia-Herzegovina,0,-85,0,0,85,41,44,85,0
-2023-08-18,LQ,Bosnia-Herzegovina,0,-105,0,0,105,52,53,105,0
-2023-08-19,LQ,Bosnia-Herzegovina,0,-85,0,0,85,43,42,85,0
-2023-08-20,LQ,Bosnia-Herzegovina,0,-90,0,0,90,46,44,90,0
-2023-08-21,LQ,Bosnia-Herzegovina,0,-101,2,0,101,48,51,99,2
-2023-08-22,LQ,Bosnia-Herzegovina,0,-93,0,0,93,47,46,93,0
-2023-08-23,LQ,Bosnia-Herzegovina,0,-92,0,0,92,47,45,92,0
-2023-08-24,LQ,Bosnia-Herzegovina,0,-87,0,0,87,42,45,87,0
-2023-08-25,LQ,Bosnia-Herzegovina,0,-101,1,0,101,52,48,100,1
-2023-08-26,LQ,Bosnia-Herzegovina,0,-79,0,0,79,39,40,79,0
-2023-08-27,LQ,Bosnia-Herzegovina,0,-74,0,0,74,37,37,74,0
-2023-08-28,LQ,Bosnia-Herzegovina,0,-88,0,0,88,44,44,88,0
-2023-08-29,LQ,Bosnia-Herzegovina,0,-98,0,0,98,48,50,98,0
-2023-08-30,LQ,Bosnia-Herzegovina,0,-91,0,0,91,47,44,91,0
-2023-08-31,LQ,Bosnia-Herzegovina,0,-86,1,0,86,42,43,85,1
-2023-09-01,LQ,Bosnia-Herzegovina,0,-89,0,0,89,45,44,89,0
-2023-09-02,LQ,Bosnia-Herzegovina,0,-64,0,0,64,32,32,64,0
-2023-09-03,LQ,Bosnia-Herzegovina,0,-58,0,0,58,29,29,58,0
-2023-09-04,LQ,Bosnia-Herzegovina,0,-84,0,0,84,41,43,84,0
-2023-09-05,LQ,Bosnia-Herzegovina,0,-75,0,0,75,37,38,75,0
-2023-09-06,LQ,Bosnia-Herzegovina,0,-81,1,1,81,41,39,80,0
-2023-09-07,LQ,Bosnia-Herzegovina,0,-73,1,0,73,34,38,72,1
-2023-09-08,LQ,Bosnia-Herzegovina,0,-80,0,0,80,41,39,80,0
-2023-09-09,LQ,Bosnia-Herzegovina,0,-73,0,0,73,37,36,73,0
-2023-09-10,LQ,Bosnia-Herzegovina,0,-55,0,0,55,28,27,55,0
-2023-09-11,LQ,Bosnia-Herzegovina,0,-75,0,0,75,37,38,75,0
-2023-09-12,LQ,Bosnia-Herzegovina,0,-67,0,0,67,34,33,67,0
-2023-09-13,LQ,Bosnia-Herzegovina,0,-70,1,0,70,35,34,69,1
-2023-09-14,LQ,Bosnia-Herzegovina,0,-60,0,0,60,29,31,60,0
-2023-09-15,LQ,Bosnia-Herzegovina,0,-65,0,0,65,34,31,65,0
-2023-09-16,LQ,Bosnia-Herzegovina,0,-59,0,0,59,28,31,59,0
-2023-09-17,LQ,Bosnia-Herzegovina,0,-45,0,0,45,23,22,45,0
-2023-09-18,LQ,Bosnia-Herzegovina,0,-59,0,0,59,29,30,59,0
-2023-09-19,LQ,Bosnia-Herzegovina,0,-66,1,1,66,33,32,65,0
-2023-09-20,LQ,Bosnia-Herzegovina,0,-60,1,0,60,29,30,59,1
-2023-09-21,LQ,Bosnia-Herzegovina,0,-59,1,1,59,28,30,58,0
-2023-09-22,LQ,Bosnia-Herzegovina,0,-65,0,0,65,34,31,65,0
-2023-09-23,LQ,Bosnia-Herzegovina,0,-56,1,0,56,27,28,55,1
-2023-09-24,LQ,Bosnia-Herzegovina,0,-50,1,0,50,24,25,49,1
-2023-09-25,LQ,Bosnia-Herzegovina,0,-69,4,1,69,32,33,65,3
-2023-09-26,LQ,Bosnia-Herzegovina,0,-59,2,2,59,29,28,57,0
-2023-09-27,LQ,Bosnia-Herzegovina,0,-55,4,1,55,26,25,51,3
-2023-09-28,LQ,Bosnia-Herzegovina,0,-63,1,1,63,30,32,62,0
-2023-09-29,LQ,Bosnia-Herzegovina,0,-67,0,0,67,35,32,67,0
-2023-09-30,LQ,Bosnia-Herzegovina,0,-60,0,0,60,30,30,60,0
-2023-10-01,LQ,Bosnia-Herzegovina,0,-42,0,0,42,21,21,42,0
-2023-10-02,LQ,Bosnia-Herzegovina,0,-65,0,0,65,33,32,65,0
-2023-10-03,LQ,Bosnia-Herzegovina,0,-58,2,0,58,28,28,56,2
-2023-10-04,LQ,Bosnia-Herzegovina,0,-61,0,0,61,31,30,61,0
-2023-10-05,LQ,Bosnia-Herzegovina,0,-51,0,0,51,24,27,51,0
-2023-10-06,LQ,Bosnia-Herzegovina,0,-65,1,0,65,33,31,64,1
-2023-10-07,LQ,Bosnia-Herzegovina,0,-52,0,0,52,25,27,52,0
-2023-10-08,LQ,Bosnia-Herzegovina,0,-46,0,0,46,24,22,46,0
-2023-10-09,LQ,Bosnia-Herzegovina,0,-67,0,0,67,34,33,67,0
-2023-10-10,LQ,Bosnia-Herzegovina,0,-57,0,0,57,28,29,57,0
-2023-10-11,LQ,Bosnia-Herzegovina,0,-62,0,0,62,32,30,62,0
-2023-10-12,LQ,Bosnia-Herzegovina,0,-56,0,0,56,27,29,56,0
-2023-10-13,LQ,Bosnia-Herzegovina,0,-59,0,0,59,31,28,59,0
-2023-10-14,LQ,Bosnia-Herzegovina,0,-53,2,1,53,24,27,51,1
-2023-10-15,LQ,Bosnia-Herzegovina,0,-41,2,0,41,19,20,39,2
-2023-10-16,LQ,Bosnia-Herzegovina,0,-63,2,0,63,31,30,61,2
-2023-10-17,LQ,Bosnia-Herzegovina,0,-53,0,0,53,27,26,53,0
-2023-10-18,LQ,Bosnia-Herzegovina,0,-57,0,0,57,28,29,57,0
-2023-10-19,LQ,Bosnia-Herzegovina,0,-54,0,0,54,27,27,54,0
-2023-10-20,LQ,Bosnia-Herzegovina,0,-60,0,0,60,32,28,60,0
-2023-10-21,LQ,Bosnia-Herzegovina,0,-44,0,0,44,21,23,44,0
-2023-10-22,LQ,Bosnia-Herzegovina,0,-42,0,0,42,21,21,42,0
-2023-10-23,LQ,Bosnia-Herzegovina,0,-64,0,0,64,32,32,64,0
-2023-10-24,LQ,Bosnia-Herzegovina,0,-50,0,0,50,25,25,50,0
-2023-10-25,LQ,Bosnia-Herzegovina,0,-58,1,0,58,29,28,57,1
-2023-10-26,LQ,Bosnia-Herzegovina,0,-55,2,0,55,25,28,53,2
-2023-10-27,LQ,Bosnia-Herzegovina,0,-62,0,0,62,33,29,62,0
-2023-10-28,LQ,Bosnia-Herzegovina,0,-49,0,0,49,24,25,49,0
-2023-10-29,LQ,Bosnia-Herzegovina,0,-41,0,0,41,21,20,41,0
-2023-10-30,LQ,Bosnia-Herzegovina,0,-45,0,0,45,22,23,45,0
-2023-10-31,LQ,Bosnia-Herzegovina,0,-31,0,0,31,15,16,31,0
-2023-11-01,LQ,Bosnia-Herzegovina,0,-47,0,0,47,24,23,47,0
-2023-11-02,LQ,Bosnia-Herzegovina,0,-41,0,0,41,21,20,41,0
-2023-11-03,LQ,Bosnia-Herzegovina,0,-43,0,0,43,21,22,43,0
-2023-11-04,LQ,Bosnia-Herzegovina,0,-41,0,0,41,21,20,41,0
-2023-11-05,LQ,Bosnia-Herzegovina,0,-41,0,0,41,20,21,41,0
-2023-11-06,LQ,Bosnia-Herzegovina,0,-48,0,0,48,24,24,48,0
-2023-11-07,LQ,Bosnia-Herzegovina,0,-40,0,0,40,20,20,40,0
-2023-11-08,LQ,Bosnia-Herzegovina,0,-41,0,0,41,21,20,41,0
-2023-11-09,LQ,Bosnia-Herzegovina,0,-36,1,1,36,16,19,35,0
-2023-11-10,LQ,Bosnia-Herzegovina,0,-47,1,1,47,24,22,46,0
-2023-11-11,LQ,Bosnia-Herzegovina,0,-27,0,0,27,14,13,27,0
-2023-11-12,LQ,Bosnia-Herzegovina,0,-41,0,0,41,20,21,41,0
-2023-11-13,LQ,Bosnia-Herzegovina,0,-44,0,0,44,22,22,44,0
-2023-11-14,LQ,Bosnia-Herzegovina,0,-45,0,0,45,22,23,45,0
-2023-11-15,LQ,Bosnia-Herzegovina,0,-43,0,0,43,23,20,43,0
-2023-11-16,LQ,Bosnia-Herzegovina,0,-35,1,1,35,16,18,34,0
-2023-11-17,LQ,Bosnia-Herzegovina,0,-56,1,0,56,28,27,55,1
-2023-11-18,LQ,Bosnia-Herzegovina,0,-32,0,0,32,16,16,32,0
-2023-11-19,LQ,Bosnia-Herzegovina,0,-41,0,0,41,20,21,41,0
-2023-11-20,LQ,Bosnia-Herzegovina,0,-51,0,0,51,26,25,51,0
-2023-11-21,LQ,Bosnia-Herzegovina,0,-48,0,0,48,24,24,48,0
-2023-11-22,LQ,Bosnia-Herzegovina,0,-36,0,0,36,19,17,36,0
-2023-11-23,LQ,Bosnia-Herzegovina,0,-42,0,0,42,20,22,42,0
-2023-11-24,LQ,Bosnia-Herzegovina,0,-49,0,0,49,26,23,49,0
-2023-11-25,LQ,Bosnia-Herzegovina,0,-37,2,0,37,17,18,35,2
-2023-11-26,LQ,Bosnia-Herzegovina,0,-41,2,0,41,20,19,39,2
-2023-11-27,LQ,Bosnia-Herzegovina,0,-38,0,0,38,18,20,38,0
-2023-11-28,LQ,Bosnia-Herzegovina,0,-38,0,0,38,19,19,38,0
-2023-11-29,LQ,Bosnia-Herzegovina,0,-40,0,0,40,21,19,40,0
-2023-11-30,LQ,Bosnia-Herzegovina,0,-41,2,0,41,18,21,39,2
-2023-12-01,LQ,Bosnia-Herzegovina,0,-44,0,0,44,23,21,44,0
-2023-12-02,LQ,Bosnia-Herzegovina,0,-22,0,0,22,12,10,22,0
-2023-12-03,LQ,Bosnia-Herzegovina,0,-39,0,0,39,19,20,39,0
-2023-12-04,LQ,Bosnia-Herzegovina,0,-42,0,0,42,21,21,42,0
-2023-12-05,LQ,Bosnia-Herzegovina,0,-38,0,0,38,19,19,38,0
-2023-12-06,LQ,Bosnia-Herzegovina,0,-37,3,0,37,17,17,34,3
-2023-12-07,LQ,Bosnia-Herzegovina,0,-36,0,0,36,17,19,36,0
+2023-12-15,EB,Belgium and Luxembourg,3227,2140,19,12,1087,556,512,1068,7
+2023-01-01,LQ,Bosnia-Herzegovina,942,895,0,0,47,23,24,47,0
+2023-01-02,LQ,Bosnia-Herzegovina,996,941,0,0,55,27,28,55,0
+2023-01-03,LQ,Bosnia-Herzegovina,847,798,0,0,49,25,24,49,0
+2023-01-04,LQ,Bosnia-Herzegovina,917,875,1,1,42,21,20,41,0
+2023-01-05,LQ,Bosnia-Herzegovina,944,895,0,0,49,23,26,49,0
+2023-01-06,LQ,Bosnia-Herzegovina,1033,969,0,0,64,33,31,64,0
+2023-01-07,LQ,Bosnia-Herzegovina,953,925,0,0,28,15,13,28,0
+2023-01-08,LQ,Bosnia-Herzegovina,1066,998,0,0,68,32,36,68,0
+2023-01-09,LQ,Bosnia-Herzegovina,901,841,4,0,60,28,28,56,4
+2023-01-10,LQ,Bosnia-Herzegovina,724,684,0,0,40,20,20,40,0
+2023-01-11,LQ,Bosnia-Herzegovina,757,722,0,0,35,18,17,35,0
+2023-01-12,LQ,Bosnia-Herzegovina,831,776,3,0,55,26,26,52,3
+2023-01-13,LQ,Bosnia-Herzegovina,934,865,0,0,69,35,34,69,0
+2023-01-14,LQ,Bosnia-Herzegovina,911,875,0,0,36,18,18,36,0
+2023-01-15,LQ,Bosnia-Herzegovina,956,901,2,0,55,27,26,53,2
+2023-01-16,LQ,Bosnia-Herzegovina,792,736,0,0,56,27,29,56,0
+2023-01-17,LQ,Bosnia-Herzegovina,710,675,0,0,35,18,17,35,0
+2023-01-18,LQ,Bosnia-Herzegovina,696,661,0,0,35,18,17,35,0
+2023-01-19,LQ,Bosnia-Herzegovina,718,677,0,0,41,20,21,41,0
+2023-01-20,LQ,Bosnia-Herzegovina,896,829,0,0,67,33,34,67,0
+2023-01-21,LQ,Bosnia-Herzegovina,826,797,0,0,29,15,14,29,0
+2023-01-22,LQ,Bosnia-Herzegovina,893,848,0,0,45,22,23,45,0
+2023-01-23,LQ,Bosnia-Herzegovina,783,719,1,0,64,31,32,63,1
+2023-01-24,LQ,Bosnia-Herzegovina,700,667,0,0,33,17,16,33,0
+2023-01-25,LQ,Bosnia-Herzegovina,773,735,0,0,38,20,18,38,0
+2023-01-26,LQ,Bosnia-Herzegovina,760,719,0,0,41,20,21,41,0
+2023-01-27,LQ,Bosnia-Herzegovina,858,790,0,0,68,34,34,68,0
+2023-01-28,LQ,Bosnia-Herzegovina,889,855,0,0,34,17,17,34,0
+2023-01-29,LQ,Bosnia-Herzegovina,1022,970,0,0,52,26,26,52,0
+2023-01-30,LQ,Bosnia-Herzegovina,843,784,1,0,59,29,29,58,1
+2023-01-31,LQ,Bosnia-Herzegovina,764,727,0,0,37,18,19,37,0
+2023-02-01,LQ,Bosnia-Herzegovina,762,722,0,0,40,21,19,40,0
+2023-02-02,LQ,Bosnia-Herzegovina,831,791,0,0,40,19,21,40,0
+2023-02-03,LQ,Bosnia-Herzegovina,979,918,0,0,61,31,30,61,0
+2023-02-04,LQ,Bosnia-Herzegovina,917,888,0,0,29,15,14,29,0
+2023-02-05,LQ,Bosnia-Herzegovina,975,926,0,0,49,24,25,49,0
+2023-02-06,LQ,Bosnia-Herzegovina,891,839,0,0,52,25,27,52,0
+2023-02-07,LQ,Bosnia-Herzegovina,810,771,0,0,39,20,19,39,0
+2023-02-08,LQ,Bosnia-Herzegovina,808,772,0,0,36,19,17,36,0
+2023-02-09,LQ,Bosnia-Herzegovina,826,791,2,0,35,16,17,33,2
+2023-02-10,LQ,Bosnia-Herzegovina,1011,939,0,0,72,36,36,72,0
+2023-02-11,LQ,Bosnia-Herzegovina,927,892,0,0,35,18,17,35,0
+2023-02-12,LQ,Bosnia-Herzegovina,995,943,0,0,52,25,27,52,0
+2023-02-13,LQ,Bosnia-Herzegovina,871,805,0,0,66,33,33,66,0
+2023-02-14,LQ,Bosnia-Herzegovina,708,664,0,0,44,22,22,44,0
+2023-02-15,LQ,Bosnia-Herzegovina,775,739,0,0,36,19,17,36,0
+2023-02-16,LQ,Bosnia-Herzegovina,807,772,0,0,35,17,18,35,0
+2023-02-17,LQ,Bosnia-Herzegovina,839,779,2,0,60,29,29,58,2
+2023-02-18,LQ,Bosnia-Herzegovina,933,897,0,0,36,18,18,36,0
+2023-02-19,LQ,Bosnia-Herzegovina,995,943,0,0,52,26,26,52,0
+2023-02-20,LQ,Bosnia-Herzegovina,875,821,0,0,54,26,28,54,0
+2023-02-21,LQ,Bosnia-Herzegovina,683,650,0,0,33,17,16,33,0
+2023-02-22,LQ,Bosnia-Herzegovina,764,723,0,0,41,21,20,41,0
+2023-02-23,LQ,Bosnia-Herzegovina,807,767,0,0,40,19,21,40,0
+2023-02-24,LQ,Bosnia-Herzegovina,990,920,0,0,70,35,35,70,0
+2023-02-25,LQ,Bosnia-Herzegovina,925,888,0,0,37,19,18,37,0
+2023-02-26,LQ,Bosnia-Herzegovina,979,939,0,0,40,20,20,40,0
+2023-02-27,LQ,Bosnia-Herzegovina,880,825,2,0,55,26,27,53,2
+2023-02-28,LQ,Bosnia-Herzegovina,802,760,0,0,42,21,21,42,0
+2023-03-01,LQ,Bosnia-Herzegovina,836,805,0,0,31,16,15,31,0
+2023-03-02,LQ,Bosnia-Herzegovina,842,801,1,0,41,21,19,40,1
+2023-03-03,LQ,Bosnia-Herzegovina,987,929,1,0,58,28,29,57,1
+2023-03-04,LQ,Bosnia-Herzegovina,945,909,0,0,36,18,18,36,0
+2023-03-05,LQ,Bosnia-Herzegovina,1044,990,0,0,54,27,27,54,0
+2023-03-06,LQ,Bosnia-Herzegovina,886,831,0,0,55,26,29,55,0
+2023-03-07,LQ,Bosnia-Herzegovina,770,727,0,0,43,22,21,43,0
+2023-03-08,LQ,Bosnia-Herzegovina,857,818,0,0,39,20,19,39,0
+2023-03-09,LQ,Bosnia-Herzegovina,862,818,0,0,44,21,23,44,0
+2023-03-10,LQ,Bosnia-Herzegovina,917,847,0,0,70,36,34,70,0
+2023-03-11,LQ,Bosnia-Herzegovina,908,872,0,0,36,18,18,36,0
+2023-03-12,LQ,Bosnia-Herzegovina,1032,980,0,0,52,26,26,52,0
+2023-03-13,LQ,Bosnia-Herzegovina,938,880,2,0,58,27,29,56,2
+2023-03-14,LQ,Bosnia-Herzegovina,848,798,1,1,50,24,25,49,0
+2023-03-15,LQ,Bosnia-Herzegovina,874,831,0,0,43,23,20,43,0
+2023-03-16,LQ,Bosnia-Herzegovina,807,765,0,0,42,19,23,42,0
+2023-03-17,LQ,Bosnia-Herzegovina,1109,1042,0,0,67,34,33,67,0
+2023-03-18,LQ,Bosnia-Herzegovina,1024,987,0,0,37,19,18,37,0
+2023-03-19,LQ,Bosnia-Herzegovina,1065,1013,0,0,52,25,27,52,0
+2023-03-20,LQ,Bosnia-Herzegovina,1015,961,0,0,54,27,27,54,0
+2023-03-21,LQ,Bosnia-Herzegovina,891,839,2,0,52,25,25,50,2
+2023-03-22,LQ,Bosnia-Herzegovina,909,861,0,0,48,25,23,48,0
+2023-03-23,LQ,Bosnia-Herzegovina,901,853,1,1,48,23,24,47,0
+2023-03-24,LQ,Bosnia-Herzegovina,1011,952,0,0,59,30,29,59,0
+2023-03-25,LQ,Bosnia-Herzegovina,1034,993,0,0,41,20,21,41,0
+2023-03-26,LQ,Bosnia-Herzegovina,1157,1097,0,0,60,30,30,60,0
+2023-03-27,LQ,Bosnia-Herzegovina,975,922,0,0,53,27,26,53,0
+2023-03-28,LQ,Bosnia-Herzegovina,1072,1012,0,0,60,29,31,60,0
+2023-03-29,LQ,Bosnia-Herzegovina,1148,1095,0,0,53,27,26,53,0
+2023-03-30,LQ,Bosnia-Herzegovina,1173,1111,2,0,62,29,31,60,2
+2023-03-31,LQ,Bosnia-Herzegovina,1275,1219,0,0,56,29,27,56,0
+2023-04-01,LQ,Bosnia-Herzegovina,1424,1369,0,0,55,27,28,55,0
+2023-04-02,LQ,Bosnia-Herzegovina,1351,1302,0,0,49,25,24,49,0
+2023-04-03,LQ,Bosnia-Herzegovina,1246,1173,0,0,73,36,37,73,0
+2023-04-04,LQ,Bosnia-Herzegovina,1226,1174,0,0,52,26,26,52,0
+2023-04-05,LQ,Bosnia-Herzegovina,1287,1234,0,0,53,27,26,53,0
+2023-04-06,LQ,Bosnia-Herzegovina,1178,1125,0,0,53,26,27,53,0
+2023-04-07,LQ,Bosnia-Herzegovina,1363,1302,0,0,61,31,30,61,0
+2023-04-08,LQ,Bosnia-Herzegovina,1407,1355,0,0,52,26,26,52,0
+2023-04-09,LQ,Bosnia-Herzegovina,1286,1234,0,0,52,26,26,52,0
+2023-04-10,LQ,Bosnia-Herzegovina,1285,1226,0,0,59,29,30,59,0
+2023-04-11,LQ,Bosnia-Herzegovina,1215,1156,0,0,59,29,30,59,0
+2023-04-12,LQ,Bosnia-Herzegovina,1291,1233,0,0,58,30,28,58,0
+2023-04-13,LQ,Bosnia-Herzegovina,1218,1158,0,0,60,30,30,60,0
+2023-04-14,LQ,Bosnia-Herzegovina,1322,1264,0,0,58,29,29,58,0
+2023-04-15,LQ,Bosnia-Herzegovina,1445,1388,0,0,57,28,29,57,0
+2023-04-16,LQ,Bosnia-Herzegovina,1381,1331,0,0,50,25,25,50,0
+2023-04-17,LQ,Bosnia-Herzegovina,1301,1230,0,0,71,35,36,71,0
+2023-04-18,LQ,Bosnia-Herzegovina,1170,1102,0,0,68,33,35,68,0
+2023-04-19,LQ,Bosnia-Herzegovina,1183,1111,2,1,72,36,34,70,1
+2023-04-20,LQ,Bosnia-Herzegovina,1212,1141,2,1,71,35,34,69,1
+2023-04-21,LQ,Bosnia-Herzegovina,1340,1271,2,1,69,34,33,67,1
+2023-04-22,LQ,Bosnia-Herzegovina,1460,1396,1,1,64,32,31,63,0
+2023-04-23,LQ,Bosnia-Herzegovina,1397,1343,0,0,54,27,27,54,0
+2023-04-24,LQ,Bosnia-Herzegovina,1250,1187,1,1,63,29,33,62,0
+2023-04-25,LQ,Bosnia-Herzegovina,1174,1105,0,0,69,35,34,69,0
+2023-04-26,LQ,Bosnia-Herzegovina,1259,1193,0,0,66,34,32,66,0
+2023-04-27,LQ,Bosnia-Herzegovina,1290,1221,1,1,69,34,34,68,0
+2023-04-28,LQ,Bosnia-Herzegovina,1453,1387,1,1,66,33,32,65,0
+2023-04-29,LQ,Bosnia-Herzegovina,1519,1461,0,0,58,29,29,58,0
+2023-04-30,LQ,Bosnia-Herzegovina,1490,1444,0,0,46,23,23,46,0
+2023-05-01,LQ,Bosnia-Herzegovina,1327,1263,0,0,64,31,33,64,0
+2023-05-02,LQ,Bosnia-Herzegovina,1329,1258,0,0,71,36,35,71,0
+2023-05-03,LQ,Bosnia-Herzegovina,1384,1319,1,0,65,32,32,64,1
+2023-05-04,LQ,Bosnia-Herzegovina,1353,1295,0,0,58,28,30,58,0
+2023-05-05,LQ,Bosnia-Herzegovina,1431,1369,0,0,62,32,30,62,0
+2023-05-06,LQ,Bosnia-Herzegovina,1589,1527,0,0,62,31,31,62,0
+2023-05-07,LQ,Bosnia-Herzegovina,1508,1455,0,0,53,27,26,53,0
+2023-05-08,LQ,Bosnia-Herzegovina,1376,1310,1,1,66,33,32,65,0
+2023-05-09,LQ,Bosnia-Herzegovina,1333,1265,0,0,68,34,34,68,0
+2023-05-10,LQ,Bosnia-Herzegovina,1332,1273,0,0,59,30,29,59,0
+2023-05-11,LQ,Bosnia-Herzegovina,1304,1246,0,0,58,28,30,58,0
+2023-05-12,LQ,Bosnia-Herzegovina,1508,1439,0,0,69,35,34,69,0
+2023-05-13,LQ,Bosnia-Herzegovina,1643,1583,0,0,60,30,30,60,0
+2023-05-14,LQ,Bosnia-Herzegovina,1523,1473,0,0,50,25,25,50,0
+2023-05-15,LQ,Bosnia-Herzegovina,1477,1414,0,0,63,31,32,63,0
+2023-05-16,LQ,Bosnia-Herzegovina,1388,1323,3,0,65,30,32,62,3
+2023-05-17,LQ,Bosnia-Herzegovina,1446,1375,3,1,71,35,33,68,2
+2023-05-18,LQ,Bosnia-Herzegovina,1494,1432,0,0,62,30,32,62,0
+2023-05-19,LQ,Bosnia-Herzegovina,1573,1506,0,0,67,35,32,67,0
+2023-05-20,LQ,Bosnia-Herzegovina,1747,1684,0,0,63,31,32,63,0
+2023-05-21,LQ,Bosnia-Herzegovina,1651,1594,0,0,57,29,28,57,0
+2023-05-22,LQ,Bosnia-Herzegovina,1564,1496,0,0,68,33,35,68,0
+2023-05-23,LQ,Bosnia-Herzegovina,1515,1457,1,1,58,29,28,57,0
+2023-05-24,LQ,Bosnia-Herzegovina,1536,1473,0,0,63,32,31,63,0
+2023-05-25,LQ,Bosnia-Herzegovina,1475,1397,0,0,78,39,39,78,0
+2023-05-26,LQ,Bosnia-Herzegovina,1575,1515,0,0,60,31,29,60,0
+2023-05-27,LQ,Bosnia-Herzegovina,1741,1686,0,0,55,27,28,55,0
+2023-05-28,LQ,Bosnia-Herzegovina,1646,1589,0,0,57,29,28,57,0
+2023-05-29,LQ,Bosnia-Herzegovina,1632,1572,0,0,60,29,31,60,0
+2023-05-30,LQ,Bosnia-Herzegovina,1454,1385,1,1,69,33,35,68,0
+2023-05-31,LQ,Bosnia-Herzegovina,1591,1522,1,1,69,36,32,68,0
+2023-06-01,LQ,Bosnia-Herzegovina,1601,1535,0,0,66,32,34,66,0
+2023-06-02,LQ,Bosnia-Herzegovina,1699,1631,1,0,68,34,33,67,1
+2023-06-03,LQ,Bosnia-Herzegovina,1680,1611,0,0,69,34,35,69,0
+2023-06-04,LQ,Bosnia-Herzegovina,1580,1530,0,0,50,25,25,50,0
+2023-06-05,LQ,Bosnia-Herzegovina,1603,1535,0,0,68,34,34,68,0
+2023-06-06,LQ,Bosnia-Herzegovina,1611,1548,0,0,63,31,32,63,0
+2023-06-07,LQ,Bosnia-Herzegovina,1587,1519,0,0,68,35,33,68,0
+2023-06-08,LQ,Bosnia-Herzegovina,1699,1638,0,0,61,29,32,61,0
+2023-06-09,LQ,Bosnia-Herzegovina,1753,1678,0,0,75,38,37,75,0
+2023-06-10,LQ,Bosnia-Herzegovina,1810,1743,0,0,67,33,34,67,0
+2023-06-11,LQ,Bosnia-Herzegovina,1774,1719,0,0,55,27,28,55,0
+2023-06-12,LQ,Bosnia-Herzegovina,1673,1596,0,0,77,39,38,77,0
+2023-06-13,LQ,Bosnia-Herzegovina,1679,1603,0,0,76,38,38,76,0
+2023-06-14,LQ,Bosnia-Herzegovina,1767,1696,0,0,71,36,35,71,0
+2023-06-15,LQ,Bosnia-Herzegovina,1679,1602,0,0,77,37,40,77,0
+2023-06-16,LQ,Bosnia-Herzegovina,1702,1617,1,0,85,43,41,84,1
+2023-06-17,LQ,Bosnia-Herzegovina,1888,1812,0,0,76,38,38,76,0
+2023-06-18,LQ,Bosnia-Herzegovina,1826,1762,0,0,64,32,32,64,0
+2023-06-19,LQ,Bosnia-Herzegovina,1782,1712,0,0,70,36,34,70,0
+2023-06-20,LQ,Bosnia-Herzegovina,1668,1596,0,0,72,35,37,72,0
+2023-06-21,LQ,Bosnia-Herzegovina,1714,1633,0,0,81,40,41,81,0
+2023-06-22,LQ,Bosnia-Herzegovina,1585,1515,1,0,70,33,36,69,1
+2023-06-23,LQ,Bosnia-Herzegovina,1679,1588,1,0,91,46,44,90,1
+2023-06-24,LQ,Bosnia-Herzegovina,1853,1774,2,2,79,39,38,77,0
+2023-06-25,LQ,Bosnia-Herzegovina,1764,1695,0,0,69,34,35,69,0
+2023-06-26,LQ,Bosnia-Herzegovina,1772,1692,0,0,80,42,38,80,0
+2023-06-27,LQ,Bosnia-Herzegovina,1721,1646,0,0,75,36,39,75,0
+2023-06-28,LQ,Bosnia-Herzegovina,1718,1638,3,0,80,40,37,77,3
+2023-06-29,LQ,Bosnia-Herzegovina,1736,1668,0,0,68,33,35,68,0
+2023-06-30,LQ,Bosnia-Herzegovina,1776,1688,2,0,88,44,42,86,2
+2023-07-01,LQ,Bosnia-Herzegovina,1801,1726,0,0,75,37,38,75,0
+2023-07-02,LQ,Bosnia-Herzegovina,1821,1755,0,0,66,33,33,66,0
+2023-07-03,LQ,Bosnia-Herzegovina,1769,1686,0,0,83,42,41,83,0
+2023-07-04,LQ,Bosnia-Herzegovina,1677,1596,0,0,81,40,41,81,0
+2023-07-05,LQ,Bosnia-Herzegovina,1670,1591,0,0,79,40,39,79,0
+2023-07-06,LQ,Bosnia-Herzegovina,1809,1733,1,0,76,36,39,75,1
+2023-07-07,LQ,Bosnia-Herzegovina,1897,1809,0,0,88,45,43,88,0
+2023-07-08,LQ,Bosnia-Herzegovina,1996,1911,0,0,85,42,43,85,0
+2023-07-09,LQ,Bosnia-Herzegovina,1947,1873,0,0,74,38,36,74,0
+2023-07-10,LQ,Bosnia-Herzegovina,1854,1772,0,0,82,41,41,82,0
+2023-07-11,LQ,Bosnia-Herzegovina,1834,1750,3,0,84,39,42,81,3
+2023-07-12,LQ,Bosnia-Herzegovina,1877,1797,2,0,80,40,38,78,2
+2023-07-13,LQ,Bosnia-Herzegovina,1740,1669,0,0,71,35,36,71,0
+2023-07-14,LQ,Bosnia-Herzegovina,1936,1844,0,0,92,47,45,92,0
+2023-07-15,LQ,Bosnia-Herzegovina,2008,1930,0,0,78,39,39,78,0
+2023-07-16,LQ,Bosnia-Herzegovina,1899,1824,0,0,75,38,37,75,0
+2023-07-17,LQ,Bosnia-Herzegovina,1836,1749,0,0,87,42,45,87,0
+2023-07-18,LQ,Bosnia-Herzegovina,1633,1553,1,0,80,41,38,79,1
+2023-07-19,LQ,Bosnia-Herzegovina,1700,1620,1,0,80,39,40,79,1
+2023-07-20,LQ,Bosnia-Herzegovina,1775,1705,0,0,70,34,36,70,0
+2023-07-21,LQ,Bosnia-Herzegovina,1875,1786,1,1,89,46,42,88,0
+2023-07-22,LQ,Bosnia-Herzegovina,1960,1877,0,0,83,41,42,83,0
+2023-07-23,LQ,Bosnia-Herzegovina,1933,1862,0,0,71,36,35,71,0
+2023-07-24,LQ,Bosnia-Herzegovina,1850,1755,2,0,95,46,47,93,2
+2023-07-25,LQ,Bosnia-Herzegovina,1692,1606,0,0,86,44,42,86,0
+2023-07-26,LQ,Bosnia-Herzegovina,1764,1684,1,1,80,38,41,79,0
+2023-07-27,LQ,Bosnia-Herzegovina,1898,1814,1,0,84,40,43,83,1
+2023-07-28,LQ,Bosnia-Herzegovina,1900,1807,0,0,93,49,44,93,0
+2023-07-29,LQ,Bosnia-Herzegovina,2052,1971,0,0,81,39,42,81,0
+2023-07-30,LQ,Bosnia-Herzegovina,1832,1755,0,0,77,39,38,77,0
+2023-07-31,LQ,Bosnia-Herzegovina,1916,1817,0,0,99,50,49,99,0
+2023-08-01,LQ,Bosnia-Herzegovina,1887,1793,0,0,94,47,47,94,0
+2023-08-02,LQ,Bosnia-Herzegovina,1886,1807,0,0,79,39,40,79,0
+2023-08-03,LQ,Bosnia-Herzegovina,1812,1729,0,0,83,40,43,83,0
+2023-08-04,LQ,Bosnia-Herzegovina,1665,1573,0,0,92,48,44,92,0
+2023-08-05,LQ,Bosnia-Herzegovina,1854,1766,0,0,88,43,45,88,0
+2023-08-06,LQ,Bosnia-Herzegovina,1801,1726,0,0,75,39,36,75,0
+2023-08-07,LQ,Bosnia-Herzegovina,1766,1658,0,0,108,54,54,108,0
+2023-08-08,LQ,Bosnia-Herzegovina,1813,1723,0,0,90,45,45,90,0
+2023-08-09,LQ,Bosnia-Herzegovina,1807,1728,0,0,79,39,40,79,0
+2023-08-10,LQ,Bosnia-Herzegovina,1823,1739,0,0,84,41,43,84,0
+2023-08-11,LQ,Bosnia-Herzegovina,1923,1819,0,0,104,54,50,104,0
+2023-08-12,LQ,Bosnia-Herzegovina,1999,1910,0,0,89,43,46,89,0
+2023-08-13,LQ,Bosnia-Herzegovina,1907,1825,0,0,82,41,41,82,0
+2023-08-14,LQ,Bosnia-Herzegovina,1835,1742,0,0,93,47,46,93,0
+2023-08-15,LQ,Bosnia-Herzegovina,1830,1743,0,0,87,44,43,87,0
+2023-08-16,LQ,Bosnia-Herzegovina,1780,1699,0,0,81,41,40,81,0
+2023-08-17,LQ,Bosnia-Herzegovina,1778,1693,0,0,85,41,44,85,0
+2023-08-18,LQ,Bosnia-Herzegovina,1876,1771,0,0,105,52,53,105,0
+2023-08-19,LQ,Bosnia-Herzegovina,1799,1714,0,0,85,43,42,85,0
+2023-08-20,LQ,Bosnia-Herzegovina,1928,1838,0,0,90,46,44,90,0
+2023-08-21,LQ,Bosnia-Herzegovina,1842,1741,2,0,101,48,51,99,2
+2023-08-22,LQ,Bosnia-Herzegovina,1860,1767,0,0,93,47,46,93,0
+2023-08-23,LQ,Bosnia-Herzegovina,1750,1658,0,0,92,47,45,92,0
+2023-08-24,LQ,Bosnia-Herzegovina,1695,1608,0,0,87,42,45,87,0
+2023-08-25,LQ,Bosnia-Herzegovina,1815,1714,1,0,101,52,48,100,1
+2023-08-26,LQ,Bosnia-Herzegovina,1908,1829,0,0,79,39,40,79,0
+2023-08-27,LQ,Bosnia-Herzegovina,1931,1857,0,0,74,37,37,74,0
+2023-08-28,LQ,Bosnia-Herzegovina,1561,1473,0,0,88,44,44,88,0
+2023-08-29,LQ,Bosnia-Herzegovina,1798,1700,0,0,98,48,50,98,0
+2023-08-30,LQ,Bosnia-Herzegovina,1778,1687,0,0,91,47,44,91,0
+2023-08-31,LQ,Bosnia-Herzegovina,1734,1648,1,0,86,42,43,85,1
+2023-09-01,LQ,Bosnia-Herzegovina,1857,1768,0,0,89,45,44,89,0
+2023-09-02,LQ,Bosnia-Herzegovina,1967,1903,0,0,64,32,32,64,0
+2023-09-03,LQ,Bosnia-Herzegovina,1873,1815,0,0,58,29,29,58,0
+2023-09-04,LQ,Bosnia-Herzegovina,1833,1749,0,0,84,41,43,84,0
+2023-09-05,LQ,Bosnia-Herzegovina,1738,1663,0,0,75,37,38,75,0
+2023-09-06,LQ,Bosnia-Herzegovina,1779,1698,1,1,81,41,39,80,0
+2023-09-07,LQ,Bosnia-Herzegovina,1793,1720,1,0,73,34,38,72,1
+2023-09-08,LQ,Bosnia-Herzegovina,1851,1771,0,0,80,41,39,80,0
+2023-09-09,LQ,Bosnia-Herzegovina,2020,1947,0,0,73,37,36,73,0
+2023-09-10,LQ,Bosnia-Herzegovina,1837,1782,0,0,55,28,27,55,0
+2023-09-11,LQ,Bosnia-Herzegovina,1804,1729,0,0,75,37,38,75,0
+2023-09-12,LQ,Bosnia-Herzegovina,1728,1661,0,0,67,34,33,67,0
+2023-09-13,LQ,Bosnia-Herzegovina,1690,1620,1,0,70,35,34,69,1
+2023-09-14,LQ,Bosnia-Herzegovina,1682,1622,0,0,60,29,31,60,0
+2023-09-15,LQ,Bosnia-Herzegovina,1647,1582,0,0,65,34,31,65,0
+2023-09-16,LQ,Bosnia-Herzegovina,1834,1775,0,0,59,28,31,59,0
+2023-09-17,LQ,Bosnia-Herzegovina,1727,1682,0,0,45,23,22,45,0
+2023-09-18,LQ,Bosnia-Herzegovina,1678,1619,0,0,59,29,30,59,0
+2023-09-19,LQ,Bosnia-Herzegovina,1671,1605,1,1,66,33,32,65,0
+2023-09-20,LQ,Bosnia-Herzegovina,1740,1680,1,0,60,29,30,59,1
+2023-09-21,LQ,Bosnia-Herzegovina,1635,1576,1,1,59,28,30,58,0
+2023-09-22,LQ,Bosnia-Herzegovina,1723,1658,0,0,65,34,31,65,0
+2023-09-23,LQ,Bosnia-Herzegovina,1685,1629,1,0,56,27,28,55,1
+2023-09-24,LQ,Bosnia-Herzegovina,1732,1682,1,0,50,24,25,49,1
+2023-09-25,LQ,Bosnia-Herzegovina,1557,1488,4,1,69,32,33,65,3
+2023-09-26,LQ,Bosnia-Herzegovina,1707,1648,2,2,59,29,28,57,0
+2023-09-27,LQ,Bosnia-Herzegovina,1609,1554,4,1,55,26,25,51,3
+2023-09-28,LQ,Bosnia-Herzegovina,1623,1560,1,1,63,30,32,62,0
+2023-09-29,LQ,Bosnia-Herzegovina,1750,1683,0,0,67,35,32,67,0
+2023-09-30,LQ,Bosnia-Herzegovina,1885,1825,0,0,60,30,30,60,0
+2023-10-01,LQ,Bosnia-Herzegovina,1752,1710,0,0,42,21,21,42,0
+2023-10-02,LQ,Bosnia-Herzegovina,1634,1569,0,0,65,33,32,65,0
+2023-10-03,LQ,Bosnia-Herzegovina,1663,1605,2,0,58,28,28,56,2
+2023-10-04,LQ,Bosnia-Herzegovina,1568,1507,0,0,61,31,30,61,0
+2023-10-05,LQ,Bosnia-Herzegovina,1599,1548,0,0,51,24,27,51,0
+2023-10-06,LQ,Bosnia-Herzegovina,1688,1623,1,0,65,33,31,64,1
+2023-10-07,LQ,Bosnia-Herzegovina,1733,1681,0,0,52,25,27,52,0
+2023-10-08,LQ,Bosnia-Herzegovina,1683,1637,0,0,46,24,22,46,0
+2023-10-09,LQ,Bosnia-Herzegovina,1556,1489,0,0,67,34,33,67,0
+2023-10-10,LQ,Bosnia-Herzegovina,1540,1483,0,0,57,28,29,57,0
+2023-10-11,LQ,Bosnia-Herzegovina,1516,1454,0,0,62,32,30,62,0
+2023-10-12,LQ,Bosnia-Herzegovina,1464,1408,0,0,56,27,29,56,0
+2023-10-13,LQ,Bosnia-Herzegovina,1568,1509,0,0,59,31,28,59,0
+2023-10-14,LQ,Bosnia-Herzegovina,1727,1674,2,1,53,24,27,51,1
+2023-10-15,LQ,Bosnia-Herzegovina,1649,1608,2,0,41,19,20,39,2
+2023-10-16,LQ,Bosnia-Herzegovina,1479,1416,2,0,63,31,30,61,2
+2023-10-17,LQ,Bosnia-Herzegovina,1453,1400,0,0,53,27,26,53,0
+2023-10-18,LQ,Bosnia-Herzegovina,1397,1340,0,0,57,28,29,57,0
+2023-10-19,LQ,Bosnia-Herzegovina,1394,1340,0,0,54,27,27,54,0
+2023-10-20,LQ,Bosnia-Herzegovina,1407,1347,0,0,60,32,28,60,0
+2023-10-21,LQ,Bosnia-Herzegovina,1594,1550,0,0,44,21,23,44,0
+2023-10-22,LQ,Bosnia-Herzegovina,1605,1563,0,0,42,21,21,42,0
+2023-10-23,LQ,Bosnia-Herzegovina,1416,1352,0,0,64,32,32,64,0
+2023-10-24,LQ,Bosnia-Herzegovina,1321,1271,0,0,50,25,25,50,0
+2023-10-25,LQ,Bosnia-Herzegovina,1423,1365,1,0,58,29,28,57,1
+2023-10-26,LQ,Bosnia-Herzegovina,1385,1330,2,0,55,25,28,53,2
+2023-10-27,LQ,Bosnia-Herzegovina,1492,1430,0,0,62,33,29,62,0
+2023-10-28,LQ,Bosnia-Herzegovina,1624,1575,0,0,49,24,25,49,0
+2023-10-29,LQ,Bosnia-Herzegovina,1442,1401,0,0,41,21,20,41,0
+2023-10-30,LQ,Bosnia-Herzegovina,1232,1187,0,0,45,22,23,45,0
+2023-10-31,LQ,Bosnia-Herzegovina,1206,1175,0,0,31,15,16,31,0
+2023-11-01,LQ,Bosnia-Herzegovina,1131,1084,0,0,47,24,23,47,0
+2023-11-02,LQ,Bosnia-Herzegovina,1128,1087,0,0,41,21,20,41,0
+2023-11-03,LQ,Bosnia-Herzegovina,1125,1082,0,0,43,21,22,43,0
+2023-11-04,LQ,Bosnia-Herzegovina,1393,1352,0,0,41,21,20,41,0
+2023-11-05,LQ,Bosnia-Herzegovina,1270,1229,0,0,41,20,21,41,0
+2023-11-06,LQ,Bosnia-Herzegovina,1036,988,0,0,48,24,24,48,0
+2023-11-07,LQ,Bosnia-Herzegovina,909,869,0,0,40,20,20,40,0
+2023-11-08,LQ,Bosnia-Herzegovina,959,918,0,0,41,21,20,41,0
+2023-11-09,LQ,Bosnia-Herzegovina,985,949,1,1,36,16,19,35,0
+2023-11-10,LQ,Bosnia-Herzegovina,1003,956,1,1,47,24,22,46,0
+2023-11-11,LQ,Bosnia-Herzegovina,1109,1082,0,0,27,14,13,27,0
+2023-11-12,LQ,Bosnia-Herzegovina,1135,1094,0,0,41,20,21,41,0
+2023-11-13,LQ,Bosnia-Herzegovina,1026,982,0,0,44,22,22,44,0
+2023-11-14,LQ,Bosnia-Herzegovina,907,862,0,0,45,22,23,45,0
+2023-11-15,LQ,Bosnia-Herzegovina,921,878,0,0,43,23,20,43,0
+2023-11-16,LQ,Bosnia-Herzegovina,940,905,1,1,35,16,18,34,0
+2023-11-17,LQ,Bosnia-Herzegovina,1044,988,1,0,56,28,27,55,1
+2023-11-18,LQ,Bosnia-Herzegovina,1059,1027,0,0,32,16,16,32,0
+2023-11-19,LQ,Bosnia-Herzegovina,1086,1045,0,0,41,20,21,41,0
+2023-11-20,LQ,Bosnia-Herzegovina,943,892,0,0,51,26,25,51,0
+2023-11-21,LQ,Bosnia-Herzegovina,849,801,0,0,48,24,24,48,0
+2023-11-22,LQ,Bosnia-Herzegovina,895,859,0,0,36,19,17,36,0
+2023-11-23,LQ,Bosnia-Herzegovina,976,934,0,0,42,20,22,42,0
+2023-11-24,LQ,Bosnia-Herzegovina,993,944,0,0,49,26,23,49,0
+2023-11-25,LQ,Bosnia-Herzegovina,976,939,2,0,37,17,18,35,2
+2023-11-26,LQ,Bosnia-Herzegovina,1019,978,2,0,41,20,19,39,2
+2023-11-27,LQ,Bosnia-Herzegovina,924,886,0,0,38,18,20,38,0
+2023-11-28,LQ,Bosnia-Herzegovina,803,765,0,0,38,19,19,38,0
+2023-11-29,LQ,Bosnia-Herzegovina,873,833,0,0,40,21,19,40,0
+2023-11-30,LQ,Bosnia-Herzegovina,905,864,2,0,41,18,21,39,2
+2023-12-01,LQ,Bosnia-Herzegovina,975,931,0,0,44,23,21,44,0
+2023-12-02,LQ,Bosnia-Herzegovina,904,882,0,0,22,12,10,22,0
+2023-12-03,LQ,Bosnia-Herzegovina,993,954,0,0,39,19,20,39,0
+2023-12-04,LQ,Bosnia-Herzegovina,918,876,0,0,42,21,21,42,0
+2023-12-05,LQ,Bosnia-Herzegovina,834,796,0,0,38,19,19,38,0
+2023-12-06,LQ,Bosnia-Herzegovina,885,848,3,0,37,17,17,34,3
+2023-12-07,LQ,Bosnia-Herzegovina,905,869,0,0,36,17,19,36,0
 2023-12-08,LQ,Bosnia-Herzegovina,1020,968,0,0,52,27,25,52,0
 2023-12-09,LQ,Bosnia-Herzegovina,1023,994,0,0,29,14,15,29,0
 2023-12-10,LQ,Bosnia-Herzegovina,991,963,0,0,28,15,13,28,0
@@ -1739,6 +1743,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LQ,Bosnia-Herzegovina,862,816,0,0,46,22,24,46,0
 2023-12-13,LQ,Bosnia-Herzegovina,858,822,1,0,36,18,17,35,1
 2023-12-14,LQ,Bosnia-Herzegovina,922,882,0,0,40,20,20,40,0
+2023-12-15,LQ,Bosnia-Herzegovina,1048,1000,0,0,48,24,24,48,0
 2023-01-01,LB,Bulgaria,1890,1755,2,0,135,65,68,133,2
 2023-01-02,LB,Bulgaria,1967,1715,6,0,252,116,130,246,6
 2023-01-03,LB,Bulgaria,1958,1775,6,0,183,89,88,177,6
@@ -2087,6 +2092,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LB,Bulgaria,2034,1854,13,2,180,83,84,167,11
 2023-12-13,LB,Bulgaria,2131,1936,12,2,195,89,94,183,10
 2023-12-14,LB,Bulgaria,2205,2027,10,2,178,89,79,168,8
+2023-12-15,LB,Bulgaria,2342,2128,13,1,214,98,103,201,12
 2023-01-01,LD,Croatia,1467,1347,17,0,120,51,52,103,17
 2023-01-02,LD,Croatia,1545,1386,27,0,159,67,65,132,27
 2023-01-03,LD,Croatia,1379,1249,22,0,130,54,54,108,22
@@ -2435,6 +2441,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LD,Croatia,1369,1224,23,0,145,62,60,122,23
 2023-12-13,LD,Croatia,1419,1275,19,0,144,62,63,125,19
 2023-12-14,LD,Croatia,1529,1388,23,0,141,59,59,118,23
+2023-12-15,LD,Croatia,1737,1554,25,0,183,80,78,158,25
 2023-01-01,LC,Cyprus,975,841,4,4,134,64,66,130,0
 2023-01-02,LC,Cyprus,1012,855,4,4,157,79,74,153,0
 2023-01-03,LC,Cyprus,969,828,7,7,141,66,68,134,0
@@ -2783,6 +2790,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LC,Cyprus,689,530,10,8,159,73,76,149,2
 2023-12-13,LC,Cyprus,728,541,7,7,187,90,90,180,0
 2023-12-14,LC,Cyprus,768,605,10,8,163,77,76,153,2
+2023-12-15,LC,Cyprus,702,491,8,8,211,103,100,203,0
 2023-01-01,LK,Czech Republic,1243,1019,2,0,224,107,115,222,2
 2023-01-02,LK,Czech Republic,1521,1199,11,6,322,157,154,311,5
 2023-01-03,LK,Czech Republic,1410,1165,10,9,245,113,122,235,1
@@ -3131,6 +3139,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LK,Czech Republic,1550,1252,19,10,298,136,143,279,9
 2023-12-13,LK,Czech Republic,1657,1347,8,2,310,156,146,302,6
 2023-12-14,LK,Czech Republic,1776,1405,8,6,371,179,184,363,2
+2023-12-15,LK,Czech Republic,1945,1511,23,7,434,214,197,411,16
 2023-01-01,EK,Denmark,1198,603,53,1,595,270,272,542,52
 2023-01-02,EK,Denmark,1387,654,101,4,733,321,311,632,97
 2023-01-03,EK,Denmark,1272,629,92,13,643,276,275,551,79
@@ -3479,6 +3488,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,EK,Denmark,1267,595,90,4,672,292,290,582,86
 2023-12-13,EK,Denmark,1416,667,83,2,749,335,331,666,81
 2023-12-14,EK,Denmark,1521,753,100,14,768,327,341,668,86
+2023-12-15,EK,Denmark,1621,759,111,11,862,375,376,751,100
 2023-01-01,EE,Estonia,301,229,4,0,72,32,36,68,4
 2023-01-02,EE,Estonia,347,262,9,3,85,36,40,76,6
 2023-01-03,EE,Estonia,312,233,9,1,79,36,34,70,8
@@ -3827,6 +3837,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,EE,Estonia,318,234,8,0,84,39,37,76,8
 2023-12-13,EE,Estonia,366,269,8,0,97,45,44,89,8
 2023-12-14,EE,Estonia,384,284,9,1,100,47,44,91,8
+2023-12-15,EE,Estonia,409,296,13,2,113,49,51,100,11
 2023-01-01,EF,Finland,550,130,83,1,420,167,170,337,82
 2023-01-02,EF,Finland,629,155,95,0,474,193,186,379,95
 2023-01-03,EF,Finland,561,140,79,0,421,171,171,342,79
@@ -4175,6 +4186,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,EF,Finland,631,134,118,0,497,191,188,379,118
 2023-12-13,EF,Finland,724,149,123,0,575,222,230,452,123
 2023-12-14,EF,Finland,707,155,129,0,552,214,209,423,129
+2023-12-15,EF,Finland,711,176,122,0,535,204,209,413,122
 2023-01-01,LF,France,6746,3692,531,0,3054,1258,1265,2523,531
 2023-01-02,LF,France,7798,4080,838,10,3718,1435,1445,2880,828
 2023-01-03,LF,France,7219,3716,865,22,3503,1328,1310,2638,843
@@ -4522,7 +4534,8 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-11,LF,France,7908,4029,1042,35,3879,1405,1432,2837,1007
 2023-12-12,LF,France,6895,3503,936,28,3392,1236,1220,2456,908
 2023-12-13,LF,France,7059,3497,962,49,3562,1303,1297,2600,913
-2023-12-14,LF,France,7620,3954,925,18,3666,1356,1385,2741,907
+2023-12-14,LF,France,7621,3955,925,18,3666,1356,1385,2741,907
+2023-12-15,LF,France,8783,4579,1073,37,4204,1571,1560,3131,1036
 2023-01-01,UG,Georgia,401,296,2,0,105,50,53,103,2
 2023-01-02,UG,Georgia,470,361,2,0,109,55,52,107,2
 2023-01-03,UG,Georgia,463,351,2,0,112,52,58,110,2
@@ -4871,6 +4884,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,UG,Georgia,598,468,2,0,130,63,65,128,2
 2023-12-13,UG,Georgia,588,450,2,0,138,71,65,136,2
 2023-12-14,UG,Georgia,598,450,2,0,148,73,73,146,2
+2023-12-15,UG,Georgia,629,474,2,0,155,74,79,153,2
 2023-01-01,ED,Germany,5604,2754,201,2,2850,1338,1311,2649,199
 2023-01-02,ED,Germany,6605,3011,401,9,3594,1593,1600,3193,392
 2023-01-03,ED,Germany,6251,2779,451,24,3472,1505,1516,3021,427
@@ -5212,13 +5226,14 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-05,ED,Germany,5882,2637,378,15,3245,1430,1437,2867,363
 2023-12-06,ED,Germany,6556,2825,477,15,3731,1653,1601,3254,462
 2023-12-07,ED,Germany,7049,2954,652,26,4095,1735,1708,3443,626
-2023-12-08,ED,Germany,7311,3259,476,16,4052,1787,1789,3576,460
+2023-12-08,ED,Germany,7313,3261,476,16,4052,1787,1789,3576,460
 2023-12-09,ED,Germany,6277,2911,371,19,3366,1507,1488,2995,352
 2023-12-10,ED,Germany,7254,3432,427,3,3822,1682,1713,3395,424
 2023-12-11,ED,Germany,7222,3153,591,25,4069,1737,1741,3478,566
 2023-12-12,ED,Germany,6674,2752,663,24,3922,1630,1629,3259,639
 2023-12-13,ED,Germany,7027,2920,643,20,4107,1732,1732,3464,623
 2023-12-14,ED,Germany,7184,3127,559,19,4057,1760,1738,3498,540
+2023-12-15,ED,Germany,7965,3490,601,20,4475,1933,1941,3874,581
 2023-01-01,LG,Greece,1601,1150,143,0,451,160,148,308,143
 2023-01-02,LG,Greece,1812,1171,268,12,641,185,188,373,256
 2023-01-03,LG,Greece,1711,1108,251,10,603,177,175,352,241
@@ -5567,6 +5582,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LG,Greece,1525,899,279,25,626,170,177,347,254
 2023-12-13,LG,Greece,1593,956,259,22,637,193,185,378,237
 2023-12-14,LG,Greece,1723,1022,311,36,701,190,200,390,275
+2023-12-15,LG,Greece,1801,1045,286,20,756,238,232,470,266
 2023-01-01,LH,Hungary,1984,1722,0,0,262,126,136,262,0
 2023-01-02,LH,Hungary,2070,1782,1,0,288,150,137,287,1
 2023-01-03,LH,Hungary,2080,1812,3,0,268,129,136,265,3
@@ -5914,7 +5930,8 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-11,LH,Hungary,2322,1976,7,1,346,172,167,339,6
 2023-12-12,LH,Hungary,2179,1896,5,2,283,141,137,278,3
 2023-12-13,LH,Hungary,2303,1999,2,0,304,152,150,302,2
-2023-12-14,LH,Hungary,2339,2046,4,0,293,146,143,289,4
+2023-12-14,LH,Hungary,2339,2045,4,0,294,146,144,290,4
+2023-12-15,LH,Hungary,2551,2183,3,1,368,181,184,365,2
 2023-01-01,EI,Ireland,1235,539,7,0,696,346,343,689,7
 2023-01-02,EI,Ireland,1372,672,10,0,700,342,348,690,10
 2023-01-03,EI,Ireland,1307,599,11,0,708,348,349,697,11
@@ -6263,6 +6280,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,EI,Ireland,1275,678,21,5,597,286,290,576,16
 2023-12-13,EI,Ireland,1433,784,14,4,649,320,315,635,10
 2023-12-14,EI,Ireland,1363,688,21,6,675,323,331,654,15
+2023-12-15,EI,Ireland,1526,667,17,2,859,423,419,842,15
 2023-01-01,LL,Israel,570,93,42,1,477,212,223,435,41
 2023-01-02,LL,Israel,580,77,47,1,503,228,228,456,46
 2023-01-03,LL,Israel,540,98,49,5,442,198,195,393,44
@@ -6611,6 +6629,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LL,Israel,188,13,33,2,175,74,68,142,31
 2023-12-13,LL,Israel,211,5,35,3,206,88,83,171,32
 2023-12-14,LL,Israel,237,-1,39,4,238,97,102,199,35
+2023-12-15,LL,Israel,159,24,21,4,135,56,58,114,17
 2023-01-01,LI,Italy,3769,1249,620,1,2520,943,957,1900,619
 2023-01-02,LI,Italy,4410,1390,756,8,3020,1134,1130,2264,748
 2023-01-03,LI,Italy,3879,1239,706,12,2640,968,966,1934,694
@@ -6959,6 +6978,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LI,Italy,3843,1168,653,23,2675,1020,1002,2022,630
 2023-12-13,LI,Italy,4014,1224,703,25,2790,1051,1036,2087,678
 2023-12-14,LI,Italy,4120,1222,717,22,2898,1079,1102,2181,695
+2023-12-15,LI,Italy,4914,1483,810,16,3431,1305,1316,2621,794
 2023-01-01,EV,Latvia,431,278,0,0,153,75,78,153,0
 2023-01-02,EV,Latvia,481,308,0,0,173,88,85,173,0
 2023-01-03,EV,Latvia,415,275,2,2,140,69,69,138,0
@@ -7307,6 +7327,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,EV,Latvia,382,277,0,0,105,53,52,105,0
 2023-12-13,EV,Latvia,444,314,0,0,130,65,65,130,0
 2023-12-14,EV,Latvia,484,336,1,1,148,75,72,147,0
+2023-12-15,EV,Latvia,538,364,1,1,174,84,89,173,0
 2023-01-01,EY,Lithuania,386,275,0,0,111,54,57,111,0
 2023-01-02,EY,Lithuania,456,331,5,4,125,59,61,120,1
 2023-01-03,EY,Lithuania,409,282,3,3,127,61,63,124,0
@@ -7655,6 +7676,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,EY,Lithuania,366,253,6,5,113,55,52,107,1
 2023-12-13,EY,Lithuania,383,260,5,5,123,60,58,118,0
 2023-12-14,EY,Lithuania,436,306,7,7,130,60,63,123,0
+2023-12-15,EY,Lithuania,483,323,9,8,160,76,75,151,1
 2023-01-01,LM,Malta,251,145,0,0,106,51,55,106,0
 2023-01-02,LM,Malta,294,157,0,0,137,67,70,137,0
 2023-01-03,LM,Malta,260,138,0,0,122,62,60,122,0
@@ -8003,6 +8025,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LM,Malta,303,196,1,1,107,55,51,106,0
 2023-12-13,LM,Malta,315,203,1,1,112,53,58,111,0
 2023-12-14,LM,Malta,299,190,1,1,109,54,54,108,0
+2023-12-15,LM,Malta,368,190,0,0,178,89,89,178,0
 2023-01-01,LU,Moldova,46,-1,0,0,47,24,23,47,0
 2023-01-02,LU,Moldova,51,0,0,0,51,25,26,51,0
 2023-01-03,LU,Moldova,63,1,0,0,62,31,31,62,0
@@ -8351,6 +8374,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LU,Moldova,59,-4,0,0,63,31,32,63,0
 2023-12-13,LU,Moldova,64,4,0,0,60,29,31,60,0
 2023-12-14,LU,Moldova,61,-2,0,0,63,31,32,63,0
+2023-12-15,LU,Moldova,79,3,0,0,76,38,38,76,0
 2023-01-01,GM,Morocco,1428,841,70,0,587,264,253,517,70
 2023-01-02,GM,Morocco,1408,791,64,0,617,282,271,553,64
 2023-01-03,GM,Morocco,1436,865,62,1,571,248,261,509,61
@@ -8699,6 +8723,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,GM,Morocco,1277,765,63,0,512,224,225,449,63
 2023-12-13,GM,Morocco,1232,715,81,3,517,215,221,436,78
 2023-12-14,GM,Morocco,1322,792,70,1,530,230,230,460,69
+2023-12-15,GM,Morocco,1494,826,79,4,668,294,295,589,75
 2023-01-01,EH,Netherlands,2595,1399,3,0,1196,594,599,1193,3
 2023-01-02,EH,Netherlands,2877,1535,39,8,1342,656,647,1303,31
 2023-01-03,EH,Netherlands,2697,1488,51,10,1209,586,572,1158,41
@@ -9047,6 +9072,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,EH,Netherlands,2841,1441,46,8,1400,675,679,1354,38
 2023-12-13,EH,Netherlands,2959,1503,48,13,1456,700,708,1408,35
 2023-12-14,EH,Netherlands,3125,1546,68,18,1579,764,747,1511,50
+2023-12-15,EH,Netherlands,3380,1801,59,19,1579,761,759,1520,40
 2023-01-01,LW,North Macedonia,426,379,0,0,47,22,25,47,0
 2023-01-02,LW,North Macedonia,466,439,0,0,27,12,15,27,0
 2023-01-03,LW,North Macedonia,431,405,0,0,26,14,12,26,0
@@ -9395,6 +9421,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LW,North Macedonia,385,321,0,0,64,33,31,64,0
 2023-12-13,LW,North Macedonia,440,376,0,0,64,33,31,64,0
 2023-12-14,LW,North Macedonia,457,396,0,0,61,30,31,61,0
+2023-12-15,LW,North Macedonia,458,393,0,0,65,32,33,65,0
 2023-01-01,EN,Norway,1127,201,491,2,926,214,221,435,489
 2023-01-02,EN,Norway,1553,206,832,6,1347,260,255,515,826
 2023-01-03,EN,Norway,1458,191,823,10,1267,222,222,444,813
@@ -9743,6 +9770,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,EN,Norway,1416,206,805,5,1210,202,203,405,800
 2023-12-13,EN,Norway,1621,284,837,6,1337,248,252,500,831
 2023-12-14,EN,Norway,1653,290,852,7,1363,257,254,511,845
+2023-12-15,EN,Norway,1548,221,786,16,1327,271,270,541,770
 2023-01-01,EP,Poland,1381,608,70,1,773,352,351,703,69
 2023-01-02,EP,Poland,1547,608,105,12,939,416,418,834,93
 2023-01-03,EP,Poland,1353,526,88,9,827,368,371,739,79
@@ -10091,6 +10119,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,EP,Poland,1453,560,104,16,893,391,398,789,88
 2023-12-13,EP,Poland,1523,591,109,18,932,409,414,823,91
 2023-12-14,EP,Poland,1623,629,113,14,994,450,431,881,99
+2023-12-15,EP,Poland,1867,710,120,20,1157,512,525,1037,100
 2023-01-01,LP,Portugal,1856,857,160,0,999,423,416,839,160
 2023-01-02,LP,Portugal,2123,955,204,1,1168,485,479,964,203
 2023-01-03,LP,Portugal,2037,1023,179,3,1014,414,421,835,176
@@ -10438,7 +10467,8 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-11,LP,Portugal,1961,899,148,1,1062,455,459,914,147
 2023-12-12,LP,Portugal,1867,962,139,1,905,385,381,766,138
 2023-12-13,LP,Portugal,1863,984,138,1,879,373,368,741,137
-2023-12-14,LP,Portugal,1875,886,140,2,989,428,421,849,138
+2023-12-14,LP,Portugal,1876,886,140,2,990,429,421,850,138
+2023-12-15,LP,Portugal,2157,1057,151,2,1100,473,476,949,149
 2023-01-01,LR,Romania,1508,1168,13,4,340,160,167,327,9
 2023-01-02,LR,Romania,1571,1129,38,5,442,201,203,404,33
 2023-01-03,LR,Romania,1624,1166,52,3,458,204,202,406,49
@@ -10787,347 +10817,348 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LR,Romania,1836,1351,66,14,485,209,210,419,52
 2023-12-13,LR,Romania,1918,1398,72,10,520,224,224,448,62
 2023-12-14,LR,Romania,1938,1425,73,11,513,219,221,440,62
-2023-01-01,LY,Serbia & Montenegro,0,-193,16,0,193,89,88,177,16
-2023-01-02,LY,Serbia & Montenegro,0,-243,17,0,243,115,111,226,17
-2023-01-03,LY,Serbia & Montenegro,0,-185,21,1,185,76,88,164,20
-2023-01-04,LY,Serbia & Montenegro,0,-199,22,0,199,92,85,177,22
-2023-01-05,LY,Serbia & Montenegro,0,-203,18,1,203,95,90,185,17
-2023-01-06,LY,Serbia & Montenegro,0,-233,17,0,233,108,108,216,17
-2023-01-07,LY,Serbia & Montenegro,0,-188,17,1,188,83,88,171,16
-2023-01-08,LY,Serbia & Montenegro,0,-246,23,0,246,116,107,223,23
-2023-01-09,LY,Serbia & Montenegro,0,-223,16,0,223,99,108,207,16
-2023-01-10,LY,Serbia & Montenegro,0,-188,18,0,188,82,88,170,18
-2023-01-11,LY,Serbia & Montenegro,0,-192,19,0,192,90,83,173,19
-2023-01-12,LY,Serbia & Montenegro,0,-213,19,3,213,100,94,194,16
-2023-01-13,LY,Serbia & Montenegro,0,-239,23,5,239,109,107,216,18
-2023-01-14,LY,Serbia & Montenegro,0,-179,18,1,179,78,83,161,17
-2023-01-15,LY,Serbia & Montenegro,0,-213,24,3,213,95,94,189,21
-2023-01-16,LY,Serbia & Montenegro,0,-219,18,1,219,98,103,201,17
-2023-01-17,LY,Serbia & Montenegro,0,-172,21,5,172,74,77,151,16
-2023-01-18,LY,Serbia & Montenegro,0,-192,24,5,192,90,78,168,19
-2023-01-19,LY,Serbia & Montenegro,0,-201,20,2,201,91,90,181,18
-2023-01-20,LY,Serbia & Montenegro,0,-226,18,0,226,99,109,208,18
-2023-01-21,LY,Serbia & Montenegro,0,-176,18,1,176,78,80,158,17
-2023-01-22,LY,Serbia & Montenegro,0,-204,20,0,204,93,91,184,20
-2023-01-23,LY,Serbia & Montenegro,0,-230,23,6,230,102,105,207,17
-2023-01-24,LY,Serbia & Montenegro,0,-181,24,5,181,77,80,157,19
-2023-01-25,LY,Serbia & Montenegro,0,-187,24,5,187,85,78,163,19
-2023-01-26,LY,Serbia & Montenegro,0,-201,16,0,201,94,91,185,16
-2023-01-27,LY,Serbia & Montenegro,0,-224,17,0,224,103,104,207,17
-2023-01-28,LY,Serbia & Montenegro,0,-177,21,0,177,76,80,156,21
-2023-01-29,LY,Serbia & Montenegro,0,-188,19,0,188,86,83,169,19
-2023-01-30,LY,Serbia & Montenegro,0,-227,21,6,227,101,105,206,15
-2023-01-31,LY,Serbia & Montenegro,0,-170,27,9,170,70,73,143,18
-2023-02-01,LY,Serbia & Montenegro,0,-194,25,3,194,89,80,169,22
-2023-02-02,LY,Serbia & Montenegro,0,-186,21,3,186,79,86,165,18
-2023-02-03,LY,Serbia & Montenegro,0,-218,21,5,218,102,95,197,16
-2023-02-04,LY,Serbia & Montenegro,0,-158,18,0,158,69,71,140,18
-2023-02-05,LY,Serbia & Montenegro,0,-184,19,0,184,85,80,165,19
-2023-02-06,LY,Serbia & Montenegro,0,-220,20,5,220,97,103,200,15
-2023-02-07,LY,Serbia & Montenegro,0,-176,26,6,176,72,78,150,20
-2023-02-08,LY,Serbia & Montenegro,0,-186,29,8,186,83,74,157,21
-2023-02-09,LY,Serbia & Montenegro,0,-194,25,7,194,84,85,169,18
-2023-02-10,LY,Serbia & Montenegro,0,-241,21,5,241,110,110,220,16
-2023-02-11,LY,Serbia & Montenegro,0,-179,22,0,179,77,80,157,22
-2023-02-12,LY,Serbia & Montenegro,0,-204,19,0,204,95,90,185,19
-2023-02-13,LY,Serbia & Montenegro,0,-226,20,5,226,100,106,206,15
-2023-02-14,LY,Serbia & Montenegro,0,-194,27,6,194,80,87,167,21
-2023-02-15,LY,Serbia & Montenegro,0,-198,21,0,198,93,84,177,21
-2023-02-16,LY,Serbia & Montenegro,0,-187,17,1,187,86,84,170,16
-2023-02-17,LY,Serbia & Montenegro,0,-222,23,1,222,102,97,199,22
-2023-02-18,LY,Serbia & Montenegro,0,-194,21,1,194,79,94,173,20
-2023-02-19,LY,Serbia & Montenegro,0,-236,20,1,236,112,104,216,19
-2023-02-20,LY,Serbia & Montenegro,0,-223,18,1,223,100,105,205,17
-2023-02-21,LY,Serbia & Montenegro,0,-177,17,0,177,77,83,160,17
-2023-02-22,LY,Serbia & Montenegro,0,-201,23,3,201,92,86,178,20
-2023-02-23,LY,Serbia & Montenegro,0,-189,19,2,189,86,84,170,17
-2023-02-24,LY,Serbia & Montenegro,0,-239,19,2,239,111,109,220,17
-2023-02-25,LY,Serbia & Montenegro,0,-195,20,0,195,86,89,175,20
-2023-02-26,LY,Serbia & Montenegro,0,-205,18,2,205,94,93,187,16
-2023-02-27,LY,Serbia & Montenegro,0,-232,16,0,232,106,110,216,16
-2023-02-28,LY,Serbia & Montenegro,0,-179,19,2,179,78,82,160,17
-2023-03-01,LY,Serbia & Montenegro,0,-189,24,4,189,85,80,165,20
-2023-03-02,LY,Serbia & Montenegro,0,-201,22,6,201,90,89,179,16
-2023-03-03,LY,Serbia & Montenegro,0,-236,19,2,236,111,106,217,17
-2023-03-04,LY,Serbia & Montenegro,0,-174,20,0,174,74,80,154,20
-2023-03-05,LY,Serbia & Montenegro,0,-211,18,0,211,101,92,193,18
-2023-03-06,LY,Serbia & Montenegro,0,-222,17,2,222,102,103,205,15
-2023-03-07,LY,Serbia & Montenegro,0,-164,21,4,164,67,76,143,17
-2023-03-08,LY,Serbia & Montenegro,0,-199,25,4,199,90,84,174,21
-2023-03-09,LY,Serbia & Montenegro,0,-204,19,3,204,94,91,185,16
-2023-03-10,LY,Serbia & Montenegro,0,-226,23,6,226,100,103,203,17
-2023-03-11,LY,Serbia & Montenegro,0,-186,17,0,186,87,82,169,17
-2023-03-12,LY,Serbia & Montenegro,0,-216,18,0,216,97,101,198,18
-2023-03-13,LY,Serbia & Montenegro,0,-229,20,5,229,105,104,209,15
-2023-03-14,LY,Serbia & Montenegro,0,-184,17,0,184,80,87,167,17
-2023-03-15,LY,Serbia & Montenegro,0,-202,23,3,202,94,85,179,20
-2023-03-16,LY,Serbia & Montenegro,0,-193,19,2,193,86,88,174,17
-2023-03-17,LY,Serbia & Montenegro,0,-233,21,3,233,106,106,212,18
-2023-03-18,LY,Serbia & Montenegro,0,-185,23,3,185,80,82,162,20
-2023-03-19,LY,Serbia & Montenegro,0,-215,18,0,215,99,98,197,18
-2023-03-20,LY,Serbia & Montenegro,0,-251,19,1,251,116,116,232,18
-2023-03-21,LY,Serbia & Montenegro,0,-201,20,3,201,85,96,181,17
-2023-03-22,LY,Serbia & Montenegro,0,-222,28,6,222,102,92,194,22
-2023-03-23,LY,Serbia & Montenegro,0,-206,21,4,206,92,93,185,17
-2023-03-24,LY,Serbia & Montenegro,0,-252,21,3,252,115,116,231,18
-2023-03-25,LY,Serbia & Montenegro,0,-185,20,0,185,82,83,165,20
-2023-03-26,LY,Serbia & Montenegro,0,-211,18,1,211,99,94,193,17
-2023-03-27,LY,Serbia & Montenegro,0,-247,20,0,247,113,114,227,20
-2023-03-28,LY,Serbia & Montenegro,0,-217,21,3,217,96,100,196,18
-2023-03-29,LY,Serbia & Montenegro,0,-230,27,4,230,107,96,203,23
-2023-03-30,LY,Serbia & Montenegro,0,-256,26,8,256,115,115,230,18
-2023-03-31,LY,Serbia & Montenegro,0,-269,25,3,269,119,125,244,22
-2023-04-01,LY,Serbia & Montenegro,0,-197,19,0,197,87,91,178,19
-2023-04-02,LY,Serbia & Montenegro,0,-239,19,0,239,114,106,220,19
-2023-04-03,LY,Serbia & Montenegro,0,-286,22,4,286,131,133,264,18
-2023-04-04,LY,Serbia & Montenegro,0,-202,13,0,202,97,92,189,13
-2023-04-05,LY,Serbia & Montenegro,0,-218,17,0,218,98,103,201,17
-2023-04-06,LY,Serbia & Montenegro,0,-249,24,5,249,114,111,225,19
-2023-04-07,LY,Serbia & Montenegro,0,-269,21,0,269,122,126,248,21
-2023-04-08,LY,Serbia & Montenegro,0,-203,19,0,203,91,93,184,19
-2023-04-09,LY,Serbia & Montenegro,0,-233,18,0,233,105,110,215,18
-2023-04-10,LY,Serbia & Montenegro,0,-276,27,7,276,128,121,249,20
-2023-04-11,LY,Serbia & Montenegro,0,-218,19,5,218,96,103,199,14
-2023-04-12,LY,Serbia & Montenegro,0,-224,21,2,224,103,100,203,19
-2023-04-13,LY,Serbia & Montenegro,0,-261,26,4,261,121,114,235,22
-2023-04-14,LY,Serbia & Montenegro,0,-276,23,2,276,129,124,253,21
-2023-04-15,LY,Serbia & Montenegro,0,-208,19,0,208,92,97,189,19
-2023-04-16,LY,Serbia & Montenegro,0,-229,14,0,229,107,108,215,14
-2023-04-17,LY,Serbia & Montenegro,0,-288,25,0,288,131,132,263,25
-2023-04-18,LY,Serbia & Montenegro,0,-234,25,4,234,103,106,209,21
-2023-04-19,LY,Serbia & Montenegro,0,-240,23,3,240,109,108,217,20
-2023-04-20,LY,Serbia & Montenegro,0,-264,22,3,264,121,121,242,19
-2023-04-21,LY,Serbia & Montenegro,0,-298,24,2,298,135,139,274,22
-2023-04-22,LY,Serbia & Montenegro,0,-220,21,2,220,101,98,199,19
-2023-04-23,LY,Serbia & Montenegro,0,-257,19,1,257,118,120,238,18
-2023-04-24,LY,Serbia & Montenegro,0,-282,16,0,282,135,131,266,16
-2023-04-25,LY,Serbia & Montenegro,0,-234,19,0,234,105,110,215,19
-2023-04-26,LY,Serbia & Montenegro,0,-240,22,3,240,111,107,218,19
-2023-04-27,LY,Serbia & Montenegro,0,-288,30,4,288,132,126,258,26
-2023-04-28,LY,Serbia & Montenegro,0,-340,40,7,340,148,152,300,33
-2023-04-29,LY,Serbia & Montenegro,0,-233,26,5,233,106,101,207,21
-2023-04-30,LY,Serbia & Montenegro,0,-252,19,2,252,117,116,233,17
-2023-05-01,LY,Serbia & Montenegro,0,-279,20,0,279,129,130,259,20
-2023-05-02,LY,Serbia & Montenegro,0,-237,24,0,237,100,113,213,24
-2023-05-03,LY,Serbia & Montenegro,0,-257,25,3,257,120,112,232,22
-2023-05-04,LY,Serbia & Montenegro,0,-285,22,5,285,134,129,263,17
-2023-05-05,LY,Serbia & Montenegro,0,-298,26,4,298,133,139,272,22
-2023-05-06,LY,Serbia & Montenegro,0,-236,20,2,236,105,111,216,18
-2023-05-07,LY,Serbia & Montenegro,0,-264,24,1,264,122,118,240,23
-2023-05-08,LY,Serbia & Montenegro,0,-297,20,1,297,139,138,277,19
-2023-05-09,LY,Serbia & Montenegro,0,-256,24,5,256,112,120,232,19
-2023-05-10,LY,Serbia & Montenegro,0,-264,22,3,264,124,118,242,19
-2023-05-11,LY,Serbia & Montenegro,0,-273,19,0,273,131,123,254,19
-2023-05-12,LY,Serbia & Montenegro,0,-311,24,0,311,143,144,287,24
-2023-05-13,LY,Serbia & Montenegro,0,-252,18,1,252,114,120,234,17
-2023-05-14,LY,Serbia & Montenegro,0,-281,26,3,281,130,125,255,23
-2023-05-15,LY,Serbia & Montenegro,0,-305,22,0,305,140,143,283,22
-2023-05-16,LY,Serbia & Montenegro,0,-253,20,2,253,116,117,233,18
-2023-05-17,LY,Serbia & Montenegro,0,-277,24,4,277,127,126,253,20
-2023-05-18,LY,Serbia & Montenegro,0,-320,19,0,320,152,149,301,19
-2023-05-19,LY,Serbia & Montenegro,0,-308,24,1,308,140,144,284,23
-2023-05-20,LY,Serbia & Montenegro,0,-262,21,1,262,121,120,241,20
-2023-05-21,LY,Serbia & Montenegro,0,-304,20,1,304,143,141,284,19
-2023-05-22,LY,Serbia & Montenegro,0,-335,24,3,335,158,153,311,21
-2023-05-23,LY,Serbia & Montenegro,0,-267,26,6,267,120,121,241,20
-2023-05-24,LY,Serbia & Montenegro,0,-281,23,1,281,127,131,258,22
-2023-05-25,LY,Serbia & Montenegro,0,-345,25,3,345,161,159,320,22
-2023-05-26,LY,Serbia & Montenegro,0,-308,27,3,308,144,137,281,24
-2023-05-27,LY,Serbia & Montenegro,0,-272,23,0,272,120,129,249,23
-2023-05-28,LY,Serbia & Montenegro,0,-274,16,1,274,130,128,258,15
-2023-05-29,LY,Serbia & Montenegro,0,-346,24,5,346,163,159,322,19
-2023-05-30,LY,Serbia & Montenegro,0,-283,22,3,283,127,134,261,19
-2023-05-31,LY,Serbia & Montenegro,0,-284,23,2,284,133,128,261,21
-2023-06-01,LY,Serbia & Montenegro,0,-349,29,4,349,161,159,320,25
-2023-06-02,LY,Serbia & Montenegro,0,-328,29,5,328,149,150,299,24
-2023-06-03,LY,Serbia & Montenegro,0,-290,25,1,290,132,133,265,24
-2023-06-04,LY,Serbia & Montenegro,0,-319,23,1,319,151,145,296,22
-2023-06-05,LY,Serbia & Montenegro,0,-357,27,2,357,161,169,330,25
-2023-06-06,LY,Serbia & Montenegro,0,-281,22,1,281,126,133,259,21
-2023-06-07,LY,Serbia & Montenegro,0,-299,26,5,299,138,135,273,21
-2023-06-08,LY,Serbia & Montenegro,0,-363,26,4,363,171,166,337,22
-2023-06-09,LY,Serbia & Montenegro,0,-357,29,5,357,165,163,328,24
-2023-06-10,LY,Serbia & Montenegro,0,-319,27,0,319,145,147,292,27
-2023-06-11,LY,Serbia & Montenegro,0,-348,22,0,348,166,160,326,22
-2023-06-12,LY,Serbia & Montenegro,0,-373,25,3,373,173,175,348,22
-2023-06-13,LY,Serbia & Montenegro,0,-328,26,3,328,151,151,302,23
-2023-06-14,LY,Serbia & Montenegro,0,-336,39,8,336,146,151,297,31
-2023-06-15,LY,Serbia & Montenegro,0,-374,24,3,374,179,171,350,21
-2023-06-16,LY,Serbia & Montenegro,0,-367,29,0,367,166,172,338,29
-2023-06-17,LY,Serbia & Montenegro,0,-327,27,0,327,152,148,300,27
-2023-06-18,LY,Serbia & Montenegro,0,-371,29,0,371,172,170,342,29
-2023-06-19,LY,Serbia & Montenegro,0,-368,31,3,368,165,172,337,28
-2023-06-20,LY,Serbia & Montenegro,0,-330,36,6,330,144,150,294,30
-2023-06-21,LY,Serbia & Montenegro,0,-350,35,4,350,161,154,315,31
-2023-06-22,LY,Serbia & Montenegro,0,-375,29,3,375,174,172,346,26
-2023-06-23,LY,Serbia & Montenegro,0,-373,32,5,373,171,170,341,27
-2023-06-24,LY,Serbia & Montenegro,0,-332,29,3,332,152,151,303,26
-2023-06-25,LY,Serbia & Montenegro,0,-366,34,1,366,164,168,332,33
-2023-06-26,LY,Serbia & Montenegro,0,-411,37,4,411,185,189,374,33
-2023-06-27,LY,Serbia & Montenegro,0,-344,40,4,344,150,154,304,36
-2023-06-28,LY,Serbia & Montenegro,0,-351,37,5,351,158,156,314,32
-2023-06-29,LY,Serbia & Montenegro,0,-407,33,3,407,192,182,374,30
-2023-06-30,LY,Serbia & Montenegro,0,-396,33,2,396,180,183,363,31
-2023-07-01,LY,Serbia & Montenegro,0,-364,37,3,364,161,166,327,34
-2023-07-02,LY,Serbia & Montenegro,0,-391,34,1,391,179,178,357,33
-2023-07-03,LY,Serbia & Montenegro,0,-400,30,5,400,182,188,370,25
-2023-07-04,LY,Serbia & Montenegro,0,-375,40,6,375,170,165,335,34
-2023-07-05,LY,Serbia & Montenegro,0,-373,44,6,373,163,166,329,38
-2023-07-06,LY,Serbia & Montenegro,0,-401,37,10,401,186,178,364,27
-2023-07-07,LY,Serbia & Montenegro,0,-395,40,6,395,175,180,355,34
-2023-07-08,LY,Serbia & Montenegro,0,-363,35,6,363,157,171,328,29
-2023-07-09,LY,Serbia & Montenegro,0,-392,39,1,392,179,174,353,38
-2023-07-10,LY,Serbia & Montenegro,0,-416,34,3,416,199,183,382,31
-2023-07-11,LY,Serbia & Montenegro,0,-345,33,4,345,152,160,312,29
-2023-07-12,LY,Serbia & Montenegro,0,-365,44,4,365,156,165,321,40
-2023-07-13,LY,Serbia & Montenegro,0,-389,32,5,389,179,178,357,27
-2023-07-14,LY,Serbia & Montenegro,0,-413,38,5,413,194,181,375,33
-2023-07-15,LY,Serbia & Montenegro,0,-368,31,1,368,165,172,337,30
-2023-07-16,LY,Serbia & Montenegro,0,-385,34,0,385,175,176,351,34
-2023-07-17,LY,Serbia & Montenegro,0,-417,32,5,417,191,194,385,27
-2023-07-18,LY,Serbia & Montenegro,0,-376,38,6,376,169,169,338,32
-2023-07-19,LY,Serbia & Montenegro,0,-364,42,6,364,160,162,322,36
-2023-07-20,LY,Serbia & Montenegro,0,-408,37,8,408,192,179,371,29
-2023-07-21,LY,Serbia & Montenegro,0,-403,42,9,403,179,182,361,33
-2023-07-22,LY,Serbia & Montenegro,0,-367,33,0,367,165,169,334,33
-2023-07-23,LY,Serbia & Montenegro,0,-434,43,1,434,196,195,391,42
-2023-07-24,LY,Serbia & Montenegro,0,-421,33,0,421,195,193,388,33
-2023-07-25,LY,Serbia & Montenegro,0,-359,32,1,359,166,161,327,31
-2023-07-26,LY,Serbia & Montenegro,0,-371,35,1,371,162,174,336,34
-2023-07-27,LY,Serbia & Montenegro,0,-413,31,4,413,192,190,382,27
-2023-07-28,LY,Serbia & Montenegro,0,-427,42,3,427,193,192,385,39
-2023-07-29,LY,Serbia & Montenegro,0,-376,30,2,376,172,174,346,28
-2023-07-30,LY,Serbia & Montenegro,0,-396,36,1,396,178,182,360,35
-2023-07-31,LY,Serbia & Montenegro,0,-413,29,0,413,191,193,384,29
-2023-08-01,LY,Serbia & Montenegro,0,-396,35,1,396,185,176,361,34
-2023-08-02,LY,Serbia & Montenegro,0,-389,38,0,389,179,172,351,38
-2023-08-03,LY,Serbia & Montenegro,0,-394,29,0,394,183,182,365,29
-2023-08-04,LY,Serbia & Montenegro,0,-419,37,3,419,191,191,382,34
-2023-08-05,LY,Serbia & Montenegro,0,-345,31,1,345,160,154,314,30
-2023-08-06,LY,Serbia & Montenegro,0,-389,35,0,389,174,180,354,35
-2023-08-07,LY,Serbia & Montenegro,0,-418,26,2,418,195,197,392,24
-2023-08-08,LY,Serbia & Montenegro,0,-391,46,6,391,170,175,345,40
-2023-08-09,LY,Serbia & Montenegro,0,-401,48,8,401,176,177,353,40
-2023-08-10,LY,Serbia & Montenegro,0,-411,35,6,411,191,185,376,29
-2023-08-11,LY,Serbia & Montenegro,0,-428,40,4,428,191,197,388,36
-2023-08-12,LY,Serbia & Montenegro,0,-373,29,0,373,174,170,344,29
-2023-08-13,LY,Serbia & Montenegro,0,-382,35,0,382,174,173,347,35
-2023-08-14,LY,Serbia & Montenegro,0,-410,35,3,410,188,187,375,32
-2023-08-15,LY,Serbia & Montenegro,0,-372,37,3,372,164,171,335,34
-2023-08-16,LY,Serbia & Montenegro,0,-388,47,6,388,173,168,341,41
-2023-08-17,LY,Serbia & Montenegro,0,-373,35,7,373,173,165,338,28
-2023-08-18,LY,Serbia & Montenegro,0,-417,42,7,417,186,189,375,35
-2023-08-19,LY,Serbia & Montenegro,0,-364,32,1,364,161,171,332,31
-2023-08-20,LY,Serbia & Montenegro,0,-384,36,2,384,175,173,348,34
-2023-08-21,LY,Serbia & Montenegro,0,-395,38,7,395,179,178,357,31
-2023-08-22,LY,Serbia & Montenegro,0,-366,46,11,366,160,160,320,35
-2023-08-23,LY,Serbia & Montenegro,0,-367,46,8,367,159,162,321,38
-2023-08-24,LY,Serbia & Montenegro,0,-383,37,7,383,179,167,346,30
-2023-08-25,LY,Serbia & Montenegro,0,-411,43,9,411,183,185,368,34
-2023-08-26,LY,Serbia & Montenegro,0,-351,30,2,351,156,165,321,28
-2023-08-27,LY,Serbia & Montenegro,0,-371,32,1,371,171,168,339,31
-2023-08-28,LY,Serbia & Montenegro,0,-409,28,1,409,185,196,381,27
-2023-08-29,LY,Serbia & Montenegro,0,-360,37,2,360,160,163,323,35
-2023-08-30,LY,Serbia & Montenegro,0,-373,38,5,373,168,167,335,33
-2023-08-31,LY,Serbia & Montenegro,0,-406,34,5,406,188,184,372,29
-2023-09-01,LY,Serbia & Montenegro,0,-421,46,12,421,190,185,375,34
-2023-09-02,LY,Serbia & Montenegro,0,-350,29,1,350,157,164,321,28
-2023-09-03,LY,Serbia & Montenegro,0,-395,33,0,395,181,181,362,33
-2023-09-04,LY,Serbia & Montenegro,0,-398,35,6,398,183,180,363,29
-2023-09-05,LY,Serbia & Montenegro,0,-344,40,9,344,149,155,304,31
-2023-09-06,LY,Serbia & Montenegro,0,-344,40,7,344,151,153,304,33
-2023-09-07,LY,Serbia & Montenegro,0,-412,32,6,412,193,187,380,26
-2023-09-08,LY,Serbia & Montenegro,0,-400,38,9,400,181,181,362,29
-2023-09-09,LY,Serbia & Montenegro,0,-352,31,0,352,157,164,321,31
-2023-09-10,LY,Serbia & Montenegro,0,-389,31,0,389,183,175,358,31
-2023-09-11,LY,Serbia & Montenegro,0,-419,37,7,419,189,193,382,30
-2023-09-12,LY,Serbia & Montenegro,0,-343,38,9,343,153,152,305,29
-2023-09-13,LY,Serbia & Montenegro,0,-377,46,9,377,169,162,331,37
-2023-09-14,LY,Serbia & Montenegro,0,-388,35,11,388,176,177,353,24
-2023-09-15,LY,Serbia & Montenegro,0,-403,37,7,403,186,180,366,30
-2023-09-16,LY,Serbia & Montenegro,0,-347,26,2,347,157,164,321,24
-2023-09-17,LY,Serbia & Montenegro,0,-377,29,0,377,174,174,348,29
-2023-09-18,LY,Serbia & Montenegro,0,-377,24,0,377,174,179,353,24
-2023-09-19,LY,Serbia & Montenegro,0,-326,22,0,326,154,150,304,22
-2023-09-20,LY,Serbia & Montenegro,0,-362,39,12,362,164,159,323,27
-2023-09-21,LY,Serbia & Montenegro,0,-374,30,5,374,172,172,344,25
-2023-09-22,LY,Serbia & Montenegro,0,-389,30,1,389,180,179,359,29
-2023-09-23,LY,Serbia & Montenegro,0,-310,23,4,310,141,146,287,19
-2023-09-24,LY,Serbia & Montenegro,0,-333,25,0,333,152,156,308,25
-2023-09-25,LY,Serbia & Montenegro,0,-365,32,7,365,164,169,333,25
-2023-09-26,LY,Serbia & Montenegro,0,-324,31,7,324,144,149,293,24
-2023-09-27,LY,Serbia & Montenegro,0,-330,40,11,330,148,142,290,29
-2023-09-28,LY,Serbia & Montenegro,0,-381,37,12,381,174,170,344,25
-2023-09-29,LY,Serbia & Montenegro,0,-341,33,7,341,152,156,308,26
-2023-09-30,LY,Serbia & Montenegro,0,-312,24,0,312,141,147,288,24
-2023-10-01,LY,Serbia & Montenegro,0,-319,25,1,319,152,142,294,24
-2023-10-02,LY,Serbia & Montenegro,0,-353,35,14,353,155,163,318,21
-2023-10-03,LY,Serbia & Montenegro,0,-298,33,7,298,128,137,265,26
-2023-10-04,LY,Serbia & Montenegro,0,-310,30,8,310,146,134,280,22
-2023-10-05,LY,Serbia & Montenegro,0,-349,29,9,349,162,158,320,20
-2023-10-06,LY,Serbia & Montenegro,0,-359,30,7,359,166,163,329,23
-2023-10-07,LY,Serbia & Montenegro,0,-282,23,2,282,121,138,259,21
-2023-10-08,LY,Serbia & Montenegro,0,-315,24,2,315,147,144,291,22
-2023-10-09,LY,Serbia & Montenegro,0,-343,23,4,343,159,161,320,19
-2023-10-10,LY,Serbia & Montenegro,0,-271,21,3,271,124,126,250,18
-2023-10-11,LY,Serbia & Montenegro,0,-284,27,6,284,133,124,257,21
-2023-10-12,LY,Serbia & Montenegro,0,-319,33,10,319,145,141,286,23
-2023-10-13,LY,Serbia & Montenegro,0,-351,32,10,351,155,164,319,22
-2023-10-14,LY,Serbia & Montenegro,0,-290,23,3,290,134,133,267,20
-2023-10-15,LY,Serbia & Montenegro,0,-307,19,0,307,145,143,288,19
-2023-10-16,LY,Serbia & Montenegro,0,-331,24,5,331,156,151,307,19
-2023-10-17,LY,Serbia & Montenegro,0,-271,29,8,271,118,124,242,21
-2023-10-18,LY,Serbia & Montenegro,0,-277,27,7,277,125,125,250,20
-2023-10-19,LY,Serbia & Montenegro,0,-303,19,1,303,143,141,284,18
-2023-10-20,LY,Serbia & Montenegro,0,-334,22,1,334,159,153,312,21
-2023-10-21,LY,Serbia & Montenegro,0,-265,20,0,265,117,128,245,20
-2023-10-22,LY,Serbia & Montenegro,0,-287,20,0,287,138,129,267,20
-2023-10-23,LY,Serbia & Montenegro,0,-321,23,4,321,150,148,298,19
-2023-10-24,LY,Serbia & Montenegro,0,-260,20,4,260,119,121,240,16
-2023-10-25,LY,Serbia & Montenegro,0,-246,25,5,246,111,110,221,20
-2023-10-26,LY,Serbia & Montenegro,0,-303,22,4,303,140,141,281,18
-2023-10-27,LY,Serbia & Montenegro,0,-323,21,0,323,148,154,302,21
-2023-10-28,LY,Serbia & Montenegro,0,-245,21,0,245,108,116,224,21
-2023-10-29,LY,Serbia & Montenegro,0,-266,20,1,266,123,123,246,19
-2023-10-30,LY,Serbia & Montenegro,0,-287,18,1,287,136,133,269,17
-2023-10-31,LY,Serbia & Montenegro,0,-224,20,2,224,100,104,204,18
-2023-11-01,LY,Serbia & Montenegro,0,-250,28,4,250,114,108,222,24
-2023-11-02,LY,Serbia & Montenegro,0,-262,19,1,262,119,124,243,18
-2023-11-03,LY,Serbia & Montenegro,0,-289,17,0,289,140,132,272,17
-2023-11-04,LY,Serbia & Montenegro,0,-249,19,0,249,112,118,230,19
-2023-11-05,LY,Serbia & Montenegro,0,-265,21,0,265,119,125,244,21
-2023-11-06,LY,Serbia & Montenegro,0,-305,23,3,305,144,138,282,20
-2023-11-07,LY,Serbia & Montenegro,0,-235,18,3,235,107,110,217,15
-2023-11-08,LY,Serbia & Montenegro,0,-260,25,3,260,122,113,235,22
-2023-11-09,LY,Serbia & Montenegro,0,-266,25,5,266,120,121,241,20
-2023-11-10,LY,Serbia & Montenegro,0,-298,17,0,298,137,144,281,17
-2023-11-11,LY,Serbia & Montenegro,0,-242,22,3,242,104,116,220,19
-2023-11-12,LY,Serbia & Montenegro,0,-268,19,1,268,131,118,249,18
-2023-11-13,LY,Serbia & Montenegro,0,-304,23,5,304,137,144,281,18
-2023-11-14,LY,Serbia & Montenegro,0,-245,21,4,245,112,112,224,17
-2023-11-15,LY,Serbia & Montenegro,0,-256,26,4,256,117,113,230,22
-2023-11-16,LY,Serbia & Montenegro,0,-261,23,3,261,120,118,238,20
-2023-11-17,LY,Serbia & Montenegro,0,-297,20,1,297,138,139,277,19
-2023-11-18,LY,Serbia & Montenegro,0,-238,20,0,238,105,113,218,20
-2023-11-19,LY,Serbia & Montenegro,0,-257,19,0,257,122,116,238,19
-2023-11-20,LY,Serbia & Montenegro,0,-307,24,4,307,143,140,283,20
-2023-11-21,LY,Serbia & Montenegro,0,-218,20,7,218,94,104,198,13
-2023-11-22,LY,Serbia & Montenegro,0,-238,21,3,238,110,107,217,18
-2023-11-23,LY,Serbia & Montenegro,0,-246,23,4,246,110,113,223,19
-2023-11-24,LY,Serbia & Montenegro,0,-287,22,7,287,136,129,265,15
-2023-11-25,LY,Serbia & Montenegro,0,-223,19,0,223,102,102,204,19
-2023-11-26,LY,Serbia & Montenegro,0,-239,19,0,239,111,109,220,19
-2023-11-27,LY,Serbia & Montenegro,0,-281,21,4,281,128,132,260,17
-2023-11-28,LY,Serbia & Montenegro,0,-224,19,2,224,102,103,205,17
-2023-11-29,LY,Serbia & Montenegro,0,-233,21,0,233,106,106,212,21
-2023-11-30,LY,Serbia & Montenegro,0,-259,24,3,259,118,117,235,21
-2023-12-01,LY,Serbia & Montenegro,0,-281,22,0,281,131,128,259,22
-2023-12-02,LY,Serbia & Montenegro,0,-199,20,1,199,91,88,179,19
-2023-12-03,LY,Serbia & Montenegro,0,-255,21,0,255,117,117,234,21
-2023-12-04,LY,Serbia & Montenegro,0,-292,22,4,292,133,137,270,18
-2023-12-05,LY,Serbia & Montenegro,0,-211,20,0,211,96,95,191,20
-2023-12-06,LY,Serbia & Montenegro,0,-250,21,3,250,112,117,229,18
-2023-12-07,LY,Serbia & Montenegro,0,-255,20,2,255,117,118,235,18
+2023-12-15,LR,Romania,2045,1489,75,7,556,241,240,481,68
+2023-01-01,LY,Serbia & Montenegro,1712,1519,16,0,193,89,88,177,16
+2023-01-02,LY,Serbia & Montenegro,1755,1512,17,0,243,115,111,226,17
+2023-01-03,LY,Serbia & Montenegro,1645,1460,21,1,185,76,88,164,20
+2023-01-04,LY,Serbia & Montenegro,1669,1470,22,0,199,92,85,177,22
+2023-01-05,LY,Serbia & Montenegro,1690,1487,18,1,203,95,90,185,17
+2023-01-06,LY,Serbia & Montenegro,1811,1578,17,0,233,108,108,216,17
+2023-01-07,LY,Serbia & Montenegro,1793,1605,17,1,188,83,88,171,16
+2023-01-08,LY,Serbia & Montenegro,1949,1703,23,0,246,116,107,223,23
+2023-01-09,LY,Serbia & Montenegro,1558,1335,16,0,223,99,108,207,16
+2023-01-10,LY,Serbia & Montenegro,1397,1209,18,0,188,82,88,170,18
+2023-01-11,LY,Serbia & Montenegro,1402,1210,19,0,192,90,83,173,19
+2023-01-12,LY,Serbia & Montenegro,1486,1273,19,3,213,100,94,194,16
+2023-01-13,LY,Serbia & Montenegro,1606,1367,23,5,239,109,107,216,18
+2023-01-14,LY,Serbia & Montenegro,1641,1462,18,1,179,78,83,161,17
+2023-01-15,LY,Serbia & Montenegro,1725,1512,24,3,213,95,94,189,21
+2023-01-16,LY,Serbia & Montenegro,1430,1211,18,1,219,98,103,201,17
+2023-01-17,LY,Serbia & Montenegro,1272,1100,21,5,172,74,77,151,16
+2023-01-18,LY,Serbia & Montenegro,1338,1146,24,5,192,90,78,168,19
+2023-01-19,LY,Serbia & Montenegro,1406,1205,20,2,201,91,90,181,18
+2023-01-20,LY,Serbia & Montenegro,1563,1337,18,0,226,99,109,208,18
+2023-01-21,LY,Serbia & Montenegro,1555,1379,18,1,176,78,80,158,17
+2023-01-22,LY,Serbia & Montenegro,1661,1457,20,0,204,93,91,184,20
+2023-01-23,LY,Serbia & Montenegro,1392,1162,23,6,230,102,105,207,17
+2023-01-24,LY,Serbia & Montenegro,1303,1122,24,5,181,77,80,157,19
+2023-01-25,LY,Serbia & Montenegro,1399,1212,24,5,187,85,78,163,19
+2023-01-26,LY,Serbia & Montenegro,1437,1236,16,0,201,94,91,185,16
+2023-01-27,LY,Serbia & Montenegro,1513,1289,17,0,224,103,104,207,17
+2023-01-28,LY,Serbia & Montenegro,1576,1399,21,0,177,76,80,156,21
+2023-01-29,LY,Serbia & Montenegro,1703,1515,19,0,188,86,83,169,19
+2023-01-30,LY,Serbia & Montenegro,1474,1247,21,6,227,101,105,206,15
+2023-01-31,LY,Serbia & Montenegro,1309,1139,27,9,170,70,73,143,18
+2023-02-01,LY,Serbia & Montenegro,1429,1235,25,3,194,89,80,169,22
+2023-02-02,LY,Serbia & Montenegro,1470,1284,21,3,186,79,86,165,18
+2023-02-03,LY,Serbia & Montenegro,1645,1427,21,5,218,102,95,197,16
+2023-02-04,LY,Serbia & Montenegro,1617,1459,18,0,158,69,71,140,18
+2023-02-05,LY,Serbia & Montenegro,1665,1481,19,0,184,85,80,165,19
+2023-02-06,LY,Serbia & Montenegro,1488,1268,20,5,220,97,103,200,15
+2023-02-07,LY,Serbia & Montenegro,1399,1223,26,6,176,72,78,150,20
+2023-02-08,LY,Serbia & Montenegro,1448,1262,29,8,186,83,74,157,21
+2023-02-09,LY,Serbia & Montenegro,1479,1285,25,7,194,84,85,169,18
+2023-02-10,LY,Serbia & Montenegro,1711,1470,21,5,241,110,110,220,16
+2023-02-11,LY,Serbia & Montenegro,1678,1499,22,0,179,77,80,157,22
+2023-02-12,LY,Serbia & Montenegro,1745,1541,19,0,204,95,90,185,19
+2023-02-13,LY,Serbia & Montenegro,1526,1300,20,5,226,100,106,206,15
+2023-02-14,LY,Serbia & Montenegro,1398,1204,27,6,194,80,87,167,21
+2023-02-15,LY,Serbia & Montenegro,1512,1314,21,0,198,93,84,177,21
+2023-02-16,LY,Serbia & Montenegro,1534,1347,17,1,187,86,84,170,16
+2023-02-17,LY,Serbia & Montenegro,1522,1300,23,1,222,102,97,199,22
+2023-02-18,LY,Serbia & Montenegro,1814,1620,21,1,194,79,94,173,20
+2023-02-19,LY,Serbia & Montenegro,1870,1634,20,1,236,112,104,216,19
+2023-02-20,LY,Serbia & Montenegro,1597,1374,18,1,223,100,105,205,17
+2023-02-21,LY,Serbia & Montenegro,1436,1259,17,0,177,77,83,160,17
+2023-02-22,LY,Serbia & Montenegro,1541,1340,23,3,201,92,86,178,20
+2023-02-23,LY,Serbia & Montenegro,1608,1419,19,2,189,86,84,170,17
+2023-02-24,LY,Serbia & Montenegro,1719,1480,19,2,239,111,109,220,17
+2023-02-25,LY,Serbia & Montenegro,1716,1521,20,0,195,86,89,175,20
+2023-02-26,LY,Serbia & Montenegro,1812,1607,18,2,205,94,93,187,16
+2023-02-27,LY,Serbia & Montenegro,1601,1369,16,0,232,106,110,216,16
+2023-02-28,LY,Serbia & Montenegro,1454,1275,19,2,179,78,82,160,17
+2023-03-01,LY,Serbia & Montenegro,1595,1406,24,4,189,85,80,165,20
+2023-03-02,LY,Serbia & Montenegro,1644,1443,22,6,201,90,89,179,16
+2023-03-03,LY,Serbia & Montenegro,1726,1490,19,2,236,111,106,217,17
+2023-03-04,LY,Serbia & Montenegro,1732,1558,20,0,174,74,80,154,20
+2023-03-05,LY,Serbia & Montenegro,1839,1628,18,0,211,101,92,193,18
+2023-03-06,LY,Serbia & Montenegro,1544,1322,17,2,222,102,103,205,15
+2023-03-07,LY,Serbia & Montenegro,1379,1215,21,4,164,67,76,143,17
+2023-03-08,LY,Serbia & Montenegro,1541,1342,25,4,199,90,84,174,21
+2023-03-09,LY,Serbia & Montenegro,1576,1372,19,3,204,94,91,185,16
+2023-03-10,LY,Serbia & Montenegro,1654,1428,23,6,226,100,103,203,17
+2023-03-11,LY,Serbia & Montenegro,1769,1583,17,0,186,87,82,169,17
+2023-03-12,LY,Serbia & Montenegro,1836,1620,18,0,216,97,101,198,18
+2023-03-13,LY,Serbia & Montenegro,1609,1380,20,5,229,105,104,209,15
+2023-03-14,LY,Serbia & Montenegro,1449,1265,17,0,184,80,87,167,17
+2023-03-15,LY,Serbia & Montenegro,1593,1391,23,3,202,94,85,179,20
+2023-03-16,LY,Serbia & Montenegro,1434,1241,19,2,193,86,88,174,17
+2023-03-17,LY,Serbia & Montenegro,1785,1552,21,3,233,106,106,212,18
+2023-03-18,LY,Serbia & Montenegro,1832,1647,23,3,185,80,82,162,20
+2023-03-19,LY,Serbia & Montenegro,1968,1753,18,0,215,99,98,197,18
+2023-03-20,LY,Serbia & Montenegro,1745,1494,19,1,251,116,116,232,18
+2023-03-21,LY,Serbia & Montenegro,1555,1354,20,3,201,85,96,181,17
+2023-03-22,LY,Serbia & Montenegro,1638,1416,28,6,222,102,92,194,22
+2023-03-23,LY,Serbia & Montenegro,1593,1387,21,4,206,92,93,185,17
+2023-03-24,LY,Serbia & Montenegro,1788,1536,21,3,252,115,116,231,18
+2023-03-25,LY,Serbia & Montenegro,1853,1668,20,0,185,82,83,165,20
+2023-03-26,LY,Serbia & Montenegro,2036,1825,18,1,211,99,94,193,17
+2023-03-27,LY,Serbia & Montenegro,1648,1401,20,0,247,113,114,227,20
+2023-03-28,LY,Serbia & Montenegro,1833,1616,21,3,217,96,100,196,18
+2023-03-29,LY,Serbia & Montenegro,1968,1738,27,4,230,107,96,203,23
+2023-03-30,LY,Serbia & Montenegro,2010,1754,26,8,256,115,115,230,18
+2023-03-31,LY,Serbia & Montenegro,2178,1909,25,3,269,119,125,244,22
+2023-04-01,LY,Serbia & Montenegro,2483,2286,19,0,197,87,91,178,19
+2023-04-02,LY,Serbia & Montenegro,2397,2158,19,0,239,114,106,220,19
+2023-04-03,LY,Serbia & Montenegro,2137,1851,22,4,286,131,133,264,18
+2023-04-04,LY,Serbia & Montenegro,2051,1849,13,0,202,97,92,189,13
+2023-04-05,LY,Serbia & Montenegro,2126,1908,17,0,218,98,103,201,17
+2023-04-06,LY,Serbia & Montenegro,2096,1847,24,5,249,114,111,225,19
+2023-04-07,LY,Serbia & Montenegro,2325,2056,21,0,269,122,126,248,21
+2023-04-08,LY,Serbia & Montenegro,2442,2239,19,0,203,91,93,184,19
+2023-04-09,LY,Serbia & Montenegro,2315,2082,18,0,233,105,110,215,18
+2023-04-10,LY,Serbia & Montenegro,2201,1925,27,7,276,128,121,249,20
+2023-04-11,LY,Serbia & Montenegro,2083,1865,19,5,218,96,103,199,14
+2023-04-12,LY,Serbia & Montenegro,2090,1866,21,2,224,103,100,203,19
+2023-04-13,LY,Serbia & Montenegro,2170,1909,26,4,261,121,114,235,22
+2023-04-14,LY,Serbia & Montenegro,2328,2052,23,2,276,129,124,253,21
+2023-04-15,LY,Serbia & Montenegro,2534,2326,19,0,208,92,97,189,19
+2023-04-16,LY,Serbia & Montenegro,2420,2191,14,0,229,107,108,215,14
+2023-04-17,LY,Serbia & Montenegro,2189,1901,25,0,288,131,132,263,25
+2023-04-18,LY,Serbia & Montenegro,2044,1810,25,4,234,103,106,209,21
+2023-04-19,LY,Serbia & Montenegro,2083,1843,23,3,240,109,108,217,20
+2023-04-20,LY,Serbia & Montenegro,2148,1884,22,3,264,121,121,242,19
+2023-04-21,LY,Serbia & Montenegro,2290,1992,24,2,298,135,139,274,22
+2023-04-22,LY,Serbia & Montenegro,2531,2311,21,2,220,101,98,199,19
+2023-04-23,LY,Serbia & Montenegro,2456,2199,19,1,257,118,120,238,18
+2023-04-24,LY,Serbia & Montenegro,2198,1916,16,0,282,135,131,266,16
+2023-04-25,LY,Serbia & Montenegro,2098,1864,19,0,234,105,110,215,19
+2023-04-26,LY,Serbia & Montenegro,2162,1922,22,3,240,111,107,218,19
+2023-04-27,LY,Serbia & Montenegro,2252,1964,30,4,288,132,126,258,26
+2023-04-28,LY,Serbia & Montenegro,2545,2205,40,7,340,148,152,300,33
+2023-04-29,LY,Serbia & Montenegro,2659,2426,26,5,233,106,101,207,21
+2023-04-30,LY,Serbia & Montenegro,2607,2355,19,2,252,117,116,233,17
+2023-05-01,LY,Serbia & Montenegro,2341,2062,20,0,279,129,130,259,20
+2023-05-02,LY,Serbia & Montenegro,2304,2067,24,0,237,100,113,213,24
+2023-05-03,LY,Serbia & Montenegro,2394,2137,25,3,257,120,112,232,22
+2023-05-04,LY,Serbia & Montenegro,2453,2168,22,5,285,134,129,263,17
+2023-05-05,LY,Serbia & Montenegro,2540,2242,26,4,298,133,139,272,22
+2023-05-06,LY,Serbia & Montenegro,2835,2599,20,2,236,105,111,216,18
+2023-05-07,LY,Serbia & Montenegro,2781,2517,24,1,264,122,118,240,23
+2023-05-08,LY,Serbia & Montenegro,2436,2139,20,1,297,139,138,277,19
+2023-05-09,LY,Serbia & Montenegro,2340,2084,24,5,256,112,120,232,19
+2023-05-10,LY,Serbia & Montenegro,2387,2123,22,3,264,124,118,242,19
+2023-05-11,LY,Serbia & Montenegro,2393,2120,19,0,273,131,123,254,19
+2023-05-12,LY,Serbia & Montenegro,2672,2361,24,0,311,143,144,287,24
+2023-05-13,LY,Serbia & Montenegro,2964,2712,18,1,252,114,120,234,17
+2023-05-14,LY,Serbia & Montenegro,2839,2558,26,3,281,130,125,255,23
+2023-05-15,LY,Serbia & Montenegro,2575,2270,22,0,305,140,143,283,22
+2023-05-16,LY,Serbia & Montenegro,2436,2183,20,2,253,116,117,233,18
+2023-05-17,LY,Serbia & Montenegro,2598,2321,24,4,277,127,126,253,20
+2023-05-18,LY,Serbia & Montenegro,2672,2352,19,0,320,152,149,301,19
+2023-05-19,LY,Serbia & Montenegro,2798,2490,24,1,308,140,144,284,23
+2023-05-20,LY,Serbia & Montenegro,3046,2784,21,1,262,121,120,241,20
+2023-05-21,LY,Serbia & Montenegro,3011,2707,20,1,304,143,141,284,19
+2023-05-22,LY,Serbia & Montenegro,2720,2385,24,3,335,158,153,311,21
+2023-05-23,LY,Serbia & Montenegro,2684,2417,26,6,267,120,121,241,20
+2023-05-24,LY,Serbia & Montenegro,2716,2435,23,1,281,127,131,258,22
+2023-05-25,LY,Serbia & Montenegro,2781,2436,25,3,345,161,159,320,22
+2023-05-26,LY,Serbia & Montenegro,2969,2661,27,3,308,144,137,281,24
+2023-05-27,LY,Serbia & Montenegro,3187,2915,23,0,272,120,129,249,23
+2023-05-28,LY,Serbia & Montenegro,3028,2754,16,1,274,130,128,258,15
+2023-05-29,LY,Serbia & Montenegro,2859,2513,24,5,346,163,159,322,19
+2023-05-30,LY,Serbia & Montenegro,2654,2371,22,3,283,127,134,261,19
+2023-05-31,LY,Serbia & Montenegro,2818,2534,23,2,284,133,128,261,21
+2023-06-01,LY,Serbia & Montenegro,2873,2524,29,4,349,161,159,320,25
+2023-06-02,LY,Serbia & Montenegro,2932,2604,29,5,328,149,150,299,24
+2023-06-03,LY,Serbia & Montenegro,3190,2900,25,1,290,132,133,265,24
+2023-06-04,LY,Serbia & Montenegro,3094,2775,23,1,319,151,145,296,22
+2023-06-05,LY,Serbia & Montenegro,2860,2503,27,2,357,161,169,330,25
+2023-06-06,LY,Serbia & Montenegro,2852,2571,22,1,281,126,133,259,21
+2023-06-07,LY,Serbia & Montenegro,2945,2646,26,5,299,138,135,273,21
+2023-06-08,LY,Serbia & Montenegro,3013,2650,26,4,363,171,166,337,22
+2023-06-09,LY,Serbia & Montenegro,3103,2746,29,5,357,165,163,328,24
+2023-06-10,LY,Serbia & Montenegro,3336,3017,27,0,319,145,147,292,27
+2023-06-11,LY,Serbia & Montenegro,3323,2975,22,0,348,166,160,326,22
+2023-06-12,LY,Serbia & Montenegro,2960,2587,25,3,373,173,175,348,22
+2023-06-13,LY,Serbia & Montenegro,2915,2587,26,3,328,151,151,302,23
+2023-06-14,LY,Serbia & Montenegro,2959,2623,39,8,336,146,151,297,31
+2023-06-15,LY,Serbia & Montenegro,2985,2611,24,3,374,179,171,350,21
+2023-06-16,LY,Serbia & Montenegro,3069,2702,29,0,367,166,172,338,29
+2023-06-17,LY,Serbia & Montenegro,3324,2997,27,0,327,152,148,300,27
+2023-06-18,LY,Serbia & Montenegro,3254,2883,29,0,371,172,170,342,29
+2023-06-19,LY,Serbia & Montenegro,2957,2589,31,3,368,165,172,337,28
+2023-06-20,LY,Serbia & Montenegro,2875,2545,36,6,330,144,150,294,30
+2023-06-21,LY,Serbia & Montenegro,3191,2841,35,4,350,161,154,315,31
+2023-06-22,LY,Serbia & Montenegro,2982,2607,29,3,375,174,172,346,26
+2023-06-23,LY,Serbia & Montenegro,3198,2825,32,5,373,171,170,341,27
+2023-06-24,LY,Serbia & Montenegro,3462,3130,29,3,332,152,151,303,26
+2023-06-25,LY,Serbia & Montenegro,3366,3000,34,1,366,164,168,332,33
+2023-06-26,LY,Serbia & Montenegro,3202,2791,37,4,411,185,189,374,33
+2023-06-27,LY,Serbia & Montenegro,3172,2828,40,4,344,150,154,304,36
+2023-06-28,LY,Serbia & Montenegro,3149,2798,37,5,351,158,156,314,32
+2023-06-29,LY,Serbia & Montenegro,3162,2755,33,3,407,192,182,374,30
+2023-06-30,LY,Serbia & Montenegro,3243,2847,33,2,396,180,183,363,31
+2023-07-01,LY,Serbia & Montenegro,3324,2960,37,3,364,161,166,327,34
+2023-07-02,LY,Serbia & Montenegro,3495,3104,34,1,391,179,178,357,33
+2023-07-03,LY,Serbia & Montenegro,3294,2894,30,5,400,182,188,370,25
+2023-07-04,LY,Serbia & Montenegro,3182,2807,40,6,375,170,165,335,34
+2023-07-05,LY,Serbia & Montenegro,3293,2920,44,6,373,163,166,329,38
+2023-07-06,LY,Serbia & Montenegro,3395,2994,37,10,401,186,178,364,27
+2023-07-07,LY,Serbia & Montenegro,3416,3021,40,6,395,175,180,355,34
+2023-07-08,LY,Serbia & Montenegro,3533,3170,35,6,363,157,171,328,29
+2023-07-09,LY,Serbia & Montenegro,3641,3249,39,1,392,179,174,353,38
+2023-07-10,LY,Serbia & Montenegro,3426,3010,34,3,416,199,183,382,31
+2023-07-11,LY,Serbia & Montenegro,3317,2972,33,4,345,152,160,312,29
+2023-07-12,LY,Serbia & Montenegro,3512,3147,44,4,365,156,165,321,40
+2023-07-13,LY,Serbia & Montenegro,3469,3080,32,5,389,179,178,357,27
+2023-07-14,LY,Serbia & Montenegro,3602,3189,38,5,413,194,181,375,33
+2023-07-15,LY,Serbia & Montenegro,3595,3227,31,1,368,165,172,337,30
+2023-07-16,LY,Serbia & Montenegro,3634,3249,34,0,385,175,176,351,34
+2023-07-17,LY,Serbia & Montenegro,3438,3021,32,5,417,191,194,385,27
+2023-07-18,LY,Serbia & Montenegro,3289,2913,38,6,376,169,169,338,32
+2023-07-19,LY,Serbia & Montenegro,3159,2795,42,6,364,160,162,322,36
+2023-07-20,LY,Serbia & Montenegro,3384,2976,37,8,408,192,179,371,29
+2023-07-21,LY,Serbia & Montenegro,3486,3083,42,9,403,179,182,361,33
+2023-07-22,LY,Serbia & Montenegro,3606,3239,33,0,367,165,169,334,33
+2023-07-23,LY,Serbia & Montenegro,3603,3169,43,1,434,196,195,391,42
+2023-07-24,LY,Serbia & Montenegro,3298,2877,33,0,421,195,193,388,33
+2023-07-25,LY,Serbia & Montenegro,3175,2816,32,1,359,166,161,327,31
+2023-07-26,LY,Serbia & Montenegro,3343,2972,35,1,371,162,174,336,34
+2023-07-27,LY,Serbia & Montenegro,3445,3032,31,4,413,192,190,382,27
+2023-07-28,LY,Serbia & Montenegro,3478,3051,42,3,427,193,192,385,39
+2023-07-29,LY,Serbia & Montenegro,3732,3356,30,2,376,172,174,346,28
+2023-07-30,LY,Serbia & Montenegro,3509,3113,36,1,396,178,182,360,35
+2023-07-31,LY,Serbia & Montenegro,3386,2973,29,0,413,191,193,384,29
+2023-08-01,LY,Serbia & Montenegro,3390,2994,35,1,396,185,176,361,34
+2023-08-02,LY,Serbia & Montenegro,3480,3091,38,0,389,179,172,351,38
+2023-08-03,LY,Serbia & Montenegro,3393,2999,29,0,394,183,182,365,29
+2023-08-04,LY,Serbia & Montenegro,3324,2905,37,3,419,191,191,382,34
+2023-08-05,LY,Serbia & Montenegro,3466,3121,31,1,345,160,154,314,30
+2023-08-06,LY,Serbia & Montenegro,3455,3066,35,0,389,174,180,354,35
+2023-08-07,LY,Serbia & Montenegro,3318,2900,26,2,418,195,197,392,24
+2023-08-08,LY,Serbia & Montenegro,3390,2999,46,6,391,170,175,345,40
+2023-08-09,LY,Serbia & Montenegro,3463,3062,48,8,401,176,177,353,40
+2023-08-10,LY,Serbia & Montenegro,3338,2927,35,6,411,191,185,376,29
+2023-08-11,LY,Serbia & Montenegro,3637,3209,40,4,428,191,197,388,36
+2023-08-12,LY,Serbia & Montenegro,3705,3332,29,0,373,174,170,344,29
+2023-08-13,LY,Serbia & Montenegro,3658,3276,35,0,382,174,173,347,35
+2023-08-14,LY,Serbia & Montenegro,3374,2964,35,3,410,188,187,375,32
+2023-08-15,LY,Serbia & Montenegro,3440,3068,37,3,372,164,171,335,34
+2023-08-16,LY,Serbia & Montenegro,3464,3076,47,6,388,173,168,341,41
+2023-08-17,LY,Serbia & Montenegro,3392,3019,35,7,373,173,165,338,28
+2023-08-18,LY,Serbia & Montenegro,3462,3045,42,7,417,186,189,375,35
+2023-08-19,LY,Serbia & Montenegro,3606,3242,32,1,364,161,171,332,31
+2023-08-20,LY,Serbia & Montenegro,3671,3287,36,2,384,175,173,348,34
+2023-08-21,LY,Serbia & Montenegro,3413,3018,38,7,395,179,178,357,31
+2023-08-22,LY,Serbia & Montenegro,3453,3087,46,11,366,160,160,320,35
+2023-08-23,LY,Serbia & Montenegro,3430,3063,46,8,367,159,162,321,38
+2023-08-24,LY,Serbia & Montenegro,3184,2801,37,7,383,179,167,346,30
+2023-08-25,LY,Serbia & Montenegro,3428,3017,43,9,411,183,185,368,34
+2023-08-26,LY,Serbia & Montenegro,3578,3227,30,2,351,156,165,321,28
+2023-08-27,LY,Serbia & Montenegro,3640,3269,32,1,371,171,168,339,31
+2023-08-28,LY,Serbia & Montenegro,3058,2649,28,1,409,185,196,381,27
+2023-08-29,LY,Serbia & Montenegro,3340,2980,37,2,360,160,163,323,35
+2023-08-30,LY,Serbia & Montenegro,3469,3096,38,5,373,168,167,335,33
+2023-08-31,LY,Serbia & Montenegro,3284,2878,34,5,406,188,184,372,29
+2023-09-01,LY,Serbia & Montenegro,3423,3002,46,12,421,190,185,375,34
+2023-09-02,LY,Serbia & Montenegro,3704,3354,29,1,350,157,164,321,28
+2023-09-03,LY,Serbia & Montenegro,3561,3166,33,0,395,181,181,362,33
+2023-09-04,LY,Serbia & Montenegro,3150,2752,35,6,398,183,180,363,29
+2023-09-05,LY,Serbia & Montenegro,3171,2827,40,9,344,149,155,304,31
+2023-09-06,LY,Serbia & Montenegro,3294,2950,40,7,344,151,153,304,33
+2023-09-07,LY,Serbia & Montenegro,3224,2812,32,6,412,193,187,380,26
+2023-09-08,LY,Serbia & Montenegro,3288,2888,38,9,400,181,181,362,29
+2023-09-09,LY,Serbia & Montenegro,3677,3325,31,0,352,157,164,321,31
+2023-09-10,LY,Serbia & Montenegro,3505,3116,31,0,389,183,175,358,31
+2023-09-11,LY,Serbia & Montenegro,3224,2805,37,7,419,189,193,382,30
+2023-09-12,LY,Serbia & Montenegro,3131,2788,38,9,343,153,152,305,29
+2023-09-13,LY,Serbia & Montenegro,3174,2797,46,9,377,169,162,331,37
+2023-09-14,LY,Serbia & Montenegro,3152,2764,35,11,388,176,177,353,24
+2023-09-15,LY,Serbia & Montenegro,3219,2816,37,7,403,186,180,366,30
+2023-09-16,LY,Serbia & Montenegro,3461,3114,26,2,347,157,164,321,24
+2023-09-17,LY,Serbia & Montenegro,3259,2882,29,0,377,174,174,348,29
+2023-09-18,LY,Serbia & Montenegro,3065,2688,24,0,377,174,179,353,24
+2023-09-19,LY,Serbia & Montenegro,2946,2620,22,0,326,154,150,304,22
+2023-09-20,LY,Serbia & Montenegro,2996,2634,39,12,362,164,159,323,27
+2023-09-21,LY,Serbia & Montenegro,2996,2622,30,5,374,172,172,344,25
+2023-09-22,LY,Serbia & Montenegro,3145,2756,30,1,389,180,179,359,29
+2023-09-23,LY,Serbia & Montenegro,3307,2997,23,4,310,141,146,287,19
+2023-09-24,LY,Serbia & Montenegro,3293,2960,25,0,333,152,156,308,25
+2023-09-25,LY,Serbia & Montenegro,2852,2487,32,7,365,164,169,333,25
+2023-09-26,LY,Serbia & Montenegro,3091,2767,31,7,324,144,149,293,24
+2023-09-27,LY,Serbia & Montenegro,2980,2650,40,11,330,148,142,290,29
+2023-09-28,LY,Serbia & Montenegro,3007,2626,37,12,381,174,170,344,25
+2023-09-29,LY,Serbia & Montenegro,3119,2778,33,7,341,152,156,308,26
+2023-09-30,LY,Serbia & Montenegro,3453,3141,24,0,312,141,147,288,24
+2023-10-01,LY,Serbia & Montenegro,3271,2952,25,1,319,152,142,294,24
+2023-10-02,LY,Serbia & Montenegro,2974,2621,35,14,353,155,163,318,21
+2023-10-03,LY,Serbia & Montenegro,2928,2630,33,7,298,128,137,265,26
+2023-10-04,LY,Serbia & Montenegro,2949,2639,30,8,310,146,134,280,22
+2023-10-05,LY,Serbia & Montenegro,2859,2510,29,9,349,162,158,320,20
+2023-10-06,LY,Serbia & Montenegro,3117,2758,30,7,359,166,163,329,23
+2023-10-07,LY,Serbia & Montenegro,3274,2992,23,2,282,121,138,259,21
+2023-10-08,LY,Serbia & Montenegro,3216,2901,24,2,315,147,144,291,22
+2023-10-09,LY,Serbia & Montenegro,2786,2443,23,4,343,159,161,320,19
+2023-10-10,LY,Serbia & Montenegro,2599,2328,21,3,271,124,126,250,18
+2023-10-11,LY,Serbia & Montenegro,2695,2411,27,6,284,133,124,257,21
+2023-10-12,LY,Serbia & Montenegro,2714,2395,33,10,319,145,141,286,23
+2023-10-13,LY,Serbia & Montenegro,2958,2607,32,10,351,155,164,319,22
+2023-10-14,LY,Serbia & Montenegro,3133,2843,23,3,290,134,133,267,20
+2023-10-15,LY,Serbia & Montenegro,3042,2735,19,0,307,145,143,288,19
+2023-10-16,LY,Serbia & Montenegro,2626,2295,24,5,331,156,151,307,19
+2023-10-17,LY,Serbia & Montenegro,2516,2245,29,8,271,118,124,242,21
+2023-10-18,LY,Serbia & Montenegro,2569,2292,27,7,277,125,125,250,20
+2023-10-19,LY,Serbia & Montenegro,2629,2326,19,1,303,143,141,284,18
+2023-10-20,LY,Serbia & Montenegro,2714,2380,22,1,334,159,153,312,21
+2023-10-21,LY,Serbia & Montenegro,2966,2701,20,0,265,117,128,245,20
+2023-10-22,LY,Serbia & Montenegro,2921,2634,20,0,287,138,129,267,20
+2023-10-23,LY,Serbia & Montenegro,2576,2255,23,4,321,150,148,298,19
+2023-10-24,LY,Serbia & Montenegro,2458,2198,20,4,260,119,121,240,16
+2023-10-25,LY,Serbia & Montenegro,2531,2285,25,5,246,111,110,221,20
+2023-10-26,LY,Serbia & Montenegro,2536,2233,22,4,303,140,141,281,18
+2023-10-27,LY,Serbia & Montenegro,2708,2385,21,0,323,148,154,302,21
+2023-10-28,LY,Serbia & Montenegro,2896,2651,21,0,245,108,116,224,21
+2023-10-29,LY,Serbia & Montenegro,2648,2382,20,1,266,123,123,246,19
+2023-10-30,LY,Serbia & Montenegro,2293,2006,18,1,287,136,133,269,17
+2023-10-31,LY,Serbia & Montenegro,2242,2018,20,2,224,100,104,204,18
+2023-11-01,LY,Serbia & Montenegro,2053,1803,28,4,250,114,108,222,24
+2023-11-02,LY,Serbia & Montenegro,2077,1815,19,1,262,119,124,243,18
+2023-11-03,LY,Serbia & Montenegro,2247,1958,17,0,289,140,132,272,17
+2023-11-04,LY,Serbia & Montenegro,2539,2290,19,0,249,112,118,230,19
+2023-11-05,LY,Serbia & Montenegro,2422,2157,21,0,265,119,125,244,21
+2023-11-06,LY,Serbia & Montenegro,1934,1629,23,3,305,144,138,282,20
+2023-11-07,LY,Serbia & Montenegro,1785,1550,18,3,235,107,110,217,15
+2023-11-08,LY,Serbia & Montenegro,1843,1583,25,3,260,122,113,235,22
+2023-11-09,LY,Serbia & Montenegro,1848,1582,25,5,266,120,121,241,20
+2023-11-10,LY,Serbia & Montenegro,1973,1675,17,0,298,137,144,281,17
+2023-11-11,LY,Serbia & Montenegro,2070,1828,22,3,242,104,116,220,19
+2023-11-12,LY,Serbia & Montenegro,2109,1841,19,1,268,131,118,249,18
+2023-11-13,LY,Serbia & Montenegro,1774,1470,23,5,304,137,144,281,18
+2023-11-14,LY,Serbia & Montenegro,1684,1439,21,4,245,112,112,224,17
+2023-11-15,LY,Serbia & Montenegro,1829,1573,26,4,256,117,113,230,22
+2023-11-16,LY,Serbia & Montenegro,1812,1551,23,3,261,120,118,238,20
+2023-11-17,LY,Serbia & Montenegro,1991,1694,20,1,297,138,139,277,19
+2023-11-18,LY,Serbia & Montenegro,1864,1626,20,0,238,105,113,218,20
+2023-11-19,LY,Serbia & Montenegro,1847,1590,19,0,257,122,116,238,19
+2023-11-20,LY,Serbia & Montenegro,1685,1378,24,4,307,143,140,283,20
+2023-11-21,LY,Serbia & Montenegro,1538,1320,20,7,218,94,104,198,13
+2023-11-22,LY,Serbia & Montenegro,1702,1464,21,3,238,110,107,217,18
+2023-11-23,LY,Serbia & Montenegro,1779,1533,23,4,246,110,113,223,19
+2023-11-24,LY,Serbia & Montenegro,1841,1554,22,7,287,136,129,265,15
+2023-11-25,LY,Serbia & Montenegro,1851,1628,19,0,223,102,102,204,19
+2023-11-26,LY,Serbia & Montenegro,1880,1641,19,0,239,111,109,220,19
+2023-11-27,LY,Serbia & Montenegro,1658,1377,21,4,281,128,132,260,17
+2023-11-28,LY,Serbia & Montenegro,1514,1290,19,2,224,102,103,205,17
+2023-11-29,LY,Serbia & Montenegro,1605,1372,21,0,233,106,106,212,21
+2023-11-30,LY,Serbia & Montenegro,1810,1551,24,3,259,118,117,235,21
+2023-12-01,LY,Serbia & Montenegro,1885,1604,22,0,281,131,128,259,22
+2023-12-02,LY,Serbia & Montenegro,1694,1495,20,1,199,91,88,179,19
+2023-12-03,LY,Serbia & Montenegro,1883,1628,21,0,255,117,117,234,21
+2023-12-04,LY,Serbia & Montenegro,1633,1341,22,4,292,133,137,270,18
+2023-12-05,LY,Serbia & Montenegro,1516,1305,20,0,211,96,95,191,20
+2023-12-06,LY,Serbia & Montenegro,1642,1392,21,3,250,112,117,229,18
+2023-12-07,LY,Serbia & Montenegro,1753,1498,20,2,255,117,118,235,18
 2023-12-08,LY,Serbia & Montenegro,1804,1524,17,1,280,133,130,263,16
 2023-12-09,LY,Serbia & Montenegro,1809,1581,19,0,228,107,102,209,19
 2023-12-10,LY,Serbia & Montenegro,1883,1624,18,1,259,118,123,241,17
@@ -11135,6 +11166,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LY,Serbia & Montenegro,1538,1291,24,3,247,108,115,223,21
 2023-12-13,LY,Serbia & Montenegro,1647,1386,24,3,261,121,116,237,21
 2023-12-14,LY,Serbia & Montenegro,1732,1464,19,0,268,127,122,249,19
+2023-12-15,LY,Serbia & Montenegro,1878,1578,19,2,300,141,140,281,17
 2023-01-01,LZ,Slovakia,979,936,1,0,43,21,21,42,1
 2023-01-02,LZ,Slovakia,1006,946,2,0,60,28,30,58,2
 2023-01-03,LZ,Slovakia,931,892,2,0,39,18,19,37,2
@@ -11483,6 +11515,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LZ,Slovakia,1089,1027,8,1,62,30,24,54,7
 2023-12-13,LZ,Slovakia,1063,1019,1,0,44,19,24,43,1
 2023-12-14,LZ,Slovakia,1147,1072,6,1,75,31,38,69,5
+2023-12-15,LZ,Slovakia,1213,1118,7,1,95,43,45,88,6
 2023-01-01,LJ,Slovenia,896,868,0,0,28,14,14,28,0
 2023-01-02,LJ,Slovenia,941,897,0,0,44,21,23,44,0
 2023-01-03,LJ,Slovenia,893,844,3,0,49,25,21,46,3
@@ -11831,354 +11864,356 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LJ,Slovenia,831,777,2,0,54,25,27,52,2
 2023-12-13,LJ,Slovenia,937,884,0,0,53,29,24,53,0
 2023-12-14,LJ,Slovenia,999,938,8,4,61,25,28,53,4
-2023-01-01,LE,Spain,4681,1251,903,1,3430,1275,1252,2527,902
-2023-01-02,LE,Spain,5215,1378,1041,2,3837,1422,1374,2796,1039
-2023-01-03,LE,Spain,4915,1316,1017,11,3599,1299,1283,2582,1006
-2023-01-04,LE,Spain,4760,1188,1045,21,3572,1260,1267,2527,1024
-2023-01-05,LE,Spain,4806,1217,967,16,3589,1303,1319,2622,951
-2023-01-06,LE,Spain,5009,1339,976,3,3670,1344,1350,2694,973
-2023-01-07,LE,Spain,5212,1328,955,9,3884,1469,1460,2929,946
-2023-01-08,LE,Spain,5243,1271,1120,6,3972,1437,1415,2852,1114
-2023-01-09,LE,Spain,4843,1260,1080,24,3583,1260,1243,2503,1056
-2023-01-10,LE,Spain,4126,1009,968,21,3117,1072,1077,2149,947
-2023-01-11,LE,Spain,3959,923,1016,36,3036,1000,1020,2020,980
-2023-01-12,LE,Spain,4334,1025,1066,40,3309,1116,1127,2243,1026
-2023-01-13,LE,Spain,4789,1205,1153,24,3584,1208,1223,2431,1129
-2023-01-14,LE,Spain,4683,1150,962,17,3533,1281,1290,2571,945
-2023-01-15,LE,Spain,4788,1181,1027,11,3607,1299,1281,2580,1016
-2023-01-16,LE,Spain,4474,1139,1044,17,3335,1159,1132,2291,1027
-2023-01-17,LE,Spain,3791,918,952,21,2873,965,956,1921,931
-2023-01-18,LE,Spain,3798,867,991,27,2931,963,977,1940,964
-2023-01-19,LE,Spain,4100,926,1073,32,3174,1037,1064,2101,1041
-2023-01-20,LE,Spain,4769,1184,1192,32,3585,1192,1201,2393,1160
-2023-01-21,LE,Spain,4646,1172,946,10,3474,1264,1264,2528,936
-2023-01-22,LE,Spain,4725,1142,1070,13,3583,1264,1249,2513,1057
-2023-01-23,LE,Spain,4451,1105,1090,36,3346,1134,1122,2256,1054
-2023-01-24,LE,Spain,3820,894,992,40,2926,969,965,1934,952
-2023-01-25,LE,Spain,3852,852,1054,55,3000,977,969,1946,999
-2023-01-26,LE,Spain,4219,970,1078,46,3249,1071,1100,2171,1032
-2023-01-27,LE,Spain,4758,1129,1190,30,3629,1221,1218,2439,1160
-2023-01-28,LE,Spain,4566,1121,958,20,3445,1239,1248,2487,938
-2023-01-29,LE,Spain,4722,1132,1056,10,3590,1278,1256,2534,1046
-2023-01-30,LE,Spain,4530,1142,1084,39,3388,1147,1157,2304,1045
-2023-01-31,LE,Spain,3888,937,1009,59,2951,969,973,1942,950
-2023-02-01,LE,Spain,4011,920,1050,51,3091,1021,1020,2041,999
-2023-02-02,LE,Spain,4292,1009,1031,48,3283,1122,1130,2252,983
-2023-02-03,LE,Spain,4910,1179,1231,32,3731,1252,1248,2500,1199
-2023-02-04,LE,Spain,4771,1163,998,22,3608,1307,1303,2610,976
-2023-02-05,LE,Spain,4903,1179,1140,21,3724,1304,1280,2584,1119
-2023-02-06,LE,Spain,4676,1188,1111,39,3488,1194,1183,2377,1072
-2023-02-07,LE,Spain,3921,946,968,33,2975,1001,1006,2007,935
-2023-02-08,LE,Spain,4033,944,1000,38,3089,1048,1041,2089,962
-2023-02-09,LE,Spain,4424,1072,1044,49,3352,1150,1158,2308,995
-2023-02-10,LE,Spain,5106,1247,1227,34,3859,1309,1323,2632,1193
-2023-02-11,LE,Spain,4980,1254,985,24,3726,1357,1384,2741,961
-2023-02-12,LE,Spain,5102,1260,1095,16,3842,1389,1358,2747,1079
-2023-02-13,LE,Spain,4858,1211,1115,32,3647,1261,1271,2532,1083
-2023-02-14,LE,Spain,4353,1088,1031,38,3265,1133,1101,2234,993
-2023-02-15,LE,Spain,4387,1080,1061,40,3307,1108,1138,2246,1021
-2023-02-16,LE,Spain,4779,1144,1114,43,3635,1248,1273,2521,1071
-2023-02-17,LE,Spain,5262,1293,1287,30,3969,1339,1343,2682,1257
-2023-02-18,LE,Spain,5388,1372,1071,25,4016,1465,1480,2945,1046
-2023-02-19,LE,Spain,5371,1330,1170,26,4041,1441,1430,2871,1144
-2023-02-20,LE,Spain,5058,1240,1171,40,3818,1333,1314,2647,1131
-2023-02-21,LE,Spain,4524,1122,1093,43,3402,1164,1145,2309,1050
-2023-02-22,LE,Spain,4558,1137,1107,41,3421,1153,1161,2314,1066
-2023-02-23,LE,Spain,4846,1201,1097,34,3645,1270,1278,2548,1063
-2023-02-24,LE,Spain,5445,1392,1272,32,4053,1388,1393,2781,1240
-2023-02-25,LE,Spain,5282,1383,1007,12,3899,1441,1451,2892,995
-2023-02-26,LE,Spain,5413,1352,1140,12,4061,1451,1470,2921,1128
-2023-02-27,LE,Spain,5069,1322,1107,25,3747,1324,1316,2640,1082
-2023-02-28,LE,Spain,4574,1177,1033,26,3397,1199,1165,2364,1007
-2023-03-01,LE,Spain,4673,1192,1107,38,3481,1183,1191,2374,1069
-2023-03-02,LE,Spain,4979,1263,1150,38,3716,1282,1284,2566,1112
-2023-03-03,LE,Spain,5572,1398,1276,33,4174,1442,1456,2898,1243
-2023-03-04,LE,Spain,5297,1359,1056,21,3938,1439,1443,2882,1035
-2023-03-05,LE,Spain,5340,1317,1150,16,4023,1444,1429,2873,1134
-2023-03-06,LE,Spain,5105,1323,1132,24,3782,1334,1316,2650,1108
-2023-03-07,LE,Spain,4406,1076,1048,43,3330,1151,1131,2282,1005
-2023-03-08,LE,Spain,4430,1083,1096,52,3347,1119,1132,2251,1044
-2023-03-09,LE,Spain,4742,1160,1112,34,3582,1230,1240,2470,1078
-2023-03-10,LE,Spain,5140,1247,1239,26,3893,1320,1334,2654,1213
-2023-03-11,LE,Spain,5141,1275,1044,20,3866,1407,1415,2822,1024
-2023-03-12,LE,Spain,5267,1267,1166,26,4000,1424,1410,2834,1140
-2023-03-13,LE,Spain,5110,1307,1195,54,3803,1323,1285,2608,1141
-2023-03-14,LE,Spain,4580,1170,1049,40,3410,1180,1181,2361,1009
-2023-03-15,LE,Spain,4573,1112,1125,39,3461,1153,1183,2336,1086
-2023-03-16,LE,Spain,4913,1168,1163,52,3745,1299,1283,2582,1111
-2023-03-17,LE,Spain,5378,1328,1274,30,4050,1377,1399,2776,1244
-2023-03-18,LE,Spain,5256,1327,1002,14,3929,1461,1466,2927,988
-2023-03-19,LE,Spain,5369,1284,1169,16,4085,1465,1451,2916,1153
-2023-03-20,LE,Spain,5152,1234,1187,32,3918,1379,1352,2731,1155
-2023-03-21,LE,Spain,4657,1132,1120,53,3525,1207,1198,2405,1067
-2023-03-22,LE,Spain,4627,1122,1124,43,3505,1178,1203,2381,1081
-2023-03-23,LE,Spain,4859,1130,1179,47,3729,1271,1279,2550,1132
-2023-03-24,LE,Spain,5369,1267,1293,34,4102,1393,1416,2809,1259
-2023-03-25,LE,Spain,5277,1277,1056,10,4000,1462,1482,2944,1046
-2023-03-26,LE,Spain,5642,1264,1208,21,4378,1584,1586,3170,1187
-2023-03-27,LE,Spain,5309,1208,1235,35,4101,1441,1425,2866,1200
-2023-03-28,LE,Spain,5349,1158,1176,54,4191,1506,1509,3015,1122
-2023-03-29,LE,Spain,5403,1193,1235,38,4210,1489,1486,2975,1197
-2023-03-30,LE,Spain,5753,1214,1297,31,4539,1624,1618,3242,1266
-2023-03-31,LE,Spain,6029,1286,1328,15,4743,1698,1717,3415,1313
-2023-04-01,LE,Spain,6301,1379,1143,7,4922,1879,1900,3779,1136
-2023-04-02,LE,Spain,6036,1309,1214,10,4727,1762,1751,3513,1204
-2023-04-03,LE,Spain,5845,1290,1241,27,4555,1665,1649,3314,1214
-2023-04-04,LE,Spain,5747,1290,1189,23,4457,1630,1638,3268,1166
-2023-04-05,LE,Spain,5929,1264,1337,32,4665,1651,1677,3328,1305
-2023-04-06,LE,Spain,6081,1313,1248,10,4768,1737,1783,3520,1238
-2023-04-07,LE,Spain,6033,1353,1136,15,4680,1762,1782,3544,1121
-2023-04-08,LE,Spain,6285,1367,1149,21,4918,1884,1885,3769,1128
-2023-04-09,LE,Spain,6199,1372,1280,11,4827,1766,1781,3547,1269
-2023-04-10,LE,Spain,6207,1346,1305,23,4861,1815,1741,3556,1282
-2023-04-11,LE,Spain,5931,1295,1198,29,4636,1733,1705,3438,1169
-2023-04-12,LE,Spain,5765,1276,1241,33,4489,1627,1621,3248,1208
-2023-04-13,LE,Spain,6064,1350,1290,30,4714,1710,1714,3424,1260
-2023-04-14,LE,Spain,6343,1423,1299,26,4920,1799,1822,3621,1273
-2023-04-15,LE,Spain,6381,1434,1091,13,4947,1934,1922,3856,1078
-2023-04-16,LE,Spain,6324,1468,1241,17,4856,1828,1787,3615,1224
-2023-04-17,LE,Spain,6022,1402,1248,23,4620,1698,1674,3372,1225
-2023-04-18,LE,Spain,5832,1344,1167,19,4488,1656,1665,3321,1148
-2023-04-19,LE,Spain,5840,1391,1263,40,4449,1586,1600,3186,1223
-2023-04-20,LE,Spain,6092,1401,1308,31,4691,1690,1693,3383,1277
-2023-04-21,LE,Spain,6267,1444,1341,31,4823,1723,1759,3482,1310
-2023-04-22,LE,Spain,6310,1461,1098,10,4849,1864,1887,3751,1088
-2023-04-23,LE,Spain,6310,1474,1225,10,4836,1823,1788,3611,1215
-2023-04-24,LE,Spain,6031,1409,1256,27,4622,1694,1672,3366,1229
-2023-04-25,LE,Spain,5877,1364,1196,28,4513,1665,1652,3317,1168
-2023-04-26,LE,Spain,5895,1354,1301,31,4541,1606,1634,3240,1270
-2023-04-27,LE,Spain,6256,1447,1355,26,4809,1715,1739,3454,1329
-2023-04-28,LE,Spain,6502,1422,1390,27,5080,1795,1895,3690,1363
-2023-04-29,LE,Spain,6432,1466,1162,11,4966,1904,1900,3804,1151
-2023-04-30,LE,Spain,6310,1475,1208,12,4835,1825,1802,3627,1196
-2023-05-01,LE,Spain,5935,1285,1250,6,4650,1727,1673,3400,1244
-2023-05-02,LE,Spain,6077,1371,1227,38,4706,1746,1733,3479,1189
-2023-05-03,LE,Spain,6021,1435,1266,31,4586,1676,1644,3320,1235
-2023-05-04,LE,Spain,6343,1485,1366,44,4858,1734,1758,3492,1322
-2023-05-05,LE,Spain,6449,1450,1353,41,4999,1796,1850,3646,1312
-2023-05-06,LE,Spain,6495,1483,1118,21,5012,1942,1952,3894,1097
-2023-05-07,LE,Spain,6478,1539,1234,13,4939,1869,1836,3705,1221
-2023-05-08,LE,Spain,6296,1460,1262,30,4836,1801,1773,3574,1232
-2023-05-09,LE,Spain,6189,1342,1230,54,4847,1794,1823,3617,1176
-2023-05-10,LE,Spain,6133,1416,1289,39,4717,1736,1692,3428,1250
-2023-05-11,LE,Spain,6277,1449,1342,44,4828,1742,1744,3486,1298
-2023-05-12,LE,Spain,6439,1441,1317,34,4998,1833,1848,3681,1283
-2023-05-13,LE,Spain,6499,1474,1112,26,5025,1953,1960,3913,1086
-2023-05-14,LE,Spain,6459,1502,1219,13,4957,1880,1858,3738,1206
-2023-05-15,LE,Spain,6231,1441,1268,46,4790,1767,1755,3522,1222
-2023-05-16,LE,Spain,6159,1362,1198,35,4797,1802,1797,3599,1163
-2023-05-17,LE,Spain,6261,1415,1301,46,4846,1750,1795,3545,1255
-2023-05-18,LE,Spain,6485,1491,1321,35,4994,1816,1857,3673,1286
-2023-05-19,LE,Spain,6356,1381,1311,19,4975,1835,1829,3664,1292
-2023-05-20,LE,Spain,6538,1485,1095,10,5053,1980,1978,3958,1085
-2023-05-21,LE,Spain,6641,1520,1205,3,5121,1988,1928,3916,1202
-2023-05-22,LE,Spain,6236,1423,1241,21,4813,1809,1763,3572,1220
-2023-05-23,LE,Spain,6185,1357,1166,23,4828,1828,1834,3662,1143
-2023-05-24,LE,Spain,6093,1397,1259,25,4696,1714,1723,3437,1234
-2023-05-25,LE,Spain,6344,1430,1276,31,4914,1808,1830,3638,1245
-2023-05-26,LE,Spain,6545,1367,1310,21,5178,1901,1967,3868,1289
-2023-05-27,LE,Spain,6761,1496,1155,8,5265,2044,2066,4110,1147
-2023-05-28,LE,Spain,6475,1424,1217,2,5051,1925,1909,3834,1215
-2023-05-29,LE,Spain,6451,1481,1226,31,4970,1906,1838,3744,1195
-2023-05-30,LE,Spain,6327,1350,1221,37,4977,1895,1861,3756,1184
-2023-05-31,LE,Spain,6300,1394,1280,40,4906,1807,1819,3626,1240
-2023-06-01,LE,Spain,6513,1396,1313,31,5117,1870,1934,3804,1282
-2023-06-02,LE,Spain,6581,1444,1316,30,5137,1892,1929,3821,1286
-2023-06-03,LE,Spain,6698,1431,1113,14,5267,2072,2082,4154,1099
-2023-06-04,LE,Spain,6734,1533,1237,10,5201,2022,1942,3964,1227
-2023-06-05,LE,Spain,6490,1486,1263,25,5004,1874,1867,3741,1238
-2023-06-06,LE,Spain,6009,1315,1146,46,4694,1779,1769,3548,1100
-2023-06-07,LE,Spain,6326,1438,1207,38,4888,1843,1838,3681,1169
-2023-06-08,LE,Spain,6565,1508,1267,31,5057,1869,1921,3790,1236
-2023-06-09,LE,Spain,6678,1487,1310,33,5191,1931,1950,3881,1277
-2023-06-10,LE,Spain,6788,1529,1065,12,5259,2106,2088,4194,1053
-2023-06-11,LE,Spain,6774,1566,1222,9,5208,2009,1977,3986,1213
-2023-06-12,LE,Spain,6468,1553,1261,23,4915,1832,1822,3654,1238
-2023-06-13,LE,Spain,6558,1520,1202,51,5038,1921,1915,3836,1151
-2023-06-14,LE,Spain,6446,1516,1250,38,4930,1835,1845,3680,1212
-2023-06-15,LE,Spain,6785,1558,1351,43,5227,1926,1950,3876,1308
-2023-06-16,LE,Spain,6978,1528,1406,34,5450,2002,2042,4044,1372
-2023-06-17,LE,Spain,6976,1546,1143,21,5430,2156,2131,4287,1122
-2023-06-18,LE,Spain,6802,1536,1278,7,5266,1999,1989,3988,1271
-2023-06-19,LE,Spain,6741,1576,1347,30,5165,1920,1898,3818,1317
-2023-06-20,LE,Spain,6690,1489,1282,38,5201,1966,1953,3919,1244
-2023-06-21,LE,Spain,6679,1535,1342,37,5144,1893,1909,3802,1305
-2023-06-22,LE,Spain,6947,1597,1371,34,5350,1974,2005,3979,1337
-2023-06-23,LE,Spain,6969,1511,1396,33,5458,2011,2051,4062,1363
-2023-06-24,LE,Spain,7059,1591,1139,19,5468,2165,2164,4329,1120
-2023-06-25,LE,Spain,7035,1596,1274,9,5439,2092,2073,4165,1265
-2023-06-26,LE,Spain,6873,1606,1343,29,5267,1982,1942,3924,1314
-2023-06-27,LE,Spain,6809,1527,1289,55,5282,2009,1984,3993,1234
-2023-06-28,LE,Spain,6683,1500,1369,47,5183,1897,1917,3814,1322
-2023-06-29,LE,Spain,6934,1548,1376,44,5386,1999,2011,4010,1332
-2023-06-30,LE,Spain,7090,1532,1434,33,5558,2037,2087,4124,1401
-2023-07-01,LE,Spain,7272,1569,1198,25,5703,2263,2242,4505,1173
-2023-07-02,LE,Spain,7270,1593,1353,17,5677,2157,2167,4324,1336
-2023-07-03,LE,Spain,7069,1603,1405,30,5466,2055,2006,4061,1375
-2023-07-04,LE,Spain,7002,1540,1314,37,5462,2071,2077,4148,1277
-2023-07-05,LE,Spain,6932,1572,1407,42,5360,1978,1975,3953,1365
-2023-07-06,LE,Spain,7202,1611,1431,44,5591,2077,2083,4160,1387
-2023-07-07,LE,Spain,7292,1547,1469,30,5745,2117,2159,4276,1439
-2023-07-08,LE,Spain,7335,1610,1213,15,5725,2265,2247,4512,1198
-2023-07-09,LE,Spain,7306,1609,1345,13,5697,2176,2176,4352,1332
-2023-07-10,LE,Spain,7185,1633,1440,31,5552,2069,2043,4112,1409
-2023-07-11,LE,Spain,7042,1555,1343,37,5487,2075,2069,4144,1306
-2023-07-12,LE,Spain,7086,1595,1437,44,5491,2031,2023,4054,1393
-2023-07-13,LE,Spain,7211,1650,1427,33,5561,2061,2073,4134,1394
-2023-07-14,LE,Spain,7263,1605,1441,18,5658,2097,2120,4217,1423
-2023-07-15,LE,Spain,7299,1604,1207,18,5695,2253,2235,4488,1189
-2023-07-16,LE,Spain,7286,1630,1331,6,5656,2180,2145,4325,1325
-2023-07-17,LE,Spain,7190,1684,1424,30,5506,2035,2047,4082,1394
-2023-07-18,LE,Spain,7097,1590,1328,31,5507,2091,2088,4179,1297
-2023-07-19,LE,Spain,7030,1586,1425,48,5444,2013,2006,4019,1377
-2023-07-20,LE,Spain,7303,1672,1438,34,5631,2089,2104,4193,1404
-2023-07-21,LE,Spain,7184,1516,1439,36,5668,2094,2135,4229,1403
-2023-07-22,LE,Spain,7449,1630,1217,7,5819,2301,2301,4602,1210
-2023-07-23,LE,Spain,7174,1515,1332,9,5659,2171,2156,4327,1323
-2023-07-24,LE,Spain,7077,1585,1411,29,5492,2043,2038,4081,1382
-2023-07-25,LE,Spain,7015,1536,1316,26,5479,2088,2075,4163,1290
-2023-07-26,LE,Spain,7077,1616,1381,36,5461,2046,2034,4080,1345
-2023-07-27,LE,Spain,7215,1638,1409,38,5577,2076,2092,4168,1371
-2023-07-28,LE,Spain,7348,1628,1465,30,5720,2117,2138,4255,1435
-2023-07-29,LE,Spain,7401,1619,1224,17,5782,2274,2284,4558,1207
-2023-07-30,LE,Spain,7363,1631,1329,16,5732,2217,2186,4403,1313
-2023-07-31,LE,Spain,7193,1639,1397,20,5554,2089,2068,4157,1377
-2023-08-01,LE,Spain,7175,1628,1320,36,5547,2120,2107,4227,1284
-2023-08-02,LE,Spain,7096,1676,1356,38,5420,2033,2031,4064,1318
-2023-08-03,LE,Spain,7212,1664,1376,28,5548,2088,2084,4172,1348
-2023-08-04,LE,Spain,7226,1630,1382,18,5596,2083,2131,4214,1364
-2023-08-05,LE,Spain,7430,1648,1207,17,5782,2294,2281,4575,1190
-2023-08-06,LE,Spain,7267,1608,1301,17,5659,2182,2176,4358,1284
-2023-08-07,LE,Spain,7170,1655,1391,27,5515,2076,2048,4124,1364
-2023-08-08,LE,Spain,6986,1539,1300,42,5447,2081,2066,4147,1258
-2023-08-09,LE,Spain,6971,1635,1351,36,5336,1989,1996,3985,1315
-2023-08-10,LE,Spain,7172,1665,1374,44,5507,2062,2071,4133,1330
-2023-08-11,LE,Spain,7234,1585,1435,30,5649,2087,2127,4214,1405
-2023-08-12,LE,Spain,7444,1638,1249,18,5806,2287,2270,4557,1231
-2023-08-13,LE,Spain,7207,1640,1288,17,5567,2152,2127,4279,1271
-2023-08-14,LE,Spain,7033,1627,1352,15,5406,2025,2029,4054,1337
-2023-08-15,LE,Spain,6912,1559,1235,31,5353,2079,2039,4118,1204
-2023-08-16,LE,Spain,6892,1606,1337,34,5286,1969,1980,3949,1303
-2023-08-17,LE,Spain,7169,1689,1373,34,5480,2050,2057,4107,1339
-2023-08-18,LE,Spain,7152,1642,1389,29,5510,2061,2060,4121,1360
-2023-08-19,LE,Spain,7322,1634,1215,21,5688,2242,2231,4473,1194
-2023-08-20,LE,Spain,7258,1652,1305,23,5606,2157,2144,4301,1282
-2023-08-21,LE,Spain,7036,1610,1370,23,5426,2043,2013,4056,1347
-2023-08-22,LE,Spain,6964,1589,1266,27,5375,2054,2055,4109,1239
-2023-08-23,LE,Spain,6926,1632,1339,29,5294,1975,1980,3955,1310
-2023-08-24,LE,Spain,7171,1705,1381,28,5466,2028,2057,4085,1353
-2023-08-25,LE,Spain,7187,1624,1419,25,5563,2053,2091,4144,1394
-2023-08-26,LE,Spain,7294,1676,1188,16,5618,2235,2195,4430,1172
-2023-08-27,LE,Spain,6876,1668,1231,24,5208,1986,1991,3977,1207
-2023-08-28,LE,Spain,6794,1584,1399,27,5210,1897,1914,3811,1372
-2023-08-29,LE,Spain,7091,1612,1297,39,5479,2104,2078,4182,1258
-2023-08-30,LE,Spain,7090,1637,1364,35,5453,2040,2049,4089,1329
-2023-08-31,LE,Spain,7191,1657,1392,40,5534,2075,2067,4142,1352
-2023-09-01,LE,Spain,7237,1663,1420,18,5574,2064,2090,4154,1402
-2023-09-02,LE,Spain,7233,1676,1177,16,5557,2191,2189,4380,1161
-2023-09-03,LE,Spain,7139,1620,1293,5,5519,2133,2093,4226,1288
-2023-09-04,LE,Spain,6943,1618,1379,20,5325,1973,1973,3946,1359
-2023-09-05,LE,Spain,6851,1554,1316,31,5297,1986,1995,3981,1285
-2023-09-06,LE,Spain,6843,1556,1417,28,5287,1940,1930,3870,1389
-2023-09-07,LE,Spain,7030,1587,1431,40,5443,1991,2021,4012,1391
-2023-09-08,LE,Spain,7021,1546,1433,26,5475,2019,2023,4042,1407
-2023-09-09,LE,Spain,7084,1584,1173,17,5500,2162,2165,4327,1156
-2023-09-10,LE,Spain,7124,1578,1354,17,5546,2116,2076,4192,1337
-2023-09-11,LE,Spain,6773,1533,1357,18,5240,1947,1936,3883,1339
-2023-09-12,LE,Spain,6711,1502,1298,35,5209,1955,1956,3911,1263
-2023-09-13,LE,Spain,6670,1484,1356,36,5186,1905,1925,3830,1320
-2023-09-14,LE,Spain,6930,1546,1393,39,5384,1983,2008,3991,1354
-2023-09-15,LE,Spain,6858,1481,1349,14,5377,1992,2036,4028,1335
-2023-09-16,LE,Spain,6969,1559,1149,18,5410,2140,2121,4261,1131
-2023-09-17,LE,Spain,6918,1498,1312,13,5420,2074,2034,4108,1299
-2023-09-18,LE,Spain,6788,1562,1348,19,5226,1938,1940,3878,1329
-2023-09-19,LE,Spain,6647,1472,1274,34,5175,1968,1933,3901,1240
-2023-09-20,LE,Spain,6764,1519,1375,38,5245,1924,1946,3870,1337
-2023-09-21,LE,Spain,6837,1519,1364,34,5318,1979,1975,3954,1330
-2023-09-22,LE,Spain,7051,1511,1473,32,5540,2003,2064,4067,1441
-2023-09-23,LE,Spain,6961,1568,1159,19,5393,2121,2113,4234,1140
-2023-09-24,LE,Spain,6939,1527,1301,7,5412,2068,2043,4111,1294
-2023-09-25,LE,Spain,6688,1505,1338,30,5183,1934,1911,3845,1308
-2023-09-26,LE,Spain,6649,1508,1311,49,5141,1929,1901,3830,1262
-2023-09-27,LE,Spain,6692,1480,1437,51,5212,1873,1902,3775,1386
-2023-09-28,LE,Spain,6835,1518,1433,46,5317,1928,1956,3884,1387
-2023-09-29,LE,Spain,6978,1498,1424,32,5480,2000,2056,4056,1392
-2023-09-30,LE,Spain,7009,1540,1155,27,5469,2173,2141,4314,1128
-2023-10-01,LE,Spain,6942,1523,1324,21,5419,2072,2023,4095,1303
-2023-10-02,LE,Spain,6652,1478,1325,30,5174,1923,1926,3849,1295
-2023-10-03,LE,Spain,6566,1459,1275,39,5107,1921,1911,3832,1236
-2023-10-04,LE,Spain,6560,1463,1360,48,5097,1872,1865,3737,1312
-2023-10-05,LE,Spain,6777,1537,1405,44,5240,1907,1928,3835,1361
-2023-10-06,LE,Spain,6908,1499,1402,44,5409,1999,2008,4007,1358
-2023-10-07,LE,Spain,6914,1526,1191,25,5388,2082,2115,4197,1166
-2023-10-08,LE,Spain,6877,1556,1289,20,5321,2046,1986,4032,1269
-2023-10-09,LE,Spain,6572,1503,1326,46,5069,1881,1862,3743,1280
-2023-10-10,LE,Spain,6420,1453,1241,61,4967,1868,1858,3726,1180
-2023-10-11,LE,Spain,6496,1478,1374,44,5018,1817,1827,3644,1330
-2023-10-12,LE,Spain,6570,1522,1262,29,5048,1892,1894,3786,1233
-2023-10-13,LE,Spain,6489,1384,1301,16,5105,1887,1917,3804,1285
-2023-10-14,LE,Spain,6904,1553,1116,15,5351,2118,2117,4235,1101
-2023-10-15,LE,Spain,6861,1541,1283,13,5320,2039,1998,4037,1270
-2023-10-16,LE,Spain,6558,1495,1287,33,5063,1886,1890,3776,1254
-2023-10-17,LE,Spain,6371,1470,1215,35,4901,1836,1850,3686,1180
-2023-10-18,LE,Spain,6376,1506,1288,39,4870,1792,1790,3582,1249
-2023-10-19,LE,Spain,6552,1488,1305,13,5064,1864,1895,3759,1292
-2023-10-20,LE,Spain,6819,1491,1404,27,5328,1950,1974,3924,1377
-2023-10-21,LE,Spain,6957,1558,1133,14,5399,2118,2148,4266,1119
-2023-10-22,LE,Spain,6779,1510,1257,4,5269,2015,1997,4012,1253
-2023-10-23,LE,Spain,6454,1496,1256,24,4958,1851,1851,3702,1232
-2023-10-24,LE,Spain,6406,1487,1237,41,4919,1858,1824,3682,1196
-2023-10-25,LE,Spain,6401,1479,1310,46,4922,1799,1813,3612,1264
-2023-10-26,LE,Spain,6628,1526,1333,27,5102,1881,1888,3769,1306
-2023-10-27,LE,Spain,6935,1513,1425,28,5422,1986,2011,3997,1397
-2023-10-28,LE,Spain,6968,1585,1141,19,5383,2133,2109,4242,1122
-2023-10-29,LE,Spain,6577,1550,1190,15,5027,1932,1905,3837,1175
-2023-10-30,LE,Spain,6118,1493,1239,28,4625,1697,1689,3386,1211
-2023-10-31,LE,Spain,5708,1375,1123,35,4333,1626,1584,3210,1088
-2023-11-01,LE,Spain,5407,1348,1018,25,4059,1516,1525,3041,993
-2023-11-02,LE,Spain,5565,1360,1104,22,4205,1544,1557,3101,1082
-2023-11-03,LE,Spain,6154,1524,1290,27,4630,1667,1673,3340,1263
-2023-11-04,LE,Spain,6038,1518,1010,14,4520,1760,1750,3510,996
-2023-11-05,LE,Spain,6110,1468,1168,19,4642,1744,1730,3474,1149
-2023-11-06,LE,Spain,5733,1427,1250,28,4306,1530,1526,3056,1222
-2023-11-07,LE,Spain,4820,1220,1055,24,3600,1287,1258,2545,1031
-2023-11-08,LE,Spain,4794,1179,1099,33,3615,1258,1258,2516,1066
-2023-11-09,LE,Spain,5113,1231,1115,25,3882,1371,1396,2767,1090
-2023-11-10,LE,Spain,5789,1430,1286,23,4359,1514,1559,3073,1263
-2023-11-11,LE,Spain,5483,1404,1000,13,4079,1544,1535,3079,987
-2023-11-12,LE,Spain,5754,1405,1168,8,4349,1592,1589,3181,1160
-2023-11-13,LE,Spain,5413,1339,1190,26,4074,1457,1427,2884,1164
-2023-11-14,LE,Spain,4692,1126,1105,32,3566,1225,1236,2461,1073
-2023-11-15,LE,Spain,4732,1127,1117,38,3605,1240,1248,2488,1079
-2023-11-16,LE,Spain,5135,1189,1183,25,3946,1380,1383,2763,1158
-2023-11-17,LE,Spain,5765,1407,1321,35,4358,1511,1526,3037,1286
-2023-11-18,LE,Spain,5449,1358,1030,15,4091,1521,1540,3061,1015
-2023-11-19,LE,Spain,5695,1371,1155,16,4324,1604,1565,3169,1139
-2023-11-20,LE,Spain,5208,1214,1228,38,3994,1394,1372,2766,1190
-2023-11-21,LE,Spain,4608,1098,1077,22,3510,1223,1210,2433,1055
-2023-11-22,LE,Spain,4575,1057,1095,29,3518,1204,1219,2423,1066
-2023-11-23,LE,Spain,4957,1126,1170,45,3831,1327,1334,2661,1125
-2023-11-24,LE,Spain,5597,1316,1331,26,4281,1468,1482,2950,1305
-2023-11-25,LE,Spain,5339,1332,1052,10,4007,1477,1478,2955,1042
-2023-11-26,LE,Spain,5669,1343,1177,11,4326,1582,1567,3149,1166
-2023-11-27,LE,Spain,5250,1277,1208,35,3973,1388,1377,2765,1173
-2023-11-28,LE,Spain,4487,1043,1066,25,3444,1185,1193,2378,1041
-2023-11-29,LE,Spain,4533,1022,1110,43,3511,1187,1214,2401,1067
-2023-11-30,LE,Spain,4921,1100,1155,39,3821,1338,1328,2666,1116
-2023-12-01,LE,Spain,5626,1341,1306,23,4285,1493,1486,2979,1283
-2023-12-02,LE,Spain,5299,1317,1054,16,3982,1461,1467,2928,1038
-2023-12-03,LE,Spain,5473,1311,1144,16,4162,1508,1510,3018,1128
-2023-12-04,LE,Spain,5195,1301,1154,24,3894,1383,1357,2740,1130
-2023-12-05,LE,Spain,4736,1098,1162,41,3638,1240,1236,2476,1121
-2023-12-06,LE,Spain,4753,1109,1118,29,3644,1286,1240,2526,1089
-2023-12-07,LE,Spain,4802,1133,1078,31,3669,1287,1304,2591,1047
-2023-12-08,LE,Spain,5318,1380,1071,17,3938,1427,1440,2867,1054
+2023-12-15,LJ,Slovenia,1066,991,4,1,75,38,33,71,3
+2023-01-01,LE,Spain,4414,984,903,1,3430,1275,1252,2527,902
+2023-01-02,LE,Spain,4873,1036,1041,2,3837,1422,1374,2796,1039
+2023-01-03,LE,Spain,4599,1000,1017,11,3599,1299,1283,2582,1006
+2023-01-04,LE,Spain,4454,882,1045,21,3572,1260,1267,2527,1024
+2023-01-05,LE,Spain,4539,950,967,16,3589,1303,1319,2622,951
+2023-01-06,LE,Spain,4739,1069,976,3,3670,1344,1350,2694,973
+2023-01-07,LE,Spain,4920,1036,955,9,3884,1469,1460,2929,946
+2023-01-08,LE,Spain,4879,907,1120,6,3972,1437,1415,2852,1114
+2023-01-09,LE,Spain,4541,958,1080,24,3583,1260,1243,2503,1056
+2023-01-10,LE,Spain,3825,708,968,21,3117,1072,1077,2149,947
+2023-01-11,LE,Spain,3674,638,1016,36,3036,1000,1020,2020,980
+2023-01-12,LE,Spain,4037,728,1066,40,3309,1116,1127,2243,1026
+2023-01-13,LE,Spain,4433,849,1153,24,3584,1208,1223,2431,1129
+2023-01-14,LE,Spain,4386,853,962,17,3533,1281,1290,2571,945
+2023-01-15,LE,Spain,4459,852,1027,11,3607,1299,1281,2580,1016
+2023-01-16,LE,Spain,4168,833,1044,17,3335,1159,1132,2291,1027
+2023-01-17,LE,Spain,3497,624,952,21,2873,965,956,1921,931
+2023-01-18,LE,Spain,3473,542,991,27,2931,963,977,1940,964
+2023-01-19,LE,Spain,3776,602,1073,32,3174,1037,1064,2101,1041
+2023-01-20,LE,Spain,4412,827,1192,32,3585,1192,1201,2393,1160
+2023-01-21,LE,Spain,4337,863,946,10,3474,1264,1264,2528,936
+2023-01-22,LE,Spain,4395,812,1070,13,3583,1264,1249,2513,1057
+2023-01-23,LE,Spain,4129,783,1090,36,3346,1134,1122,2256,1054
+2023-01-24,LE,Spain,3507,581,992,40,2926,969,965,1934,952
+2023-01-25,LE,Spain,3531,531,1054,55,3000,977,969,1946,999
+2023-01-26,LE,Spain,3879,630,1078,46,3249,1071,1100,2171,1032
+2023-01-27,LE,Spain,4383,754,1190,30,3629,1221,1218,2439,1160
+2023-01-28,LE,Spain,4262,817,958,20,3445,1239,1248,2487,938
+2023-01-29,LE,Spain,4375,785,1056,10,3590,1278,1256,2534,1046
+2023-01-30,LE,Spain,4220,832,1084,39,3388,1147,1157,2304,1045
+2023-01-31,LE,Spain,3583,632,1009,59,2951,969,973,1942,950
+2023-02-01,LE,Spain,3700,609,1050,51,3091,1021,1020,2041,999
+2023-02-02,LE,Spain,3995,712,1031,48,3283,1122,1130,2252,983
+2023-02-03,LE,Spain,4533,802,1231,32,3731,1252,1248,2500,1199
+2023-02-04,LE,Spain,4470,862,998,22,3608,1307,1303,2610,976
+2023-02-05,LE,Spain,4554,830,1140,21,3724,1304,1280,2584,1119
+2023-02-06,LE,Spain,4353,865,1111,39,3488,1194,1183,2377,1072
+2023-02-07,LE,Spain,3611,636,968,33,2975,1001,1006,2007,935
+2023-02-08,LE,Spain,3722,633,1000,38,3089,1048,1041,2089,962
+2023-02-09,LE,Spain,4112,760,1044,49,3352,1150,1158,2308,995
+2023-02-10,LE,Spain,4744,885,1227,34,3859,1309,1323,2632,1193
+2023-02-11,LE,Spain,4684,958,985,24,3726,1357,1384,2741,961
+2023-02-12,LE,Spain,4782,940,1095,16,3842,1389,1358,2747,1079
+2023-02-13,LE,Spain,4547,900,1115,32,3647,1261,1271,2532,1083
+2023-02-14,LE,Spain,4046,781,1031,38,3265,1133,1101,2234,993
+2023-02-15,LE,Spain,4076,769,1061,40,3307,1108,1138,2246,1021
+2023-02-16,LE,Spain,4433,798,1114,43,3635,1248,1273,2521,1071
+2023-02-17,LE,Spain,4860,891,1287,30,3969,1339,1343,2682,1257
+2023-02-18,LE,Spain,5038,1022,1071,25,4016,1465,1480,2945,1046
+2023-02-19,LE,Spain,5014,973,1170,26,4041,1441,1430,2871,1144
+2023-02-20,LE,Spain,4735,917,1171,40,3818,1333,1314,2647,1131
+2023-02-21,LE,Spain,4159,757,1093,43,3402,1164,1145,2309,1050
+2023-02-22,LE,Spain,4202,781,1107,41,3421,1153,1161,2314,1066
+2023-02-23,LE,Spain,4509,864,1097,34,3645,1270,1278,2548,1063
+2023-02-24,LE,Spain,5069,1016,1272,32,4053,1388,1393,2781,1240
+2023-02-25,LE,Spain,4965,1066,1007,12,3899,1441,1451,2892,995
+2023-02-26,LE,Spain,5069,1008,1140,12,4061,1451,1470,2921,1128
+2023-02-27,LE,Spain,4758,1011,1107,25,3747,1324,1316,2640,1082
+2023-02-28,LE,Spain,4261,864,1033,26,3397,1199,1165,2364,1007
+2023-03-01,LE,Spain,4340,859,1107,38,3481,1183,1191,2374,1069
+2023-03-02,LE,Spain,4637,921,1150,38,3716,1282,1284,2566,1112
+2023-03-03,LE,Spain,5164,990,1276,33,4174,1442,1456,2898,1243
+2023-03-04,LE,Spain,4994,1056,1056,21,3938,1439,1443,2882,1035
+2023-03-05,LE,Spain,4985,962,1150,16,4023,1444,1429,2873,1134
+2023-03-06,LE,Spain,4771,989,1132,24,3782,1334,1316,2650,1108
+2023-03-07,LE,Spain,4080,750,1048,43,3330,1151,1131,2282,1005
+2023-03-08,LE,Spain,4083,736,1096,52,3347,1119,1132,2251,1044
+2023-03-09,LE,Spain,4377,795,1112,34,3582,1230,1240,2470,1078
+2023-03-10,LE,Spain,4743,850,1239,26,3893,1320,1334,2654,1213
+2023-03-11,LE,Spain,4790,924,1044,20,3866,1407,1415,2822,1024
+2023-03-12,LE,Spain,4901,901,1166,26,4000,1424,1410,2834,1140
+2023-03-13,LE,Spain,4732,929,1195,54,3803,1323,1285,2608,1141
+2023-03-14,LE,Spain,4254,844,1049,40,3410,1180,1181,2361,1009
+2023-03-15,LE,Spain,4233,772,1125,39,3461,1153,1183,2336,1086
+2023-03-16,LE,Spain,4564,819,1163,52,3745,1299,1283,2582,1111
+2023-03-17,LE,Spain,4981,931,1274,30,4050,1377,1399,2776,1244
+2023-03-18,LE,Spain,4935,1006,1002,14,3929,1461,1466,2927,988
+2023-03-19,LE,Spain,4985,900,1169,16,4085,1465,1451,2916,1153
+2023-03-20,LE,Spain,4825,907,1187,32,3918,1379,1352,2731,1155
+2023-03-21,LE,Spain,4345,820,1120,53,3525,1207,1198,2405,1067
+2023-03-22,LE,Spain,4292,787,1124,43,3505,1178,1203,2381,1081
+2023-03-23,LE,Spain,4509,780,1179,47,3729,1271,1279,2550,1132
+2023-03-24,LE,Spain,4963,861,1293,34,4102,1393,1416,2809,1259
+2023-03-25,LE,Spain,4934,934,1056,10,4000,1462,1482,2944,1046
+2023-03-26,LE,Spain,5268,890,1208,21,4378,1584,1586,3170,1187
+2023-03-27,LE,Spain,4972,871,1235,35,4101,1441,1425,2866,1200
+2023-03-28,LE,Spain,5021,830,1176,54,4191,1506,1509,3015,1122
+2023-03-29,LE,Spain,5078,868,1235,38,4210,1489,1486,2975,1197
+2023-03-30,LE,Spain,5400,861,1297,31,4539,1624,1618,3242,1266
+2023-03-31,LE,Spain,5618,875,1328,15,4743,1698,1717,3415,1313
+2023-04-01,LE,Spain,5895,973,1143,7,4922,1879,1900,3779,1136
+2023-04-02,LE,Spain,5682,955,1214,10,4727,1762,1751,3513,1204
+2023-04-03,LE,Spain,5508,953,1241,27,4555,1665,1649,3314,1214
+2023-04-04,LE,Spain,5419,962,1189,23,4457,1630,1638,3268,1166
+2023-04-05,LE,Spain,5564,899,1337,32,4665,1651,1677,3328,1305
+2023-04-06,LE,Spain,5720,952,1248,10,4768,1737,1783,3520,1238
+2023-04-07,LE,Spain,5746,1066,1136,15,4680,1762,1782,3544,1121
+2023-04-08,LE,Spain,5915,997,1149,21,4918,1884,1885,3769,1128
+2023-04-09,LE,Spain,5838,1011,1280,11,4827,1766,1781,3547,1269
+2023-04-10,LE,Spain,5845,984,1305,23,4861,1815,1741,3556,1282
+2023-04-11,LE,Spain,5611,975,1198,29,4636,1733,1705,3438,1169
+2023-04-12,LE,Spain,5453,964,1241,33,4489,1627,1621,3248,1208
+2023-04-13,LE,Spain,5716,1002,1290,30,4714,1710,1714,3424,1260
+2023-04-14,LE,Spain,5949,1029,1299,26,4920,1799,1822,3621,1273
+2023-04-15,LE,Spain,6048,1101,1091,13,4947,1934,1922,3856,1078
+2023-04-16,LE,Spain,5981,1125,1241,17,4856,1828,1787,3615,1224
+2023-04-17,LE,Spain,5687,1067,1248,23,4620,1698,1674,3372,1225
+2023-04-18,LE,Spain,5512,1024,1167,19,4488,1656,1665,3321,1148
+2023-04-19,LE,Spain,5527,1078,1263,40,4449,1586,1600,3186,1223
+2023-04-20,LE,Spain,5756,1065,1308,31,4691,1690,1693,3383,1277
+2023-04-21,LE,Spain,5880,1057,1341,31,4823,1723,1759,3482,1310
+2023-04-22,LE,Spain,5973,1124,1098,10,4849,1864,1887,3751,1088
+2023-04-23,LE,Spain,5955,1119,1225,10,4836,1823,1788,3611,1215
+2023-04-24,LE,Spain,5692,1070,1256,27,4622,1694,1672,3366,1229
+2023-04-25,LE,Spain,5544,1031,1196,28,4513,1665,1652,3317,1168
+2023-04-26,LE,Spain,5591,1050,1301,31,4541,1606,1634,3240,1270
+2023-04-27,LE,Spain,5904,1095,1355,26,4809,1715,1739,3454,1329
+2023-04-28,LE,Spain,6091,1011,1390,27,5080,1795,1895,3690,1363
+2023-04-29,LE,Spain,6061,1095,1162,11,4966,1904,1900,3804,1151
+2023-04-30,LE,Spain,6007,1172,1208,12,4835,1825,1802,3627,1196
+2023-05-01,LE,Spain,5549,899,1250,6,4650,1727,1673,3400,1244
+2023-05-02,LE,Spain,5729,1023,1227,38,4706,1746,1733,3479,1189
+2023-05-03,LE,Spain,5692,1106,1266,31,4586,1676,1644,3320,1235
+2023-05-04,LE,Spain,5977,1119,1366,44,4858,1734,1758,3492,1322
+2023-05-05,LE,Spain,6062,1063,1353,41,4999,1796,1850,3646,1312
+2023-05-06,LE,Spain,6147,1135,1118,21,5012,1942,1952,3894,1097
+2023-05-07,LE,Spain,6119,1180,1234,13,4939,1869,1836,3705,1221
+2023-05-08,LE,Spain,5944,1108,1262,30,4836,1801,1773,3574,1232
+2023-05-09,LE,Spain,5821,974,1230,54,4847,1794,1823,3617,1176
+2023-05-10,LE,Spain,5782,1065,1289,39,4717,1736,1692,3428,1250
+2023-05-11,LE,Spain,5928,1100,1342,44,4828,1742,1744,3486,1298
+2023-05-12,LE,Spain,6062,1064,1317,34,4998,1833,1848,3681,1283
+2023-05-13,LE,Spain,6152,1127,1112,26,5025,1953,1960,3913,1086
+2023-05-14,LE,Spain,6107,1150,1219,13,4957,1880,1858,3738,1206
+2023-05-15,LE,Spain,5895,1105,1268,46,4790,1767,1755,3522,1222
+2023-05-16,LE,Spain,5835,1038,1198,35,4797,1802,1797,3599,1163
+2023-05-17,LE,Spain,5938,1092,1301,46,4846,1750,1795,3545,1255
+2023-05-18,LE,Spain,6148,1154,1321,35,4994,1816,1857,3673,1286
+2023-05-19,LE,Spain,5976,1001,1311,19,4975,1835,1829,3664,1292
+2023-05-20,LE,Spain,6211,1158,1095,10,5053,1980,1978,3958,1085
+2023-05-21,LE,Spain,6293,1172,1205,3,5121,1988,1928,3916,1202
+2023-05-22,LE,Spain,5905,1092,1241,21,4813,1809,1763,3572,1220
+2023-05-23,LE,Spain,5862,1034,1166,23,4828,1828,1834,3662,1143
+2023-05-24,LE,Spain,5764,1068,1259,25,4696,1714,1723,3437,1234
+2023-05-25,LE,Spain,5984,1070,1276,31,4914,1808,1830,3638,1245
+2023-05-26,LE,Spain,6149,971,1310,21,5178,1901,1967,3868,1289
+2023-05-27,LE,Spain,6390,1125,1155,8,5265,2044,2066,4110,1147
+2023-05-28,LE,Spain,6138,1087,1217,2,5051,1925,1909,3834,1215
+2023-05-29,LE,Spain,6131,1161,1226,31,4970,1906,1838,3744,1195
+2023-05-30,LE,Spain,5956,979,1221,37,4977,1895,1861,3756,1184
+2023-05-31,LE,Spain,5986,1080,1280,40,4906,1807,1819,3626,1240
+2023-06-01,LE,Spain,6174,1057,1313,31,5117,1870,1934,3804,1282
+2023-06-02,LE,Spain,6196,1059,1316,30,5137,1892,1929,3821,1286
+2023-06-03,LE,Spain,6347,1080,1113,14,5267,2072,2082,4154,1099
+2023-06-04,LE,Spain,6382,1181,1237,10,5201,2022,1942,3964,1227
+2023-06-05,LE,Spain,6149,1145,1263,25,5004,1874,1867,3741,1238
+2023-06-06,LE,Spain,5691,997,1146,46,4694,1779,1769,3548,1100
+2023-06-07,LE,Spain,6027,1139,1207,38,4888,1843,1838,3681,1169
+2023-06-08,LE,Spain,6197,1140,1267,31,5057,1869,1921,3790,1236
+2023-06-09,LE,Spain,6275,1084,1310,33,5191,1931,1950,3881,1277
+2023-06-10,LE,Spain,6440,1181,1065,12,5259,2106,2088,4194,1053
+2023-06-11,LE,Spain,6413,1205,1222,9,5208,2009,1977,3986,1213
+2023-06-12,LE,Spain,6122,1207,1261,23,4915,1832,1822,3654,1238
+2023-06-13,LE,Spain,6197,1159,1202,51,5038,1921,1915,3836,1151
+2023-06-14,LE,Spain,6097,1167,1250,38,4930,1835,1845,3680,1212
+2023-06-15,LE,Spain,6421,1194,1351,43,5227,1926,1950,3876,1308
+2023-06-16,LE,Spain,6582,1132,1406,34,5450,2002,2042,4044,1372
+2023-06-17,LE,Spain,6618,1188,1143,21,5430,2156,2131,4287,1122
+2023-06-18,LE,Spain,6448,1182,1278,7,5266,1999,1989,3988,1271
+2023-06-19,LE,Spain,6398,1233,1347,30,5165,1920,1898,3818,1317
+2023-06-20,LE,Spain,6346,1145,1282,38,5201,1966,1953,3919,1244
+2023-06-21,LE,Spain,6350,1206,1342,37,5144,1893,1909,3802,1305
+2023-06-22,LE,Spain,6568,1218,1371,34,5350,1974,2005,3979,1337
+2023-06-23,LE,Spain,6579,1121,1396,33,5458,2011,2051,4062,1363
+2023-06-24,LE,Spain,6708,1240,1139,19,5468,2165,2164,4329,1120
+2023-06-25,LE,Spain,6675,1236,1274,9,5439,2092,2073,4165,1265
+2023-06-26,LE,Spain,6517,1250,1343,29,5267,1982,1942,3924,1314
+2023-06-27,LE,Spain,6450,1168,1289,55,5282,2009,1984,3993,1234
+2023-06-28,LE,Spain,6344,1161,1369,47,5183,1897,1917,3814,1322
+2023-06-29,LE,Spain,6560,1174,1376,44,5386,1999,2011,4010,1332
+2023-06-30,LE,Spain,6692,1134,1434,33,5558,2037,2087,4124,1401
+2023-07-01,LE,Spain,6902,1199,1198,25,5703,2263,2242,4505,1173
+2023-07-02,LE,Spain,6897,1220,1353,17,5677,2157,2167,4324,1336
+2023-07-03,LE,Spain,6660,1194,1405,30,5466,2055,2006,4061,1375
+2023-07-04,LE,Spain,6633,1171,1314,37,5462,2071,2077,4148,1277
+2023-07-05,LE,Spain,6556,1196,1407,42,5360,1978,1975,3953,1365
+2023-07-06,LE,Spain,6804,1213,1431,44,5591,2077,2083,4160,1387
+2023-07-07,LE,Spain,6890,1145,1469,30,5745,2117,2159,4276,1439
+2023-07-08,LE,Spain,6953,1228,1213,15,5725,2265,2247,4512,1198
+2023-07-09,LE,Spain,6930,1233,1345,13,5697,2176,2176,4352,1332
+2023-07-10,LE,Spain,6791,1239,1440,31,5552,2069,2043,4112,1409
+2023-07-11,LE,Spain,6654,1167,1343,37,5487,2075,2069,4144,1306
+2023-07-12,LE,Spain,6711,1220,1437,44,5491,2031,2023,4054,1393
+2023-07-13,LE,Spain,6824,1263,1427,33,5561,2061,2073,4134,1394
+2023-07-14,LE,Spain,6836,1178,1441,18,5658,2097,2120,4217,1423
+2023-07-15,LE,Spain,6922,1227,1207,18,5695,2253,2235,4488,1189
+2023-07-16,LE,Spain,6895,1239,1331,6,5656,2180,2145,4325,1325
+2023-07-17,LE,Spain,6796,1290,1424,30,5506,2035,2047,4082,1394
+2023-07-18,LE,Spain,6703,1196,1328,31,5507,2091,2088,4179,1297
+2023-07-19,LE,Spain,6669,1225,1425,48,5444,2013,2006,4019,1377
+2023-07-20,LE,Spain,6896,1265,1438,34,5631,2089,2104,4193,1404
+2023-07-21,LE,Spain,6771,1103,1439,36,5668,2094,2135,4229,1403
+2023-07-22,LE,Spain,7030,1211,1217,7,5819,2301,2301,4602,1210
+2023-07-23,LE,Spain,6798,1139,1332,9,5659,2171,2156,4327,1323
+2023-07-24,LE,Spain,6659,1167,1411,29,5492,2043,2038,4081,1382
+2023-07-25,LE,Spain,6630,1151,1316,26,5479,2088,2075,4163,1290
+2023-07-26,LE,Spain,6717,1256,1381,36,5461,2046,2034,4080,1345
+2023-07-27,LE,Spain,6822,1245,1409,38,5577,2076,2092,4168,1371
+2023-07-28,LE,Spain,6945,1225,1465,30,5720,2117,2138,4255,1435
+2023-07-29,LE,Spain,7004,1222,1224,17,5782,2274,2284,4558,1207
+2023-07-30,LE,Spain,6979,1247,1329,16,5732,2217,2186,4403,1313
+2023-07-31,LE,Spain,6790,1236,1397,20,5554,2089,2068,4157,1377
+2023-08-01,LE,Spain,6786,1239,1320,36,5547,2120,2107,4227,1284
+2023-08-02,LE,Spain,6709,1289,1356,38,5420,2033,2031,4064,1318
+2023-08-03,LE,Spain,6815,1267,1376,28,5548,2088,2084,4172,1348
+2023-08-04,LE,Spain,6827,1231,1382,18,5596,2083,2131,4214,1364
+2023-08-05,LE,Spain,7056,1274,1207,17,5782,2294,2281,4575,1190
+2023-08-06,LE,Spain,6892,1233,1301,17,5659,2182,2176,4358,1284
+2023-08-07,LE,Spain,6782,1267,1391,27,5515,2076,2048,4124,1364
+2023-08-08,LE,Spain,6607,1160,1300,42,5447,2081,2066,4147,1258
+2023-08-09,LE,Spain,6595,1259,1351,36,5336,1989,1996,3985,1315
+2023-08-10,LE,Spain,6785,1278,1374,44,5507,2062,2071,4133,1330
+2023-08-11,LE,Spain,6830,1181,1435,30,5649,2087,2127,4214,1405
+2023-08-12,LE,Spain,7048,1242,1249,18,5806,2287,2270,4557,1231
+2023-08-13,LE,Spain,6822,1255,1288,17,5567,2152,2127,4279,1271
+2023-08-14,LE,Spain,6649,1243,1352,15,5406,2025,2029,4054,1337
+2023-08-15,LE,Spain,6553,1200,1235,31,5353,2079,2039,4118,1204
+2023-08-16,LE,Spain,6517,1231,1337,34,5286,1969,1980,3949,1303
+2023-08-17,LE,Spain,6777,1297,1373,34,5480,2050,2057,4107,1339
+2023-08-18,LE,Spain,6736,1226,1389,29,5510,2061,2060,4121,1360
+2023-08-19,LE,Spain,6936,1248,1215,21,5688,2242,2231,4473,1194
+2023-08-20,LE,Spain,6872,1266,1305,23,5606,2157,2144,4301,1282
+2023-08-21,LE,Spain,6641,1215,1370,23,5426,2043,2013,4056,1347
+2023-08-22,LE,Spain,6576,1201,1266,27,5375,2054,2055,4109,1239
+2023-08-23,LE,Spain,6556,1262,1339,29,5294,1975,1980,3955,1310
+2023-08-24,LE,Spain,6774,1308,1381,28,5466,2028,2057,4085,1353
+2023-08-25,LE,Spain,6768,1205,1419,25,5563,2053,2091,4144,1394
+2023-08-26,LE,Spain,6908,1290,1188,16,5618,2235,2195,4430,1172
+2023-08-27,LE,Spain,6505,1297,1231,24,5208,1986,1991,3977,1207
+2023-08-28,LE,Spain,6405,1195,1399,27,5210,1897,1914,3811,1372
+2023-08-29,LE,Spain,6713,1234,1297,39,5479,2104,2078,4182,1258
+2023-08-30,LE,Spain,6727,1274,1364,35,5453,2040,2049,4089,1329
+2023-08-31,LE,Spain,6811,1277,1392,40,5534,2075,2067,4142,1352
+2023-09-01,LE,Spain,6825,1251,1420,18,5574,2064,2090,4154,1402
+2023-09-02,LE,Spain,6823,1266,1177,16,5557,2191,2189,4380,1161
+2023-09-03,LE,Spain,6759,1240,1293,5,5519,2133,2093,4226,1288
+2023-09-04,LE,Spain,6537,1212,1379,20,5325,1973,1973,3946,1359
+2023-09-05,LE,Spain,6472,1175,1316,31,5297,1986,1995,3981,1285
+2023-09-06,LE,Spain,6468,1181,1417,28,5287,1940,1930,3870,1389
+2023-09-07,LE,Spain,6609,1166,1431,40,5443,1991,2021,4012,1391
+2023-09-08,LE,Spain,6603,1128,1433,26,5475,2019,2023,4042,1407
+2023-09-09,LE,Spain,6692,1192,1173,17,5500,2162,2165,4327,1156
+2023-09-10,LE,Spain,6726,1180,1354,17,5546,2116,2076,4192,1337
+2023-09-11,LE,Spain,6381,1141,1357,18,5240,1947,1936,3883,1339
+2023-09-12,LE,Spain,6351,1142,1298,35,5209,1955,1956,3911,1263
+2023-09-13,LE,Spain,6324,1138,1356,36,5186,1905,1925,3830,1320
+2023-09-14,LE,Spain,6520,1136,1393,39,5384,1983,2008,3991,1354
+2023-09-15,LE,Spain,6461,1084,1349,14,5377,1992,2036,4028,1335
+2023-09-16,LE,Spain,6579,1169,1149,18,5410,2140,2121,4261,1131
+2023-09-17,LE,Spain,6538,1118,1312,13,5420,2074,2034,4108,1299
+2023-09-18,LE,Spain,6407,1181,1348,19,5226,1938,1940,3878,1329
+2023-09-19,LE,Spain,6268,1093,1274,34,5175,1968,1933,3901,1240
+2023-09-20,LE,Spain,6390,1145,1375,38,5245,1924,1946,3870,1337
+2023-09-21,LE,Spain,6451,1133,1364,34,5318,1979,1975,3954,1330
+2023-09-22,LE,Spain,6625,1085,1473,32,5540,2003,2064,4067,1441
+2023-09-23,LE,Spain,6590,1197,1159,19,5393,2121,2113,4234,1140
+2023-09-24,LE,Spain,6556,1144,1301,7,5412,2068,2043,4111,1294
+2023-09-25,LE,Spain,6305,1122,1338,30,5183,1934,1911,3845,1308
+2023-09-26,LE,Spain,6281,1140,1311,49,5141,1929,1901,3830,1262
+2023-09-27,LE,Spain,6320,1108,1437,51,5212,1873,1902,3775,1386
+2023-09-28,LE,Spain,6457,1140,1433,46,5317,1928,1956,3884,1387
+2023-09-29,LE,Spain,6568,1088,1424,32,5480,2000,2056,4056,1392
+2023-09-30,LE,Spain,6634,1165,1155,27,5469,2173,2141,4314,1128
+2023-10-01,LE,Spain,6567,1148,1324,21,5419,2072,2023,4095,1303
+2023-10-02,LE,Spain,6288,1114,1325,30,5174,1923,1926,3849,1295
+2023-10-03,LE,Spain,6217,1110,1275,39,5107,1921,1911,3832,1236
+2023-10-04,LE,Spain,6211,1114,1360,48,5097,1872,1865,3737,1312
+2023-10-05,LE,Spain,6413,1173,1405,44,5240,1907,1928,3835,1361
+2023-10-06,LE,Spain,6506,1097,1402,44,5409,1999,2008,4007,1358
+2023-10-07,LE,Spain,6548,1160,1191,25,5388,2082,2115,4197,1166
+2023-10-08,LE,Spain,6507,1186,1289,20,5321,2046,1986,4032,1269
+2023-10-09,LE,Spain,6212,1143,1326,46,5069,1881,1862,3743,1280
+2023-10-10,LE,Spain,6051,1084,1241,61,4967,1868,1858,3726,1180
+2023-10-11,LE,Spain,6118,1100,1374,44,5018,1817,1827,3644,1330
+2023-10-12,LE,Spain,6222,1174,1262,29,5048,1892,1894,3786,1233
+2023-10-13,LE,Spain,6070,965,1301,16,5105,1887,1917,3804,1285
+2023-10-14,LE,Spain,6553,1202,1116,15,5351,2118,2117,4235,1101
+2023-10-15,LE,Spain,6463,1143,1283,13,5320,2039,1998,4037,1270
+2023-10-16,LE,Spain,6195,1132,1287,33,5063,1886,1890,3776,1254
+2023-10-17,LE,Spain,6015,1114,1215,35,4901,1836,1850,3686,1180
+2023-10-18,LE,Spain,6028,1158,1288,39,4870,1792,1790,3582,1249
+2023-10-19,LE,Spain,6167,1103,1305,13,5064,1864,1895,3759,1292
+2023-10-20,LE,Spain,6375,1047,1404,27,5328,1950,1974,3924,1377
+2023-10-21,LE,Spain,6588,1189,1133,14,5399,2118,2148,4266,1119
+2023-10-22,LE,Spain,6403,1134,1257,4,5269,2015,1997,4012,1253
+2023-10-23,LE,Spain,6104,1146,1256,24,4958,1851,1851,3702,1232
+2023-10-24,LE,Spain,6031,1112,1237,41,4919,1858,1824,3682,1196
+2023-10-25,LE,Spain,6051,1129,1310,46,4922,1799,1813,3612,1264
+2023-10-26,LE,Spain,6250,1148,1333,27,5102,1881,1888,3769,1306
+2023-10-27,LE,Spain,6487,1065,1425,28,5422,1986,2011,3997,1397
+2023-10-28,LE,Spain,6595,1212,1141,19,5383,2133,2109,4242,1122
+2023-10-29,LE,Spain,6170,1143,1190,15,5027,1932,1905,3837,1175
+2023-10-30,LE,Spain,5760,1135,1239,28,4625,1697,1689,3386,1211
+2023-10-31,LE,Spain,5345,1012,1123,35,4333,1626,1584,3210,1088
+2023-11-01,LE,Spain,5134,1075,1018,25,4059,1516,1525,3041,993
+2023-11-02,LE,Spain,5182,977,1104,22,4205,1544,1557,3101,1082
+2023-11-03,LE,Spain,5744,1114,1290,27,4630,1667,1673,3340,1263
+2023-11-04,LE,Spain,5668,1148,1010,14,4520,1760,1750,3510,996
+2023-11-05,LE,Spain,5708,1066,1168,19,4642,1744,1730,3474,1149
+2023-11-06,LE,Spain,5383,1077,1250,28,4306,1530,1526,3056,1222
+2023-11-07,LE,Spain,4456,856,1055,24,3600,1287,1258,2545,1031
+2023-11-08,LE,Spain,4457,842,1099,33,3615,1258,1258,2516,1066
+2023-11-09,LE,Spain,4746,864,1115,25,3882,1371,1396,2767,1090
+2023-11-10,LE,Spain,5371,1012,1286,23,4359,1514,1559,3073,1263
+2023-11-11,LE,Spain,5152,1073,1000,13,4079,1544,1535,3079,987
+2023-11-12,LE,Spain,5355,1006,1168,8,4349,1592,1589,3181,1160
+2023-11-13,LE,Spain,5069,995,1190,26,4074,1457,1427,2884,1164
+2023-11-14,LE,Spain,4322,756,1105,32,3566,1225,1236,2461,1073
+2023-11-15,LE,Spain,4380,775,1117,38,3605,1240,1248,2488,1079
+2023-11-16,LE,Spain,4753,807,1183,25,3946,1380,1383,2763,1158
+2023-11-17,LE,Spain,5342,984,1321,35,4358,1511,1526,3037,1286
+2023-11-18,LE,Spain,5085,994,1030,15,4091,1521,1540,3061,1015
+2023-11-19,LE,Spain,5297,973,1155,16,4324,1604,1565,3169,1139
+2023-11-20,LE,Spain,4830,836,1228,38,3994,1394,1372,2766,1190
+2023-11-21,LE,Spain,4244,734,1077,22,3510,1223,1210,2433,1055
+2023-11-22,LE,Spain,4209,691,1095,29,3518,1204,1219,2423,1066
+2023-11-23,LE,Spain,4577,746,1170,45,3831,1327,1334,2661,1125
+2023-11-24,LE,Spain,5174,893,1331,26,4281,1468,1482,2950,1305
+2023-11-25,LE,Spain,4979,972,1052,10,4007,1477,1478,2955,1042
+2023-11-26,LE,Spain,5271,945,1177,11,4326,1582,1567,3149,1166
+2023-11-27,LE,Spain,4905,932,1208,35,3973,1388,1377,2765,1173
+2023-11-28,LE,Spain,4128,684,1066,25,3444,1185,1193,2378,1041
+2023-11-29,LE,Spain,4180,669,1110,43,3511,1187,1214,2401,1067
+2023-11-30,LE,Spain,4548,727,1155,39,3821,1338,1328,2666,1116
+2023-12-01,LE,Spain,5206,921,1306,23,4285,1493,1486,2979,1283
+2023-12-02,LE,Spain,4954,972,1054,16,3982,1461,1467,2928,1038
+2023-12-03,LE,Spain,5089,927,1144,16,4162,1508,1510,3018,1128
+2023-12-04,LE,Spain,4867,973,1154,24,3894,1383,1357,2740,1130
+2023-12-05,LE,Spain,4350,712,1162,41,3638,1240,1236,2476,1121
+2023-12-06,LE,Spain,4407,763,1118,29,3644,1286,1240,2526,1089
+2023-12-07,LE,Spain,4458,789,1078,31,3669,1287,1304,2591,1047
+2023-12-08,LE,Spain,4993,1055,1071,17,3938,1427,1440,2867,1054
 2023-12-09,LE,Spain,5383,1354,1042,16,4029,1486,1501,2987,1026
 2023-12-10,LE,Spain,5691,1293,1213,9,4398,1578,1607,3185,1204
 2023-12-11,LE,Spain,5291,1309,1190,36,3982,1414,1378,2792,1154
 2023-12-12,LE,Spain,4628,1139,1079,39,3489,1200,1210,2410,1040
 2023-12-13,LE,Spain,4707,1160,1101,39,3547,1235,1211,2446,1062
-2023-12-14,LE,Spain,5021,1166,1152,38,3855,1346,1357,2703,1114
+2023-12-14,LE,Spain,5023,1168,1152,38,3855,1346,1357,2703,1114
+2023-12-15,LE,Spain,5719,1391,1318,36,4328,1510,1500,3010,1282
 2023-01-01,ES,Sweden,1316,777,98,1,539,214,227,441,97
 2023-01-02,ES,Sweden,1601,824,229,2,777,274,274,548,227
 2023-01-03,ES,Sweden,1437,690,232,10,747,255,260,515,222
@@ -12527,6 +12562,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,ES,Sweden,1484,709,280,5,775,246,249,495,275
 2023-12-13,ES,Sweden,1658,851,275,3,807,263,269,532,272
 2023-12-14,ES,Sweden,1786,910,317,9,876,286,273,559,308
+2023-12-15,ES,Sweden,1854,974,282,7,880,297,301,598,275
 2023-01-01,LS,Switzerland,2288,1235,14,0,1053,525,514,1039,14
 2023-01-02,LS,Switzerland,2660,1356,38,0,1304,636,630,1266,38
 2023-01-03,LS,Switzerland,2248,1173,22,0,1075,522,531,1053,22
@@ -12875,6 +12911,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LS,Switzerland,2315,1257,37,1,1058,520,501,1021,36
 2023-12-13,LS,Switzerland,2338,1332,38,4,1006,474,494,968,34
 2023-12-14,LS,Switzerland,2555,1363,41,3,1192,579,572,1151,38
+2023-12-15,LS,Switzerland,2916,1567,50,3,1349,647,652,1299,47
 2023-01-01,LT,Türkiye,3566,1289,725,0,2277,796,756,1552,725
 2023-01-02,LT,Türkiye,3564,1282,731,2,2282,752,799,1551,729
 2023-01-03,LT,Türkiye,3544,1308,675,6,2236,795,766,1561,669
@@ -13223,6 +13260,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,LT,Türkiye,3536,1314,704,2,2222,762,756,1518,702
 2023-12-13,LT,Türkiye,3676,1397,742,4,2279,769,768,1537,738
 2023-12-14,LT,Türkiye,3815,1423,779,0,2392,811,802,1613,779
+2023-12-15,LT,Türkiye,3926,1446,817,5,2480,831,832,1663,812
 2023-01-01,UK,Ukraine,0,0,0,0,0,0,0,0,0
 2023-01-02,UK,Ukraine,0,0,0,0,0,0,0,0,0
 2023-01-03,UK,Ukraine,0,0,0,0,0,0,0,0,0
@@ -13571,6 +13609,7 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,UK,Ukraine,1,1,0,0,0,0,0,0,0
 2023-12-13,UK,Ukraine,3,3,0,0,0,0,0,0,0
 2023-12-14,UK,Ukraine,2,2,0,0,0,0,0,0,0
+2023-12-15,UK,Ukraine,3,3,0,0,0,0,0,0,0
 2023-01-01,EG,United Kingdom,4936,1201,392,2,3735,1674,1669,3343,390
 2023-01-02,EG,United Kingdom,6018,1296,691,3,4722,1979,2052,4031,688
 2023-01-03,EG,United Kingdom,5659,1205,715,7,4454,1860,1879,3739,708
@@ -13919,3 +13958,4 @@ entry_date,country_icao_code,country_name,flt_daio,flt_o,flt_i,flt_c,flt_dai,flt
 2023-12-12,EG,United Kingdom,5704,1221,836,12,4483,1816,1831,3647,824
 2023-12-13,EG,United Kingdom,5856,1270,833,15,4586,1887,1866,3753,818
 2023-12-14,EG,United Kingdom,6344,1240,928,16,5104,2093,2083,4176,912
+2023-12-15,EG,United Kingdom,7069,1449,978,13,5620,2322,2320,4642,965
