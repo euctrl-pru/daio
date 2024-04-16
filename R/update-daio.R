@@ -20,9 +20,7 @@ Sys.setenv(
 )
 Sys.setlocale(locale = "en_US.utf8")
 
-con <- fr24gu::db_connection(schema = "PRU_DEV")
-
-daio <- extract_daio(con, wef, til)
+daio <- extract_daio(wef, til)
 
 daio_plus <- daio %>% 
   # # fix Türkiye

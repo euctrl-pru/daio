@@ -1,6 +1,5 @@
 library(withr)
-library(DBI)
-library(fr24gu)
+library(eurocontrol)
 library(lubridate)
 library(dplyr)
 library(janitor)
@@ -22,7 +21,6 @@ assert_date <- function(x) {
 
 #' Departure, arrival, internal, overflight counts per country.
 #'
-#' @param con a connection to PRU_DEV
 #' @param wef the With-Effect-From (UTC) date (inclusive), must be >= 2019
 #' @param til the unTIL (UTC) date (exclusive)
 #'
@@ -37,9 +35,19 @@ assert_date <- function(x) {
 #' til <- "2022-01-08" %>% as_date()
 #' extract_daio(con, wef, til)
 #' }
-extract_daio <- function(con, wef, til) {
+extract_daio <- function(wef, til) {
   assert_date(wef)
   assert_date(til)
+
+  withr::local_envvar(
+    "TZ" = "UTC",
+    "ORA_SDTZ" = "UTC",
+    "NLS_LANG" =".AL32UTF8")
+  
+  withr::with_locale(LC_ALL = "en_US.utf8")
+  
+  con <- withr::local_db_connection(eurocontrol::db_connection(schema = "PRU_DEV"))
+  
   query <- "
     SELECT
       *
@@ -49,11 +57,6 @@ extract_daio <- function(con, wef, til) {
       TO_DATE(?WEF, 'YYYY-MM-DD') <= ENTRY_DATE AND ENTRY_DATE < TO_DATE(?TIL, 'YYYY-MM-DD')
   "
 
-  
-  withr::local_envvar(c("TZ" = "UTC",
-                        "ORA_SDTZ" = "UTC",
-                        "NLS_LANG"=".AL32UTF8"))
-  
   query <- DBI::sqlInterpolate(
     con, query,
     WEF = format(wef, "%Y-%m-%d"),
@@ -138,7 +141,14 @@ extract_daio_statfor <- function() {
     TZ_NAME,
     DAIO"
  
-  con <- eurocontrol::db_connection(schema = "PRU_DEV")
+  withr::local_envvar(
+    "TZ" = "UTC",
+    "ORA_SDTZ" = "UTC",
+    "NLS_LANG" =".AL32UTF8")
+  
+  withr::with_locale(LC_ALL = "en_US.utf8")
+  
+  con <- withr::local_db_connection(eurocontrol::db_connection(schema = "PRU_DEV"))
   
   daio_statfor <- tbl(con, sql(query)) |>
     collect() |> 
