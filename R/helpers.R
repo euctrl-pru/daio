@@ -30,10 +30,9 @@ assert_date <- function(x) {
 #'
 #' @examples
 #' \dontrun{
-#' con <- fr24gu::db_connection(schema = "PRU_DEV")
 #' wef <- "01-01-2022" %>% as_date(format = "%d-%m-%Y")
 #' til <- "2022-01-08" %>% as_date()
-#' extract_daio(con, wef, til)
+#' extract_daio(wef, til)
 #' }
 extract_daio <- function(wef, til) {
   assert_date(wef)

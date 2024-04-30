@@ -19,10 +19,9 @@ ms_codes <- member_states %>%
   unique()
 
 
-con <- fr24gu::db_connection(schema = "PRU_DEV")
 wef <- "2019-01-01" %>% as_date()
 til <- today()
-daio <- extract_daio(con, wef, til)
+daio <- extract_daio(wef, til)
 
 
 # average last week and calculate % difference compared to the same week interval in 2019
