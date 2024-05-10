@@ -10,7 +10,7 @@ library(readr)
 
 source(here::here("R", "helpers.R"))
 
-wef <- "2019-01-01" %>% as_date()
+wef <- "2024-01-01" %>% as_date()
 til <- today()
 
 Sys.setenv(
