@@ -43,7 +43,7 @@ extract_daio <- function(wef, til) {
     "ORA_SDTZ" = "UTC",
     "NLS_LANG" =".AL32UTF8")
   
-  withr::with_locale(LC_ALL = "en_US.utf8")
+  withr::local_locale(.new = c("LC_COLLATE" = "en_US.utf8"))
   
   con <- withr::local_db_connection(eurocontrol::db_connection(schema = "PRU_DEV"))
   
