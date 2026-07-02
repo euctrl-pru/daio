@@ -10,36 +10,42 @@ library(readr)
 
 source(here::here("R", "helpers.R"))
 
-wef <- "2024-01-01" %>% as_date()
+wef <- "2025-01-01" %>% as_date()
 til <- today()
 
 Sys.setenv(
-  TZ       = "UTC",
+  TZ = "UTC",
   ORA_SDTZ = "UTC",
-  NLS_LANG =".AL32UTF8"
+  NLS_LANG = ".AL32UTF8"
 )
 Sys.setlocale(locale = "en_US.utf8")
 
 daio <- extract_daio(wef, til)
 
-daio_plus <- daio %>% 
+daio_plus <- daio %>%
   # # fix Türkiye
   # mutate(country_name = if_else(country_icao_code == "LT", "Türkiye", country_name)) %>%
   mutate(year = year(entry_date))
-  
-
-daio_plus %>% 
-  group_by(year) %>% 
-  group_walk(~ write_csv(.x,
-                         here::here(stringr::str_c("daio_", .y$year, ".csv")),
-                         na = ""))
-
-daio_plus %>% 
-  group_by(year) %>% 
-  group_walk(~ write_parquet(.x,
-                             here::here(stringr::str_c("daio_", .y$year, ".parquet"))))
 
 
+daio_plus %>%
+  group_by(year) %>%
+  group_walk(
+    ~ write_csv(
+      .x,
+      here::here(stringr::str_c("daio_", .y$year, ".csv")),
+      na = ""
+    )
+  )
+
+daio_plus %>%
+  group_by(year) %>%
+  group_walk(
+    ~ write_parquet(
+      .x,
+      here::here(stringr::str_c("daio_", .y$year, ".parquet"))
+    )
+  )
 
 # git_commit_all(paste0("Data updated till ", til, " (excluded)."))
 # git_push()

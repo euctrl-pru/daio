@@ -9,13 +9,13 @@ daio__invalid_argument <- function(arg, ...) {
   msg <- paste0(encodeString(arg, quote = "`"), ...)
   structure(
     list(message = msg),
-    class = c("invalid_argument", "error", "condition"))
+    class = c("invalid_argument", "error", "condition")
+  )
 }
 
 assert_date <- function(x) {
   if (is.Date(x)) return()
-  stop(daio__invalid_argument(match.call()$x,
-                              " must be a date"))
+  stop(daio__invalid_argument(match.call()$x, " must be a date"))
 }
 
 
@@ -41,33 +41,28 @@ extract_daio <- function(wef, til) {
   withr::local_envvar(
     "TZ" = "UTC",
     "ORA_SDTZ" = "UTC",
-    "NLS_LANG" =".AL32UTF8")
-  
-  withr::local_locale(.new = c("LC_COLLATE" = "en_US.utf8"))
-  
-  con <- withr::local_db_connection(eurocontrol::db_connection(schema = "PRU_DEV"))
-  
-  query <- "
-    SELECT
-      *
-    FROM
-      V_FAC_COUNTRY_FIR_DAIO
-    WHERE
-      TO_DATE(?WEF, 'YYYY-MM-DD') <= ENTRY_DATE AND ENTRY_DATE < TO_DATE(?TIL, 'YYYY-MM-DD')
-  "
+    "NLS_LANG" = ".AL32UTF8"
+  )
 
-  query <- DBI::sqlInterpolate(
-    con, query,
-    WEF = format(wef, "%Y-%m-%d"),
-    TIL = format(til, "%Y-%m-%d"))
-  
-  r <- DBI::dbSendQuery(conn = con, statement = query)
-  d <- DBI::dbFetch(r) %>%
-    as_tibble() %>%
-    janitor::clean_names() %>%
-    mutate(entry_date = lubridate::as_date(entry_date)) %>%
+  withr::local_locale(.new = c("LC_COLLATE" = "en_US.utf8"))
+
+  con <- withr::local_db_connection(eurocontrol::db_connection(
+    schema = "PRU_READ"
+  ))
+
+  df <- dplyr::tbl(
+    con,
+    dbplyr::in_schema("PRUDEV", "V_FAC_COUNTRY_FIR_DAIO")
+  ) |>
+    dplyr::filter(
+      TO_DATE(wef, "yyyy-mm-dd") <= ENTRY_DATE,
+      ENTRY_DATE < TO_DATE(til, "yyyy-mm-dd")
+    ) |>
+    collect() |>
+    janitor::clean_names() |>
+    mutate(entry_date = lubridate::as_date(entry_date)) |>
     arrange(country_name, entry_date)
-  d
+  df
 }
 
 
@@ -139,19 +134,22 @@ extract_daio_statfor <- function() {
     ENTRY_DATE,
     TZ_NAME,
     DAIO"
- 
+
   withr::local_envvar(
     "TZ" = "UTC",
     "ORA_SDTZ" = "UTC",
-    "NLS_LANG" =".AL32UTF8")
-  
-  withr::with_locale(LC_ALL = "en_US.utf8")
-  
-  con <- withr::local_db_connection(eurocontrol::db_connection(schema = "PRU_DEV"))
-  
+    "NLS_LANG" = ".AL32UTF8"
+  )
+
+  withr::local_locale(c("LC_CTYPE" = "en_US.utf8"))
+
+  con <- withr::local_db_connection(eurocontrol::db_connection(
+    schema = "PRU_DEV"
+  ))
+
   daio_statfor <- tbl(con, sql(query)) |>
-    collect() |> 
-    janitor::clean_names()  |> 
+    collect() |>
+    janitor::clean_names() |>
     mutate(entry_date = lubridate::as_date(entry_date))
   daio_statfor
 }
